@@ -7,7 +7,7 @@ Contents
 
 .. toctree::
 
-  intro.md
+  intro
   broader context
   proposal rationale
   roles-obligations
