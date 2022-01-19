@@ -10,15 +10,13 @@ Out of all the mechanisms we explored, this product fulfills the majority of our
 
 #### 4.11 Accepts common asset types 
 
-   To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH.
+   "To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH."
 
 Yes, AD can accept both. Unclear on ERC-721s or other NFT token types.
 
 #### 4.12 Immutable distribution
 
-:: 
-
-No individual can redirect assets outside of what is dictated by the split membership and its vesting parameters for each period.
+:: No individual can redirect assets outside of what is dictated by the split membership and its vesting parameters for each period.
 
 Yes - the terms of the vesting length, past members and their weights cannot be modified once deployed. However, it should be noted that if the PG multisig were to be compromised, it could be used to steal the remainder of vest.
 
