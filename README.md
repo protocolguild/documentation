@@ -20,3 +20,7 @@ This proposal describes **a new public goods funding mechanism**: a split contra
 For the first version of this mechanism, membership will be scoped to only include client maintainers, researchers, upgrade coordinators.
 
 The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
+
+Table of Contents
+-----------------
+* [User Guide](user-guide.md)
