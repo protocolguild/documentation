@@ -1,12 +1,10 @@
-## 4. Roles & Obligations
+## 3. Roles & Obligations
 
-There are four unique roles (4.1, 4.2, 4.3, 4.4) that this mechanism requires to operate. We outline any obligations expected as well as recommendations for conduct and operation.
+There are four unique roles (3.1, 3.2, 3.3, 3.4) that this mechanism requires to operate. We outline any obligations expected as well as recommendations for conduct and operation.
 
-### 4.1 Members
+### 3.1 Members
 
-#### 4.11 Members as Beneficiaries
-
-*NOTE: these are only initial recommendations - final decisions are ultimately up to the membership.*
+#### 3.11 Members as Beneficiaries
 
 → 150-200 individuals who have qualified for slots on the split contract. 
 
@@ -18,7 +16,7 @@ Participating individuals have an obligation to notify organizers when their con
 
 While it is encouraged, members are not required to participate in governance.
 
-### 4.12 Members as Curators
+### 3.12 Members as Curators
 
 *NOTE: these are only recommendations - final decisions are ultimately up to the membership.*
 
@@ -60,7 +58,7 @@ Effectively, curators are gatekeepers for the project. Other public goods fundin
 
 There are edge cases which should be considered. For example,  where the marginal legitimacy lost by excluding a given  contributor is too low to get curators to push for their inclusion. Or, the initial set of curators fails to expand beyond outside of their social graphs, but accumulates enough members to accomplish a state of "good enough" legitimacy. Or, the social norms that build up around the mechanism are sufficiently powerful to draw in continued donations even though it just barely hits the "good enough" threshold. These are all partial failure modes of the mechanism.
 
-#### 4.13 Members as Signers
+#### 3.13 Members as Signers
 
 → Beneficiaries who act as key holders for the multisig which can update the list of beneficiaries and their weights in the Astrodrop contract.
  
@@ -70,7 +68,7 @@ These should be well regarded Ethereum community members. They should agree to f
 
 Overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. 
 
-### 4.2 Donating Entities
+### 3.2 Donating Entities
 
 ![](https://i.imgur.com/LP1jvBg.png)
 → *[Kei's tweet](https://twitter.com/keikreutler/status/1461646035491692550)*
@@ -85,7 +83,7 @@ To accomplish this, we invite contributing entities to donate:
 
 We suggest that 1% of total project tokens should be allocated to this mechanism.
 
-### 4.3 The Community
+### 3.3 The Community
 
 Even when the mechanism is deployed, it will require consistent efforts from the broader community to make this a long-term success. This includes application developers, users, investors, enthusiasts, and builders of all kinds. They will be instrumental in:
 
