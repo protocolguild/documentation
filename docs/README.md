@@ -20,9 +20,10 @@ The primary goals: to provide autonomous tools for recruitment, retention, and r
 
 ## Stateful Works
 
-We are creating cultural artifacts for Ethereum. Read more at [stateful.mirror.xyz](https://stateful.mirror.xyz/), including:
+We create cultural artifacts for Ethereum. Read more at [stateful.mirror.xyz](https://stateful.mirror.xyz/):
 
-- the Beacon Book: a digital & physical book with embedded NFTs. Made in collaboration w/ 46 Beacon Chain contributors
+- the Beacon Book: 
+  - a digital & physical book with embedded NFTs. Made in collaboration w/ 46 Beacon Chain contributors
   - [Read and Mint](https://stateful.mirror.xyz/Y1ED9RorG9OvEUXD8NBmXgYhSVhjj8H537-I2SZJkYA)
   - [Graphics and Narratives](https://stateful.mirror.xyz/jOFMjyRtgT0KPbeWgysDp1HM4mQnlWKeQA3HQ2SJpbA)
   - [Crowdfunding 100 physical Beacon Books](https://stateful.mirror.xyz/-NLDSw0mA2vjtvqQYpXBOa3H38HXMmIdaw2KwI1A0y8)
