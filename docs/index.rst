@@ -16,12 +16,14 @@ Stateful Works
 We create cultural artifacts for Ethereum - read more at `stateful.mirror.xyz <https://stateful.mirror.xyz/>`_.
 
 - the Beacon Book 
-   - a digital & physical book with embedded NFTs. Made in collaboration w/ 46 Beacon Chain contributors
+   - a digital & physical book with embedded NFTs, made in collaboration w/ 46 Beacon Chain contributors
+   - over 110 ETH went to project contributors
    - `Read and Mint <https://stateful.mirror.xyz/Y1ED9RorG9OvEUXD8NBmXgYhSVhjj8H537-I2SZJkYA>`_
    - `Graphics and Narratives <https://stateful.mirror.xyz/jOFMjyRtgT0KPbeWgysDp1HM4mQnlWKeQA3HQ2SJpbA>`_
    - `Crowdfunding 100 physical Beacon Books <https://stateful.mirror.xyz/-NLDSw0mA2vjtvqQYpXBOa3H38HXMmIdaw2KwI1A0y8>`_
 
 - 1559 NFT Series
+   - NFTs where proceeds went to EIP-1559 contributors, over 278 ETH
    - `Launch Post <https://stateful.mirror.xyz/rsUhYxXARr7j2iDjqJeelY7nc6CN_Y-MilVDP1S5voA>`_
    - `Wrap up post <https://stateful.mirror.xyz/qpqvDbajGArdteKMSEkEUA3bFGVWQhJXG2Pnajm5hqA>`_
 
