@@ -4,7 +4,7 @@ Protocol Guild
 Content
 =========
 .. toctree::
-  :maxdepth: 16
+  :maxdepth: 2
    
   broader-context
   proposal-rationale
