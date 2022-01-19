@@ -1,24 +1,24 @@
-## 2. Broader Context
+## 1. Broader Context
 
-### 2.1 Tradeoffs of Existing Protocol Funding Mechanisms
+### 1.1 Tradeoffs of Existing Protocol Funding Mechanisms
 
 The existing suite of protocol funding mechanisms have so far adequately supported the ecosystem, but come with their own tradeoffs: they are not forward looking, bias towards projects/ teams, and are formed around mediating institutions.
 
-#### 2.11 Project-based Grants
+#### 1.11 Project-based Grants
 
 These are a very common mechanism seen in Gitcoin, the EF's Ecosystem Support Program, and many application layer ecosystem programs (eg. UGP). They tend to be best at rewarding contributions from the near-past to near-future. For individuals donating to Gitcoin Grants, it can be challenging to ensure accountability for grantees due to the amount of time and expertise it can take to perform diligence. Many donators end up depending on social signaling to determine who to to donate to. An prospective funder from the application layer has to rely on a mediating institution (eg. the Ethereum Foundation, Gitcoin Grants rounds) to facilitate discovery, processing, and diligence.
 
-#### 2.12 Retroactive Funding Programs
+#### 1.12 Retroactive Funding Programs
 
 An explicitly backwards-looking variant of grants include [Optimism's RPG](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c). These can account for past work, but are necessarily scoped to measure the contributions of teams or projects, usually not individuals. There is no guarantee of consistent funding, as there is a possibility of omission from a subsequent round. In Gitcoin's case, it takes a while for contributions to be recognized and rewarded due to how discovery and grant promotion cycles work.
 
-#### 2.13 Salaries
+#### 1.13 Salaries
 
 Salaries *do* target individuals but are limited in that they can only account for the present and near future. Further, they are tied to a single legal organization, and can never be a good proxy for ecosystem value creation.
 
 There isn't an efficient solution for projects building on Ethereum to directly support core protocol contributors. 
 
-#### 2.14 Designing Anti-Fragility
+#### 1.14 Designing Anti-Fragility
 
 There is space for a new mechanism here: one which is forward looking, biases towards rewarding individuals, and which doesn't depend on a mediating institution. This mechanism could connect applications and protocols building on Ethereum directly with a collection of maintainers. This is important because there's no guarantee that funds will end up with the individuals they are intended for.
 
@@ -26,7 +26,7 @@ However, it's unlikely that one project from the ecosystem would take up the coo
 
 It would be better for the anti-fragility of the protocol and its system of maintainers if there were additional differentiated funding solutions.
 
-### 2.2 Risk / Reward Disparity
+### 1.2 Risk / Reward Disparity
 
 There's a growing disparity between the risk / reward of working on crucial protocol infrastructure and how much value this work enables the broader community to realize.
 
