@@ -13,7 +13,7 @@ This document represents the opinions and designs of contributors and anyone tha
 
 This is a draft WIP - there may be some inconsistencies in argument or design throughout.
 
-## 1. Summary
+## Summary
 
 This proposal describes **a new public goods funding mechanism**: a split contract which distributes donated application tokens over a vesting period to a self-curated list of Ethereum protocol contributors.
 
