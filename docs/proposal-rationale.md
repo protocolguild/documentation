@@ -1,4 +1,4 @@
-## 3. Proposal Rationale
+## 2. Proposal Rationale
 
 To increase the long-term sustainability of protocol maintainence, we propose a curated split contract. This mechanism will provide autonomous funding for and nudge the incentive balance towards the protocol. A split is a contract that divides funds sent to it among its membership according to their weighting. This mechanism should vest any donated assets over a standard period. These donations will likely come from Ethereum-based applications and protocols. 
 
