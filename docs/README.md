@@ -23,10 +23,10 @@ The primary goals: to provide autonomous tools for recruitment, retention, and r
 
 ### Sections
 ----------
-* [1. Context of the problem](broader-context.md)
-* [2. Proposal Rationale](rationale.md)
-* [3. Roles and Obligations](roles-obligations.md)
-* [4. Smart Contract Architecture](smart-contract.md)
-* [5. Operating Guide](operating-guide.md)
-* [6. Anticipated Concerns](anticipated-concerns.md)
-* [7. Case Studies](case-studies.md)
+* [1. Context of the problem](1-broader-context.md)
+* [2. Proposal Rationale](2-rationale.md)
+* [3. Roles and Obligations](3-roles-obligations.md)
+* [4. Smart Contract Architecture](4-smart-contract.md)
+* [5. Operating Guide](5-operating-guide.md)
+* [6. Anticipated Concerns](6-anticipated-concerns.md)
+* [7. Case Studies](7-case-studies.md)
