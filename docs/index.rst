@@ -1,7 +1,7 @@
-project-name
+Protocol Guild
 ------------
-Documents
+Content
 =========
 .. toctree::
 :maxdepth: 16
-user-guide
+Context
