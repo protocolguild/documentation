@@ -21,7 +21,7 @@ For the first version of this mechanism, membership will be scoped to only inclu
 
 The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
 
-Sections
+### Sections
 ----------
 * [1. Context of the problem](broader-context.md)
 * [2. Proposal Rationale](rationale.md)
