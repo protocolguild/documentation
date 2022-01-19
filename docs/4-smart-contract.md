@@ -10,8 +10,7 @@ Out of all the mechanisms we explored, this product fulfills the majority of our
 
 #### 4.11 Accepts common asset types 
 ::
-
-To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH.
+:: To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH.
 
 Yes, AD can accept both. Unclear on ERC-721s or other NFT token types.
 
