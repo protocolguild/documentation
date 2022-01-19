@@ -4,14 +4,10 @@
 >
 > Foundation, Isaac Asimov
 
-- [**Announcement Post**](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
+- [Announcement Post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
 - Join the [**Stateful Works Discord**](https://discord.gg/t8zSZCvf3y) for discussion
 
-## 🚨 Disclaimer 🚨
-
-This document represents the opinions and designs of contributors and anyone that has given feedback. If it were to be realized, it would live within the domain of [Stateful Works](https://twitter.com/StatefulWorks).
-
-This is a draft WIP - there may be some inconsistencies in argument or design throughout.
+🚨 Disclaimer 🚨 This document represents the opinions of contributors or anyone that has given feedback. This is a draft WIP - there may be some inconsistencies in argument or design throughout.
 
 ## Summary
 
@@ -20,13 +16,3 @@ This proposal describes **a new public goods funding mechanism**: a split contra
 For the first version of this mechanism, membership will be scoped to only include client maintainers, researchers, upgrade coordinators.
 
 The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
-
-### Sections
-----------
-* [1. Context of the problem](1-broader-context.md)
-* [2. Proposal Rationale](2-rationale.md)
-* [3. Roles and Obligations](3-roles-obligations.md)
-* [4. Smart Contract Architecture](4-smart-contract.md)
-* [5. Operating Guide](5-operating-guide.md)
-* [6. Anticipated Concerns](6-anticipated-concerns.md)
-* [7. Case Studies](7-case-studies.md)
