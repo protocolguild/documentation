@@ -1,4 +1,4 @@
-# Protocol Guild (Draft WIP)
+# Protocol Guild
 
 > *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."*
 >
@@ -20,3 +20,13 @@ This proposal describes **a new public goods funding mechanism**: a split contra
 For the first version of this mechanism, membership will be scoped to only include client maintainers, researchers, upgrade coordinators.
 
 The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
+
+Sections
+----------
+* [1. Context of the problem](broader-context.md)
+* [2. Proposal Rationale](rationale.md)
+* [3. Roles and Obligations](roles-obligations.md)
+* [4. Smart Contract Architecture](smart-contract.md)
+* [5. Operating Guide](operating-guide.md)
+* [6.Anticipated Concerns](anticipated-concerns.md)
+* [7. Case Studies](case-studies.md)
