@@ -68,7 +68,7 @@ These should be well regarded Ethereum community members. They should agree to f
 
 Overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. 
 
-### 3.2 Donating Entities
+### 3.2 Sponsors
 
 ![](https://i.imgur.com/LP1jvBg.png)
 → *[Kei's tweet](https://twitter.com/keikreutler/status/1461646035491692550)*
