@@ -9,7 +9,7 @@
 
 ## 🚨 Disclaimer 🚨
 
-This document represents the opinions and designs of contributors and anyone that has given feedback, not the Ethereum Foundation. If it were to be realized, it would live within the domain of [Stateful Works](https://twitter.com/StatefulWorks).
+This document represents the opinions and designs of contributors and anyone that has given feedback. If it were to be realized, it would live within the domain of [Stateful Works](https://twitter.com/StatefulWorks).
 
 This is a draft WIP - there may be some inconsistencies in argument or design throughout.
 
