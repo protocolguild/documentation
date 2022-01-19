@@ -28,5 +28,5 @@ The primary goals: to provide autonomous tools for recruitment, retention, and r
 * [3. Roles and Obligations](roles-obligations.md)
 * [4. Smart Contract Architecture](smart-contract.md)
 * [5. Operating Guide](operating-guide.md)
-* [6.Anticipated Concerns](anticipated-concerns.md)
+* [6. Anticipated Concerns](anticipated-concerns.md)
 * [7. Case Studies](case-studies.md)
