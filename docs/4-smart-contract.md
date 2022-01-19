@@ -9,8 +9,10 @@ After exploring many options, we've settled on Astrodrop (AD), a new vesting sma
 Out of all the mechanisms we explored, this product fulfills the majority of our original design objectives. Let's go through them one by one and see how well it fits within our aspirational framework.
 
 #### 4.11 Accepts common asset types 
+
 ::
-:: To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH.
+
+> To preserve the upside potential of donated assets, it's crucial that the split accepts ERC20s in addition to ETH.
 
 Yes, AD can accept both. Unclear on ERC-721s or other NFT token types.
 
