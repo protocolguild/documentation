@@ -27,10 +27,10 @@ Table of Contents
 .. toctree::
   :maxdepth: 2
    
-  broader-context
-  proposal-rationale
-  roles-obligations
-  smart-contract
-  operating-guide
-  anticipated-concerns
-  case-studies
+  1-broader-context
+  2-proposal-rationale
+  3-roles-obligations
+  4-smart-contract
+  5-operating-guide
+  6-anticipated-concerns
+  7-case-studies
