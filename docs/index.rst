@@ -20,7 +20,8 @@ This proposal describes **a new public goods funding mechanism**: a split contra
 
 
 Table of Contents
-=========
+*********************
+
 .. toctree::
   :maxdepth: 2
    
