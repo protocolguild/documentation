@@ -7,7 +7,7 @@ Content
   :maxdepth: 16
    
   broader-context
-  rationale
+  proposal-rationale
   roles-obligations
   smart-contract
   operating-guide
