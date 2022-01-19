@@ -7,8 +7,8 @@ Protocol Guild
 
 Foundation, Isaac Asimov
 
-- **`Announcement Post <https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY>`_**
-- **Join the `**Stateful Works Discord** <https://discord.gg/t8zSZCvf3y>`_** for discussion
+- `Announcement Post <https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY>`_
+- Join the `Stateful Works Discord <https://discord.gg/t8zSZCvf3y>`_ for discussion
 - follow for updates at `@StatefulWorks <https://twitter.com/StatefulWorks>`_
 
 Info about SW
