@@ -1,8 +1,8 @@
-## 6. Guide to Operation
+## 5. Guide to Operation
 
-### 6.1  Members
+### 5.1  Members
 
-#### 6.11 Membership requirements
+#### 5.11 Membership requirements
 
 Members should be committed to Ethereum and its ethos of decentralization. The contributions of qualifying individuals qualifying individuals should be:
 
@@ -15,7 +15,7 @@ Members should be committed to Ethereum and its ethos of decentralization. The c
 
 Occasionally, these individuals may work on a team which has a token, has VC backing or gives equity. These are guidelines, not hard rules. Members should expect this ruleset to change over time, to get more explicit in some places and more permissive in others.
 
-#### 6.12 Weighting
+#### 5.12 Weighting
 
 This mechanism will be the most antifragile with the simplest weighting methods. This limits the time spent deciding appropriate categories as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've has settled on two rules:
 
@@ -28,6 +28,6 @@ In the typical operation of the split, this would simply be `number of eligible 
 
 In future versions, it may be worth considering another multiplier from members which would come from how effective they view each of their peers. This could be accomplished through a pairwise ranking system that outputs the multiplier. 
 
-### 6.2 Donating Entities
+### 5.2 Donating Entities
 
-### 6.3 Community
+### 5.3 Community
