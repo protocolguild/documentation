@@ -73,13 +73,13 @@ Overlapping signers and beneficiaries allows for more efficient self-governance 
 
 Ethereum has a rich culture of experimenting and nuturing radical new ideas. It's what makes our community one of the most vibrant in the space. Many Defi, NFT, DAO, and L2 projects have built amazing things on top of Ethereum's credibly neutral public infrastructure. However, none of what we know as Ethereum today would have been possible without the consistent efforts of committed protocol maintainers. Therefore, it would be ideal for current and future contributors should have a stake in the successes of these projects. This produces a powerful incentive alignment between maintainers and those that depend on their work.
 
-To accomplish this, we invite contributing entities to donate:
+To accomplish this, we invite sponsors to contribute:
 -  governance tokens
 -  recurring protocol fee revenue
 -  interest bearing tokens
 -  NFTs that have been fractionalized into ERC20s
 
-We suggest that 1% of total project tokens should be allocated to this mechanism.
+We suggest that 1% of total project tokens should be allocated to this mechanism - see **7. Case Studies** for more information on this.
 
 ### 3.3 The Community
 
