@@ -18,8 +18,6 @@ While it is encouraged, members are not required to participate in governance.
 
 #### 3.12 Members as Curators
 
-*NOTE: these are only recommendations - final decisions are ultimately up to the membership.*
-
 #### Qualifications
 
 All members should agree to participate in curation.
