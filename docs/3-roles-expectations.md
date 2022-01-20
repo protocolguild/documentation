@@ -38,22 +38,22 @@ Members are strongly encouraged to participate in the Guild beyond the two requi
 
 ##### Qualifications
 
-All members are qualified and encouraged to participate as curators: members who maintain the list and weights of eligible members.
+All members are qualified to participate as curators: members who maintain the list and weights of eligible members.
 
 ##### Expectations
 
 Given the ambitious scope of this mechanism and the significant trust afforded by sponsors and the community, the associated obligations are quite modest: make sure the membership accurately reflects active contributors. This ensures the legitimacy of the mechanism is maintained, and increased, in the eyes of non-member participants. The Guild is a garden which tends itself. Each of its members are peer stewards of a self-regulating plot. When the allocation of nutrients, sunlight or water become imbalanced, it's up to the membership to recognize and adjust. Members should only commit if they are aligned with this expectation.
 
-Self-curation is a crucial component of the project. While other public goods funding mechanisms have used external councils (eg. Optimism's RPG) or the donors (eg. Gitcoin) to curate the beneficiary set, this wouldn't work for our purposes. Any external council would have to be deeply embedded within the core protocol sphere in order to properly curate, to the extreme degree that it would become impractical to do much else. Similarly, Gitcoin donors wouldn't have Instead, we will leverage the perspectives and daily interactions of people that are already embedded, the core contributors themselves.
+Self-curation is a crucial component of the project. While other public goods funding mechanisms have used external councils (eg. Optimism's RPG) or the donors (eg. Gitcoin) to curate the beneficiary set, this wouldn't work for our purposes. Any external council would have to be deeply embedded within the core protocol sphere in order to properly curate, to the extreme degree that it would become impractical to do much else. Instead, we will leverage the perspectives and daily interactions of people that are already embedded, the core contributors themselves.
 
-Practically, this means signalling to the broader membership when they, a team member, or an independent contributor have changed contributing status, eg. joining or leaving core protocol work. Members should have regular contact with new beneficiaries they propose. Bias or conflicts of interest should be disclosed, if they exist, eg. where one is an advisor to the other's side project. 
+Practically, this means signalling to the broader membership when they, a team member, or an independent contributor they interface with have changed contributing status, eg. joining or leaving core protocol work. Members should have regular contact with new members they propose. Bias or conflicts of interest should be disclosed, if they exist, eg. where one is an advisor to the other's side project.
 
-In addition to curating existing contributors, members should consider mentoring through something like the Core Developer Apprenticeship Program (CDAP) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
-
-Finally, we believe it is incentive compatible that curators are drawn from the beneficiaries because:
+We believe it is incentive compatible that curators are drawn from the beneficiaries because:
 
 - adding ineligible beneficiaries removes future vested value from existing members, ie. they will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
 - the mechanism *must* accept all legitimate contributors, which prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If sponsors think that the set is not inclusive enough, they will not feel obligated to begin or continue their contributions.
+
+Beyond this basic expectation, members should consider mentoring through something like the Core Developer Apprenticeship Program (CDAP) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
 
 #### 3.13 Members as Signers
 
