@@ -4,16 +4,15 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 ### 6.1 Related to Operation
 
--  Shouldn't one-off contributions be considered for membership?
-    - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something  This remains an open question, and might  be considered for a future weighting scheme if there are no major issues.
+Shouldn't one-off contributions be considered for membership?
+- Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something  This remains an open question, and might  be considered for a future weighting scheme if there are no major issues.
 
-- Why are weightings not more granular?
-
-    - While it's true that some people are objectively more productive in their work / valuable to the protocol, adding a weighting scheme to a membership this large would introduce complexity with each membership update. There would also be unknown, probably negative social dynamics related how to value the contributions of your peers.
-    - It's worth a note of caution against heading too far down the path of data and hyper-specificity when it comes to evaluating contributions. We suspect that at least a few possible futures would end up including a public facing component, which privilege people who have previously been working on the protocol.
-    - They have had additional time to form themselves into the shape the political and social structures are looking to latch onto. Metrics, rubrics breed subtle exploits, entrench power
-    - Ideally, under any weighting scheme, the margin between contributor profile should not be overly large relative to the others.
-    
+Why are weightings not more granular?
+- While it's true that some people are objectively more productive in their work / valuable to the protocol, adding a weighting scheme to a membership this large would introduce complexity with each membership update. There would also be unknown, probably negative social dynamics related how to value the contributions of your peers.
+- It's worth a note of caution against heading too far down the path of data and hyper-specificity when it comes to evaluating contributions. We suspect that at least a few possible futures would end up including a public facing component, which privilege people who have previously been working on the protocol.
+- They have had additional time to form themselves into the shape the political and social structures are looking to latch onto. Metrics, rubrics breed subtle exploits, entrench power
+- Ideally, under any weighting scheme, the margin between contributor profile should not be overly large relative to the others.
+ 
 - How can members as curators or signers abuse their position of trust?
     - Fundamentally, this is a political tool. In negative outcomes, whoever maintains the member eligibility can influence research areas and interest people have in certain sections of the protocol. Want to get the merge done? Add more client implementers at the expense of other ecosystem categories. This kind of manipulation is unlikely to actually happen as it would harm the mechanism's legitimacy.
     - Or worse, the existing signers decide not to honor the agreed upon outcomes from weighting deliberations, go slightly rogue. In this case, we can imagine some contributors deciding to ride it out until the vesting has completed. In other situations, a significant portion of the membership would collectively abandon the stream in solidarity. Or, they could claim and send the wrapped tokens to the burn address as a gesture of protest.
@@ -43,6 +42,9 @@ While we can't conceive of every scenario, we've tried to think critically about
     - programmatically dripping membership
     - extensions that let users automate a custom functions like "claim and sell to DAI"
     - anyone who donates would eventually be airdropped a social token which unlocks a token-gated core dev discord /jk
+
+- What are some ways that curation can fail?
+    - There are edge cases which should be considered. For example, where the marginal legitimacy lost by excluding a given contributor is too low to get curators to push for their inclusion. Or, the initial set of curators fails to expand beyond outside of their social graphs, but accumulates enough members to accomplish a state of "good enough" legitimacy. Or, the social norms that build up around the mechanism are sufficiently powerful to draw in continued donations even though it just barely hits the "good enough" threshold.
 
 ### 6.2 Related to the Broader Community
 
