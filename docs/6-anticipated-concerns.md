@@ -31,7 +31,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - More cleverly, they only dilute the existing membership a little bit, or adjusting the weights just enough to favor certain set of contributors. 
 - Members selling early access to their shares to capitalize early into a stream, or taking a loan against them and committing to stay at least as long as their agreements dictate. Web3 "permissionless vibes" maximalist might 
 
-**What happens when enough signers get compromised? **
+**What happens when enough signers get compromised?**
 - This would damage the trust donating entities put into the members, as well as any future efforts to restart something similar. 
 
 **What are the tax implications of participation?**
