@@ -1,4 +1,4 @@
-## 3. Roles & Obligations
+## 3. Roles & Expectations
 
 There are five unique roles that the Guild will require to operate, each with their own obligations.
 
@@ -21,7 +21,7 @@ Members should be committed to Ethereum and its ethos of decentralization. The c
 
 It is possible that eligible individuals may work on a team which has a token, has VC backing or gives equity. Members should expect these guidelines to change over time, to get more explicit in some places and more permissive in others.
 
-##### Obligations
+##### Expectations
 
 Members will notify organizers when their contributing status changes, or when the work that afforded eligibility breaks one of the guidelines above. At least once per year, members will prove ownership of the supplied address: members can claim vested funds or sign a message with their private key. This limits the impact of compromised wallets or lost keys.
 
@@ -40,7 +40,7 @@ Members are strongly encouraged to participate in the Guild beyond the two requi
 
 All members are qualified and encouraged to participate as curators: members who maintain the list and weights of eligible members.
 
-##### Obligations
+##### Expectations
 
 Given the ambitious scope of this mechanism and the significant trust afforded by sponsors and the community, the associated obligations are quite modest: make sure the membership accurately reflects active contributors. This ensures the legitimacy of the mechanism is maintained, and increased, in the eyes of non-member participants. The Guild is a garden which tends itself. Each of its members are peer stewards of a self-regulating plot. When the allocation of nutrients, sunlight or water become imbalanced, it's up to the membership to recognize and adjust. Members should only commit if they are aligned with this expectation.
 
