@@ -32,9 +32,9 @@ Table of Contents
 
 .. toctree::
   :maxdepth: 2
-   
-  1-broader-context
-  2-proposal-rationale
+  
+  1-proposal-rationale
+  2-existing-mechanisms
   3-roles-obligations
   4-smart-contract
   5-operating-guide
