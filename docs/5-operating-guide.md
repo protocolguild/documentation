@@ -17,9 +17,7 @@ In future versions, it may be worth considering another multiplier from members 
 
 #### 5.12 Discussing new members
 
-It will be up to members to decide the exact processes for deciding membership and the tradeoffs that exist between these design. To consider: 
-
-- Could there be a vouching mechanism instead? eg. 3-5 current members need to vouch for a prospective beneficiary. If it's found that there is any abuse of the referral system, or the person doesn't exist, or the person doesn't actually contribute then the nominating individuals should be removed from the set.
+Rough Consensus
 
 #### 5.13 Oboarding new members
 
