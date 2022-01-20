@@ -4,7 +4,7 @@
 
 ### 7.1 Vested assets in DAO treasuries
 
-Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings listed on [Open-Orgs.info](https://openorgs.info/). This is not meant to be a comprehensive survey. see the data behind these charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing). 
+Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings. (data taken on Nov. 11 from [Open-Orgs.info](https://openorgs.info/) by David Mihal). This is not meant to be a comprehensive survey. see the data behind these charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing). 
 
 |     Name     | Unvested Treasury | Vested Treasury |
 |:------------:| -----------------:| ---------------:|
