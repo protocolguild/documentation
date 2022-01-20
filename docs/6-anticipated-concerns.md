@@ -68,6 +68,11 @@ Why are weightings not more granular?
 
 ### 6.3 Culture / Big Questions
 
+- Why hasn't anyone built this before?
+    - It's unlikely that one project from the ecosystem would take up the coordination efforts to collect and maintain a list of contributors. If it did happen, the project would eventually find themselves with an immense amount of power as the gatekeeping curator.
+    - the tech did not exist until now (astrodrop)
+    - core devs are largely focused on other things to coordinate 
+
 - Broadly, how will this design fail?
     - Believing that voluntaryism and donation-based funding scales sufficiently to the levels this mechanism needs in order to be effective.
     - Assuming that developers even want to "self-govern" an asset stream, including its responsibilities and pressures.
