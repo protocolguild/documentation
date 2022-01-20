@@ -1,14 +1,12 @@
 ## 3. Roles & Obligations
 
-There are four unique roles (3.1, 3.2, 3.3, 3.4) that this mechanism requires to operate. We outline any obligations expected as well as recommendations for conduct and operation.
+There are five unique roles that the Guild will require to operate, each with their own obligations.
 
 ### 3.1 Members
 
-#### 3.11 Members as Beneficiaries
+#### 3.11 Members as slot holders
 
-→ 150-200 individuals who have qualified for slots on the split contract. 
-
-This is just an estimate, the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any address, including the beneficiary's, a charity, or another split contract (make sure it can be claimed from).
+→ 150-200 individuals who have qualified for placement on the split contract. This is just an estimate, the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any address, including their own, a charity, or another split contract (make sure it can be claimed from).
 
 ##### Qualifications
 
@@ -64,7 +62,7 @@ Signers are members who act as key holders for the multisig which can update the
 ### 3.2 Sponsors
 
 ![](https://i.imgur.com/LP1jvBg.png)
- *[Kei's tweet](https://twitter.com/keikreutler/status/1461646035491692550)*
+*[Kei's tweet](https://twitter.com/keikreutler/status/1461646035491692550)*
 
 This group includes any project which depends on the continued maintenance and evolution of Ethereum to be successful, and is interested in aligning their capital in celebration of the sometimes thankless work of core protocol.
 
