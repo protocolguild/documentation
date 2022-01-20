@@ -13,11 +13,11 @@ While we can't conceive of every scenario, we've tried to think critically about
 - They have had additional time to form themselves into the shape the political and social structures are looking to latch onto. Metrics, rubrics breed subtle exploits, entrench power
 - Ideally, under any weighting scheme, the margin between contributor profile should not be overly large relative to the others.
 
-#### How can members as curators or signers abuse their position of trust?
+##### How can members as curators or signers abuse their position of trust?
 - Fundamentally, this is a political tool. In negative outcomes, whoever maintains the member eligibility can influence research areas and interest people have in certain sections of the protocol. Want to get the merge done? Add more client implementers at the expense of other ecosystem categories. This kind of manipulation is unlikely to actually happen as it would harm the mechanism's legitimacy.
 - Or worse, the existing signers decide not to honor the agreed upon outcomes from weighting deliberations, go slightly rogue. In this case, we can imagine some contributors deciding to ride it out until the vesting has completed. In other situations, a significant portion of the membership would collectively abandon the stream in solidarity. Or, they could claim and send the wrapped tokens to the burn address as a gesture of protest.
 
-#### How can this be gamed?
+###### How can this be gamed?
 - As the mechanism scales, it's inevitable that the amount of attention given by a core group of Guild members will eventually fall, become less thorough. At a sufficiently high number of members, unscrupulous developers might invent phantom co-workers and redirect the split shares to themselves. This is one area where the mechanism relies on mutual trust to avoid abuse. 
 
 #### What happens if a large percent of infrastructure contributors decide not to participate? Or, what if sufficient number of contributors join and then decide to leave the split?
