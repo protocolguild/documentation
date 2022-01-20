@@ -4,7 +4,7 @@
 
 #### 5.11 Weighting
 
-This mechanism will be the most antifragile with the simplest weighting methods. This limits the time spent deciding appropriate categories as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've has settled on two rules:
+This mechanism will be the most antifragile with the simplest weighting methods. This limits the time spent deciding appropriate categories as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines:
 
 - historic contributions are considered in weightings
 - historic contributors get "diluted" as newcomers come in
@@ -12,8 +12,6 @@ This mechanism will be the most antifragile with the simplest weighting methods.
 - continuing contributors get additional weight per period they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
 
 In the typical operation of the split, this would simply be `number of eligible months`, including past contributions before the split existed.
-
-In future versions, it may be worth considering another multiplier from members which would come from how effective they view each of their peers. This could be accomplished through a pairwise ranking system that outputs the multiplier. 
 
 #### 5.12 Discussing new members
 
