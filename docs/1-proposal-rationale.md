@@ -1,6 +1,6 @@
 ## 1. Proposal Rationale
 
-To increase the long-term sustainability of protocol maintenance, we propose a curated split contract which includes vesting. This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals. - this aligns well with our community's existing voluntaryist mindset towards public goods funding. If realized, the protocol gains a tool which is meaningfully differentiated along a few different dimensions.
+To increase the long-term sustainability of protocol maintenance, we propose a curated split contract which includes vesting. This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community's existing voluntaryist mindset towards public goods funding. If realized, the protocol gains a tool which is meaningfully differentiated along a few different dimensions.
 
 ### 1.1 Long-term outcomes
 
