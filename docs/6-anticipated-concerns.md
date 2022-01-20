@@ -4,10 +4,10 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 ### 6.1 Related to Operation
 
-#### Shouldn't one-off contributions be considered for membership?
+**Shouldn't one-off contributions be considered for membership?**
 - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something  This remains an open question, and might  be considered for a future weighting scheme if there are no major issues.
 
-#### Why are weightings not more granular?
+**Why are weightings not more granular?**
 - While it's true that some people are objectively more productive in their work / valuable to the protocol, adding a weighting scheme to a membership this large would introduce complexity with each membership update. There would also be unknown, probably negative social dynamics related how to value the contributions of your peers.
 - It's worth a note of caution against heading too far down the path of data and hyper-specificity when it comes to evaluating contributions. We suspect that at least a few possible futures would end up including a public facing component, which privilege people who have previously been working on the protocol.
 - They have had additional time to form themselves into the shape the political and social structures are looking to latch onto. Metrics, rubrics breed subtle exploits, entrench power
