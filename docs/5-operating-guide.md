@@ -30,6 +30,12 @@ The backstop is each team/project, who only need to confirm when a contributor h
 - migration to a new smart contract
 - a change to the weighting scheme
 
+#### 5.15 Initial Trial
+
+
+
+#### 5.16 Standard Operation
+
 ### 5.2 Donating Entities
 
 (to be completed)
