@@ -23,7 +23,9 @@ It is possible that eligible individuals may work on a team which has a token, h
 
 ##### Expectations
 
-Members will notify organizers when their contributing status changes, or when the work that afforded eligibility breaks one of the guidelines above. At least once per year, members will prove ownership of the supplied address: members can claim vested funds or sign a message with their private key. This limits the impact of compromised wallets or lost keys.
+Members will notify organizers when their contributing status changes, or when the work that afforded eligibility breaks one of the guidelines above. If you're unsure about whether a new focus is still qualified, please ask the broader membership. At least once per year, members will prove ownership of the supplied address: members can claim vested funds or sign a message with their private key. This limits the impact of compromised wallets or lost keys. 
+
+Please note that the membership list will be publicly available in order to maintain transparency and mutual trust with both the broader community and sponsors. However, addresses and their associated weights will not be shared.
 
 Members are strongly encouraged to participate in the Guild beyond the two requirements above. Without deeper member engagement, the Guild will not reach its full potential as a voice for core developers and the protocol broadly. The Guild may have trouble growing the membership or evolving norms if only a small minority are engaged in consensus building. Other modes of participation include:
 
@@ -38,7 +40,7 @@ Members are strongly encouraged to participate in the Guild beyond the two requi
 
 ##### Qualifications
 
-All members are qualified to participate as curators: members who maintain the list and weights of eligible members.
+All members are qualified and expected to participate as curators: members who maintain the list and weights of eligible members.
 
 ##### Expectations
 
