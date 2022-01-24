@@ -63,8 +63,7 @@ Signers are members who act as key holders for the multisig which can update the
 
 ### 3.2 Sponsors
 
-![](https://i.imgur.com/LP1jvBg.png)
-*[Kei's tweet](https://twitter.com/keikreutler/status/1461646035491692550)*
+> "a main promise of DAOs lies in their ability not only to bring many people together, but many organizations - this is when they'll really shine" - *[Kei Kreutler](https://twitter.com/keikreutler/status/1461646035491692550)*
 
 This group includes any project which depends on the continued maintenance and evolution of Ethereum to be successful, and is interested in aligning their capital in celebration of the sometimes thankless work of core protocol.
 
