@@ -40,3 +40,4 @@ Table of Contents
   5-operating-guide
   6-anticipated-concerns
   7-case-studies
+  8-quotes
