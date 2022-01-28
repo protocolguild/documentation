@@ -1,6 +1,19 @@
 ## 5. Operating Guide
 
-### 5.1  Members
+What follows is an outline for how we plan to start, normal operation scenarios, and recommentations  guidelines for both.
+
+### 5.1 Bootstrapping a 1-year Pilot
+
+After verifying the Astrodrop contracts on testnet, we intend to launch a limited pilot. Details include 
+- vesting for one year
+- contract should target roughly ~10mm in sponsorships 
+- Over this time, we will update the membership and weights four times, or once per quarter as needed.
+- based on initial responses, we will probably launch with ~50 members
+- over the next year, membership may be closer to ~90
+
+### 5.2 Regular operation
+
+- after kickoff, 
 
 #### 5.11 Weighting
 
@@ -30,15 +43,12 @@ The backstop is each team/project, who only need to confirm when a contributor h
 - migration to a new smart contract
 - a change to the weighting scheme
 
-#### 5.15 Initial Trial
+#### 5.15 For Sponsors
 
 
 
 #### 5.16 Standard Operation
 
-### 5.2 Donating Entities
-
-(to be completed)
 
 ### 5.3 Community
 
