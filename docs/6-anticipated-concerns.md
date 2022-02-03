@@ -82,10 +82,3 @@ While we can't conceive of every scenario, we've tried to think critically about
 **Will long-term vesting lead to stagnation in core development roles?**
 - In the sense of gatekeeping/groupthink/capture, we sincerely hope not. There's certainly a possibility that previously effective people may get stuck in a position if the incentive is significant enough. However, this is no different from any other job with performance requirements, crypto or otherwise. If someone is not performing adequately, they will be removed from their job and then from the list. If anything, the infusion of new perspectives as the set grows will be a healthy process.
 - With the conclusion of each vest, everyone starts again at 0 convincing the public that they are the legitimate heir to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Any one can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively actively evolve their systems periodically to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
-
-**Other than the amount of vested/vesting funds, what are some measures of success?**
-- the frequency that someone joins or remains in core protocol work and citing the Guild as a compelling benefit.
-- the number of former core devs in defi we can recruit back
-- the number of completely retired former devs we can recruit back 
-- favorable Gini coefficient of the donator set
-- onboarding a diverse array of contributors 
