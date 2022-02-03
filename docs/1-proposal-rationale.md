@@ -8,8 +8,7 @@ The Protocol Guild incentivises current contributors to continue their work as l
 
 ### 1.2 Financial Upside
 
-There's a growing disparity between the risk / reward of working on crucial protocol infrastructure and how much value this work enables the broader community to realize. 
-The Protocol Guild will help close the gap between the value-creation enabled vs. realized by offering a slice of upside benefits to ecosystem contributors
+There's a growing disparity between the risk / reward of working on crucial protocol infrastructure and how much value this work enables the broader community to realize. The Protocol Guild will help close the gap between the value-creation enabled vs. realized by offering a slice of upside benefits to ecosystem contributors.
 
 One effect is that this infrastructure faces increasing competition for talent from the application layer and the broader crypto industry. These projects usually offer token or equity benefits, which can provide significant financial upside to employees. Conversely, protocol projects usually pay in ETH or fiat. It's a simple fact that new joiners will not be exposed to the same degree of financial upside as early contributors paid in ETH. The outcome is that prospective and current protocol contributors more often opt for opportunities which include startup equity or application tokens. This deprives the protocol of their important contributions, increases hiring churn, and decreases the rate of ecosystem improvement.
 
@@ -19,10 +18,10 @@ Early on, the community committed to not enshrining a public treasury skimmed fr
 
 Given these limitations, ecosystem positions cannot offer comparable upside incentives to contributors. While financial incentives are not the ultimate motivator for everyone, we argue that it would be better for the protocol to have access to this kind of tool.
 
-### 1.3 Politically
+### 1.3 Operationally
 
-The Protocol Guild will exist at a unique space independent of any existing institution. It minimizes the surface area that mediating institutions can infringe on its self-determination.
+The mechanism maintains its own membership, eligibility guidelines, member expectations, and cadence of funding streams.
 
-### 1.4 Operationally
+### 1.4 Politically
 
-It maintains its own membership, eligibility guidelines, internal policies, and cadence of funding streams.
+As a direct effect of its operational characteristics, the Protocol Guild exists at a unique space independent of any existing institution: it connects sponsors directly with individual Ethereum contributors. Members as the atomic beneficiary unit maintain their autonomy, preventing mediating entities (eg. team leads, foundations/orgs that run public goods funding campaigns) from harming their self-determination. This is accomplished by only introducing the minimum viable org to steward the effort.
