@@ -71,4 +71,4 @@ This funding mechanism really starts to show its promise when considering if pro
 							
 ![](https://i.imgur.com/glD5TVl.png)
 
-We believe $2M-6.5M vested over 4 years to potential contributors will be a step in the right direction. The beauty of the mechanism is that there is no application to participate as a donor: any application can just send funds to the split contract, and the rest will happen without their involvement.
+We believe $2M-6.5M vested over 4 years to potential contributors will be a step in the right direction. The beauty of the mechanism is that there is no application to participate as a sponsor: any entity can just send funds to the split contract, and the rest will happen without their involvement.
