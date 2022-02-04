@@ -1,4 +1,4 @@
-## 5. Bootstrapping an Initial Pilot (Q1 2022)
+## 5. Initial Pilot - Q1 2022
 
 ### 5.1 Before Launch
 
