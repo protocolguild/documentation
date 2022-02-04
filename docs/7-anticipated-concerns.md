@@ -1,8 +1,8 @@
-## 6. Anticipated Concerns
+## 7. Anticipated Concerns
 
 While we can't conceive of every scenario, we've tried to think critically about deficiencies when they've presented themselves. If you see a devious edge case, an organizational pitfall- please join the [**Stateful Works Discord**](https://discord.gg/t8zSZCvf3y) to discuss, and hopefully add it here!
 
-### 6.1 Related to Operation
+### 7.1 Related to Operation
 
 **Shouldn't one-off contributions be considered for membership?**
 - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something  This remains an open question, and might  be considered for a future weighting scheme if there are no major issues.
@@ -48,7 +48,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - The initial set of curators fails to expand beyond outside of their social graphs, but accumulates enough members to accomplish a state of "good enough" legitimacy. 
 - The social norms that build up around the mechanism are sufficiently powerful to draw in continued donations even though it just barely hits the "good enough" threshold.
 
-### 6.2 Related to the Broader Community
+### 7.2 Related to the Broader Community
 
 **Will this replace existing salaries?**
 - No, this should be a bonus on top of current pay: employers/ DAOs should pretend as though it doesn't exist. Given that an employer won't be able to tell whether they have submitted their address or that of a charity. It would not be ethical to compell charity disclosures.
@@ -68,7 +68,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 **Will this compete with Gitcoin or other similar efforts?**
 - We feel that this mechanism is differentiated enough (ie. forward looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards Public Goods.
 
-### 6.3 Culture / Big Questions
+### 7.3 Culture / Big Questions
 
 **Why hasn't anyone built this before?**
 - It's unlikely that one project from the ecosystem would take up the coordination efforts to collect and maintain a list of contributors. If it did happen, the project would eventually find themselves with an immense amount of power as the gatekeeping curator.
