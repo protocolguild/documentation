@@ -39,8 +39,8 @@ Table of Contents
   2-existing-mechanisms
   3-smart-contract
   4-roles-expectations
-  5-operating-guide
-  6-initial-pilot
+  5-initial-pilot
+  6-guidelines-for-regular-operation
   7-anticipated-concerns
   8-case-studies
   9-quotes
