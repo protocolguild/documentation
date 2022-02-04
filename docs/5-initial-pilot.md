@@ -22,10 +22,26 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
 - include periodic updates to the membership and weights, at most once per quarter
 - launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90
 - we plan to limit curation to the following ecosystem teams:
-  - client maintainers
+  - Client Maintainers
     - Besu
-  - Researchers
-  - Protocol Support
+    - Erigon
+    - Lighthouse
+    - Lodestar
+    - Nethermind
+    - Prysmatic
+    - Status
+    - Teku
+  - Researchers / Spec Writers / Client Tinkerers
+    - EF Researchers
+    - Ipsilon
+    - Quilt
+    - TX/RX
+    - Robust Incentives Group (RIG)  
+  - Name this category
+    - EF Devops
+    - EF Protocol Support
+    - EF Testing
+    - Solidity
 
 ### 5.3 Documenting Outcomes
 
