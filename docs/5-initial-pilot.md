@@ -1,6 +1,6 @@
-## 6. Initial Pilot (Q1 2022)
+## 5. Bootstrapping an Initial Pilot (Q1 2022)
 
-### 6.1 Before Launch
+### 5.1 Before Launch
 
 Before launch, there are a number of tasks that should be completed or otherwise well maintained. These include:
 
@@ -9,7 +9,7 @@ Before launch, there are a number of tasks that should be completed or otherwise
 - broadcasting the intent of the Protocol Guild to the broader community and potential sponsors, getting a precommitment of funds where possible
 - refining the governance process, which is inclusive of curating potential members, deliberating about potential members, and onboarding
 
-### 6.2 Pilot Characteristics
+### 5.2 Pilot Characteristics
 
 Once those objectives are handled to our satisfaction, we intend to launch a limited pilot. This pilot will likely:
 
@@ -18,7 +18,7 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
 - include periodic updates to the membership and weights, at most once per quarter
 - launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90
 
-### 6.3 Documenting Outcomes
+### 5.3 Documenting Outcomes
 
 Throughout the pilot, special attention should be given to evaluating outcomes related to the above characteristics. The information gathered should be archived in the docs as a cohesive report for the edification of future members and operational adjustments. The  report should include the following topics:
 
