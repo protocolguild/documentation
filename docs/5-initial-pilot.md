@@ -22,7 +22,13 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
 - include periodic updates to the membership and weights, at most once per quarter
 - launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90
 - we plan to limit curation to the following ecosystem teams:
-  - Client Maintainers
+  - Type 1: Researchers / Spec Writers / Client Tinkerers: responsible for divining the future needs of the protocol
+    - EF Researchers
+    - Ipsilon
+    - Quilt
+    - TX/RX
+    - Robust Incentives Group (RIG)
+  - Type 2. Client Maintainers: In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
     - Besu
     - Erigon
     - Lighthouse
@@ -31,13 +37,7 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
     - Prysmatic
     - Status
     - Teku
-  - Researchers / Spec Writers / Client Tinkerers
-    - EF Researchers
-    - Ipsilon
-    - Quilt
-    - TX/RX
-    - Robust Incentives Group (RIG)  
-  - Name this category
+  - Type 3. Name this category: in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
     - EF Devops
     - EF Protocol Support
     - EF Testing
