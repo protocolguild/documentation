@@ -1,10 +1,10 @@
-## 3. Roles & Expectations
+## 4. Roles & Expectations
 
 There are five unique roles that the Guild will require to operate, each with their own obligations.
 
-### 3.1 Members
+### 4.1 Members
 
-#### 3.11 Members as slot holders
+#### 4.11 Members as slot holders
 
 → 150-200 individuals who have qualified for placement on the split contract. This is just an estimate, the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any address, including their own, a charity, or another split contract (make sure it can be claimed from).
 
@@ -36,7 +36,7 @@ Members are strongly encouraged to participate in the Guild beyond the two requi
 - helping with comms
 - outreach and awareness to potential/continuing sponsors
 
-#### 3.12 Members as Curators
+#### 4.12 Members as Curators
 
 ##### Qualifications
 
@@ -57,11 +57,11 @@ We believe it is incentive compatible that curators are drawn from the beneficia
 
 Beyond this basic expectation, members should consider mentoring through something like the Core Developer Apprenticeship Program (CDAP) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
 
-#### 3.13 Members as Signers
+#### 4.13 Members as Signers
 
 Signers are members who act as key holders for the multisig which can update the membership and their weights in the Astrodrop contract. These should be well regarded Ethereum community members. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence, eg. quarterly. Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over an vesting or vested funds. To learn more about how the multi-sig and the Astrodrop contract interact, see section **4. Smart Contract Architecture**.
 
-### 3.2 Sponsors
+### 4.2 Sponsors
 
 > "a main promise of DAOs lies in their ability not only to bring many people together, but many organizations - this is when they'll really shine" - *[Kei Kreutler](https://twitter.com/keikreutler/status/1461646035491692550)*
 
@@ -77,7 +77,7 @@ In order to be effective, we suggest that 1% of total project tokens should be a
 
 Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New Astrodrop contracts will need to be deployed and sponsored periodically to maintain the future incentive to contribute to the protocol. 
 
-### 3.3 The Community
+### 4.3 The Community
 
 Even when the Guild is live, it will require consistent efforts from the broader community to ensure its long-term success. This includes application developers, users, investors, enthusiasts, and builders of all kinds. They will be instrumental in:
 
