@@ -37,9 +37,10 @@ Table of Contents
   
   1-proposal-rationale
   2-existing-mechanisms
-  3-roles-expectations
-  4-smart-contract
+  3-smart-contract
+  4-roles-expectations
   5-operating-guide
-  6-anticipated-concerns
-  7-case-studies
-  8-quotes
+  6-initial-pilot
+  7-anticipated-concerns
+  8-case-studies
+  9-quotes
