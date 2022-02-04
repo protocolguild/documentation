@@ -51,8 +51,9 @@ The responsibilities the Guild will have are listed below.
 
 #### 5.21 Comms
 - broadcasting to the community and prospective sponsors when vests are set to start and end.
-- 
-- setting parameters where needed
+
+#### 5.22 Parameter Setting
+
   - length of each new vesting period
   - how much of a raise to target for each vesting pool
   - number of months contributing needed ahead of inclusion
@@ -60,7 +61,7 @@ The responsibilities the Guild will have are listed below.
   - how often signers should be required to prove address control
   - how frequently membership will be updated
 
-#### 5.22 Weighting
+#### 5.23 Weighting
 
 Antifragility and non-gamability emerge from frameworks of simple weighting methods. This limits the time spent deciding appropriate categories, the methods for collecting and verifying  as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines:
 
@@ -73,15 +74,15 @@ Antifragility and non-gamability emerge from frameworks of simple weighting meth
 
 In the typical operation of the split, this would simply be `Number of eligible months` X `Hours_Active`, including past contributions before the split existed. Anyone who stops contributing is removed from the split via periodic Curation Reviews.
 
-#### 5.23 Discussing new members
+#### 5.24 Discussing new members
 
 If current members believe that the set should be expanded to include another contributor, they should propose them well enough in advance of a Membership Update. This would mean at least a week. Deliberations should strive to end in rough consensus, resorting to formal voting procedures only in rare extreme situations.
 
-#### 5.24 Oboarding new members
+#### 5.25 Oboarding new members
 
 When introducing the concept to potential members or onboarding accepted ones, it should be noted that the submitted address should refer to an individual's personal wallet and *not* their employer's. If teams were the atomic unit, all team members would have to agree on whether to accept or decline membership, likely decreasing the number of participants.
 
-#### 5.25 Guild Contact
+#### 5.26 Guild Contact
 
 It may be the case that there should be a Guild Contact for each team which exists outside of the Guild's remit. The backstop is each team/project, who only need to confirm when a contributor has been added or removed. One member of each team/project (eg. Lighthouse) should agree to be the point of contact responsible for ensuring other members are aware of any significant developments like:
 
@@ -91,10 +92,6 @@ It may be the case that there should be a Guild Contact for each team which exis
 - a change to the weighting scheme
 
 #### 5.6 For Sponsors
-
-
-
-#### 5.16 Standard Operation
 
 
 ### 5.3 Community
