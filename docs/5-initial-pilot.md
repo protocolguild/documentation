@@ -21,14 +21,12 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
 - target ~10mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks) or telegram @statefulworks
 - include periodic updates to the membership and weights, at most once per quarter
 - launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90
-- we plan to limit curation to the following ecosystem teams:
-  - Type 1: Researchers / Spec Writers / Client Tinkerers: responsible for divining the future needs of the protocol
+- we plan to limit curation to the following ecosystem contributor categories:
+  - Diviners (Researchers / Spec Writers / Client Tinkerers): responsible for divining the future needs of the protocol
     - EF Researchers
-    - Ipsilon
-    - Quilt
     - TX/RX
     - Robust Incentives Group (RIG)
-  - Type 2. Client Maintainers: In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
+  - Framers (Client Maintainers): In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
     - Besu
     - Erigon
     - Lighthouse
@@ -37,10 +35,12 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
     - Prysmatic
     - Status
     - Teku
-  - Type 3. Name this category: in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
+  - Guides (Ecosystem relations, client tinkerers): in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
     - EF Devops
     - EF Protocol Support
     - EF Testing
+    - Ipsilon
+    - Quilt
     - Solidity
 
 ### 5.3 Documenting Outcomes
