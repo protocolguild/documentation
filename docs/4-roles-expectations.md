@@ -59,7 +59,7 @@ Beyond this basic expectation, members should consider mentoring through somethi
 
 #### 4.13 Members as Signers
 
-Signers are members who act as key holders for the multisig which can update the membership and their weights in the Astrodrop contract. These should be well regarded Ethereum community members. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence, eg. quarterly. Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over an vesting or vested funds. To learn more about how the multi-sig and the Astrodrop contract interact, see section **4. Smart Contract Architecture**.
+Signers are members who act as key holders for the multisig which can update the membership and their weights in the Astrodrop contract. These should be well regarded Ethereum community members. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence, eg. quarterly. Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over an vesting or vested funds. To learn more about how the multi-sig and the Astrodrop contract interact, see section **3. Smart Contract Architecture**.
 
 ### 4.2 Sponsors
 
