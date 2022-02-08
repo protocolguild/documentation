@@ -16,7 +16,7 @@ For Gitcoin Grants, it can be challenging to ensure accountability for grantees 
 
 ### 2.2 Retroactive Funding Programs
 
-An explicitly historic-looking variant of grants include [Optimism's RPG](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c). These can account for past work, but are usually scoped to measure the contributions of teams or projects, usually not individuals. There is no guarantee of consistent funding, as there is a possibility of omission from a subsequent round. In Gitcoin's case, it can takes a while for past contributions to be recognized and rewarded due to how discovery and grant promotion cycles work.
+An explicitly historic-looking variant of grants include [Optimism's RPG](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c). These can account for past work, but are usually scoped to measure the contributions of teams or projects, usually not individuals. There is no guarantee of consistent funding, as there is a possibility of omission from a subsequent round. In Gitcoin's case, it can take a while for past contributions to be recognized and rewarded due to how discovery and grant promotion cycles work.
 
 ### 2.3 Salaries
 
