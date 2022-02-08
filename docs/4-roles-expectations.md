@@ -67,7 +67,7 @@ Signers are members who act as key holders for the multisig which can update the
 
 This group includes any project which depends on the continued maintenance and evolution of Ethereum to be successful, and is interested in supporting said maintenance and evolution.
 
-Ethereum has a rich culture of experimenting and nuturing radical new ideas: it's what makes our community one of the most vibrant in the space. We've seen many DeFi, NFT, DAO, and Layer 2 projects build amazing things on top of Ethereum's credibly neutral public infrastructure. To maintain and increase core protocol contributions, the financial incentives available to core contributors should meaningfully balance the lucrative pull of the app / Layer 2 token space. Giving current and future contributors a stake in the successes of these projects produces a powerful incentive alignment between maintainers and those that depend on their work. To accomplish this, we invite sponsors to contribute:
+Ethereum has a rich culture of experimenting with radical new ideas: it's what makes our community one of the most vibrant in the space. We've seen many DeFi, NFT, DAO, and Layer 2 projects build amazing things on top of Ethereum's credibly neutral public infrastructure. To maintain and increase core protocol contributions, the financial incentives available to core contributors should meaningfully balance the lucrative pull of the app / Layer 2 token space. Giving current and future contributors a stake in the successes of these projects produces a powerful incentive alignment between maintainers and those that depend on their work. To accomplish this, we invite sponsors to contribute:
 -  governance tokens
 -  Layer 2 sequencer fees
 -  recurring protocol fee revenue
