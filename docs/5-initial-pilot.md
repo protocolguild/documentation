@@ -1,6 +1,6 @@
-## 5. Initial Pilot - Q1 2022
+# 5. Initial Pilot - Q1 2022
 
-### 5.1 Before Launch
+## 5.1 Before Launch
 
 Before launch, there are a number of tasks that should be completed or otherwise well maintained. These include:
 
@@ -9,7 +9,7 @@ Before launch, there are a number of tasks that should be completed or otherwise
 - broadcasting the intent of the Protocol Guild to the broader community and potential sponsors, getting a precommitment of funds where possible
 - refining the governance process, which is inclusive of curating potential members, deliberating about potential members, and onboarding
 
-### 5.2 Pilot Characteristics
+## 5.2 Pilot Characteristics
 
 Once those objectives are handled to our satisfaction, we intend to launch a limited pilot. This pilot will likely:
 
@@ -39,27 +39,27 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
     - Quilt
     - Solidity
 
-### 5.3 Documenting Outcomes
+## 5.3 Documenting Outcomes
 
 Throughout the pilot, special attention should be given to evaluating outcomes related to the above characteristics. The information gathered should be archived in the docs as a cohesive report for the edification of future members and operational adjustments. The  report should include the following topics:
 
-#### Timing
+### Timing
   - Was one year the right length for a pilot? 
   - what should the typical vesting period be in regular operation? 
   - What's the earliest the next iteration would launch ahead of the pilot vest concluding?
 
-#### Funding
+### Funding
   - Were funding targets hit ahead of launch? 
   - Was the initial raise too low / high?
   - Was there a healthy number and variety of sponsors? (favorable Gini coefficient)
 
-#### Operating
+### Operating
   - What sort of operating procedures worked? Which ones didn't? 
   - What role did voting play in decision making, if any? 
   - What were the best practices that emerged with regard to voting, onbarding, curation?
   - Should weighting be modified eg. more granular, more subjective measures?
 
-#### Membership
+### Membership
   - Did the Guild start with an accurate representation of protocol contributors? 
   - What areas in the ecosystem should eligibility be expanded to over the pilot?
   - What were the notable membership changes/ disputes, if any)?
