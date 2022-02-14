@@ -59,7 +59,7 @@ Beyond this basic expectation, members should consider mentoring through somethi
 
 ### 4.13 Members as Signers
 
-Signers are members who act as key holders for the multisig which can update the membership and their weights in the Astrodrop contract. These should be well regarded Ethereum community members. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence, eg. quarterly. Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over an vesting or vested funds. To learn more about how the multi-sig and the Astrodrop contract interact, see section **3. Smart Contract Architecture**.
+Signers are members who act as key holders for the multisig which can update the membership and their weights in the Astrodrop contract. These should be well regarded Ethereum community members. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence, eg. quarterly. Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over an vesting or vested funds. To learn more about how the multi-sig and the Astrodrop contract interact, see the section titled **Smart Contract Architecture**.
 
 ## 4.2 Sponsors
 
@@ -75,7 +75,7 @@ Ethereum has a rich culture of experimenting with radical new ideas: it's what m
 -  fractionalized NFTs
 -  good old fashioned ETH
 
-In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see **7. Case Studies** for more explorations on this.
+In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see **Case Studies** for more explorations on this.
 
 Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New Astrodrop contracts will need to be deployed and sponsored periodically to maintain the future incentive to contribute to the protocol. 
 
