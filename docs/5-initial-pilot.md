@@ -16,8 +16,7 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
 - vest for one year from deployment, and possibly overlap with the deployment of the next round of vesting, eg. by 3 months.
 - target ~10mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks) or telegram @statefulworks
 - include periodic updates to the membership and weights, at most once per quarter
-- launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90
-- we plan to limit curation to the following ecosystem contributor categories:
+- launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90. Members so far include:
   - Diviners (Researchers / Spec Writers / Client Tinkerers): responsible for divining the future needs of the protocol
     - EF Researchers
     - TX/RX
@@ -25,6 +24,7 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
   - Framers (Client Maintainers): In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
     - Besu
     - Erigon
+    - Geth
     - Lighthouse
     - Lodestar
     - Nethermind
@@ -56,8 +56,8 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
 ### Operating
   - What sort of operating procedures worked? Which ones didn't? 
   - What role did voting play in decision making, if any? 
-  - What were the best practices that emerged with regard to voting, onbarding, curation?
-  - Should weighting be modified eg. more granular, more subjective measures?
+  - What were the best practices that emerged with regard to voting, onboarding, curation?
+  - Should the weighting be modified eg. more granular, more subjective measures?
 
 ### Membership
   - Did the Guild start with an accurate representation of protocol contributors? 
@@ -65,6 +65,5 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
   - What were the notable membership changes/ disputes, if any)?
   - What is the general state of the membership?
   - Has the presence of the Protocol Guild lead to negative or positive affects to relationships, the progress of regular projects?
-  - the frequency that someone joins or remains in core protocol work and citing the Guild as a compelling benefit.
-  - the number of former core devs in defi we can recruit back
+  - What frequency has someone's decision to join or remain in core protocol work cited the Guild as a compelling benefit?
   - Have any Guild members participated in mentorship programs to support diverse array of future contributors?
