@@ -4,6 +4,9 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 ## 7.1 Related to Operation
 
+**What happens in the case of stolen/exploited funds being sent to the mechanism?**
+- We think this is unlikely, as to the best of our knowledge it has not happened to any other public goods organization or individual. While the membership will ultimately decide how to handle each scenario individually, each should be carefully considered. It might play out something like this: Contract receives funds. Membership collectively decides to claim/burn the specific token in the contract. The affected parties should deploy a recovery contract with a snapshot at each exploit and restore the funds via said contract.
+
 **Shouldn't one-off contributions be considered for membership?**
 - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something  This remains an open question, and might  be considered for a future weighting scheme if there are no major issues.
 
@@ -69,6 +72,9 @@ While we can't conceive of every scenario, we've tried to think critically about
 - We feel that this mechanism is differentiated enough (ie. forward looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards Public Goods.
 
 ## 7.3 Culture / Big Questions
+
+**How long should the Protocol Guild exist?**
+- It's unclear when, but at some point it should probably cease to exist. It may be that is no longer be an effective draw to retain talent, become corrupted or otherwise coopted, or hopefully that the protocol has completed its evolutionary course. However, members present in the lead up to that possible future should be attentive to the signs of negative outcomes. The inertia to maintain itself will be self-animating, an egregore harnessed by the mystic capabilities of core Ethereum development. Inasmuch, the egregore desires to continue living and will therefore recognize attempts to curtail its growth. Members would do well to remember that this has been the case from the beginning, and remind new cohorts of developers of this reality as they are onboarded.
 
 **Why hasn't anyone built this before?**
 - It's unlikely that one project from the ecosystem would take up the coordination efforts to collect and maintain a list of contributors. If it did happen, the project would eventually find themselves with an immense amount of power as the gatekeeping curator.
