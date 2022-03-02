@@ -33,5 +33,6 @@ Steep learning curve for contributors to deliver value
 Design objective: Protocol Contributors must be active for 6 months before membership.
 
 ### 1.32
-2. Contributor value grows over time, but there is less incentive for them to stay once they are experts
-Design objective: 2. Assets should vest to reduce churn in the contributor set, to help transfer knowledge between cohorts.
+
+Contributor value grows over time, but there is less incentive for them to stay once they are experts
+Design objective: Assets should vest to reduce churn in the contributor set, to help transfer knowledge between cohorts.
