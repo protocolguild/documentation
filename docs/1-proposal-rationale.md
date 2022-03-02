@@ -1,27 +1,25 @@
 # 1. Proposal Rationale
 
-To increase the long-term sustainability of protocol maintenance, we propose a curated split contract which includes vesting. This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community's existing voluntaryist mindset towards public goods funding. If realized, the protocol gains a tool which is meaningfully differentiated along a few different dimensions.
+To increase the long-term sustainability of protocol maintenance, we propose a curated split contract which includes vesting. This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community's existing voluntaryist mindset towards public goods funding. If realized, the protocol gains a tool which is meaningfully differentiated along a few different dimensions. There are three main motivations as to why there should be a new mechanism.
+## 1.1 Incentive Imbalance
 
-## 1.1 Long-term outcomes
+Challenge: Financial incentives are skewed towards projects built on top of the protocol.
 
-The Protocol Guild incentivises current contributors to continue their work as long as there are material funds which have yet to vest. With fewer departures, teams are more stable, individual maintainers stick around and resource allocation within teams is more predictable. New entrants to the space will look to contribute meaningfully in order to be considered for membership inclusion. Equipped with such a tool, public goods looking to hire or retain talent can include membership on this split as a unique perk. A talented individual shouldn't be forced to choose between financial upside and pushing the ecosystem forward.
+As a credibly neutral, maximally uncapturable institution with no block reward, Ethereum can’t offer token incentives like apps / L2s. However, it still needs to attract and retain talent to continue to evolve the protocol.
+As the Ethereum ecosystem continues to grow, competition for talented individuals will only increase.
+This isn’t to fault individuals for rationally weighting financial incentives, or protocols for leveraging the power of tokens - this is just the reality of our current context
+Finally, we want to acknowledge that financial motivations aren’t the only or best motivator for people, it’s just one tool in our toolset that we think is 
 
-## 1.2 Financial Upside
+Design objective: Nudge balance back to the protocol by getting sponsors to send tokens.
 
-There's a growing disparity between the risk / reward of working on crucial protocol infrastructure and how much value this work enables the broader community to realize. The Protocol Guild will help close the gap between the value-creation enabled vs. realized by offering a slice of upside benefits to ecosystem contributors.
+## 1.2 Existing Solutions are limited
 
-One effect is that this infrastructure faces increasing competition for talent from the application layer and the broader crypto industry. These projects usually offer token or equity benefits, which can provide significant financial upside to employees. Conversely, protocol projects usually pay in ETH or fiat. It's a simple fact that new joiners will not be exposed to the same degree of financial upside as early contributors paid in ETH. The outcome is that prospective and current protocol contributors more often opt for opportunities which include startup equity or application tokens. This deprives the protocol of their important contributions, increases hiring churn, and decreases the rate of ecosystem improvement.
+### 1.21 Apps / L2s want to sponsor, but curation is hard
 
-Now, this isn't to fault individuals for rationally weighting financial inputs, or protocols for leveraging the power of tokens. The challenge is that infra projects can't always utilize the same tools to attract and retain talent longterm. 
+Design objective: Self-curate a list: a simple low-cost path for sponsors to regularly share value directly with Protocol Contributors
+### 1.22 Protocol Contributors are interested token upside, but self-organizing is hard
 
-Early on, the community committed to not enshrining a public treasury skimmed from the block reward. We instead opted for an allocation to the Ethereum Foundation to fund development. Today, hindsight recognizes the wisdom in this early decision: perpetual block rewards can undermine the credible neutrality of the protocol and entities which benefit, are potentially capturable, and reduce the monetary properties of the base asset. Some infra-adjacent projects have launched tokens, but this makes sense for very few infra projects.
+Design objective: Self-curate a list: give form to existing relationships / contributions
+### 1.23 Existing Solutions naturally favor teams 
 
-Given these limitations, ecosystem positions cannot offer comparable upside incentives to contributors. While financial incentives are not the ultimate motivator for everyone, we argue that it would be better for the protocol to have access to this kind of tool.
-
-## 1.3 Operationally
-
-The mechanism maintains its own membership, eligibility guidelines, member expectations, and cadence of funding streams.
-
-## 1.4 Politically
-
-As a direct effect of its operational characteristics, the Protocol Guild exists at a unique space independent of any existing institution: it connects sponsors directly with individual Ethereum contributors. Members as the atomic beneficiary unit maintain their autonomy, preventing mediating entities (eg. team leads, foundations/orgs that run public goods funding campaigns) from harming their self-determination. This is accomplished by only introducing the minimum viable org to steward the effort.
+Design objective: Avoid intermediation: individuals are the atomic unit
