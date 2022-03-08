@@ -4,7 +4,7 @@
 
 After exploring many options, we've settled on Astrodrop (AD), a new vesting smart contract. The graphic below should give a good intro to how the Protocol Guild would operate an Astrodrop Shrine.
 
-<img width="1060" alt="Vesting Split Contract vertical" src="https://user-images.githubusercontent.com/80278162/153966567-59cba1ad-9e32-4592-8755-4ae671c87a72.png">
+<img width="1060" alt="Vesting Split Contract vertical" src="https://user-images.githubusercontent.com/80278162/157137910-ee61f8ee-18cd-4a42-b73a-8d6fdefd88f7.png">
 
 Out of all the mechanisms we explored, this product fulfills the majority of our original design objectives. Let's go through them one by one and see how well it fits within our aspirational framework.
 
