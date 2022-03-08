@@ -24,8 +24,6 @@ Antifragility and non-gameability emerge from frameworks of simple weighting met
   - historic contributions are considered in weightings
   - existing contributors get "diluted" as newcomers come in
 - continuing contributors get additional weight per period they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-- `Hours Active`
-  - factor in whether a contributor is part- or full-time, eg. 30 : 100 or 25 : 100
 
 In the typical operation of the split, this would simply be `Number of eligible months` X `Hours_Active`, including past contributions before the split existed. Anyone who stops contributing is removed from the split via periodic Curation Reviews.
 
