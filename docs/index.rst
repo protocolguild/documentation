@@ -43,5 +43,5 @@ Table of Contents
   6-guidelines-for-regular-operation
   7-anticipated-concerns
   8-case-studies
-  9-Membership
-  10-Resources
+  9-membership
+  10-resources
