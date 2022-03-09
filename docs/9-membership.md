@@ -1,6 +1,11 @@
-# 9. Member Quotes
+# 9. Membership 
+## Member List
 
-We've asked members to share why they think the Protocol Guild is important for Ethereum: here are some of their responses.
+For transparency purposes, we are disclosing the name or identifier of each Guild member. In the interest of privacy, we do not link their address or weight with names.
+
+## Quotes
+
+We've asked members to share why they think the Protocol Guild is important for Ethereum: here are a few of their responses.
 
 ---
 
