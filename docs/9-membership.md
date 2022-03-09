@@ -1,6 +1,6 @@
 # 9. Member Quotes
 
-We've asked members to share why they think the Protocol Guild is important for Ethereum: here are their responses.
+We've asked members to share why they think the Protocol Guild is important for Ethereum: here are some of their responses.
 
 ---
 
