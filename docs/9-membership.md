@@ -134,7 +134,7 @@ In the interest of privacy, we do not link addresses or weight with names. The d
 | 35 | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 25 |
 | 36 | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 25 |
 | 37 | 0xa2c2536121810cecf277ed9b9dd5e6adacce04ad | 26 |
-| 38 |  "0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2 | 26 |
+| 38 | 0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2B1 | 26 |
 | 39 | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 27 |
 | 40 | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 28 |
 | 41 | 0x00d3baf1080b1cfb5897225a21ecdcc25a1f4456 | 29 |
