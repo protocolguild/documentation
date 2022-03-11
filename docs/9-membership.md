@@ -93,7 +93,8 @@ For transparency purposes, we are disclosing the name or identifier of each Guil
 
 ## Weights
 
-In the interest of privacy, we do not link addresses or weight with names. The data displayed here represents the onchain weighting, and be updated on the split quarterly.
+In the interest of privacy, we do not link addresses or weight with names. The data displayed here represents the onchain weighting, which is based on months since start of active contribution, and will be updated on the split quarterly. Read more about weighting in **6. Guidelines for Regular Operation**.
+
 
 |   |                Address |               Split Weight |
 | ---:         |        :--- |                  ---: |
