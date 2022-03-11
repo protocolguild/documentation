@@ -3,93 +3,93 @@
 
 For transparency purposes, we are disclosing the name or identifier of each Guild member.
 
-| Team  |                Member |
-| ---:         |        :--- |
-| Besu | Danno Ferrin |
-| Besu | Gary Schulte |
-| Besu | Justin Florentine |
-| Besu | Karim Taam |
-| EF DevOps | Parithosh Jayanthi |
-| EF JavaScript | Andrew Day |
-| EF JavaScript | Ryan Ghods |
-| EF Protocol Support | Danny Ryan |
-| EF Protocol Support | Tim Beiko |
-| EF Protocol Support | Trenton Van Epps |
-| EF Research | Aditya Asgaonkar |
-| EF Research | Alex Stokes |
-| EF Research | Antonio Sanso |
-| EF Research | Carl Beekhuizen |
-| EF Research | Dankrad Feist |
-| EF Research | Dmitry Khovratovich |
-| EF Research | Francesco d’Amato |
-| EF Research | George Kadianakis |
-| EF Research | Hsiao Wei Wang |
-| EF Research | Justin Drake |
-| EF Research | Mark Simkin |
-| EF RIG | Barnabé Monnot |
-| EF RIG | Caspar Schwarz-Schilling |
-| Erigon | Andrey Ashikhmin |
-| Erigon | Artem Vorotnikov |
-| Erigon | Giulio rebuffo |
-| Geth | Guillaume Ballet |
-| Geth | Jared Wasinger |
-| Geth | Marius Van der wijden |
-| Geth | Peter Szilagyi |
-| Independent | Peter Davies |
-| Ipsilon | Andrei Maiboroda |
-| Ipsilon | Jose Hugo de la cruz Romero |
-| Ipsilon | Paweł Bylica |
-| Lighthouse | Adrian Manning |
-| Lighthouse | Diva Martínez |
-| Lighthouse | Mac Ladson |
-| Lighthouse | Mark Mackey |
-| Lighthouse | Mehdi Zerouali |
-| Lighthouse | Michael Sproul |
-| Lighthouse | Paul Hauner |
-| Lighthouse | Pawan Dhananjay Ravi |
-| Lighthouse | Sean Anderson |
-| Lodestar | Cayman Nava |
-| Lodestar | dapplion |
-| Lodestar | Gajinder Singh |
-| Lodestar | Tuyen Nguyen |
-| Nethermind | Kristof Gazso |
-| Nethermind | Łukasz Rozmej |
-| Nethermind | Marek Moraczyński |
-| Nethermind | Mateusz Jędrzejewski |
-| Nethermind | Tomasz Stanzeck |
-| Nimbus | Dustin Brody |
-| Nimbus | Etan Kissling |
-| Nimbus | Jacek Sieka |
-| Nimbus | Jamie Lokier |
-| Nimbus | Kim De Mey |
-| Nimbus | Mamy Ratsimbazafy |
-| Nimbus | Ștefan Talpalaru |
-| Nimbus | Zahary Karadzhov |
-| Prysmatic | James He |
-| Prysmatic | Kasey Kirkham |
-| Prysmatic | Mohamed Zahoor |
-| Prysmatic | Nishant Das |
-| Prysmatic | potuz |
-| Prysmatic | Preston Van Loon |
-| Prysmatic | Radosław Kapka |
-| Prysmatic | Raul Jordan |
-| Prysmatic | Terence Tsao |
-| Quilt | Ansgar Dietrichs |
-| Quilt | Matt Garnett |
-| Quilt | Sam Wilson |
-| Quilt | Somu Bhargava |
-| Solidity | Alex Beregszaszi |
-| Solidity | Harikrishnan Mulackal |
-| Solidity | Johnson Ugwuru |
-| Solidity | Kaan Uzdogan |
-| Solidity | Kamil Sliwak |
-| Solidity | Leonardo de Sa Alt |
-| Teku | Adrian Sutton |
-| Teku | Ben Edgington |
-| Teku | Paul Harris |
-| TXRX | Alex Vlasov |
-| TXRX | Anton Nashatyrev |
-| TXRX | Mikhail Kalinin |
+|      | Team  |                Member |
+| ---:         |        :--- |        :--- |
+| 1 | Besu | Danno Ferrin |
+| 2 | Besu | Gary Schulte |
+| 3 | Besu | Justin Florentine |
+| 4 | Besu | Karim Taam |
+| 5 | EF DevOps | Parithosh Jayanthi |
+| 6 | EF JavaScript | Andrew Day |
+| 7 | EF JavaScript | Ryan Ghods |
+| 8 | EF Protocol Support | Danny Ryan |
+| 9 | EF Protocol Support | Tim Beiko |
+| 10 | EF Protocol Support | Trenton Van Epps |
+| 11 | EF Research | Aditya Asgaonkar |
+| 12 | EF Research | Alex Stokes |
+| 13 | EF Research | Antonio Sanso |
+| 14 | EF Research | Carl Beekhuizen |
+| 15 | EF Research | Dankrad Feist |
+| 16 | EF Research | Dmitry Khovratovich |
+| 17 | EF Research | Francesco d’Amato |
+| 18 | EF Research | George Kadianakis |
+| 19 | EF Research | Hsiao Wei Wang |
+| 20 | EF Research | Justin Drake |
+| 21 | EF Research | Mark Simkin |
+| 22 | EF RIG | Barnabé Monnot |
+| 23 | EF RIG | Caspar Schwarz-Schilling |
+| 24 | Erigon | Andrey Ashikhmin |
+| 25 | Erigon | Artem Vorotnikov |
+| 26 | Erigon | Giulio rebuffo |
+| 27 | Geth | Guillaume Ballet |
+| 28 | Geth | Jared Wasinger |
+| 29 | Geth | Marius Van der wijden |
+| 30 | Geth | Peter Szilagyi |
+| 31 | Independent | Peter Davies |
+| 32 | Ipsilon | Andrei Maiboroda |
+| 33 | Ipsilon | Jose Hugo de la cruz Romero |
+| 34 | Ipsilon | Paweł Bylica |
+| 35 | Lighthouse | Adrian Manning |
+| 36 | Lighthouse | Diva Martínez |
+| 37 | Lighthouse | Mac Ladson |
+| 38 | Lighthouse | Mark Mackey |
+| 39 | Lighthouse | Mehdi Zerouali |
+| 40 | Lighthouse | Michael Sproul |
+| 41 | Lighthouse | Paul Hauner |
+| 42 | Lighthouse | Pawan Dhananjay Ravi |
+| 43 | Lighthouse | Sean Anderson |
+| 44 | Lodestar | Cayman Nava |
+| 45 | Lodestar | dapplion |
+| 46 | Lodestar | Gajinder Singh |
+| 47 | Lodestar | Tuyen Nguyen |
+| 48 | Nethermind | Kristof Gazso |
+| 49 | Nethermind | Łukasz Rozmej |
+| 50 | Nethermind | Marek Moraczyński |
+| 51 | Nethermind | Mateusz Jędrzejewski |
+| 52 | Nethermind | Tomasz Stanzeck |
+| 53 | Nimbus | Dustin Brody |
+| 54 | Nimbus | Etan Kissling |
+| 55 | Nimbus | Jacek Sieka |
+| 56 | Nimbus | Jamie Lokier |
+| 57 | Nimbus | Kim De Mey |
+| 58 | Nimbus | Mamy Ratsimbazafy |
+| 59 | Nimbus | Ștefan Talpalaru |
+| 60 | Nimbus | Zahary Karadzhov |
+| 61 | Prysmatic | James He |
+| 62 | Prysmatic | Kasey Kirkham |
+| 63 | Prysmatic | Mohamed Zahoor |
+| 64 | Prysmatic | Nishant Das |
+| 65 | Prysmatic | potuz |
+| 66 | Prysmatic | Preston Van Loon |
+| 67 | Prysmatic | Radosław Kapka |
+| 68 | Prysmatic | Raul Jordan |
+| 69 | Prysmatic | Terence Tsao |
+| 70 | Quilt | Ansgar Dietrichs |
+| 71 | Quilt | Matt Garnett |
+| 72 | Quilt | Sam Wilson |
+| 73 | Quilt | Somu Bhargava |
+| 74 | Solidity | Alex Beregszaszi |
+| 75 | Solidity | Harikrishnan Mulackal |
+| 76 | Solidity | Johnson Ugwuru |
+| 77 | Solidity | Kaan Uzdogan |
+| 78 | Solidity | Kamil Sliwak |
+| 79 | Solidity | Leonardo de Sa Alt |
+| 80 | Teku | Adrian Sutton |
+| 81 | Teku | Ben Edgington |
+| 82 | Teku | Paul Harris |
+| 83 | TXRX | Alex Vlasov |
+| 84 | TXRX | Anton Nashatyrev |
+| 85 | TXRX | Mikhail Kalinin |
 
 ## Weights
 
