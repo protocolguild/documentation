@@ -18,14 +18,13 @@ The Guild should transition to Regular Operation before the end of the Initial P
 
 ## 6.3 Weighting
 
-Antifragility and non-gameability emerge from frameworks of simple weighting methods. This limits the time spent deciding appropriate categories, the methods for collecting and verifying  as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines:
+Antifragility and non-gameability emerge from simple frameworks. This limits the time spent deciding appropriate categories, the methods for collecting and verifying  as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines:
 
 - `Number of eligible months`
   - historic contributions are considered in weightings
   - existing contributors get "diluted" as newcomers come in
-- continuing contributors get additional weight per period they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-
-In the typical operation of the split, this would simply be `Number of eligible months` X `Hours_Active`, including past contributions before the split existed. Anyone who stops contributing is removed from the split via periodic Curation Reviews.
+- continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
+- anyone who stops contributing is removed from the split via periodic Curation Reviews
 
 ## 6.4 Discussing new members
 
