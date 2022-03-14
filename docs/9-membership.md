@@ -25,7 +25,7 @@ For transparency purposes, we are disclosing the name/identifier of each Guild m
 | 18 | EF Research | George Kadianakis | github.io/asn-d6 |
 | 19 | EF Research | Hsiao Wei Wang | github.io/hwwhww |
 | 20 | EF Research | Justin Drake | github.io/justindrake |
-| 21 | EF Research | Mark Simkin | msimkin.github.io |
+| 21 | EF Research | Mark Simkin | msimkin.github.io/ |
 | 22 | EF RIG | Barnabé Monnot | github.io/barnabemonnot |
 | 23 | EF RIG | Caspar Schwarz-Schilling | github.io/casparschwa |
 | 24 | Erigon | Andrey Ashikhmin | github.io/yperbasis |
