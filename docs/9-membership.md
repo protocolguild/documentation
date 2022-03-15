@@ -3,7 +3,7 @@
 
 For transparency purposes, we are disclosing the name/identifier of each Guild member and their team.
 
-|      | Team  |                Member + Link to work |
+|      | Team  |                Member (+ link to their work |
 | ---:         |        :--- |        :--- |
 | 1 | Besu | [Danno Ferrin](https://github.com/shemnon/) |
 | 2 | Besu | [Gary Schulte](https://github.com/garyschulte/) |
