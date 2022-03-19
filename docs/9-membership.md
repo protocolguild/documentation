@@ -59,7 +59,7 @@ For transparency purposes, we are disclosing the name/identifier of each Guild m
 | 52 | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) |
 | 53 | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) |
 | 54 | Nimbus | [Dustin Brody](https://github.com/tersec/) |
-| 55 | Nimbus | [Etan Kissling](https://github.com/etan-k/) |
+| 55 | Nimbus | [Etan Kissling](https://github.com/etan-status/) |
 | 56 | Nimbus | [Jacek Sieka](https://github.com/arnetheduck/) |
 | 57 | Nimbus | [Jamie Lokier](https://github.com/jlokier/) |
 | 58 | Nimbus | [Kim De Mey](https://github.com/kdeme/) |
