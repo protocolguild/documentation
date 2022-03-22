@@ -3,95 +3,100 @@
 
 For transparency purposes, we are disclosing the name/identifier of each Guild member and their team.
 
-|      | Team  |                Member (+ link to their work) |
+|      | Team  |                Member + Link to work |
 | ---:         |        :--- |        :--- |
-| 1 | Besu | [Danno Ferrin](https://github.com/shemnon/) |
-| 2 | Besu | [Gary Schulte](https://github.com/garyschulte/) |
-| 3 | Besu | [Justin Florentine](https://github.com/jflo/) |
-| 4 | Besu | [Karim Taam](https://github.com/matkt/) |
+| 1 | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) |
+| 2 | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) |
+| 3 | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) |
+| 4 | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) |
 | 5 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) |
 | 6 | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) |
 | 7 | EF JavaScript | [Ryan Ghods](https://github.com/ryanio/) |
-| 8 | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) |
-| 9 | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) |
-| 10 | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) |
-| 11 | EF Research | [Aditya Asgaonkar](https://github.com/adiasg/) |
-| 12 | EF Research | [Alex Stokes](https://github.com/ralexstokes/) |
-| 13 | EF Research | [Antonio Sanso](https://github.com/asanso/) |
-| 14 | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) |
-| 15 | EF Research | [Dankrad Feist](https://github.com/dankrad/) |
-| 16 | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) |
-| 17 | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) |
-| 18 | EF Research | [George Kadianakis](https://github.com/asn-d6/) |
-| 19 | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) |
-| 20 | EF Research | [Justin Drake](https://github.com/justindrake/) |
-| 21 | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) |
-| 22 | EF RIG | [Barnabé Monnot](https://github.com/barnabemonnot/) |
-| 23 | EF RIG | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) |
-| 24 | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) |
-| 25 | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) |
-| 26 | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) |
-| 27 | Geth | [Guillaume Ballet](https://github.com/gballet/) |
-| 28 | Geth | [Jared Wasinger](https://github.com/jwasinger/) |
-| 29 | Geth | [Marius Van der wijden](https://github.com/MariusVanDerWijden/) |
-| 30 | Geth | [Peter Szilagyi](https://github.com/karalabe/) |
-| 31 | Independent | [Peter Davies](https://github.com/ultratwo/) |
-| 32 | Independent | [Voith](https://github.com/voith/) |
-| 33 | Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) |
-| 34 | Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) |
-| 35 | Ipsilon | [Paweł Bylica](https://github.com/chfast/) |
-| 36 | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) |
-| 37 | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) |
-| 38 | Lighthouse | [Mac Ladson](https://github.com/macladson/) |
-| 39 | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) |
-| 40 | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) |
-| 41 | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) |
-| 42 | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) |
-| 43 | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) |
-| 44 | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) |
-| 45 | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) |
-| 46 | Lodestar | [dapplion](https://github.com/dapplion/) |
-| 47 | Lodestar | [Gajinder Singh](https://github.com/g11tech/) |
-| 48 | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) |
-| 49 | Nethermind | [Kristof Gazso](https://github.com/kristofgaszo/) |
-| 50 | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) |
-| 51 | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) |
-| 52 | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) |
-| 53 | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) |
-| 54 | Nimbus | [Dustin Brody](https://github.com/tersec/) |
-| 55 | Nimbus | [Etan Kissling](https://github.com/etan-status/) |
-| 56 | Nimbus | [Jacek Sieka](https://github.com/arnetheduck/) |
-| 57 | Nimbus | [Jamie Lokier](https://github.com/jlokier/) |
-| 58 | Nimbus | [Kim De Mey](https://github.com/kdeme/) |
-| 59 | Nimbus | [Mamy Ratsimbazafy](https://github.com/mratsim/) |
-| 60 | Nimbus | [Ștefan Talpalaru](https://github.com/stefantalpalaru/) |
-| 61 | Nimbus | [Zahary Karadzhov](https://github.com/zah/) |
-| 62 | Prysmatic | [James He](https://github.com/james-prysm/) |
-| 63 | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) |
-| 64 | Prysmatic | [Mohamed Zahoor](https://github.com/jmozah/) |
-| 65 | Prysmatic | [Nishant Das](https://github.com/nisdas/) |
-| 66 | Prysmatic | [potuz](https://github.com/potuz/) |
-| 67 | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) |
-| 68 | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) |
-| 69 | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) |
-| 70 | Prysmatic | [Terence Tsao](https://github.com/terencechain/) |
-| 71 | Quilt | [Ansgar Dietrichs](https://github.com/adietrichs/) |
-| 72 | Quilt | [Matt Garnett](https://github.com/lightclient/) |
-| 73 | Quilt | [Sam Wilson](https://github.com/SamWilsn/) |
-| 74 | Quilt | [Somu Bhargava](https://github.com/bhargavasomu/) |
-| 75 | Solidity | [Alex Beregszaszi](https://github.com/axic/) |
-| 76 | Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) |
-| 77 | Solidity | [Johnson Ugwuru](https://github.com/ogwurujohnson/) |
-| 78 | Solidity | [Kaan Uzdogan](https://github.com/kuzdogan/) |
-| 79 | Solidity | [Kamil Sliwak](https://github.com/cameel/) |
-| 80 | Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) |
-| 81 | Teku | [Adrian Sutton](https://github.com/ajsutton/) |
-| 82 | Teku | [Ben Edgington](https://github.com/benjaminion/) |
-| 83 | Teku | [Enrico Del Fante](https://github.com/tbenr/) |
-| 84 | Teku | [Paul Harris](https://github.com/rolfyone/) |
-| 85 | TXRX | [Alex Vlasov](https://github.com/ericsson49/) |
-| 86 | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) |
-| 87 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
+| 8 | EF Portal | [Jason Carver](https://github.com/carver/) |
+| 9 | EF Portal | [Ognyan Genev](https://github.com/ogenev/) |
+| 10 | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) |
+| 11 | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) |
+| 12 | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) |
+| 13 | EF Research | [Aditya Asgaonkar](https://github.com/adiasg/) |
+| 14 | EF Research | [Alex Stokes](https://github.com/ralexstokes/) |
+| 15 | EF Research | [Antonio Sanso](https://github.com/asanso/) |
+| 16 | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) |
+| 17 | EF Research | [Dankrad Feist](https://github.com/dankrad/) |
+| 18 | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) |
+| 19 | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) |
+| 20 | EF Research | [Fredrik Svantes](https://github.com/fredriksvantes/) |
+| 21 | EF Research | [George Kadianakis](https://github.com/asn-d6/) |
+| 22 | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) |
+| 23 | EF Research | [Justin Drake](https://github.com/justindrake/) |
+| 24 | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) |
+| 25 | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) |
+| 26 | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) |
+| 27 | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) |
+| 28 | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) |
+| 29 | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) |
+| 30 | Erigon | [Tullio Canepa](https://github.com/canepat/) |
+| 31 | Geth | [Guillaume Ballet](https://github.com/gballet/) |
+| 32 | Geth | [Jared Wasinger](https://github.com/jwasinger/) |
+| 33 | Geth | [Marius Van der wijden](https://github.com/MariusVanDerWijden/) |
+| 34 | Geth | [Peter Szilagyi](https://github.com/karalabe/) |
+| 35 | Independent | [Peter Davies](https://github.com/ultratwo/) |
+| 36 | Independent | [Voith](https://github.com/voith/) |
+| 37 | Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) |
+| 38 | Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) |
+| 39 | Ipsilon | [Paweł Bylica](https://github.com/chfast/) |
+| 40 | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) |
+| 41 | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) |
+| 42 | Lighthouse | [Mac Ladson](https://github.com/macladson/) |
+| 43 | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) |
+| 44 | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) |
+| 45 | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) |
+| 46 | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) |
+| 47 | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) |
+| 48 | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) |
+| 49 | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) |
+| 50 | Lodestar | [dapplion](https://github.com/dapplion/) |
+| 51 | Lodestar | [Gajinder Singh](https://github.com/g11tech/) |
+| 52 | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) |
+| 53 | Nethermind | [Kristof Gazso](https://github.com/kristofgaszo/) |
+| 54 | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) |
+| 55 | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) |
+| 56 | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) |
+| 57 | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) |
+| 58 | Nimbus | [Dustin Brody](https://github.com/tersec/) |
+| 59 | Nimbus | [Etan Kissling](https://github.com/etan-status/) |
+| 60 | Nimbus | [Jacek Sieka](https://github.com/arnetheduck/) |
+| 61 | Nimbus | [Jamie Lokier](https://github.com/jlokier/) |
+| 62 | Nimbus | [Kim De Mey](https://github.com/kdeme/) |
+| 63 | Nimbus | [Konrad Staniec](https://github.com/KonradStaniec/) |
+| 64 | Nimbus | [Mamy Ratsimbazafy](https://github.com/mratsim/) |
+| 65 | Nimbus | [Ștefan Talpalaru](https://github.com/stefantalpalaru/) |
+| 66 | Nimbus | [Zahary Karadzhov](https://github.com/zah/) |
+| 67 | Prysmatic | [James He](https://github.com/james-prysm/) |
+| 68 | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) |
+| 69 | Prysmatic | [Mohamed Zahoor](https://github.com/jmozah/) |
+| 70 | Prysmatic | [Nishant Das](https://github.com/nisdas/) |
+| 71 | Prysmatic | [potuz](https://github.com/potuz/) |
+| 72 | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) |
+| 73 | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) |
+| 74 | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) |
+| 75 | Prysmatic | [Terence Tsao](https://github.com/terencechain/) |
+| 76 | Quilt | [Ansgar Dietrichs](https://github.com/adietrichs/) |
+| 77 | Quilt | [Matt Garnett](https://github.com/lightclient/) |
+| 78 | Quilt | [Sam Wilson](https://github.com/SamWilsn/) |
+| 79 | Quilt | [Somu Bhargava](https://github.com/bhargavasomu/) |
+| 80 | Solidity | [Alex Beregszaszi](https://github.com/axic/) |
+| 81 | Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) |
+| 82 | Solidity | [Johnson Ugwuru](https://github.com/ogwurujohnson/) |
+| 83 | Solidity | [Kaan Uzdogan](https://github.com/kuzdogan/) |
+| 84 | Solidity | [Kamil Sliwak](https://github.com/cameel/) |
+| 85 | Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) |
+| 86 | Teku | [Adrian Sutton](https://github.com/ajsutton/) |
+| 87 | Teku | [Ben Edgington](https://github.com/benjaminion/) |
+| 88 | Teku | [Enrico Del Fante](https://github.com/tbenr/) |
+| 89 | Teku | [Paul Harris](https://github.com/rolfyone/) |
+| 90 | TXRX | [Alex Vlasov](https://github.com/ericsson49/) |
+| 91 | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) |
+| 92 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
 
 ## Quotes
 
