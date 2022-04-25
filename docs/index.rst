@@ -3,12 +3,10 @@ Protocol Guild
 
 This is a new public goods funding mechanism: a vested split contract which distributes donated assets to a weighted list of Ethereum protocol contributors, self-curated by its membership. The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
 
-The Protocol Guild was bootstrapped by Stateful Works and operated by over **90 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
+The Protocol Guild was bootstrapped by Stateful Works and operated by over **100 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
 
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
-- this is a draft WIP - there may be some inconsistencies in argument or design throughout.
-- `Announcement Post <https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY>`_
 - join the `Stateful Works Discord <https://discord.gg/t8zSZCvf3y>`_ for discussion
 - follow for updates at `@StatefulWorks <https://twitter.com/StatefulWorks>`_
 
