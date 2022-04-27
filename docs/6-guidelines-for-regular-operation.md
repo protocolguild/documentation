@@ -5,7 +5,7 @@ What follows is an outline for how we plan to start, recommendations, and guidel
 The Guild should transition to Regular Operation before the end of the Initial Pilot but only after the summary report has made meaningful progress in assessing the Guild's evolving characteristics. Activities during Regular Operation should map directly to the obligations described in **3. Roles & Expectations**. Some things will change regularly, like the current set of sponsors at a specific time, or the membership over time.
 
 ## 6.1 Comms
-- broadcasting to the community and prospective sponsors when vests are set to start and end.
+- broadcasting to the community and prospective sponsors when vests are set to start and end
 
 ## 6.2 Parameter Setting
 
@@ -18,13 +18,13 @@ The Guild should transition to Regular Operation before the end of the Initial P
 
 ## 6.3 Weighting
 
-Antifragility and non-gameability emerge from simple frameworks. This limits the time spent deciding appropriate categories, the methods for collecting and verifying  as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines:
+Antifragility and non-gameability emerge from simple frameworks. This limits the time spent deciding appropriate categories, the methods for collecting and verifying  as well as the time spent weighting contributors. Additionally, this should limit cases of ambiguity gaming that might come up in complicated weighting schemes. Based on member feedback, we've settled on these guidelines: SQRT((`eligibleMonths` - `monthsOnBreak`) * `timeWeighting`)
 
-- `Number of eligible months`
   - historic contributions are considered in weightings
+  - `timeWeighting` can be either 1.0 for full-time or .5 for part-time contributors
   - existing contributors get "diluted" as newcomers come in
-- continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-- anyone who stops contributing is removed from the split via periodic Curation Reviews
+  - continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
+  - anyone who stops contributing is removed from the split via periodic Curation Reviews
 
 ## 6.4 Discussing new members
 
