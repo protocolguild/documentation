@@ -1,10 +1,10 @@
-# 5. Initial Pilot - Q1 2022
+# 5. Initial Pilot - 2022
 
 ## 5.1 Before Launch
 
 Before launch, there are a number of tasks that should be completed or otherwise well maintained. These include:
 
-- verifying the Astrodrop contracts and frontend on testnet
+- verifying the 0xSplits contracts and frontend on testnet
 - onboarding as many eligible Members through the process we have bootstrapped
 - broadcasting the intent of the Protocol Guild to the broader community and potential sponsors, getting a precommitment of funds where possible
 - refining the governance process, which is inclusive of curating potential members, deliberating about potential members, and onboarding
@@ -14,17 +14,20 @@ Before launch, there are a number of tasks that should be completed or otherwise
 Once those objectives are handled to our satisfaction, we intend to launch a limited pilot. This pilot will likely:
 
 - vest for one year from deployment, and possibly overlap with the deployment of the next round of vesting, eg. by 3 months.
-- target ~10mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks) or telegram @statefulworks
+- target ~20mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks) or telegram @statefulworks
 - include periodic updates to the membership and weights, at most once per quarter
-- launch with ~60 members (based on initial responses) over the vest, increase with closer to ~90. Members so far include:
+- launch with ~110 members Members so far include:
   - Diviners (Researchers / Spec Writers / Client Tinkerers): responsible for divining the future needs of the protocol
-    - EF Researchers
+    - EF Research
     - TX/RX
     - Robust Incentives Group (RIG)
   - Framers (Client Maintainers): In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
     - Besu
     - Erigon
-    - Geth
+    - EF Geth
+    - EF Javascript
+    - EF Portal
+    - Independent Contributors
     - Lighthouse
     - Lodestar
     - Nethermind
@@ -32,10 +35,12 @@ Once those objectives are handled to our satisfaction, we intend to launch a lim
     - Status
     - Teku
   - Guides (Ecosystem relations, client tinkerers): in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
+    - Ethereum Cat Herders
     - EF Devops
     - EF Protocol Support
     - EF Testing
-    - Ipsilon
+    - EF Ipsilon
+    - EF Security
     - Quilt
     - Solidity
 
