@@ -2,11 +2,11 @@
 
 ## 3.1 0xSplits
 
-The diagram below illustrates a set of 0xSplits contracts and how the Guild would operate them. 
-
 - [Documentation](https://docs.0xsplits.xyz/)
 - Protocol Guild Vesting Contract - Link to be added
 - Review from SigmaPrime - Link to be added
+
+The diagram below illustrates a set of 0xSplits contracts and how the Guild would operate them. 
 
 <img width="1678" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165566934-573410ee-2599-4917-95b9-c55ed7d76e20.png">
 
