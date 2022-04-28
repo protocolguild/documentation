@@ -8,7 +8,7 @@
 
 The diagram below illustrates a set of 0xSplits contracts and how the Guild would operate them. 
 
-<img width="1678" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165566934-573410ee-2599-4917-95b9-c55ed7d76e20.png">
+<img width="1572" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png">
 
 Out of all the existing mechanisms we explored, 0xSplits fulfills many of our original design objectives. 
 
