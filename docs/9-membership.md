@@ -1,7 +1,7 @@
 # 9. Membership 
 ## Member List
 
-For transparency purposes, we are disclosing the name/identifier of each Guild member and their team.
+For transparency purposes, we are disclosing each Guild member's team, the name/identifier, and a link to their work.
 
 |      | Team  |                Member + Link to work |
 | ---:         |        :--- |        :--- |
@@ -112,11 +112,121 @@ For transparency purposes, we are disclosing the name/identifier of each Guild m
 | 105 | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) |
 | 106 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
 
+## Addresses and Weights
+
+|      | Address  |                Weight |
+| ---:         |        :--- |        :--- |
+| 1 | 0xC9187b5C81d63b289811A4fcb9AC7ADb7103639e | 1.87 |
+| 2 | 0xe8FEE6186cbcF0790644D59f04cC5C085FBA68Bb | 1.87 |
+| 3 | 0x6bb11EBDF00ebDFbe707005B506A24Fd57d5Bd66 | 1.87 |
+| 4 | 0xF23090AB5773200bE3dAD33f42C7Eb20a14C4a61 | 2.12 |
+| 5 | 0xab8b3647EF7FF66D2f38ee5eaEf2b158c4eb52A2 | 2.24 |
+| 6 | 0x2D56Cd519540bE541A3261E22e95d6507F5504Ca | 2.24 |
+| 7 | 0x5869C17c8934Ce9f674e88c7d4f8F94DCE193FCB | 2.55 |
+| 8 | 0x8360470F1793C91c953be453fcA52CC63dfCb367 | 2.65 |
+| 9 | 0x4Bfa4639Cc1f4554122aBB930Aa897CDAe90d13b | 2.65 |
+| 10 | 0x046Fb65722E7b2455012BFEBf6177F1D2e9738D9 | 2.65 |
+| 11 | 0x22D6637330aF1de97a1F67D03A73b99A1E6D2263 | 2.65 |
+| 12 | 0x8ce466bD577396786C76Da8629314fcce5bE2A5f | 2.65 |
+| 13 | 0xEB8E7c90014565EEd8126110630eFa2d9CD6eBE4 | 2.65 |
+| 14 | 0x975D1040E93316917BD67dD32a02e1929F8aF8D3 | 2.65 |
+| 15 | 0x3d5D2AC4fEcF16bb1651A445d5B17f977A823546 | 2.65 |
+| 16 | 0x0906Eb682C6d12EdBE5e0A43E60068E1A7F8bea3 | 2.83 |
+| 17 | 0x13185f0aFBA5A53726615624a2bDF84383F0C6dE | 2.83 |
+| 18 | 0x00cDD7Fc085c86D000c0D54b3CA6fE83A8a806e5 | 2.83 |
+| 19 | 0xe2A296b3d3AD4212b6030442e70419ff7B82FEE4 | 3 |
+| 20 | 0x2A89178555a3e7d19218f28DF0B0Ec732E889e18 | 3 |
+| 21 | 0x661b81d462D80786c442774F452464A8C627a20E | 3 |
+| 22 | 0x2fb858991668840ce34F331402E0b3C66db078AF | 3.16 |
+| 23 | 0xf0869c68b91013bf214db68d503c65f9ba44097c | 3.16 |
+| 24 | 0x980a85ba6c2683e3509752dd3b4eB50165C0e65F | 3.16 |
+| 25 | 0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E | 3.16 |
+| 26 | 0xB7745Bde70e429bBd5Eb57dfa5ca70B84239477a | 3.16 |
+| 27 | 0xeFD79Dc8c08762156a2B204743e3fC9507f07f4E | 3.16 |
+| 28 | 0x153afFb96Fcb60085Ee307996Bdd2df0183A3682 | 3.16 |
+| 29 | 0x50122A5509F628e901F9c0238F0168833753239b | 3.32 |
+| 30 | 0x10c8597a5063A1648FfE13f54E996ba9bB3217B5 | 3.32 |
+| 31 | 0x77b34f5E620e8Cfd1839b245beAADd27ae3A25FB | 3.46 |
+| 32 | 0x0760E844e6f368ce73F1eEB917d37Db19375De3B | 3.46 |
+| 33 | 0xf0443945aD3BE9645382FC2537317dA97FEfF3A9 | 3.46 |
+| 34 | 0x0B916095200313900104bAcfc288462682C38700 | 3.61 |
+| 35 | 0x84f678A3e7BA8Fc817c32Ff10884D6FB20976114 | 3.61 |
+| 36 | 0x2bf7b04F143602692bBDc3EcbeA68C2c65278eee | 3.61 |
+| 37 | 0x6f91b7e11d955897aa7394d5b4fc82559fab27b9 | 3.74 |
+| 38 | 0xCb8DC3beC7B659022aE0d3E9de17322F31e4AA7C | 3.74 |
+| 39 | 0x4d5083dd10f2a46f26f5583c6679f9f8d30ae850 | 3.87 |
+| 40 | 0xE35b6f8E759Ac242585E2F41Ac29A2baAf4c4e96 | 3.94 |
+| 41 | 0xC152fd31F285f6c0B3807070280595e7Ea713a7f | 4.12 |
+| 42 | 0xbC349D1BEeE33c61F0395d1667E70056B4C869B9 | 4.12 |
+| 43 | 0x644177F8D79117c2b9C7596527642B3c2D05888E | 4.24 |
+| 44 | 0xb721c2e6640D963e99b37B6437ABAF6914A25A5e | 4.36 |
+| 45 | 0xa1D76553266fA8Ed3D143794a462aaFAdfC34f74 | 4.47 |
+| 46 | 0x925F5d6cCdB04F56fBa1cdcAd92E4eBb0d421411 | 4.58 |
+| 47 | 0x49Aa00072a7BA8a5639C43Fe9F6536820E6F5d57 | 4.69 |
+| 48 | 0xC6cA7c3427AD6B7a06fbED6D18C394E540E31814 | 4.8 |
+| 49 | 0x46cD90445349e64F895c403c23839e79eb4065e4 | 4.9 |
+| 50 | 0xFf9977FB117a22254a8eB6c6CE8d3Dd671FA70DC | 5.05 |
+| 51 | 0x65a63ceE206bFA6B2a3287479D28c8902B4055E9 | 5.1 |
+| 52 | 0x88dF07c605d13915B8E7D07dc8efD538dC0C5620 | 5.1 |
+| 53 | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 5.2 |
+| 54 | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 5.2 |
+| 55 | 0xa2c2536121810cecf277ed9b9dd5e6adacce04ad | 5.2 |
+| 56 | 0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2B1 | 5.2 |
+| 57 | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 5.29 |
+| 58 | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 5.39 |
+| 59 | 0x00d3baf1080b1cfb5897225a21ecdcc25a1f4456 | 5.48 |
+| 60 | 0x799681f9b9d7c55ed59f5a0f235cAb132Cde0a2B | 5.48 |
+| 61 | 0xb7A593EC62dc447eef23ea0e0B4d5144ac75ABC5 | 5.48 |
+| 62 | 0x1ecaea79D739BC222D6dB2d6bf63F869a329a702 | 5.66 |
+| 63 | 0xD4a3030b5f5e8DD4860d370C17E8576aE9951a2D | 5.66 |
+| 64 | 0x10ab73AA48D686b7FD9ec9D50418a14DD23f6631 | 5.74 |
+| 65 | 0x6e22a5e30088c8389dc725bbead5f0675334299f | 5.74 |
+| 66 | 0x71c15691e243bE88220957C784053EF0E084440B | 5.83 |
+| 67 | 0x24113fFB07189D1e6E169025A424B58C29522972 | 6 |
+| 68 | 0x6B29132ea388a308578c1d3Be068D0e4fc9915a2 | 6.08 |
+| 69 | 0x50d5e44700c10873875b4E75C4c9396562D83bE1 | 6.08 |
+| 70 | 0x873a45B49289b868E81547c6226357E7117e6070 | 6.16 |
+| 71 | 0xd20BebA9eFA30fB34aF93AF5c91C9a4d6854eAC4 | 6.16 |
+| 72 | 0x4B3105E9EC2B6069c1362388D429625a026f43e0 | 6.16 |
+| 73 | 0x366A06CbA45BC45996A7B6a1B6F22e8c9283b6Ea | 6.4 |
+| 74 | 0x05618d6EFFe2E522F07B1dB692d47A68bfD6fFEa | 6.48 |
+| 75 | 0xa87922d0074bCd82Ac82816633CcE68472548955 | 6.56 |
+| 76 | 0x86F34D8b98171281AB8bFe65C7e2718E4f002e35 | 6.63 |
+| 77 | 0xf5441a1b900a1D93e4c06CB9c3fDbA39F01469f0 | 6.63 |
+| 78 | 0x7e59Df833869E2997d05e163D6004f3344A052FA | 6.71 |
+| 79 | 0x0000006916a87b82333f4245046623b23794c65c | 6.71 |
+| 80 | 0xAb96014a7c078f09418Cf899Bf197CadFf023C16 | 6.78 |
+| 81 | 0x1de6938d9f9ebd43D0Cc56f0CeF1657D954c9A94 | 6.78 |
+| 82 | 0xCA186e78bf657d4C5694CA5CA448D3766d2b55Bb | 6.93 |
+| 83 | 0x00a2d2d22f456125d64beda5a6f37273a13d9de0 | 7 |
+| 84 | 0x57c5D54F7293CDE1FC129e4159cB07F48752ea61 | 7.07 |
+| 85 | 0xD2821c6347b07f7072c1C96A566d55912962b2CA | 7.07 |
+| 86 | 0x6fFd2248Ab7E80ef51D7Eb4CB60964C830125567 | 7.14 |
+| 87 | 0x3eD7bf997b7A91e9e8aB9eE2F7ce983bd37D6392 | 7.14 |
+| 88 | 0x5973D1af5c13168bdC85c6e78309272815995Ffb | 7.14 |
+| 89 | 0x376D5C3a16E9d015e8C584bB2d278E25F0ccb27B | 7.14 |
+| 90 | 0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55 | 7.14 |
+| 91 | 0x9F60E4aF6020cc6a791B2d1Ce9902d25A72bA824 | 7.21 |
+| 92 | 0x6C1C4f642ab5611A46ee6F3ED95Bbf2E3Caf4D1c | 7.21 |
+| 93 | 0x3B16821A5dBBFF86E4a88eA0621EC6be016cd79A | 7.35 |
+| 94 | 0xF51fc4c6Ab075482b61F5C1d4E72fADaFf8815F3 | 7.35 |
+| 95 | 0xBc11295936Aa79d594139de1B2e12629414F3BDB | 7.35 |
+| 96 | 0xe019836A41CB707F79b991f60e241918097aC16e | 7.48 |
+| 97 | 0x8cbf722adfbc071a12aae158a12a68397578017c | 7.48 |
+| 98 | 0x299cB850bD75C07ef89978Bdc52e062Cc4fA0250 | 7.48 |
+| 99 | 0xBFbeaB0896E29d0Db26ad60278d3Ab3C482BB199 | 7.55 |
+| 100 | 0xdF6C53Df56f3992FC44195518A2d8B16306Af9ff | 7.62 |
+| 101 | 0xbB3F2F946E8eE2912830e365cF241293636cb057 | 7.62 |
+| 102 | 0x497f0D190C513f51eAC234628200a5E62271a7A5 | 8 |
+| 103 | 0xE9F19B6C72219f9B12C9c367405a90Ac9aFb2241 | 8.77 |
+| 104 | 0x974B9cb3c122561e3bf6234651E0b82B88Fb9015 | 9.17 |
+| 105 | 0x6591e7D655f248f6930195385C36b8D5Af679B8B | 9.33 |
+| 106 | 0x9Bee5b17Eb847744b6a81Ee935409739F91c722c | 9.38 |
+
 ## Quotes
 
-We've asked members to share why they think the Protocol Guild is important for Ethereum: here are a few of their responses.
+We've asked members to share why they think the Protocol Guild is important for Ethereum: here are a few of their responses:
 
----
 **Adrian Manning (Lighthouse)** - "Lighthouse is the Rust implementation of Ethereum Beacon Chain, a key component in Ethereum's transition to PoS Although Lighthouse is one of a few major production Eth2 clients, it's imperative that more than 1 production client is used in the space to avoid the chain collapsing if bugs/vulnerabilities are found in a single client. Protocol Guild supports the teams working on minority clients, which is an important initiative." <br><br>
 **Alex Stokes (EF Research)** - "The Protocol Guild is an experiment in public goods funding that aims to align the incentives of core protocol contributors with the continued stewardship of the ecosystem by allowing these contributors to share in the value created by their hard work. This mechanism is important for the future of Ethereum as it ensures continuity of protocol direction, maintenance, and growth amongst a set of dedicated individuals who deeply care about realizing the collective vision that inspires everyone who interacts with our community." <br><br>
 **Alex Vlasov (TXRX)** - "Ethereum - and blockchains, in general - unveils tremendous opportunities and one of them is building a more fair world. Protocol Guild serves several purposes: 1. It's an instrument for public goods funding, which is often underrated 2. It's a research and an exploration of innovative social mechanisms 3. It aims to support Ethereum Protocol contributors" <br><br>
