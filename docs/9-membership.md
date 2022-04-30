@@ -113,6 +113,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 | 106 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
 
 ## Addresses and Weights
+For member privacy, the order of weights here does not correspond to the names above.
 
 |      | Address  |                Weight |
 | ---:         |        :--- |        :--- |
