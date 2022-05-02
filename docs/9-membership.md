@@ -117,7 +117,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 ## Addresses and Weights
 For member privacy, the order of weights here does not correspond to the names above.
 
-|      | Address  |                Weight |
+|      | Address  |                Weight as a percent |
 | ---:         |        :--- |        :--- |
 | 1 | 0xe8FEE6186cbcF0790644D59f04cC5C085FBA68Bb | 0.341 |
 | 2 | 0x6bb11EBDF00ebDFbe707005B506A24Fd57d5Bd66 | 0.341 |
