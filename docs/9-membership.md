@@ -28,201 +28,205 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 | 21 | EF Research | [Antonio Sanso](https://github.com/asanso/) |
 | 22 | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) |
 | 23 | EF Research | [Dankrad Feist](https://github.com/dankrad/) |
-| 24 | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) |
-| 25 | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) |
-| 26 | EF Research | [George Kadianakis](https://github.com/asn-d6/) |
-| 27 | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) |
-| 28 | EF Research | [Justin Drake](https://github.com/justindrake/) |
-| 29 | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) |
-| 30 | EF Research | [Proto](https://github.com/protolambda/) |
-| 31 | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) |
-| 32 | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) |
-| 33 | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) |
-| 34 | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) |
-| 35 | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) |
-| 36 | EF Security | [Yoav Weiss](https://github.com/yoavw/) |
-| 37 | EF Testing | [Mario Vega](https://github.com/marioevz/) |
-| 38 | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) |
-| 39 | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) |
-| 40 | Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) |
-| 41 | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) |
-| 42 | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) |
-| 43 | Erigon | [Tullio Canepa](https://github.com/canepat/) |
-| 44 | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) |
-| 45 | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) |
-| 46 | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) |
-| 47 | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) |
-| 48 | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) |
-| 49 | Independent | [Peter Davies](https://github.com/ultratwo/) |
-| 50 | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) |
-| 51 | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) |
-| 52 | Lighthouse | [Mac Ladson](https://github.com/macladson/) |
-| 53 | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) |
-| 54 | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) |
-| 55 | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) |
-| 56 | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) |
-| 57 | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) |
-| 58 | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) |
-| 59 | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) |
-| 60 | Lodestar | [dapplion](https://github.com/dapplion/) |
-| 61 | Lodestar | [Gajinder Singh](https://github.com/g11tech/) |
-| 62 | Lodestar | [Phil Ngo](https://github.com/philknows/) |
-| 63 | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) |
-| 64 | Nethermind | [Daniel Caleda](https://github.com/dceleda/) |
-| 65 | Nethermind | [Kristof Gazso](https://github.com/kristofgaszo/) |
-| 66 | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) |
-| 67 | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) |
-| 68 | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) |
-| 69 | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) |
-| 70 | Nethermind | [Sarah Liu](https://github.com/avalonche/) |
-| 71 | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) |
-| 72 | Prysmatic | [James He](https://github.com/james-prysm/) |
-| 73 | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) |
-| 74 | Prysmatic | [Nishant Das](https://github.com/nisdas/) |
-| 75 | Prysmatic | [potuz](https://github.com/potuz/) |
-| 76 | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) |
-| 77 | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) |
-| 78 | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) |
-| 79 | Prysmatic | [Terence Tsao](https://github.com/terencechain/) |
-| 80 | Quilt | [Ansgar Dietrichs](https://github.com/adietrichs/) |
-| 81 | Quilt | [Matt Garnett](https://github.com/lightclient/) |
-| 82 | Quilt | [Sam Wilson](https://github.com/SamWilsn/) |
-| 83 | Quilt | [Somu Bhargava](https://github.com/bhargavasomu/) |
-| 84 | Solidity | [Alex Beregszaszi](https://github.com/axic/) |
-| 85 | Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) |
-| 86 | Solidity | [Johnson Ugwuru](https://github.com/ogwurujohnson/) |
-| 87 | Solidity | [Kaan Uzdogan](https://github.com/kuzdogan/) |
-| 88 | Solidity | [Kamil Sliwak](https://github.com/cameel/) |
-| 89 | Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) |
-| 90 | Status | [Dustin Brody](https://github.com/tersec/) |
-| 91 | Status | [Etan Kissling](https://github.com/etan-status/) |
-| 92 | Status | [Eugene Kabanov](https://github.com/cheatfate/) |
-| 93 | Status | [Jacek Sieka](https://github.com/arnetheduck/) |
-| 94 | Status | [Jamie Lokier](https://github.com/jlokier/) |
-| 95 | Status | [Kim De Mey](https://github.com/kdeme/) |
-| 96 | Status | [Konrad Staniec](https://github.com/KonradStaniec/) |
-| 97 | Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) |
-| 98 | Status | [Ștefan Talpalaru](https://github.com/stefantalpalaru/) |
-| 99 | Status | [Zahary Karadzhov](https://github.com/zah/) |
-| 100 | Teku | [Adrian Sutton](https://github.com/ajsutton/) |
-| 101 | Teku | [Ben Edgington](https://github.com/benjaminion/) |
-| 102 | Teku | [Enrico Del Fante](https://github.com/tbenr/) |
-| 103 | Teku | [Paul Harris](https://github.com/rolfyone/) |
-| 104 | TXRX | [Alex Vlasov](https://github.com/ericsson49/) |
-| 105 | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) |
-| 106 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
+| 24 | EF Research | [David Theodore](https://github.com/infosecual/) |
+| 25 | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) |
+| 26 | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) |
+| 27 | EF Research | [George Kadianakis](https://github.com/asn-d6/) |
+| 28 | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) |
+| 29 | EF Research | [Justin Drake](https://github.com/justindrake/) |
+| 30 | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) |
+| 31 | EF Research | [Proto](https://github.com/protolambda/) |
+| 32 | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) |
+| 33 | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) |
+| 34 | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) |
+| 35 | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) |
+| 36 | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) |
+| 37 | EF Security | [Yoav Weiss](https://github.com/yoavw/) |
+| 38 | EF Testing | [Mario Vega](https://github.com/marioevz/) |
+| 39 | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) |
+| 40 | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) |
+| 41 | Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) |
+| 42 | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) |
+| 43 | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) |
+| 44 | Erigon | [Tullio Canepa](https://github.com/canepat/) |
+| 45 | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) |
+| 46 | Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) |
+| 47 | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) |
+| 48 | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) |
+| 49 | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) |
+| 50 | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) |
+| 51 | Independent | [Peter Davies](https://github.com/ultratwo/) |
+| 52 | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) |
+| 53 | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) |
+| 54 | Lighthouse | [Mac Ladson](https://github.com/macladson/) |
+| 55 | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) |
+| 56 | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) |
+| 57 | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) |
+| 58 | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) |
+| 59 | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) |
+| 60 | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) |
+| 61 | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) |
+| 62 | Lodestar | [dapplion](https://github.com/dapplion/) |
+| 63 | Lodestar | [Gajinder Singh](https://github.com/g11tech/) |
+| 64 | Lodestar | [Phil Ngo](https://github.com/philknows/) |
+| 65 | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) |
+| 66 | Nethermind | [Daniel Caleda](https://github.com/dceleda/) |
+| 67 | Nethermind | [Kristof Gazso](https://github.com/kristofgaszo/) |
+| 68 | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) |
+| 69 | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) |
+| 70 | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) |
+| 71 | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) |
+| 72 | Nethermind | [Sarah Liu](https://github.com/avalonche/) |
+| 73 | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) |
+| 74 | Prysmatic | [James He](https://github.com/james-prysm/) |
+| 75 | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) |
+| 76 | Prysmatic | [Nishant Das](https://github.com/nisdas/) |
+| 77 | Prysmatic | [potuz](https://github.com/potuz/) |
+| 78 | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) |
+| 79 | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) |
+| 80 | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) |
+| 81 | Prysmatic | [Terence Tsao](https://github.com/terencechain/) |
+| 82 | Quilt | [Ansgar Dietrichs](https://github.com/adietrichs/) |
+| 83 | Quilt | [Matt Garnett](https://github.com/lightclient/) |
+| 84 | Quilt | [Sam Wilson](https://github.com/SamWilsn/) |
+| 85 | Quilt | [Somu Bhargava](https://github.com/bhargavasomu/) |
+| 86 | Solidity | [Alex Beregszaszi](https://github.com/axic/) |
+| 87 | Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) |
+| 88 | Solidity | [Johnson Ugwuru](https://github.com/ogwurujohnson/) |
+| 89 | Solidity | [Kaan Uzdogan](https://github.com/kuzdogan/) |
+| 90 | Solidity | [Kamil Sliwak](https://github.com/cameel/) |
+| 91 | Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) |
+| 92 | Status | [Dustin Brody](https://github.com/tersec/) |
+| 93 | Status | [Etan Kissling](https://github.com/etan-status/) |
+| 94 | Status | [Eugene Kabanov](https://github.com/cheatfate/) |
+| 95 | Status | [Jacek Sieka](https://github.com/arnetheduck/) |
+| 96 | Status | [Jamie Lokier](https://github.com/jlokier/) |
+| 97 | Status | [Kim De Mey](https://github.com/kdeme/) |
+| 98 | Status | [Konrad Staniec](https://github.com/KonradStaniec/) |
+| 99 | Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) |
+| 100 | Status | [Ștefan Talpalaru](https://github.com/stefantalpalaru/) |
+| 101 | Status | [Zahary Karadzhov](https://github.com/zah/) |
+| 102 | Teku | [Adrian Sutton](https://github.com/ajsutton/) |
+| 103 | Teku | [Ben Edgington](https://github.com/benjaminion/) |
+| 104 | Teku | [Enrico Del Fante](https://github.com/tbenr/) |
+| 105 | Teku | [Paul Harris](https://github.com/rolfyone/) |
+| 106 | TXRX | [Alex Vlasov](https://github.com/ericsson49/) |
+| 107 | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) |
+| 108 | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) |
 
 ## Addresses and Weights
 For member privacy, the order of weights here does not correspond to the names above.
 
 |      | Address  |                Weight |
 | ---:         |        :--- |        :--- |
-| 1 | 0xC9187b5C81d63b289811A4fcb9AC7ADb7103639e | 1.87 |
-| 2 | 0xe8FEE6186cbcF0790644D59f04cC5C085FBA68Bb | 1.87 |
-| 3 | 0x6bb11EBDF00ebDFbe707005B506A24Fd57d5Bd66 | 1.87 |
-| 4 | 0xF23090AB5773200bE3dAD33f42C7Eb20a14C4a61 | 2.12 |
-| 5 | 0xab8b3647EF7FF66D2f38ee5eaEf2b158c4eb52A2 | 2.24 |
-| 6 | 0x2D56Cd519540bE541A3261E22e95d6507F5504Ca | 2.24 |
-| 7 | 0x5869C17c8934Ce9f674e88c7d4f8F94DCE193FCB | 2.55 |
-| 8 | 0x8360470F1793C91c953be453fcA52CC63dfCb367 | 2.65 |
-| 9 | 0x4Bfa4639Cc1f4554122aBB930Aa897CDAe90d13b | 2.65 |
-| 10 | 0x046Fb65722E7b2455012BFEBf6177F1D2e9738D9 | 2.65 |
-| 11 | 0x22D6637330aF1de97a1F67D03A73b99A1E6D2263 | 2.65 |
-| 12 | 0x8ce466bD577396786C76Da8629314fcce5bE2A5f | 2.65 |
-| 13 | 0xEB8E7c90014565EEd8126110630eFa2d9CD6eBE4 | 2.65 |
-| 14 | 0x975D1040E93316917BD67dD32a02e1929F8aF8D3 | 2.65 |
-| 15 | 0x3d5D2AC4fEcF16bb1651A445d5B17f977A823546 | 2.65 |
-| 16 | 0x0906Eb682C6d12EdBE5e0A43E60068E1A7F8bea3 | 2.83 |
-| 17 | 0x13185f0aFBA5A53726615624a2bDF84383F0C6dE | 2.83 |
-| 18 | 0x00cDD7Fc085c86D000c0D54b3CA6fE83A8a806e5 | 2.83 |
-| 19 | 0xe2A296b3d3AD4212b6030442e70419ff7B82FEE4 | 3 |
-| 20 | 0x2A89178555a3e7d19218f28DF0B0Ec732E889e18 | 3 |
-| 21 | 0x661b81d462D80786c442774F452464A8C627a20E | 3 |
-| 22 | 0x2fb858991668840ce34F331402E0b3C66db078AF | 3.16 |
-| 23 | 0xf0869c68b91013bf214db68d503c65f9ba44097c | 3.16 |
-| 24 | 0x980a85ba6c2683e3509752dd3b4eB50165C0e65F | 3.16 |
-| 25 | 0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E | 3.16 |
-| 26 | 0xB7745Bde70e429bBd5Eb57dfa5ca70B84239477a | 3.16 |
-| 27 | 0xeFD79Dc8c08762156a2B204743e3fC9507f07f4E | 3.16 |
-| 28 | 0x153afFb96Fcb60085Ee307996Bdd2df0183A3682 | 3.16 |
-| 29 | 0x50122A5509F628e901F9c0238F0168833753239b | 3.32 |
-| 30 | 0x10c8597a5063A1648FfE13f54E996ba9bB3217B5 | 3.32 |
-| 31 | 0x77b34f5E620e8Cfd1839b245beAADd27ae3A25FB | 3.46 |
-| 32 | 0x0760E844e6f368ce73F1eEB917d37Db19375De3B | 3.46 |
-| 33 | 0xf0443945aD3BE9645382FC2537317dA97FEfF3A9 | 3.46 |
-| 34 | 0x0B916095200313900104bAcfc288462682C38700 | 3.61 |
-| 35 | 0x84f678A3e7BA8Fc817c32Ff10884D6FB20976114 | 3.61 |
-| 36 | 0x2bf7b04F143602692bBDc3EcbeA68C2c65278eee | 3.61 |
-| 37 | 0x6f91b7e11d955897aa7394d5b4fc82559fab27b9 | 3.74 |
-| 38 | 0xCb8DC3beC7B659022aE0d3E9de17322F31e4AA7C | 3.74 |
-| 39 | 0x4d5083dd10f2a46f26f5583c6679f9f8d30ae850 | 3.87 |
-| 40 | 0xE35b6f8E759Ac242585E2F41Ac29A2baAf4c4e96 | 3.94 |
-| 41 | 0xC152fd31F285f6c0B3807070280595e7Ea713a7f | 4.12 |
-| 42 | 0xbC349D1BEeE33c61F0395d1667E70056B4C869B9 | 4.12 |
-| 43 | 0x644177F8D79117c2b9C7596527642B3c2D05888E | 4.24 |
-| 44 | 0xb721c2e6640D963e99b37B6437ABAF6914A25A5e | 4.36 |
-| 45 | 0xa1D76553266fA8Ed3D143794a462aaFAdfC34f74 | 4.47 |
-| 46 | 0x925F5d6cCdB04F56fBa1cdcAd92E4eBb0d421411 | 4.58 |
-| 47 | 0x49Aa00072a7BA8a5639C43Fe9F6536820E6F5d57 | 4.69 |
-| 48 | 0xC6cA7c3427AD6B7a06fbED6D18C394E540E31814 | 4.8 |
-| 49 | 0x46cD90445349e64F895c403c23839e79eb4065e4 | 4.9 |
-| 50 | 0xFf9977FB117a22254a8eB6c6CE8d3Dd671FA70DC | 5.05 |
-| 51 | 0x65a63ceE206bFA6B2a3287479D28c8902B4055E9 | 5.1 |
-| 52 | 0x88dF07c605d13915B8E7D07dc8efD538dC0C5620 | 5.1 |
-| 53 | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 5.2 |
-| 54 | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 5.2 |
-| 55 | 0xa2c2536121810cecf277ed9b9dd5e6adacce04ad | 5.2 |
-| 56 | 0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2B1 | 5.2 |
-| 57 | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 5.29 |
-| 58 | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 5.39 |
-| 59 | 0x00d3baf1080b1cfb5897225a21ecdcc25a1f4456 | 5.48 |
-| 60 | 0x799681f9b9d7c55ed59f5a0f235cAb132Cde0a2B | 5.48 |
-| 61 | 0xb7A593EC62dc447eef23ea0e0B4d5144ac75ABC5 | 5.48 |
-| 62 | 0x1ecaea79D739BC222D6dB2d6bf63F869a329a702 | 5.66 |
-| 63 | 0xD4a3030b5f5e8DD4860d370C17E8576aE9951a2D | 5.66 |
-| 64 | 0x10ab73AA48D686b7FD9ec9D50418a14DD23f6631 | 5.74 |
-| 65 | 0x6e22a5e30088c8389dc725bbead5f0675334299f | 5.74 |
-| 66 | 0x71c15691e243bE88220957C784053EF0E084440B | 5.83 |
-| 67 | 0x24113fFB07189D1e6E169025A424B58C29522972 | 6 |
-| 68 | 0x6B29132ea388a308578c1d3Be068D0e4fc9915a2 | 6.08 |
-| 69 | 0x50d5e44700c10873875b4E75C4c9396562D83bE1 | 6.08 |
-| 70 | 0x873a45B49289b868E81547c6226357E7117e6070 | 6.16 |
-| 71 | 0xd20BebA9eFA30fB34aF93AF5c91C9a4d6854eAC4 | 6.16 |
-| 72 | 0x4B3105E9EC2B6069c1362388D429625a026f43e0 | 6.16 |
-| 73 | 0x366A06CbA45BC45996A7B6a1B6F22e8c9283b6Ea | 6.4 |
-| 74 | 0x05618d6EFFe2E522F07B1dB692d47A68bfD6fFEa | 6.48 |
-| 75 | 0xa87922d0074bCd82Ac82816633CcE68472548955 | 6.56 |
-| 76 | 0x86F34D8b98171281AB8bFe65C7e2718E4f002e35 | 6.63 |
-| 77 | 0xf5441a1b900a1D93e4c06CB9c3fDbA39F01469f0 | 6.63 |
-| 78 | 0x7e59Df833869E2997d05e163D6004f3344A052FA | 6.71 |
-| 79 | 0x0000006916a87b82333f4245046623b23794c65c | 6.71 |
-| 80 | 0xAb96014a7c078f09418Cf899Bf197CadFf023C16 | 6.78 |
-| 81 | 0x1de6938d9f9ebd43D0Cc56f0CeF1657D954c9A94 | 6.78 |
-| 82 | 0xCA186e78bf657d4C5694CA5CA448D3766d2b55Bb | 6.93 |
-| 83 | 0x00a2d2d22f456125d64beda5a6f37273a13d9de0 | 7 |
-| 84 | 0x57c5D54F7293CDE1FC129e4159cB07F48752ea61 | 7.07 |
-| 85 | 0xD2821c6347b07f7072c1C96A566d55912962b2CA | 7.07 |
-| 86 | 0x6fFd2248Ab7E80ef51D7Eb4CB60964C830125567 | 7.14 |
-| 87 | 0x3eD7bf997b7A91e9e8aB9eE2F7ce983bd37D6392 | 7.14 |
-| 88 | 0x5973D1af5c13168bdC85c6e78309272815995Ffb | 7.14 |
-| 89 | 0x376D5C3a16E9d015e8C584bB2d278E25F0ccb27B | 7.14 |
-| 90 | 0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55 | 7.14 |
-| 91 | 0x9F60E4aF6020cc6a791B2d1Ce9902d25A72bA824 | 7.21 |
-| 92 | 0x6C1C4f642ab5611A46ee6F3ED95Bbf2E3Caf4D1c | 7.21 |
-| 93 | 0x3B16821A5dBBFF86E4a88eA0621EC6be016cd79A | 7.35 |
-| 94 | 0xF51fc4c6Ab075482b61F5C1d4E72fADaFf8815F3 | 7.35 |
-| 95 | 0xBc11295936Aa79d594139de1B2e12629414F3BDB | 7.35 |
-| 96 | 0xe019836A41CB707F79b991f60e241918097aC16e | 7.48 |
-| 97 | 0x8cbf722adfbc071a12aae158a12a68397578017c | 7.48 |
-| 98 | 0x299cB850bD75C07ef89978Bdc52e062Cc4fA0250 | 7.48 |
-| 99 | 0xBFbeaB0896E29d0Db26ad60278d3Ab3C482BB199 | 7.55 |
-| 100 | 0xdF6C53Df56f3992FC44195518A2d8B16306Af9ff | 7.62 |
-| 101 | 0xbB3F2F946E8eE2912830e365cF241293636cb057 | 7.62 |
-| 102 | 0x497f0D190C513f51eAC234628200a5E62271a7A5 | 8 |
-| 103 | 0xE9F19B6C72219f9B12C9c367405a90Ac9aFb2241 | 8.77 |
-| 104 | 0x974B9cb3c122561e3bf6234651E0b82B88Fb9015 | 9.17 |
-| 105 | 0x6591e7D655f248f6930195385C36b8D5Af679B8B | 9.33 |
-| 106 | 0x9Bee5b17Eb847744b6a81Ee935409739F91c722c | 9.38 |
+| 1 | 0xe8FEE6186cbcF0790644D59f04cC5C085FBA68Bb | 0.341 |
+| 2 | 0x6bb11EBDF00ebDFbe707005B506A24Fd57d5Bd66 | 0.341 |
+| 3 | 0xC9187b5C81d63b289811A4fcb9AC7ADb7103639e | 0.3645 |
+| 4 | 0xF23090AB5773200bE3dAD33f42C7Eb20a14C4a61 | 0.3866 |
+| 5 | 0xab8b3647EF7FF66D2f38ee5eaEf2b158c4eb52A2 | 0.4076 |
+| 6 | 0x2D56Cd519540bE541A3261E22e95d6507F5504Ca | 0.4076 |
+| 7 | 0x9b796F2de75772f1634D78A3AB23A03778D3702a | 0.4465 |
+| 8 | 0x5869C17c8934Ce9f674e88c7d4f8F94DCE193FCB | 0.4822 |
+| 9 | 0x8360470F1793C91c953be453fcA52CC63dfCb367 | 0.4822 |
+| 10 | 0x4Bfa4639Cc1f4554122aBB930Aa897CDAe90d13b | 0.4822 |
+| 11 | 0x046Fb65722E7b2455012BFEBf6177F1D2e9738D9 | 0.4822 |
+| 12 | 0x22D6637330aF1de97a1F67D03A73b99A1E6D2263 | 0.4822 |
+| 13 | 0x8ce466bD577396786C76Da8629314fcce5bE2A5f | 0.5155 |
+| 14 | 0xEB8E7c90014565EEd8126110630eFa2d9CD6eBE4 | 0.5155 |
+| 15 | 0x975D1040E93316917BD67dD32a02e1929F8aF8D3 | 0.5155 |
+| 16 | 0x3d5D2AC4fEcF16bb1651A445d5B17f977A823546 | 0.5155 |
+| 17 | 0x0906Eb682C6d12EdBE5e0A43E60068E1A7F8bea3 | 0.5468 |
+| 18 | 0x13185f0aFBA5A53726615624a2bDF84383F0C6dE | 0.5468 |
+| 19 | 0x00cDD7Fc085c86D000c0D54b3CA6fE83A8a806e5 | 0.5468 |
+| 20 | 0xFBFd6Fa9F73Ac6A058E01259034C28001BEf8247 | 0.5468 |
+| 21 | 0xe2A296b3d3AD4212b6030442e70419ff7B82FEE4 | 0.5468 |
+| 22 | 0x2A89178555a3e7d19218f28DF0B0Ec732E889e18 | 0.5764 |
+| 23 | 0x661b81d462D80786c442774F452464A8C627a20E | 0.5764 |
+| 24 | 0x2fb858991668840ce34F331402E0b3C66db078AF | 0.5764 |
+| 25 | 0xf0869c68b91013bf214db68d503c65f9ba44097c | 0.5764 |
+| 26 | 0x980a85ba6c2683e3509752dd3b4eB50165C0e65F | 0.5764 |
+| 27 | 0x78ac9c2545850bEDbC076EB30ce7A6f0D74b395E | 0.5764 |
+| 28 | 0xB7745Bde70e429bBd5Eb57dfa5ca70B84239477a | 0.5764 |
+| 29 | 0xeFD79Dc8c08762156a2B204743e3fC9507f07f4E | 0.6045 |
+| 30 | 0x153afFb96Fcb60085Ee307996Bdd2df0183A3682 | 0.6045 |
+| 31 | 0x50122A5509F628e901F9c0238F0168833753239b | 0.6314 |
+| 32 | 0x10c8597a5063A1648FfE13f54E996ba9bB3217B5 | 0.6314 |
+| 33 | 0x0760E844e6f368ce73F1eEB917d37Db19375De3B | 0.6314 |
+| 34 | 0xf0443945aD3BE9645382FC2537317dA97FEfF3A9 | 0.6314 |
+| 35 | 0x77b34f5E620e8Cfd1839b245beAADd27ae3A25FB | 0.6444 |
+| 36 | 0x0B916095200313900104bAcfc288462682C38700 | 0.6572 |
+| 37 | 0x84f678A3e7BA8Fc817c32Ff10884D6FB20976114 | 0.6572 |
+| 38 | 0x2bf7b04F143602692bBDc3EcbeA68C2c65278eee | 0.682 |
+| 39 | 0x6f91b7e11d955897aa7394d5b4fc82559fab27b9 | 0.682 |
+| 40 | 0xCb8DC3beC7B659022aE0d3E9de17322F31e4AA7C | 0.7059 |
+| 41 | 0x4d5083dd10f2a46f26f5583c6679f9f8d30ae850 | 0.7059 |
+| 42 | 0xE35b6f8E759Ac242585E2F41Ac29A2baAf4c4e96 | 0.7291 |
+| 43 | 0xC152fd31F285f6c0B3807070280595e7Ea713a7f | 0.7515 |
+| 44 | 0xbC349D1BEeE33c61F0395d1667E70056B4C869B9 | 0.7733 |
+| 45 | 0x644177F8D79117c2b9C7596527642B3c2D05888E | 0.7945 |
+| 46 | 0xb721c2e6640D963e99b37B6437ABAF6914A25A5e | 0.7945 |
+| 47 | 0xa1D76553266fA8Ed3D143794a462aaFAdfC34f74 | 0.8352 |
+| 48 | 0x925F5d6cCdB04F56fBa1cdcAd92E4eBb0d421411 | 0.8549 |
+| 49 | 0x49Aa00072a7BA8a5639C43Fe9F6536820E6F5d57 | 0.8549 |
+| 50 | 0xC6cA7c3427AD6B7a06fbED6D18C394E540E31814 | 0.8929 |
+| 51 | 0x46cD90445349e64F895c403c23839e79eb4065e4 | 0.9113 |
+| 52 | 0xFf9977FB117a22254a8eB6c6CE8d3Dd671FA70DC | 0.9294 |
+| 53 | 0x65a63ceE206bFA6B2a3287479D28c8902B4055E9 | 0.9294 |
+| 54 | 0x88dF07c605d13915B8E7D07dc8efD538dC0C5620 | 0.9471 |
+| 55 | 0xE4b99f9580B90d88C3e6dC3E0B853D8D3b0B8B55 | 0.9471 |
+| 56 | 0x9d6d3b09F8AC8615805bd82e53B80D956F451CFa | 0.9471 |
+| 57 | 0xa2c2536121810cecf277ed9b9dd5e6adacce04ad | 0.9645 |
+| 58 | 0x35bc6a44AcFb79b5A47C1cbe2fD3C560a093a2B1 | 0.9645 |
+| 59 | 0xa29576F07eAaD050AeACbc89AC0518B62fe2F88E | 0.9815 |
+| 60 | 0xe05875F287C028901798aC2Dc8C22Ba908b8eF36 | 0.9815 |
+| 61 | 0x00d3baf1080b1cfb5897225a21ecdcc25a1f4456 | 1.0148 |
+| 62 | 0x799681f9b9d7c55ed59f5a0f235cAb132Cde0a2B | 1.0148 |
+| 63 | 0xb7A593EC62dc447eef23ea0e0B4d5144ac75ABC5 | 1.0148 |
+| 64 | 0x1ecaea79D739BC222D6dB2d6bf63F869a329a702 | 1.0311 |
+| 65 | 0xD4a3030b5f5e8DD4860d370C17E8576aE9951a2D | 1.047 |
+| 66 | 0x10ab73AA48D686b7FD9ec9D50418a14DD23f6631 | 1.047 |
+| 67 | 0x6e22a5e30088c8389dc725bbead5f0675334299f | 1.0628 |
+| 68 | 0x71c15691e243bE88220957C784053EF0E084440B | 1.0783 |
+| 69 | 0x24113fFB07189D1e6E169025A424B58C29522972 | 1.1087 |
+| 70 | 0x6B29132ea388a308578c1d3Be068D0e4fc9915a2 | 1.1087 |
+| 71 | 0x50d5e44700c10873875b4E75C4c9396562D83bE1 | 1.1236 |
+| 72 | 0x873a45B49289b868E81547c6226357E7117e6070 | 1.1236 |
+| 73 | 0xd20BebA9eFA30fB34aF93AF5c91C9a4d6854eAC4 | 1.1383 |
+| 74 | 0x4B3105E9EC2B6069c1362388D429625a026f43e0 | 1.1383 |
+| 75 | 0x366A06CbA45BC45996A7B6a1B6F22e8c9283b6Ea | 1.1671 |
+| 76 | 0x05618d6EFFe2E522F07B1dB692d47A68bfD6fFEa | 1.1952 |
+| 77 | 0xa87922d0074bCd82Ac82816633CcE68472548955 | 1.1952 |
+| 78 | 0x86F34D8b98171281AB8bFe65C7e2718E4f002e35 | 1.209 |
+| 79 | 0xf5441a1b900a1D93e4c06CB9c3fDbA39F01469f0 | 1.2227 |
+| 80 | 0x7e59Df833869E2997d05e163D6004f3344A052FA | 1.2227 |
+| 81 | 0x0000006916a87b82333f4245046623b23794c65c | 1.2227 |
+| 82 | 0xAb96014a7c078f09418Cf899Bf197CadFf023C16 | 1.2496 |
+| 83 | 0x1de6938d9f9ebd43D0Cc56f0CeF1657D954c9A94 | 1.2496 |
+| 84 | 0xCA186e78bf657d4C5694CA5CA448D3766d2b55Bb | 1.2759 |
+| 85 | 0x00a2d2d22f456125d64beda5a6f37273a13d9de0 | 1.2759 |
+| 86 | 0x57c5D54F7293CDE1FC129e4159cB07F48752ea61 | 1.3016 |
+| 87 | 0x3212974a4e53e5238f6ea193b36412db9ad61c26 | 1.3016 |
+| 88 | 0x6fFd2248Ab7E80ef51D7Eb4CB60964C830125567 | 1.3016 |
+| 89 | 0x3eD7bf997b7A91e9e8aB9eE2F7ce983bd37D6392 | 1.3143 |
+| 90 | 0x5973D1af5c13168bdC85c6e78309272815995Ffb | 1.3143 |
+| 91 | 0x376D5C3a16E9d015e8C584bB2d278E25F0ccb27B | 1.3143 |
+| 92 | 0xf71E9C766Cdf169eDFbE2749490943C1DC6b8A55 | 1.3143 |
+| 93 | 0x9F60E4aF6020cc6a791B2d1Ce9902d25A72bA824 | 1.3143 |
+| 94 | 0x6C1C4f642ab5611A46ee6F3ED95Bbf2E3Caf4D1c | 1.3269 |
+| 95 | 0x3B16821A5dBBFF86E4a88eA0621EC6be016cd79A | 1.3394 |
+| 96 | 0xF51fc4c6Ab075482b61F5C1d4E72fADaFf8815F3 | 1.3394 |
+| 97 | 0xBc11295936Aa79d594139de1B2e12629414F3BDB | 1.3517 |
+| 98 | 0xe019836A41CB707F79b991f60e241918097aC16e | 1.364 |
+| 99 | 0x8cbf722adfbc071a12aae158a12a68397578017c | 1.364 |
+| 100 | 0x299cB850bD75C07ef89978Bdc52e062Cc4fA0250 | 1.3761 |
+| 101 | 0xBFbeaB0896E29d0Db26ad60278d3Ab3C482BB199 | 1.3761 |
+| 102 | 0xdF6C53Df56f3992FC44195518A2d8B16306Af9ff | 1.4 |
+| 103 | 0xbB3F2F946E8eE2912830e365cF241293636cb057 | 1.4 |
+| 104 | 0x497f0D190C513f51eAC234628200a5E62271a7A5 | 1.4695 |
+| 105 | 0xE9F19B6C72219f9B12C9c367405a90Ac9aFb2241 | 1.5994 |
+| 106 | 0x974B9cb3c122561e3bf6234651E0b82B88Fb9015 | 1.6705 |
+| 107 | 0x9Bee5b17Eb847744b6a81Ee935409739F91c722c | 1.7095 |
+| 108 | 0x6591e7D655f248f6930195385C36b8D5Af679B8B | 1.7098 |
 
 ## Quotes
 
