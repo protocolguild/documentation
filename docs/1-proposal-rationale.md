@@ -1,8 +1,8 @@
 # 1. Proposal Rationale
 
-To increase the long-term sustainability of protocol maintenance, we propose a curated split contract which includes vesting. This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community's existing voluntaryist mindset towards public goods funding. 
+How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurrent topic for many years in our community. When the latest discussion resurfaced in [Oct 2022](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching the  existing public goods funding mechanisms
 
-There are three main motivations as to why there should be a new mechanism, the individual challenges related to each prompt, and the resulting design objectives we can use as inspiration.
+We settled on three main motivations as to why there should be a new mechanism, the individual challenges related to each, and the resulting design objectives we can use to help frame .
 
 ## 1.1 Curation is difficult
 
@@ -29,3 +29,9 @@ There's a steep learning curve for contributors to deliver value. It can take a 
 Contributor value grows over time, but there is less incentive for them to stay once they are experts
 - Design objective: Assets should vest to reduce churn in the contributor set, to help transfer knowledge between cohorts.
 - Design objective: Weight contributor allocations  according to time
+
+# Summary
+
+This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community’s existing voluntaryist mindset towards public goods funding.
+
+Over the course of this ideation process, we've also realized that these questions also apply to a more general question: what would a mechanism to trustlessly fund protocol contributors look like? We believe the current design of the Protocol Guild described here in this documentation is a strong approach to addressing these questions.
