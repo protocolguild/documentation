@@ -3,16 +3,16 @@ Protocol Guild
 
 This is a new public goods funding mechanism: a vested split contract which distributes assets to a weighted list of Ethereum protocol contributors, self-curated by its membership. The primary goal is to provide an autonomous incentive tool for the protocol and its maintainers.
 
-The Protocol Guild was bootstrapped by Stateful Works and operated by over **100 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
+The Protocol Guild was bootstrapped by Stateful Works and operated by over **110 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
 
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
 Sponsor the Pilot
 ================
 
-We're running a `1 year Pilot <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_ to test our assumptions about this mechanism and how to operate it. 
+We're running a 1 year Pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_) to test our assumptions about this mechanism and how to operate it. 
 
-If you or your organization would like to participate, you can do so permissionlessly at the `Vesting Contract Interface here <https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/>`_. Verify that the full address being sent to is 0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9. Note that there are two steps: depositing and starting the stream.
+If you or your organization would like to participate, you can do so permissionlessly at the `Vesting Contract Interface here <https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/>`_. Verify that the full address being sent to is **0xF29F...f1a9**. Note that there are two steps: depositing and starting the stream.
 
 If you have additional questions about the project, please reach out to `@StatefulWorks <https://twitter.com/StatefulWorks>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
 
