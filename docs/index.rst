@@ -10,12 +10,16 @@ The Protocol Guild was bootstrapped by Stateful Works and operated by over **100
 Sponsor the Pilot
 ================
 
-We're running a `1 year Pilot <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_ to test our assumptions about this mechanism and how to operate it. If you or your organization would like to participate, you can do so permissionlessly through the `Vesting Contract Interface <https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/>`_.
+We're running a `1 year Pilot <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_ to test our assumptions about this mechanism and how to operate it. 
 
-If you have questions about the project, please reach out to `@StatefulWorks <https://twitter.com/StatefulWorks>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
+If you or your organization would like to participate, you can do so permissionlessly at the `Vesting Contract Interface here <https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/>`_. Verify that the full address being sent to is 0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9. Note that there are two steps: depositing and starting the stream.
+
+If you have additional questions about the project, please reach out to `@StatefulWorks <https://twitter.com/StatefulWorks>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
 
 Table of Contents
 ===================
+
+The Protocol Guild is mechanism that learns and adapts. Be aware that this documentation is regularly updated, including operating guidelines, membership, Public Goods funding context, and more.
 
 .. toctree::
   :maxdepth: 2
