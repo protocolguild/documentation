@@ -9,40 +9,19 @@ Before launch, there are a number of tasks that should be completed or otherwise
 - broadcasting the intent of the Protocol Guild to the broader community and potential sponsors, getting a precommitment of funds where possible
 - refining the governance process, which is inclusive of curating potential members, deliberating about potential members, and onboarding
 
+As of May 8th 2022, these have all been completed.
+
 ## 5.2 Pilot Characteristics
 
 Once those objectives are handled to our satisfaction, we intend to launch a limited pilot. This pilot will likely:
 
 - vest for one year from deployment, and possibly overlap with the deployment of the next round of vesting, eg. by 3 months.
-- target ~20mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks) or telegram @statefulworks
+- target ~$10-20mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, please reach out on [Twitter](https://twitter.com/statefulworks), telegram @statefulworks, or to any of the existing members.
 - include periodic updates to the membership and weights, at most once per quarter
-- launch with ~110 members Members so far include:
+- launch with ~110 members. Members so far include:
   - Diviners (Researchers / Spec Writers / Client Tinkerers): responsible for divining the future needs of the protocol
-    - EF Research
-    - TX/RX
-    - Robust Incentives Group (RIG)
   - Framers (Client Maintainers): In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other
-    - Besu
-    - Erigon
-    - EF Geth
-    - EF Javascript
-    - EF Portal
-    - Independent Contributors
-    - Lighthouse
-    - Lodestar
-    - Nethermind
-    - Prysmatic
-    - Status
-    - Teku
   - Guides (Ecosystem relations, client tinkerers): in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
-    - Ethereum Cat Herders
-    - EF Devops
-    - EF Protocol Support
-    - EF Testing
-    - EF Ipsilon
-    - EF Security
-    - Quilt
-    - Solidity
 
 ## 5.3 Documenting Outcomes
 
