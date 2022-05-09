@@ -1,12 +1,10 @@
 # 3. Smart Contract Architecture
 
+As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from 0xSplits. Learn more about the project in the [documentation](https://docs.0xsplits.xyz/).
+
 ## 3.1 0xSplits
 
-- [Documentation](https://docs.0xsplits.xyz/)
-- Protocol Guild Vesting Contract - Link to be added
-- Review from SigmaPrime - Link to be added
-
-The diagram below illustrates a set of 0xSplits contracts and how the Guild would operate them. 
+Review the Pilot 1 year **[Vesting Contract here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)**. Verify that the full address being sent to is 0xF29F…f1a9. Note that there are two steps: depositing and starting the stream. The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
 
 <img width="1572" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png">
 
