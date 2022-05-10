@@ -30,7 +30,7 @@ Contributor value grows over time, but there is less incentive for them to stay 
 - Design objective: Assets should vest to reduce churn in the contributor set, to help transfer knowledge between cohorts.
 - Design objective: Weight contributor allocations  according to time
 
-# Summary
+## 1.4 Summary
 
 This mechanism will provide autonomous funding and nudge the incentive balance towards the protocol. Sponsors who opt-in will be Ethereum-based applications, protocols, and individuals - this aligns well with our community’s existing voluntaryist mindset towards public goods funding.
 
