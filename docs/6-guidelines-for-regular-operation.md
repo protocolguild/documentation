@@ -28,15 +28,31 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
 
 ## 6.4 Discussing new members
 
-If current members believe that the set should be expanded to include another contributor, they should propose them well enough in advance of a Membership Update. This would mean at least a week. Deliberations should strive to end in rough consensus, resorting to formal voting procedures only in rare extreme situations.
+If current members believe that the set should be expanded to include another contributor, they should propose them well enough in advance of a Membership Update. This would mean at least a week. The process would look something like this:
 
-## 6.3 Onboarding new members
+1. an existing member (akin to an EIP champion) should send this info in the `proposed-members` channel.
+
+- Name / Identifier
+- Team / Project
+- Discord handle
+- Link to relevant work, eg. github, research
+- Summary of their work and eligibility
+
+2. Discussion should be open for at least a few days to give members time to review and contribute to the discussion. This can be either with reacts on the proposal 👍 / 👎, ideally along with some written thoughts on why you think the proposed member fits the eligibility or not. Deliberations should strive to end in rough consensus, resorting to formal voting procedures only in rare extreme situations.
+
+3. Once a positive consensus has been reached, the person can be contacted with the typical onboarding flow. 
+
+If you are an existing core contributor that is not included, please contact an existing member to have them propose your work for consideration.
+
+## 6.5 Onboarding new members
+
+Eligible and confirmed members should be given an onboarding form link to be added to the split contract at the next quarterly update. They should also be added to the Stateful Works discord and given the proper `Guild Member` / Team roles.
 
 When introducing the concept to potential members or onboarding accepted ones, it should be noted that the submitted address should refer to an individual's personal wallet and *not* their employer's. If teams were the atomic unit, all team members would have to agree on whether to accept or decline membership, likely decreasing the number of participants.
 
-## 6.4 Guild Contact
+## 6.6 Guild Contact
 
-It may be the case that there should be a Guild Contact for each team which exists outside of the Guild's remit. The backstop is each team/project, who only need to confirm when a contributor has been added or removed. One member of each team/project (eg. Lighthouse) should agree to be the point of contact responsible for ensuring other members are aware of any significant developments like:
+It may be the case that there should be a Guild Contact for each team. The backstop is each team/project, who only need to confirm when a contributor has been added or removed. One member of each team/project (eg. Lighthouse) should agree to be the point of contact responsible for ensuring other members are aware of any significant developments like:
 
 - explaining membership obligations to new team members
 - collecting addresses and signatures for inclusion in the eligible set
