@@ -2,9 +2,21 @@
 
 As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from 0xSplits. Learn more about the project in the [documentation](https://docs.0xsplits.xyz/).
 
-## 3.1 0xSplits
+## 3.1 0xSplits Contracts
 
-Review the Pilot 1 year **[Vesting Contract here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)**. Verify that the full address being sent to is 0xF29F…f1a9. Note that there are two steps: depositing and starting the stream. The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
+### Pilot Vesting Contract
+- best for larger entities participating the Pilot
+- funds sent here will vest for 1 year
+- **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
+- Verify that the full address being sent to is 0xF29F…f1a9
+- Note that there are two steps: depositing and starting the stream
+
+### Split Contract
+- best for smaller donations outside of the Pilot, or regular periodic contributions 
+- **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
+- Verify that the full address being sent to is 0x84af...8ea1
+
+The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
 
 <img width="1572" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png">
 
