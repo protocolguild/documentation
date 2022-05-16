@@ -4,6 +4,8 @@ As part of the design process for the Protocol Guild, we researched a number of 
 
 ## 3.1 0xSplits Contracts
 
+Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. The Vesting contract gradually makes vested tokens transferable to the Split contract. Below are recommendations for which types of contributions to send to which contract. 
+
 ### Pilot Vesting Contract
 - best for larger entities participating the Pilot
 - funds sent here will vest for 1 year
