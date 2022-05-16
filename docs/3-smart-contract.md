@@ -12,7 +12,8 @@ As part of the design process for the Protocol Guild, we researched a number of 
 - Note that there are two steps: depositing and starting the stream
 
 ### Split Contract
-- best for smaller donations outside of the Pilot, or regular periodic contributions 
+- best for smaller donations outside of the Pilot, or regular periodic contributions
+- funds sent to this contract will not vest, and be immediately available for withdrawal by the core contributors listed in the contract
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
 - Verify that the full address being sent to is 0x84af...8ea1
 
