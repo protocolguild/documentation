@@ -48,6 +48,8 @@ Out of all the existing mechanisms we explored, 0xSplits fulfills many of our or
 
 While it's possible for the contract to be "set and forget," we plan to fully leverage its mutable capabilities. For longer 4 year vests, there will definitely be changes in the contributor set that we want to account for.
 
-We have deployed a Gnosis Safe [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances) to take on a few key tasks that cannot be handled autonomously. These include updating the membership list over the vest, and possibly deploying new vesting contracts (though this can also be done by unrelated EOAs with no reduction in trust).
+We have deployed a 6/10 Gnosis Safe [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances) to take on a few key tasks that cannot be handled autonomously. These include updating the membership list over the vest, and possibly deploying new vesting contracts (though this can also be done by unrelated EOAs with no reduction in trust).
+
+Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven't been vested yet. For this reason we don't disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Beyond that, we're exploring options to make this completely trustless in the future, similar to Moloch's permissionless proposals.
 
 See **4.13 Members as Signers** for the obligations expected of members as signers.
