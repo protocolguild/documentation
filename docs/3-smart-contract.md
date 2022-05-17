@@ -8,6 +8,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. T
 
 ### Pilot Vesting Contract
 - best for larger entities participating the Pilot
+- the contract only accepts ETH and ERC-20s: **DO NOT SEND NFTs** (ERC-721s), they will not vest, cannot be split, and will be unrecoverable
 - funds sent here will vest for 1 year
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
 - Verify that the full address being sent to is 0xF29F…f1a9
@@ -15,6 +16,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. T
 
 ### Split Contract
 - best for smaller donations outside of the Pilot, or regular periodic contributions
+- the contract only accepts ETH and ERC-20s: **DO NOT SEND NFTs** (ERC-721s), they cannot be split, and will be unrecoverable
 - funds sent to this contract will not vest, and be immediately available for withdrawal by the core contributors listed in the contract
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
 - Verify that the full address being sent to is 0x84af...8ea1
