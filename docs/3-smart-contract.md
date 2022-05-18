@@ -11,7 +11,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. T
 - the contract only accepts ETH and ERC-20s: **DO NOT SEND NFTs** (ERC-721s), they will not vest, cannot be split, and will be unrecoverable
 - funds sent here will vest for 1 year
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
-- Verify that the full address being sent to is 0xF29F…f1a9
+- Verify that the full address being sent to is 0xF29F…f1a9. in the future, there may be additional vesting contracts with different durations setup for the next iteration of the project
 - Note that there are two steps: depositing and starting the stream
 
 ### Split Contract
@@ -19,7 +19,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. T
 - the contract only accepts ETH and ERC-20s: **DO NOT SEND NFTs** (ERC-721s), they cannot be split, and will be unrecoverable
 - funds sent to this contract will not vest, and be immediately available for withdrawal by the core contributors listed in the contract
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
-- Verify that the full address being sent to is 0x84af...8ea1
+- Verify that the full address being sent to is 0x84af...8ea1. While the addresses and weights contained in the contract are mutable, the address of the contract itself will be used in perpetuity and will no change. Outside of the unlikely case that the Split management (multisig) gets compromised, it's reasonable for Sponsors to assume that this address being the canonical one far into the future if you're planning on automatic or recurring contributions. If this changes, we will be sure to communicate this publicly.
 
 The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
 
@@ -52,6 +52,8 @@ While it's possible for the contract to be "set and forget," we plan to fully le
 
 We have deployed a 6/10 Gnosis Safe [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances) to take on a few key tasks that cannot be handled autonomously. These include updating the membership list over the vest, and possibly deploying new vesting contracts (though this can also be done by unrelated EOAs with no reduction in trust).
 
-Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven't been vested yet. For this reason we don't disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Beyond that, we're exploring options to make this completely trustless in the future, similar to Moloch's permissionless proposals.
+Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven't been released (4a in the diagram above) and distributed (4b) to the beneficiary of the Split contract. For this reason we don't disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Further, release and distribute should probably happen on a regular cadence (quarterly) to limit the impact of a worst case scenario with the Multisig signers.
+
+Beyond that, we're exploring options to make this completely trustless in the future, similar to Moloch's permissionless proposals.
 
 See **4.13 Members as Signers** for the obligations expected of members as signers.
