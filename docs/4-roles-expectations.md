@@ -21,7 +21,7 @@ Members should be committed to Ethereum and its ethos of decentralization. The c
 
 It is possible that eligible individuals may work on a team which has a token, has VC backing or gives equity. Members should expect these guidelines to change over time, to get more explicit in some places and more permissive in others.
 
-Though Ethereum is a highly technical field, it is clear that people in supporting roles around the core protocol perform important work and should also be eligible. This may include people affiliated with the All Core Dev call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
+Though Ethereum is a highly technical field, it is clear that the work of non-developers around the core protocol is also crucial and should be eligible. This may include people affiliated with the All Core Dev call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
 
 #### Expectations
 
