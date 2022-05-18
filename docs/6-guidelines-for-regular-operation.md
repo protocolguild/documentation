@@ -26,7 +26,7 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
   - continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
   - anyone who stops contributing is removed from the split via periodic Curation Reviews
 
-## 6.4 Discussing new members
+## 6.4 Proposing and discussing new members
 
 If current members believe that the set should be expanded to include another contributor, they should propose them well enough in advance of a Membership Update. This would mean at least a week. The process would look something like this:
 
@@ -42,7 +42,9 @@ If current members believe that the set should be expanded to include another co
 
 3. Once a positive consensus has been reached, the person can be contacted with the typical onboarding flow. 
 
-If you are an existing core contributor that is not included, please contact an existing member to have them propose your work for consideration.
+If you are an existing core contributor that is not included, please contact an existing member to have them propose your work for consideration. 
+
+We are exploring tools and methods to make this process more transparent, potentially through a forum for discussion and to maintain a public record of decisions.
 
 ## 6.5 Onboarding new members
 
