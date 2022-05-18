@@ -21,6 +21,8 @@ Members should be committed to Ethereum and its ethos of decentralization. The c
 
 It is possible that eligible individuals may work on a team which has a token, has VC backing or gives equity. Members should expect these guidelines to change over time, to get more explicit in some places and more permissive in others.
 
+Though Ethereum is a highly technical field, people in supporting roles around the core dev call are also eligible. This may include people affiliated with the All Core Dev call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
+
 #### Expectations
 
 Members will notify organizers when their contributing status changes, or when the work that afforded eligibility breaks one of the guidelines above. If you're unsure about whether a new focus is still qualified, please ask the broader membership. At least once per year, members will prove ownership of the supplied address: members can claim vested funds or sign a message with their private key. This limits the impact of compromised wallets or lost keys. 
