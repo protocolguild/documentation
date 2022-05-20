@@ -1,6 +1,6 @@
 # 3. Smart Contract Architecture
 
-As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from 0xSplits. Learn more about the project in the [documentation](https://docs.0xsplits.xyz/).
+As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from **[0xSplits](https://www.0xsplits.xyz/)**. Learn more about the project in the [documentation](https://docs.0xsplits.xyz/).
 
 ## 3.1 0xSplits Contracts
 
