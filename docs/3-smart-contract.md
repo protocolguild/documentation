@@ -7,7 +7,7 @@ As part of the design process for the Protocol Guild, we researched a number of 
 Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. The Vesting contract gradually makes vested tokens transferable to the Split contract. the contract only accepts ETH and ERC-20s: **DO NOT SEND NFTs** (ERC-721s), they will not vest, cannot be split, and will be unrecoverable. Below are recommendations for which types of contributions to send to which contract. 
 
 ### Pilot Vesting Contract
-- best for larger entities participating the Pilot
+- best for larger entities participating in the Pilot
 - funds sent here will vest for 1 year
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
 - Verify that the full address being sent to is 0xF29F…f1a9. in the future, there may be additional vesting contracts with different durations setup for the next iteration of the project
