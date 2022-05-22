@@ -14,7 +14,7 @@ These are a very common mechanism, seen in Gitcoin, the EF's Ecosystem Support P
 
 For Gitcoin Grants, it can be challenging to ensure accountability for grantees due to the amount of time and expertise it can take to perform diligence. In addition, because Round participants are effectively competing against each other for the same matching funds, it necessitates some amount of self-promotion. This wouldn't work for large groups of individuals doing similar work like core developers, many of whom are more low profile. Collections (a curated set of Gitcoin profiles) could accomplish some of our objectives, but still does not include vesting, and don't resolve the answer the questions of custody and membership management. Finally, any prospective funder from the application layer has to rely on a mediating institution (eg. the Ethereum Foundation, Gitcoin Grants rounds) to facilitate discovery, processing, and diligence.
 
-### 2.2 Retroactive Funding Programs
+## 2.2 Retroactive Funding Programs
 
 An explicitly historic-looking variant of grants include [Optimism's RPG](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c). These can account for past work, but are usually scoped to measure the contributions of teams or projects, usually not individuals. There is no guarantee of consistent funding, as there is a possibility of omission from a subsequent round. In Gitcoin's case, it can take a while for past contributions to be recognized and rewarded due to how discovery and grant promotion cycles work.
 
