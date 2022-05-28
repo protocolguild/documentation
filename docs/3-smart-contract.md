@@ -17,7 +17,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC20 tokens. T
 - best for smaller donations outside of the Pilot, or regular periodic contributions
 - funds sent to this contract will not vest, and be immediately available for withdrawal by the core contributors listed in the contract
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
-- Verify that the full address being sent to is 0x84af...8ea1. While the addresses and weights contained in the contract are mutable, the address of the contract itself will be used in perpetuity and will no change. Outside of the unlikely case that the Split management (multisig) gets compromised, it's reasonable for Sponsors to assume that this address being the canonical one far into the future if you're planning on automatic or recurring contributions. If this changes, we will be sure to communicate this publicly.
+- Verify that the full address being sent to is 0x84af...8ea1. While the addresses and weights contained in the contract are mutable, the address of the contract itself will be used in perpetuity and will not change. Outside of the unlikely case that the Split management (multisig) gets compromised, it's reasonable for Sponsors to assume that this address being the canonical one far into the future if you're planning on automatic or recurring contributions. If this changes, we will be sure to communicate this publicly.
 
 The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
 
