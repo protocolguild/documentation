@@ -16,7 +16,7 @@ We're running a 1 year Pilot (`read more here <https://protocol-guild.readthedoc
 
 Information about the smart contracts and how you can help fund Public Goods and their contributors `here <https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#xsplits-contracts>`_.
 
-If you have additional questions about the project, please reach out to `@StatefulWorks <https://twitter.com/StatefulWorks>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
+If you have additional questions about the project, please reach out to `@ProtocolGuild <https://twitter.com/ProtocolGuild>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
 
 +---------------------------+---------------+
 | Donate Now                                |
