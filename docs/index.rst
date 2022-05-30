@@ -1,9 +1,10 @@
 Protocol Guild
 ------------
 
-A vested split contract which distributes assets from sponsors to a weighted list of Ethereum protocol contributors, self-curated by its membership.
-++++
-This is a new public goods funding mechanism which will provide an autonomous incentive tool for the Ethereum protocol and its maintainers. 
+- An organization made up of Ethereum core protocol contributors,
+- which actively maintains a onchain registry of its membership,
+- expressed as a Vesting Contract and a Split Contract,
+- which allows a diverse array of ecosystem sponsors to directly fund the membership, their work, the Public Good.**
 
 The Protocol Guild is operated by over **110 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
 
