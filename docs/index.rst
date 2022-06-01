@@ -2,7 +2,7 @@ Protocol Guild
 ------------
 
 - An organization made up of Ethereum core protocol contributors,
-- which actively maintains a onchain registry of its membership,
+- which actively maintains an onchain registry of its membership,
 - expressed as a Vesting Contract and a Split Contract,
 - which allows a diverse array of ecosystem sponsors to directly fund the membership, their work, the Public Good.
 
