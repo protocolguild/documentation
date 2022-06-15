@@ -13,6 +13,6 @@
 
 - [The Protocol Guild - The Daily Gwei #481](https://thedailygwei.substack.com/p/the-protocol-guild-the-daily-gwei?s=w) - May 13 2022
 - The Protocol Guild | Green Pill Podcast #10 - [Watch](https://www.youtube.com/watch?v=VjE9a9COahc) or [Listen](https://availableon.com/greenpill) - April 25 2022
-- [Funding Ethereum Public Goods with the Protocol Guild](https://streameth.tv/event/eth-day#ETHday03) - ETHDay Presentation - April 18 2022
+- [Funding Ethereum Public Goods with the Protocol Guild](https://www.youtube.com/watch?v=Bhx7advbPLE) - ETHDay Presentation - April 18 2022
 - [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) - Feb 17 2022
 - [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) - Dec 31 2021
