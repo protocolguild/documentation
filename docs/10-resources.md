@@ -10,7 +10,7 @@
 - [Gnosis Safe multisig](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances)
 
 ## Media
-
+- [Funding Ethereum Core Development and the Protocol Guild](https://anchor.fm/i-pledge-allegiance/episodes/Trent-Van-Epps-and-Tim-Beiko---Funding-Ethereum-Core-Development-and-the-Protocol-Guild-e1k26qh) | I Pledge Allegiance podcast - June 20 2022
 - [The Protocol Guild - The Daily Gwei #481](https://thedailygwei.substack.com/p/the-protocol-guild-the-daily-gwei?s=w) - May 13 2022
 - The Protocol Guild | Green Pill Podcast #10 - [Watch](https://www.youtube.com/watch?v=VjE9a9COahc) or [Listen](https://availableon.com/greenpill) - April 25 2022
 - [Funding Ethereum Public Goods with the Protocol Guild](https://www.youtube.com/watch?v=Bhx7advbPLE) - ETHDay Presentation - April 18 2022
