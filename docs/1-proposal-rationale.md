@@ -1,6 +1,6 @@
 # 1. Proposal Rationale
 
-How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurrent topic for many years in our community. When the latest discussion resurfaced in [Oct 2022](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching the  existing public goods funding mechanisms
+How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurrent topic for many years in our community. When the latest discussion resurfaced in [Oct 2021](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching the  existing public goods funding mechanisms
 
 We settled on three main motivations as to why there should be a new mechanism, the individual challenges related to each, and the resulting design objectives we can use to help frame .
 
