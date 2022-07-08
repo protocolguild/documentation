@@ -1,8 +1,7 @@
 Protocol Guild
 ------------
 
-- An organization made up of Ethereum core protocol contributors,
-- which actively maintains an onchain registry of its membership,
+- A collective of 116 Ethereum core protocol contributors which actively maintains an onchain registry of its membership,
 - which allows ecosystem sponsors to directly fund the membership, their work, the Public Good.
 
 The Protocol Guild is operated by over **110 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
