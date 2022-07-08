@@ -4,7 +4,7 @@ Protocol Guild
 - A collective of 116 Ethereum core protocol contributors which actively maintains an onchain registry of its membership,
 - which allows ecosystem sponsors to directly fund the membership, their work, the Public Good.
 
-The Protocol Guild is operated by over **110 core protocol contributors**, including members from Besu, EF Devops, EF Protocol Support, EF Research, EF Testing, Erigon, Geth, Ipsilon, Lighthouse, Lodestar, Nethermind, Prysm, Quilt, Robust Incentives Group (RIG), Solidity, Status, Teku, and TX/RX.
+Members are from EF DevOps, EF Geth, EF Ipsilon, EF JavaScript, EF Portal, EF Protocol Support, EF Research, EF Robust Incentives Group (RIG), EF Security, EF Testing, Erigon, Ethereum Cat Herders, Hyperledger Besu, Independent, Lighthouse, Lodestar, Nethermind, Prysmatic, Quilt, Solidity, Status, Teku, and TXRX. Join the `Protocol Guild Discord <https://discord.gg/t8zSZCvf3y>`_ for discussion
 
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
@@ -32,7 +32,7 @@ If you have additional questions about the project, please reach out to `@Protoc
 Table of Contents
 ===================
 
-The Protocol Guild is mechanism that learns and adapts. Be aware that this documentation is regularly updated, including operating guidelines, membership, Public Goods funding context, and more.
+The Protocol Guild is mechanism that learns and adapts - this documentation is regularly updated.
 
 .. toctree::
   :maxdepth: 2
@@ -47,23 +47,3 @@ The Protocol Guild is mechanism that learns and adapts. Be aware that this docum
   8-case-studies
   9-membership
   10-resources
-
-Stateful Works
-===============
-
-- join the `Stateful Works Discord <https://discord.gg/t8zSZCvf3y>`_ for discussion
-
-We create cultural artifacts for Ethereum - read more at `stateful.mirror.xyz <https://stateful.mirror.xyz/>`_.
-
-- the Beacon Book 
-   - a digital & physical book with embedded NFTs, made in collaboration w/ 46 Beacon Chain contributors
-   - over 110 ETH went to project contributors
-   - `Read and Mint <https://stateful.mirror.xyz/Y1ED9RorG9OvEUXD8NBmXgYhSVhjj8H537-I2SZJkYA>`_
-   - `Graphics and Narratives <https://stateful.mirror.xyz/jOFMjyRtgT0KPbeWgysDp1HM4mQnlWKeQA3HQ2SJpbA>`_
-   - `Crowdfunding 100 physical Beacon Books <https://stateful.mirror.xyz/-NLDSw0mA2vjtvqQYpXBOa3H38HXMmIdaw2KwI1A0y8>`_
-
-- 1559 NFT Series
-   - NFTs where proceeds went to EIP-1559 contributors, over 278 ETH
-   - `Launch Post <https://stateful.mirror.xyz/rsUhYxXARr7j2iDjqJeelY7nc6CN_Y-MilVDP1S5voA>`_
-   - `Wrap up post <https://stateful.mirror.xyz/qpqvDbajGArdteKMSEkEUA3bFGVWQhJXG2Pnajm5hqA>`_
-
