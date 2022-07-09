@@ -96,7 +96,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | Nethermind | Marek Moraczyński | 1 |
 | Nethermind | Mateusz Jędrzejewski | 1 |
 | Nethermind | Sarah Liu | 1 |
-| Nethermind | Tanish  | 1 |
+| Nethermind | Tanishq  | 1 |
 | Nethermind | Tomasz Stanzeck | 1 |
 | 0xSplits | donations.0xSplits.eth | 1 |
 | Prysmatic | James He | 1 |
