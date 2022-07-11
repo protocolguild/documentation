@@ -1,7 +1,8 @@
 Protocol Guild
 ------------
 
-- A collective of Ethereum contributors working to boost the incentives around stewarding the core protocol
+- A collective of Ethereum contributors 
+- working to boost the incentives around stewarding the core protocol
 - by maintaining an onchain registry of its membership
 - which allows ecosystem sponsors to directly fund the membership, their work, the Public Good.
 
