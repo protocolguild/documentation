@@ -58,7 +58,9 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
  | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) | 1 |
  | Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) | 1 |
+ | Erigon | [Eugene Gelfand](https://github.com/gelfand) | 1 |
  | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 1 |
+ | Erigon | [Jochen Müller](https://github.com/jomuel) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
