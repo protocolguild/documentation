@@ -2,13 +2,10 @@
 
 Internal tool to propose new members, remove inactive members, and modify full/part-time weights via PR and private discussion. Will only match public docs ~1x per quarter when the split is updated.
 
-An existing member should make a PR to this repo with team, name, and time-weight. The PR: should also include as a comment:
+An existing member should make a PR to this repo with team, name (with link to work), and time-weight. Make sure to use the appropriate tag (add/remove member, change time-weight) on the PR, and also include the following in the comment:
 
-- Name / Identifier
-- Project
-- Discord handle
-- Link to relevant work, eg. github, research
-- Summary of their work / eligibility
+- Link to some work
+- Short summary of their work / eligibility
 
 Discussion should be open for ~1 week to give members time to review and contribute to the discussion. This can be either with 👍 / 👎, but also ideally some writing on why you think the proposed member fits the eligibility or not 
 
