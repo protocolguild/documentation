@@ -11,6 +11,8 @@ An existing member should make a PR to this repo with team, name (+ link to work
 
 Include the following in the comment:
 
+- Name / identifier
+- Team
 - Link to some work
 - Short summary of their work / eligibility
 
