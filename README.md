@@ -133,6 +133,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Teku | [Adrian Sutton](https://github.com/ajsutton/) | 1 |
  | Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
+ | Teku | [Dmitry Shmatko](https://github.com/zilm13) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
  | Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
