@@ -1,4 +1,4 @@
-# 5. Initial Pilot - 2022
+# 5. Pilot: May '22 - May '23 
 
 ## 5.1 Before Launch
 
@@ -16,7 +16,7 @@ To prepare for launch, there are a few tasks we wanted to properly complete:
 As of May 8th 2022, all of the above have been completed. Here's an overview of how the Pilot is structured.
 
 - Sponsoring assets will vest for one year (365 days) from stream initialization. Sponsoring streams may overlap with the next iteration of the vesting contract by a few months.
-- We are targeting between ~$10-20mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, you can send permissionlessly to the [vesting contract 0xF29...1a9 here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/). If you or your project have questions, please reach out on [Twitter](https://twitter.com/statefulworks), telegram @statefulworks, or to any of the existing members.
+- We are targeting between ~$10-20mm in sponsorships. If you're interested in being part of this initial cohort of sponsors, you can send permissionlessly to the [vesting contract 0xF29...1a9 here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/). If you or your project have questions, please reach out on [Twitter](https://twitter.com/protocolguild) or to any of the existing members.
 - We will plan to update [membership](https://protocol-guild.readthedocs.io/en/latest/9-membership.html#member-list) and [weights](https://protocol-guild.readthedocs.io/en/latest/9-membership.html#addresses-and-weights) ideally once per quarter, barring any special cases.
 - The beneficiary split has been launched with 111 beneficiary addresses - see the contract through the [0xsplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/). The initial set of Pilot beneficiaries include:
   - Diviners (Researchers / Spec Writers / Client Tinkerers): responsible for divining the future needs of the protocol
