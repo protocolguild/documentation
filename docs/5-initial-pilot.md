@@ -24,6 +24,21 @@ As of May 8th 2022, all of the above have been completed. Here's an overview of 
   - Guides (Ecosystem relations, client tinkerers): in dialogue with both previous sets and responsible for guiding both of their paths of divination and manifestation 
   - the donations.0xSplits.eth address, which represents the 0xSplits team and some of their Public Goods dependencies
 
+## 5.4 Documenting Process
+
+### Funding Requests
+
+* Successful: [2mm LDO from the Lido community](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016)
+* Successful: [200k ENS from the ENS community](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877)
+* Successful: [500k UNI from the Uniswap community ](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824)
+* Successful: [500 ETH from Nouns](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599)
+* Failed: [2mm CRV from Curve Finance](https://gov.curve.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-vefunder-gauge/3032). approached through the wrong funding mechanism
+* In progress: [500 ETH from MolochDAO](https://forum.daohaus.club/t/grant-proposal-protocol-guild-pilot/11188)
+
+### Dune Dashboard
+
+An overview of Pilot finances can be explored via this Dune Analytics dashboard: [Protocol Guild Finances](https://dune.com/datamonkey_eth/protocol-guild). Thanks to [@datamonkey_eth](https://twitter.com/datamonkey_eth) for working with us to make it happen - we can strongly recommend them if your project needs data viz done!
+
 ## 5.3 Documenting Outcomes
 
 Throughout the pilot, special attention should be given to evaluating outcomes related to the above characteristics. The information gathered should be archived in the docs as a cohesive report for the edification of future members and operational adjustments. The  report should include the following topics:
