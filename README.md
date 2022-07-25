@@ -61,6 +61,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
+ | EF Robust Incentives Group (RIG) | [Anders Elowsson](https://twitter.com/weboftrees) | 1 |
  | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
