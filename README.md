@@ -102,12 +102,10 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
  | Nethermind | [Daniel Caleda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado) | 0.5 |
- | Nethermind | [Kristof Gazso](https://github.com/kristofgaszo/) | 0.5 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
- | Nethermind | [Sarah Liu](https://github.com/avalonche/) | 1 |
  | Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
  | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 1 |
  | 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
