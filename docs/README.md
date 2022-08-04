@@ -8,7 +8,6 @@ This is a new public goods funding mechanism by Stateful Works: a split contract
 
 - This is a draft WIP - there may be some inconsistencies in argument or design throughout
 - [Announcement Post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
-- Join the [Stateful Works Discord](https://discord.gg/t8zSZCvf3y) for discussion
 - follow for updates at [@StatefulWorks](https://twitter.com/StatefulWorks)
 
 ### → [Read the docs here!](https://protocol-guild.readthedocs.io/en/latest/index.html#) ←
