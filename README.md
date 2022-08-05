@@ -88,7 +88,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	65	| Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
 | 	66	| Independent | [Guru](https://github.com/gurukamath/) | 0.5 |
 | 	67	| Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
-| 	68	| Independent | [Micah](https://github.com/MicahZoltu/) | 0.5 |
 | 	69	| Independent | [Peter Davies](https://github.com/ultratwo/) | 1 |
 | 	70	| Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
 | 	71	| Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
