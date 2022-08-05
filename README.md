@@ -88,55 +88,55 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	65	| Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
 | 	66	| Independent | [Guru](https://github.com/gurukamath/) | 0.5 |
 | 	67	| Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
-| 	69	| Independent | [Peter Davies](https://github.com/ultratwo/) | 1 |
-| 	70	| Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
-| 	71	| Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
-| 	72	| Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
-| 	73	| Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
-| 	74	| Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 1 |
-| 	75	| Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 1 |
-| 	76	| Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 1 |
-| 	77	| Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 |
-| 	78	| Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 1 |
-| 	79	| Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
-| 	80	| Lodestar | [Dadepo Aderemi](https://github.com/dadepo/) | 1 |
-| 	81	| Lodestar | [dapplion](https://github.com/dapplion/) | 1 |
-| 	82	| Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
-| 	83	| Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
-| 	84	| Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
-| 	85	| Nethermind | [Daniel Caleda](https://github.com/dceleda/) | 1 |
-| 	86	| Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
-| 	87	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
-| 	88	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
-| 	89	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
-| 	90	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
-| 	91	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
-| 	92	| Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
-| 	93	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
-| 	94	| Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
-| 	95	| Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
-| 	96	| Prysmatic | [potuz](https://github.com/potuz/) | 1 |
-| 	97	| Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
-| 	98	| Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
-| 	99	| Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 1 |
-| 	100	| Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 1 |
-| 	101	| Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
-| 	102	| Quilt | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
-| 	103	| Status | [Dustin Brody](https://github.com/tersec/) | 1 |
-| 	104	| Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
-| 	105	| Status | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
-| 	106	| Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
-| 	107	| Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
-| 	108	| Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
-| 	109	| Status | [Konrad Staniec](https://github.com/KonradStaniec/) | 1 |
-| 	110	| Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
-| 	111	| Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
-| 	112	| Teku | [Adrian Sutton](https://github.com/ajsutton/) | 1 |
-| 	113	| Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
-| 	114	| Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
-| 	115	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
-| 	116	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
-| 	117	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
-| 	118	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
-| 	119	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
-| 	120	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+| 	68	| Independent | [Peter Davies](https://github.com/ultratwo/) | 1 |
+| 	69	| Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
+| 	70	| Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
+| 	71	| Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
+| 	72	| Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
+| 	73	| Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 1 |
+| 	74	| Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 1 |
+| 	75	| Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 1 |
+| 	76	| Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 |
+| 	77	| Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 1 |
+| 	78	| Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
+| 	79	| Lodestar | [Dadepo Aderemi](https://github.com/dadepo/) | 1 |
+| 	80	| Lodestar | [dapplion](https://github.com/dapplion/) | 1 |
+| 	81	| Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
+| 	82	| Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
+| 	83	| Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
+| 	84	| Nethermind | [Daniel Caleda](https://github.com/dceleda/) | 1 |
+| 	85	| Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
+| 	86	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
+| 	87	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
+| 	88	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
+| 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
+| 	90	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
+| 	91	| Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
+| 	92	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
+| 	93	| Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
+| 	94	| Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
+| 	95	| Prysmatic | [potuz](https://github.com/potuz/) | 1 |
+| 	96	| Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
+| 	97	| Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
+| 	98	| Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 1 |
+| 	99	| Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 1 |
+| 	100	| Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
+| 	101	| Quilt | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
+| 	102	| Status | [Dustin Brody](https://github.com/tersec/) | 1 |
+| 	103	| Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
+| 	104	| Status | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
+| 	105	| Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
+| 	106	| Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
+| 	107	| Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
+| 	108	| Status | [Konrad Staniec](https://github.com/KonradStaniec/) | 1 |
+| 	109	| Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
+| 	110	| Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
+| 	111	| Teku | [Adrian Sutton](https://github.com/ajsutton/) | 1 |
+| 	112	| Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
+| 	113	| Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
+| 	114	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
+| 	115	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
+| 	116	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
+| 	117	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
+| 	118	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
+| 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
