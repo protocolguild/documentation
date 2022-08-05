@@ -19,8 +19,8 @@ Include the following in the comment:
 Discussion should be open for ~1 week to give members time to review and contribute to the discussion. This can be either with 👍 / 👎, but also ideally some writing on why you think the proposed member fits the eligibility or not.
 
 
-| Team  |                Name / Link to work |  Time-weight |
-| :---        |        :--- |        :--- |
+| | Team  |                Name / Link to work |  Time-weight |
+| ---: | :---        |        :--- |        :--- |
 | 	1	| 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
 | 	2	| Akula | [Artem Vorotnikov](https://github.com/vorot93/) | 1 |
 | 	3	| EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
