@@ -112,7 +112,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	89	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
 | 	90	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
 | 	91	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
-| 	92	| Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 1 |
+| 	92	| Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
 | 	93	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
 | 	94	| Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
 | 	95	| Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
