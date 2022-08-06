@@ -104,7 +104,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	81	| Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
 | 	82	| Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
 | 	83	| Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
-| 	84	| Nethermind | [Daniel Caleda](https://github.com/dceleda/) | 1 |
+| 	84	| Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
 | 	85	| Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
 | 	86	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
 | 	87	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
