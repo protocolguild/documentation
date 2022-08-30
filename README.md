@@ -104,14 +104,14 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	81	| Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
 | 	82	| Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
 | 	83	| Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
-| 	84	| Nethermind | [Daniel Caleda](https://github.com/dceleda/) | 1 |
+| 	84	| Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
 | 	85	| Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
 | 	86	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
 | 	87	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
 | 	88	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
 | 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
 | 	90	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
-| 	91	| Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
+| 	91	| Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
 | 	92	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
 | 	93	| Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
 | 	94	| Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
