@@ -32,8 +32,8 @@ As of May 8th 2022, all of the above have been completed. Here's an overview of 
 * Successful: [200k ENS from the ENS community](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877)
 * Successful: [500k UNI from the Uniswap community ](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824)
 * Successful: [500 ETH from Nouns](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599)
+* Successful: [500 ETH from MolochDAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/22)
 * Failed: [2mm CRV from Curve Finance](https://gov.curve.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-vefunder-gauge/3032). approached through the wrong funding mechanism
-* In progress: [500 ETH from MolochDAO](https://forum.daohaus.club/t/grant-proposal-protocol-guild-pilot/11188)
 
 ### Dune Dashboard
 
