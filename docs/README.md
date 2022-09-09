@@ -11,4 +11,5 @@ This is a new public goods funding mechanism by Stateful Works: a split contract
 - follow for updates at [@StatefulWorks](https://twitter.com/StatefulWorks)
 
 ### → [Read the docs here!](https://protocol-guild.readthedocs.io/en/latest/index.html#) ←
-### → Follow us [on Twitter](https://twitter.com/protocolguild)
+### → Follow us [on Twitter](https://twitter.com/protocolguild) ←
+### → Donate to our [Gitcoin Grant](https://gitcoin.co/grants/4832/protocol-guild) during matching rounds ←
