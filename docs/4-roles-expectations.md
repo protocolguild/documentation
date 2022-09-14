@@ -75,7 +75,7 @@ Ethereum has a rich culture of experimenting with radical new ideas: it's what m
 -  recurring protocol fee revenue
 -  interest bearing tokens
 -  fractionalized NFTs
--  good old fashioned ETH
+-  good old-fashioned ETH
 
 In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see **Case Studies** for more explorations on this.
 
