@@ -140,3 +140,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	117	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
 | 	118	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
 | 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+|       120     | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
