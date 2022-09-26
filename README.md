@@ -141,3 +141,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	118	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
 | 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
 | 120  | Stateless Ethereum               | Kevaundray Wedderburn                                                | 1           |
+| 	121	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
