@@ -63,7 +63,7 @@ We believe it is incentive compatible that curators are drawn from the beneficia
 - Adding ineligible beneficiaries removes future vested value from existing members, i.e. they will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
 - The mechanism *must* accept all legitimate contributors, which prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If sponsors think that the set is not inclusive enough, they will not feel incentivized to contribute.
 
-Beyond this basic expectation, members should consider mentoring through something like the Core Developer Apprenticeship Program (CDAP) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
+Beyond this basic expectation, members should consider mentoring through something like the [Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/cohort-three) (EPF) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
 
 ### 4.13 Signers
 
