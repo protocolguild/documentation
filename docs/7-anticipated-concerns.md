@@ -39,7 +39,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 **What are the tax implications of participation?**
 - We are not tax lawyers, each participant should seek experts for their jurisdiction.
 
-**What use cases can you anticipate wanting in the future that Astrodrop can’t facilitate today?**
+**What use cases can you anticipate wanting in the future that 0xSplits can’t facilitate today?**
 - Lending markets built into the vesting stream
 - Programmatically dripping membership
 - Extensions that let users automate a custom functions like "claim and sell to DAI"
@@ -78,7 +78,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **Why hasn't anyone built this before?**
 - It's unlikely that one project from the ecosystem would have the capacity to take responsibility for all the coordination efforts related to collecting and maintaining a list of contributors. If it did happen, the project would eventually find themselves with an immense amount of power as the gatekeeping curator.
-- The tech did not exist until now (Astrodrop).
+- The contacts did not exist until now (0xSplits).
 - Core devs are largely too focused on other things to coordinate such an effort
 
 **Broadly, how will this design fail?**
