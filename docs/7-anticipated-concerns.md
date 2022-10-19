@@ -27,7 +27,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - The mechanism's legitimacy is predicated on broad participation. If enough contributors decline, this may not be an appropriate tool for incenting work on public goods. In the latter case, the vesting would still continue but it may be difficult to solicit additional donations.
 
 **How will members handle conflicts about list inclusion, eg. when someone starts doing well-intentioned but poorly executed work?**
-- Eligibility criteria should be given special care, as much as the contract or the outreach to donating entities. These should be communicated publicly and frequently with change history, eg. Github. Any decisions which sidestep transparent processes undermines the mechanism's legitimacy.
+- Eligibility criteria should be given special care, as much as the contract or the outreach to donating entities. These should be communicated publicly and frequently with change history, eg. GitHub. Any decisions which sidestep transparent processes undermines the mechanism's legitimacy.
 
 **What other failure modes have not been explored in-depth yet?**
 - the membership is updated to only include addresses controlled by the attackers. 
@@ -48,18 +48,18 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **What are some ways that curation can fail?**
 - There are edge cases which should be considered. For example, where the marginal legitimacy lost by excluding a given contributor is too low to get curators to push for their inclusion. 
-- The initial set of curators fails to expand beyond outside of their social graphs, but accumulates enough members to accomplish a state of "good enough" legitimacy. 
+- The initial set of curators fails to expand beyond their social graphs, but accumulates enough members to accomplish a state of "good enough" legitimacy. 
 - The social norms that build up around the mechanism are sufficiently powerful to draw in continued donations even though it just barely hits the "good enough" threshold.
 
 ## 7.2 Related to the Broader Community
 
 **Will this replace existing salaries?**
-- No, this should be a bonus on top of current pay: employers/ DAOs should pretend as though it doesn't exist. Given that an employer won't be able to tell whether they have submitted their address or that of a charity. It would not be ethical to compell charity disclosures.
+- No, this should be a bonus on top of current pay: employers/ DAOs should pretend as though it doesn't exist. Given that an employer won't be able to tell whether they have submitted their address or that of a charity. It would not be ethical to compel charity disclosures.
 
 **What if this ends up being a significant amount?**
 - If this mechanism *doesn't* accrue significant funds, then it's not really working properly. Vested donations should be significant enough to inspire new contributors to join core development. However, there should be deeper incentive analyses and the thresholds at which they get funky.
 
-**Why doesn't people just ask for some multiple of their current salary?**
+**Why don't people just ask for some multiple of their current salary?**
 - As discussed in "[2. Broader Context](https://hackmd.io/ANe-MBCgTFSN6qG7drn3zg?both#2-Broader-Context)," traditional orgs will never be able to match the upside that comes from working on a novel tokenized application or L2.
 
 **Aren't donated assets a form of bribe?**
@@ -69,7 +69,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - Not advisable, this would complicate inclusion decisions. The split is supposed to incentivise current and future contributors.
 
 **Will this compete with Gitcoin or other similar efforts?**
-- We feel that this mechanism is differentiated enough (ie. forward looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards Public Goods.
+- We feel that this mechanism is differentiated enough (ie. forward-looking, core protocol focused, vested, biases towards native tokens as opposed to USD) that the overlap may appear larger than it actually is. However, there may be some donating entities that feel like they are already "doing their part" with donations to one initiative and may not feel obligated to contribute to the other. We believe that it's healthy to have a number of autonomous & differentiated funding approaches towards Public Goods.
 
 ## 7.3 Culture / Big Questions
 
@@ -87,4 +87,4 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **Will long-term vesting lead to stagnation in core development roles?**
 - In the sense of gatekeeping/groupthink/capture, we sincerely hope not. There's certainly a possibility that previously effective people may get stuck in a position if the incentive is significant enough. However, this is no different from any other job with performance requirements, crypto or otherwise. If someone is not performing adequately, they will be removed from their job and then from the list. If anything, the infusion of new perspectives as the set grows will be a healthy process.
-- With the conclusion of each vest, everyone starts again at 0 convincing the public that they are the legitimate heir to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Any one can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively actively evolve their systems periodically to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
+- With the conclusion of each vest, everyone starts again at 0 convincing the public that they are the legitimate heir to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Anyone can copy this blueprint and create their own competing version. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively evolve their systems periodically to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
