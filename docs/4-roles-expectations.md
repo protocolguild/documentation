@@ -85,7 +85,7 @@ Ethereum has a rich culture of experimenting with radical new ideas: it’s what
 
 In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see **Case Studies** for more explorations on this.
 
-Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New Astrodrop contracts will need to be deployed and sponsored periodically to maintain  future incentives to contribute to the protocol.
+Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New vesting contracts will need to be deployed and sponsored periodically to maintain  future incentives to contribute to the protocol.
 
 ## 4.3 The Community
 
