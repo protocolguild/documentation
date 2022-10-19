@@ -40,7 +40,7 @@ Out of all the existing mechanisms we explored, 0xSplits fulfills many of our or
 - Multi-claims are straightforward
   - Members are able to claim their allocation from multiple eligibility windows and multiple assets in a single transaction.
 - Members decide when to take custody/ withdraw
-  - Members should be able to decide when and how they withdraw funds from the mechanism, eg. to suite the tax framework of the jurisdiction they reside within.
+  - Members should be able to decide when and how they withdraw funds from the mechanism, eg. to suit the tax framework of the jurisdiction they reside within.
 - Donations have finality
   - It is not possible to remove donated assets from the Vesting Contract by anyone other than the beneficiaries.
 
