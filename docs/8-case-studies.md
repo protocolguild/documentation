@@ -1,10 +1,10 @@
-# 8. Case studies
+# 8. Case Studies
 
-*NOTE: What follows are a theoretical high-impact scenarios. This is not a claim that funding will meet these amounts, only an exploration of possibilities.*
+*NOTE: What follows are theoretical high-impact scenarios. This is not a claim that funding will reach these amounts, only an exploration of possibilities.*
 
-## 8.1 Vested assets in DAO treasuries
+## 8.1 Vested Assets in DAO Treasuries
 
-Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings. (data taken on Nov. 11 from [Open-Orgs.info](https://openorgs.info/) by David Mihal). This is not meant to be a comprehensive survey. see the data behind these charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing). 
+Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings. (data taken from [Open-Orgs.info](https://openorgs.info/) by David Mihal on Nov. 11 2021). This is not meant to be a comprehensive survey. See the data behind the below charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing). 
 
 |     Name     | Unvested Treasury | Vested Treasury |
 |:------------:| -----------------:| ---------------:|
@@ -38,9 +38,9 @@ Already we can see the significant benefit these donations would have. For these
 
 ![](https://i.imgur.com/i3xI4bu.png)
 
-## 8.2 Donations at launch
+## 8.2 Donations at Launch
 
-This funding mechanism really starts to show its promise when considering if projects start to include this as part of launch parameters. The chart below takes the same 20 projects and distributes a portion of what the max supply would have been at launch. Of course, this is just an illustration - they didn't all launch and contribute to the split at the same time.
+The Protocol Guild really starts to show its promise when considering that projects start to include funding as part of launch parameters. The chart below takes the same 20 projects and distributes a portion of what the max supply would have been at launch. Of course, this is just an illustration - they didn't all launch and contribute to the split at the same time.
 
 |     Name     | Max Supply at Launch | Price, Nov. 11 |
 |:------------:| --------------------:| --------------:|
@@ -71,4 +71,4 @@ This funding mechanism really starts to show its promise when considering if pro
 							
 ![](https://i.imgur.com/glD5TVl.png)
 
-We believe $2M-6.5M vested over 4 years to potential contributors will be a step in the right direction. The beauty of the mechanism is that there is no application to participate as a sponsor: any entity can just send funds to the split contract, and the rest will happen without their involvement.
+We believe $2M-6.5M vested over 4 years to potential contributors will be a step in the right direction. The beauty of the mechanism is that there is no application process to participate as a sponsor: any entity can just send funds to the split contract, and the rest will happen without their involvement.

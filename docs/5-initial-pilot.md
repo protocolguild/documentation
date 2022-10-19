@@ -56,7 +56,7 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
 
 ### Operations
   - What sort of operating procedures worked? Which ones didn't? 
-  - What role did voting play in decision making, if any? 
+  - What role did voting play in decision-making, if any? 
   - What were the best practices that emerged with regard to voting, onboarding, curation?
   - Should the weighting be modified e.g. more granular, more subjective measures?
   - Were there any issues with compromised wallets, contracts or multisigs during the pilot?

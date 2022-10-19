@@ -36,11 +36,11 @@ Out of all the existing mechanisms we explored, 0xSplits fulfills many of our or
 - Includes vesting
   - In order to promote long-term incentive alignment, donated assets should be subject to a standard vesting period. The Pilot will be ~1 year, and subsequent vests will likely last for 4 years. This should be discussed and set by the split beneficiaries, with consideration for the expectations of donating entities. The vesting terms deployed with the contract should not be modifiable by any party.
   - 0xSplits allows PG to deploy the initial contract with optionality over desired launch date, vesting time, etc
-  - The same Vesting Contract can be reused for many donations, either from the same org or different ones. The avoids unecessary gas + time costs to Sponsors. The vesting terms are the same for each donation.
+  - The same Vesting Contract can be reused for many donations, either from the same org or different ones. The avoids unnecessary gas + time costs to Sponsors. The vesting terms are the same for each donation.
 - Multi-claims are straightforward
   - Members are able to claim their allocation from multiple eligibility windows and multiple assets in a single transaction.
 - Members decide when to take custody/ withdraw
-  - Members should be able to decide when and how they withdraw funds from the mechanism, eg. to suite the tax framework of the jurisdiction they reside within.
+  - Members should be able to decide when and how they withdraw funds from the mechanism, eg. to suit the tax framework of the jurisdiction they reside within.
 - Donations have finality
   - It is not possible to remove donated assets from the Vesting Contract by anyone other than the beneficiaries.
 
