@@ -26,7 +26,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - The mechanism's legitimacy is predicated on broad participation. If enough contributors decline, this may not be an appropriate tool for incentivizing work on public goods. In the latter case, the vesting would still continue but it may be difficult to solicit additional donations.
 
 **How will members handle conflicts about list inclusion, eg. when someone starts doing well-intentioned but poorly executed work?**
-- Eligibility criteria should be given special care, as much as the contract or the outreach to donating entities. These should be communicated publicly and frequently with change history, eg. Github. Any decisions which sidestep transparent processes undermines the mechanism's legitimacy.
+- Eligibility criteria should be given special care, as much as the contract or the outreach to donating entities. These should be communicated publicly and frequently with change history, eg. GitHub. Any decisions which sidestep transparent processes undermines the mechanism's legitimacy.
 
 **What other failure modes have not been explored in-depth yet?**
 - The membership is updated to only include addresses controlled by the attackers.
@@ -53,12 +53,13 @@ While we can't conceive of every scenario, we've tried to think critically about
 ## 7.2 Related to the Broader Community
 
 **Will this replace existing salaries?**
-- No, this should be perceived as a bonus on top of current pay: employers/DAOs should pretend as though it doesn't exist. Furthermore, employers/DAOs won't be able to tell whether members have submitted their own address, or that of a charity. It would not be ethical to compel charity disclosures.
 
+- No, this should be perceived as a bonus on top of current pay: employers/DAOs should pretend as though it doesn't exist. Furthermore, employers/DAOs won't be able to tell whether members have submitted their own address, or that of a charity. It would not be ethical to compel charity disclosures.
 **What if this ends up being a significant amount?**
 - If this mechanism *doesn't* accrue significant funds, then it's not really working properly. Vested donations should be significant enough to inspire new contributors to join core development. However, there should be deeper incentive analyses and the thresholds at which they get funky.
 
 **Why don't contributors ask for some multiple of their current salary?**
+
 - As discussed in "[2. Broader Context](https://hackmd.io/ANe-MBCgTFSN6qG7drn3zg?both#2-Broader-Context)," traditional orgs will never be able to match the upside that comes from working on a novel tokenized application or L2.
 
 **Aren't donated assets a form of bribe?**
@@ -86,4 +87,5 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **Will long-term vesting lead to stagnation in core development roles?**
 - In the sense of gatekeeping/groupthink/capture, we sincerely hope not. There's certainly a possibility that previously effective people may get stuck in a position if the incentive is significant enough. However, this is no different from any other job with performance requirements, crypto or otherwise. If someone is not performing adequately, they will be removed from their job and then from the list. If anything, the infusion of new perspectives as the set grows will be a healthy process.
+
 - With the conclusion of each vesting period, everyone starts at 0 again, having to convince other members (and more broadly, the public), that they are legitimate heirs to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Anyone can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively  evolves their systems to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
