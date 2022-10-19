@@ -4,7 +4,7 @@ Protocol Guild
 - A collective of Ethereum contributors 
 - working to boost the incentives around stewarding the core protocol
 - by maintaining an onchain registry of its membership
-- which allows ecosystem sponsors to directly fund the membership, their work, the Public Good.
+- which allows ecosystem sponsors to directly fund the membership, their work, the public good.
 
 Members are from EF DevOps, EF Geth, EF Ipsilon, EF JavaScript, EF Portal, EF Protocol Support, EF Research, EF Robust Incentives Group (RIG), EF Security, EF Testing, Erigon, Ethereum Cat Herders, Hyperledger Besu, Independent, Lighthouse, Lodestar, Nethermind, Prysmatic, Quilt, Solidity, Status, Teku, and TXRX.
 
@@ -13,9 +13,9 @@ Members are from EF DevOps, EF Geth, EF Ipsilon, EF JavaScript, EF Portal, EF Pr
 Sponsor the Pilot
 ================
 
-We're running a 1 year Pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_) to test our assumptions about this mechanism and how to operate it. 
+We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
 
-Information about the smart contracts and how you can help fund Public Goods and their contributors `here <https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#xsplits-contracts>`_.
+Information about the smart contracts and how you can help fund public goods and their contributors can be found `here <https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#xsplits-contracts>`_.
 
 If you have additional questions about the project, please reach out to `@ProtocolGuild <https://twitter.com/ProtocolGuild>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
 
@@ -34,7 +34,7 @@ If you have additional questions about the project, please reach out to `@Protoc
 Table of Contents
 ===================
 
-The Protocol Guild is mechanism that learns and adapts - this documentation is regularly updated.
+The Protocol Guild is a mechanism that learns and adapts - this documentation is regularly updated.
 
 .. toctree::
   :maxdepth: 2

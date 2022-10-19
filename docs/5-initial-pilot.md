@@ -9,7 +9,7 @@ To prepare for launch, there are a few tasks we wanted to properly complete:
 - deploy the 6/10 multisig, the Split contract itself, and the Vesting Module
 - onboard as many eligible Members through the process we have bootstrapped
 - broadcast the intent of the Protocol Guild to the broader community and potential sponsors, getting a precommitment of funds where possible
-- refine and document the operating process, which inlcudes curating and deliberating on potential members, onboarding them
+- refine and document the operating process, which includes curating and deliberating on potential members, onboarding them
 
 ## 5.2 Pilot Characteristics
 
@@ -55,7 +55,7 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
 
 ### Operating
   - What sort of operating procedures worked? Which ones didn't? 
-  - What role did voting play in decision making, if any? 
+  - What role did voting play in decision-making, if any? 
   - What were the best practices that emerged with regard to voting, onboarding, curation?
   - Should the weighting be modified eg. more granular, more subjective measures?
 
