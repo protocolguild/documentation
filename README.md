@@ -142,3 +142,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
 | 120  | Stateless Ethereum               | Kevaundray Wedderburn                                                | 1           |
 | 	121	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
+|       122     | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |                                   
