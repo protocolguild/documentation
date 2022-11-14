@@ -76,7 +76,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	53	| EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
 | 	54	| Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
 | 	55	| Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) | 1 |
-| 	56	| Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 1 |
+| 	56	| Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
 | 	57	| Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
 | 	58	| Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
 | 	59	| Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
@@ -144,3 +144,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	121	| Stateless Ethereum | Kevaundray Wedderburn| 1|
 | 	122	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
 | 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
+|	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
