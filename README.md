@@ -137,9 +137,10 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	114	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
 | 	115	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
 | 	116	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
-| 	117	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
-| 	118	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
-| 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
-| 120  | Stateless Ethereum               | Kevaundray Wedderburn                                                | 1           |
-| 	121	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
-|       122     | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |                                   
+| 	117	| Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
+| 	118	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
+| 	119	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
+| 	120	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+| 	121	| Stateless Ethereum | Kevaundray Wedderburn| 1|
+| 	122	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
+| 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
