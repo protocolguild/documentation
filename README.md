@@ -83,6 +83,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	**	| Hyperledger Besu | [Ameziane Hamlat](https://github.com/ahamlat/) | 1 |
 | 	60	| Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 |
 | 	61	| Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 1 |
+| 	**	| Hyperledger Besu | [Fabio Di Fabio](https://github.com/fab-10/) | 1 |
 | 	62	| Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
 | 	63	| Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
 | 	64	| Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
@@ -147,3 +148,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
 |	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
 |	125	| Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 1 |
+|	126	| Besu | [Fabio Di Fabio](https://github.com/fab-10) | 1 |
