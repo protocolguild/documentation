@@ -80,6 +80,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	57	| Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
 | 	58	| Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
 | 	59	| Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
+| 	**	| Hyperledger Besu | [Ameziane Hamlat](https://github.com/ahamlat/) | 1 |
 | 	60	| Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 |
 | 	61	| Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 1 |
 | 	62	| Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
@@ -145,3 +146,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	122	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
 | 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
 |	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
+|	125	| Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 1 |
