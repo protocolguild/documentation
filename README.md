@@ -109,7 +109,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	86	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
 | 	87	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
 | 	88	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
-| 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
+| 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
 | 	90	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
 | 	91	| Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
 | 	92	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
@@ -144,4 +144,3 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	121	| Stateless Ethereum | Kevaundray Wedderburn| 1|
 | 	122	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
 | 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
-
