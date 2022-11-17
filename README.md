@@ -149,4 +149,5 @@ Discussion should be open for ~1 week to give members time to review and contrib
 |	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
 |	125	| Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 1 |
 |	126	| Besu | [Fabio Di Fabio](https://github.com/fab-10) | 1 |
-|   127 | Lodestar | [Afri Schoedon](https://github.com/q9f) | 0.5 |
+| 	127	| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
+|   128 | Lodestar | [Afri Schoedon](https://github.com/q9f) | 0.5 |
