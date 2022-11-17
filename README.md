@@ -76,12 +76,14 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	53	| EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
 | 	54	| Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
 | 	55	| Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) | 1 |
-| 	56	| Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 1 |
+| 	56	| Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
 | 	57	| Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
 | 	58	| Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
 | 	59	| Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
+| 	**	| Hyperledger Besu | [Ameziane Hamlat](https://github.com/ahamlat/) | 1 |
 | 	60	| Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 |
 | 	61	| Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 1 |
+| 	**	| Hyperledger Besu | [Fabio Di Fabio](https://github.com/fab-10/) | 1 |
 | 	62	| Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
 | 	63	| Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
 | 	64	| Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
@@ -109,7 +111,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	86	| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
 | 	87	| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
 | 	88	| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
-| 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 1 |
+| 	89	| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
 | 	90	| Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
 | 	91	| Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
 | 	92	| Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
@@ -137,10 +139,14 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	114	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
 | 	115	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
 | 	116	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
-| 	117	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
-| 	118	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
-| 	119	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
-| 120  | Stateless Ethereum               | Kevaundray Wedderburn                                                | 1           |
-| 	121	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
-|       122     | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |                                   
-| 	123	| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
+| 	117	| Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
+| 	118	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
+| 	119	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
+| 	120	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+| 	121	| Stateless Ethereum | Kevaundray Wedderburn| 1|
+| 	122	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
+| 	123	| EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
+|	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
+|	125	| Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 1 |
+|	126	| Besu | [Fabio Di Fabio](https://github.com/fab-10) | 1 |
+| 	127	| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
