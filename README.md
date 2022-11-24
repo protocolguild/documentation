@@ -15,6 +15,8 @@ Include the following in the comment:
 - Team
 - Link to some work
 - Short summary of their work / eligibility
+- start date of relevant projects
+- proposed weight (full or partial)
 
 Discussion should be open for ~1 week to give members time to review and contribute to the discussion. This can be either with 👍 / 👎, but also ideally some writing on why you think the proposed member fits the eligibility or not.
 
