@@ -15,6 +15,8 @@ Include the following in the comment:
 - Team
 - Link to some work
 - Short summary of their work / eligibility
+- start date of relevant projects
+- proposed weight (full or partial)
 
 Discussion should be open for ~1 week to give members time to review and contribute to the discussion. This can be either with 👍 / 👎, but also ideally some writing on why you think the proposed member fits the eligibility or not.
 
@@ -149,4 +151,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 |	124	| Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 1 |
 |	125	| Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 1 |
 |	126	| Besu | [Fabio Di Fabio](https://github.com/fab-10) | 1 |
-|   127 | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
+| 	127	| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
+|   128 | Lodestar | [Afri Schoedon](https://github.com/q9f) | 0.5 |
+|   129 | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
