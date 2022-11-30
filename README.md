@@ -153,3 +153,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
 |	126	| Besu | [Fabio Di Fabio](https://github.com/fab-10) | 1 |
 | 	127	| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
 |   128 | Lodestar | [Afri Schoedon](https://github.com/q9f) | 0.5 |
+|   129 | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
