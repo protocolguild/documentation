@@ -93,7 +93,7 @@ Data from Dec 7, 2022 @ 9.15 UTC.
 #### Fundraising
 - $9.7m has been donated to the Guild so far (valued at the time of donation)
 - 91% of donated funds ($8.8m) came from five governance proposals: [Lido](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016) ($2.8m), [Uniswap](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824) ($2.7m), [ENS](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877) ($1.8m), [Nouns DAO](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599) ($0.8m) and [Moloch DAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/22) ($0.8m)
-- Five tokens account for 98% of the $9.6m donated: LDO (29%), UNI (28%), ENS (19%), ETH (15%) and WETH (8%)
+- Five tokens account for 98% of all donations: LDO (29%), UNI (28%), ENS (19%), ETH (15%) and WETH (8%)
 - There have been 3.8k individual donations, from 185 unique donors
 - The [MergeFractals NFT project](https://ethereum-merge-fractals.surge.sh/) accounted for 88% of all individual donations, with 3.4k donations (totaling $41k)
 - While the average donation value is $2.5k, this is skewed by significant high-value outliers (from the governance proposals), as indicated by the median donation being $12
