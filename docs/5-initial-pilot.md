@@ -75,7 +75,7 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
   - What frequency has someone's decision to join or remain in core protocol work cited the Guild as a compelling benefit?
   - Have any Guild members participated in mentorship programs to support diverse array of future contributors?
 
-## 5.5 Mid-Pilot Update
+## 5.5 Mid-Pilot Update (Dec. 7 2022)
 
 With the Protocol Guild’s 1-year pilot just about halfway done, we wanted to share an update on how the pilot is going, and what’s next. But first, a quick reminder of what this is all about:
 
