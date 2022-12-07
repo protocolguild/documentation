@@ -75,9 +75,7 @@ Throughout the pilot, special attention should be given to evaluating outcomes r
   - What frequency has someone's decision to join or remain in core protocol work cited the Guild as a compelling benefit?
   - Have any Guild members participated in mentorship programs to support diverse array of future contributors?
 
-## 5.5 Pilot Reports
-
-### Mid-Pilot Update
+## 5.5 Mid-Pilot Update
 
 With the Protocol Guild’s 1-year pilot just about halfway done, we wanted to share an update on how the pilot is going, and what’s next. But first, a quick reminder of what this is all about:
 
@@ -89,10 +87,10 @@ The Guild launched a 1-year pilot in May 2022, and subsequently raised ~$9m in f
 
 Now let’s take a look at the last 6 months!
 
-##### Pilot Stats
+### Pilot Stats
 Data from Dec 7, 2022 @ 9.15 UTC. 
 
-###### Fundraising
+#### Fundraising
 - $9.7m has been donated to the Guild so far (valued at the time of donation)
 - 91% of donated funds ($8.8m) came from five governance proposals: [Lido](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016) ($2.8m), [Uniswap](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824) ($2.7m), [ENS](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877) ($1.8m), [Nouns DAO](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599) ($0.8m) and [Moloch DAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/22) ($0.8m)
 - Five tokens account for 98% of the $9.6m donated: LDO (29%), UNI (28%), ENS (19%), ETH (15%) and WETH (8%)
@@ -104,7 +102,7 @@ Data from Dec 7, 2022 @ 9.15 UTC.
 
 A very big THANK YOU to all donors - you’re demonstrating what important norms we should be aiming for.
 
-###### Distributions
+#### Distributions
 - Today the Guild has 128 members, up from 90 at the start
 - $5m has been distributed to members so far (valued at the time of distribution)
 - On average each member has received $39k, or $5.6k per month
@@ -113,16 +111,16 @@ A very big THANK YOU to all donors - you’re demonstrating what important norms
 
 ![Distributions](https://user-images.githubusercontent.com/76262359/206177936-ec771374-4cf8-4bd4-899b-2b9b7db9881e.png)
 
-###### Price Fluctuations
+#### Price Fluctuations
 - The value of all donated funds are roughly even with the original donation value (-0.5%), mainly because ENS and UNI token prices are up 47% and 11% respectively since being donated in June '22. Almost all other token prices (including ETH) are down ~20%.
 - The value of all distributed funds are down almost 16% since being distributed. That might seem counterintuitive considering that the value of donated funds are relatively equal since being donated, but this can be explained by the fact that funds are not distributed when the donated is received, rather they are unlocked gradually (i.e. vested) over time. And overall, all token prices have been experiencing a downtrend since August '22. For example, although ENS and UNI token prices are up 47% and 11% respectively since being donated in June '22, they are down 7% and 30% respectively since the start of Aug '22.
 - Volatility was exacerbated by the fact that stablecoins (specifically DAI, USDC and USDT) account for just 1.9% of all donated funds.
 
 ![Totals](https://user-images.githubusercontent.com/76262359/206177876-9cc93e14-44f0-48fc-b420-09420faebb3e.png)
 
-##### Mid-Pilot Reflection
+### Mid-Pilot Reflection
 
-###### Mission
+#### Mission
 At the half-way point of the pilot, has the Guild proven itself as an effective mechanism to fund core protocol development? We consider the preliminary results to be quite promising, however there is still much work to be done. 
 
 The Protocol Guild was initially conceived as a way to "[boost the incentives around stewarding the core protocol](https://protocol-guild.readthedocs.io/en/latest/index.html#protocol-guild)". In retrospect, this goal was perhaps not ambitious enough. A significant portion of core protocol development is currently being funded by centralized - and potentially unsustainable - sources, including the Ethereum Foundation (EF), Consensys and a few others. To secure the future of Ethereum’s core development work, we need to create a new equilibrium in core protocol funding, sustained by the ecosystem built on top of it. 
@@ -136,7 +134,7 @@ Accordingly, the Protocol Guild's goals have expanded as follows:
 
 Achieving the above in a sustainable and decentralized way will be a years-long process, and require buy-in from across the Ethereum ecosystem. Fortunately, it’s the exact kind of challenge that our community is uniquely suited to rally around!
 
-###### Member Accomplishments
+#### Member Accomplishments
 
 Here’s an incomplete list of what Guild members have been busy with over the last year:
 
@@ -166,7 +164,7 @@ Here’s an incomplete list of what Guild members have been busy with over the l
 
 To be clear, this isn’t to say that the Guild was responsible for these accomplishments or directed the work. All credit to the individuals and the teams / projects they work on to maintain Ethereum today and in the future!
 
-###### Operations
+#### Operations
 
 To date the Guild has been using a private GitHub repository to coordinate changes to membership. And, while this process has been sufficient to make multiple updates, adopting a more public process would help boost transparency. 
 
@@ -178,9 +176,9 @@ Another place to improve is the use of stateful.eth to receive funding on Layer 
 
 Fortunately, we’ve already started work to address these bottlenecks!
 
-##### Current Focus
+### Current Focus
 
-###### V2 Architecture
+#### V2 Architecture
 
 The Guild should aim to be the industry standard for how to leverage blockchains for Public Goods funding. As such, all the aforementioned operational inefficiencies and dependencies need to be resolved for the next iteration of the Guild, post-pilot. 
 
@@ -196,7 +194,7 @@ Below is a preliminary diagram for what the new architecture of the Guild could 
 
 If you have any suggestions for the Guild’s v2 architecture, please [reach](https://twitter.com/ProtocolGuild) [out](https://discord.gg/HaUhXYsMyC)!
 
-###### Fundraising
+#### Fundraising
 
 One of the primary Guild’s goals is to normalize setting aside a portion of ecosystem revenues to fund core protocol development. In an ideal world, we would love to see all entities that rely on Ethereum donate 1% of their revenue / profits/ initial token supply.
 
@@ -204,7 +202,7 @@ Over the next six months we will begin fundraising outreach in line with the abo
 
 Overall, we aim to get funding commitments for at least $100m over four years from the end of the pilot (May '23). This corresponds to 2.5x more per year than during the pilot. Although this number is ambitious, recall that almost 10% of that was raised for the pilot from just five Ethereum projects (Lido, Uniswap, ENS, Nouns DAO and Moloch DAO). We have faith that the Ethereum community will again come through in support of our goals. 
 
-###### Communications
+#### Communications
 
 A key goal of our communications strategy going forward will be to ensure the Guild’s purpose captures a larger mind-share across the Ethereum community. We want to get to a place where new projects instinctively think about donating a portion of funds in support of core protocol development. 
 
