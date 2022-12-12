@@ -147,8 +147,7 @@ Here’s an incomplete list of what Guild members have been busy with over the l
     * The EIP-4844 development process has been supported by various ecosystem entities, and today has reached the stage where discussions are underway as to which of the upcoming hard forks to include it in. 
 - Maintain credible neutrality
     * The [OFAC sanctioning of Tornado Cash transactions](https://home.treasury.gov/news/press-releases/jy0916) has spurred a large debate around transaction inclusion, especially as it relates to stakers using [MEV techniques](https://www.mevboost.org/) to supplement their staking rewards by using [censoring relays](https://www.mevwatch.info/). 
-    * [Proposal-Builder Separation](https://notes.ethereum.org/@dankrad/new_sharding) (PBS, aka Danksharding) could mitigate these concerns, with features that include forcing the inclusion of censored transactions (while also enabling [tremendous scalability upgrades](https://ethereum.org/en/upgrades/sharding/)). 
-    * As the name implies, Proto-Danksharding (see above) is a precursor for Danksharding, but in the meantime work on the full Danksharding specification is underway.
+    * [Proposal-Builder Separation](https://barnabe.substack.com/p/pbs) (PBS) could mitigate these concerns, with features that include forcing the inclusion of censored transactions (while also enabling tremendous scalability upgrades by making it easier to implement [Danksharding](https://notes.ethereum.org/@dankrad/new_sharding)). 
 - Make it much easier to verify blocks
     * Removing reliance on centralized service providers to verify blocks is another core focus for researchers, which will be enabled by introducing [Verkle trees](https://notes.ethereum.org/@vbuterin/verkle_tree_eip). Also known as “[Stateless Ethereum](https://blog.ethereum.org/2021/12/02/verkle-tree-structure)”, work is underway to write and implement the specification for this. 
 - Make Ethereum leaner by pruning old history
