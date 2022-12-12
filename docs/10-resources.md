@@ -11,6 +11,8 @@
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call #24 | Dec 12 2022 |
+| [Lunch with Protocol Guild](https://www.twitch.tv/videos/1671175878) | DAOcember @ DAOhouse | Dec 05 2022 |
 | [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
 | [Funding Ethereum with the Protocol Guild](https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg) | Funding the Commons | Jun 24 2022 |
 | [Funding Ethereum Core Development and the Protocol Guild](https://anchor.fm/i-pledge-allegiance/episodes/Trent-Van-Epps-and-Tim-Beiko---Funding-Ethereum-Core-Development-and-the-Protocol-Guild-e1k26qh) | I Pledge Allegiance podcast | Jun 20 2022 |
