@@ -2,10 +2,11 @@
 
 ## Links
 
-- [Pilot Vesting Contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
-- [Protocol Guild Twitter](https://twitter.com/protocolguild)
+- [Pilot vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+- [Pilot Gnosis Safe multisig](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances)
+- [Twitter](https://twitter.com/protocolguild)
+- [Discord](https://discord.com/invite/HaUhXYsMyC)
 - [Stateful Works Mirror publication](https://stateful.mirror.xyz/)
-- [Gnosis Safe multisig](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances)
 
 ## Media
 
