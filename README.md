@@ -141,16 +141,15 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	116	| Status | [Konrad Staniec](https://github.com/KonradStaniec/) | 1 |
 | 	117	| Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
 | 	118	| Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
-| 	119	| Teku | [Adrian Sutton](https://github.com/ajsutton/) | 1 |
-| 	120	| Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
-| 	121	| Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
-| 	122	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
-| 	123	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
-| 	124	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
-| 	125	| Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
-| 	126	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
-| 	127	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
-| 	128	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+| 	119	| Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
+| 	120	| Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
+| 	121	| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
+| 	122	| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
+| 	123	| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
+| 	124	| Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
+| 	125	| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
+| 	126	| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
+| 	127	| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
 
 Temporarily separating out one new member because they are below the 6 month threshold. They can be added in the update next quarter.
 
