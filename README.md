@@ -77,7 +77,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | 	52	| EF Solidity | [Alex Beregszaszi](https://github.com/axic/) | 1 |
 | 	53	| EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
 | 	54	| EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 0.5 |
-| 	55	| EF Solidity | [Kaan Uzdogan](https://github.com/kuzdogan/) | 1 |
 | 	56	| EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 1 |
 | 	57	| EF Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) | 1 |
 | 	58	| EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
