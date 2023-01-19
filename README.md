@@ -136,7 +136,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
  | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
- | Status | [Konrad Staniec](https://github.com/KonradStaniec/) | 1 |
  | Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
  | Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
  | Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
