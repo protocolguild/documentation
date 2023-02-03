@@ -62,7 +62,7 @@ Select “<b>Mutable Split</b>” (“mutable” means changeable, which allows 
 
 <i><b>How much should I allocate to the Guild?</b> According to [ultrasound.money](https://ultrasound.money/#monetary-premium), stakers who opt in to MEV will earn ~2.3 ETH per validator per year. Of that, execution rewards account for around 43%, or 1 ETH per validator per year (0.7 ETH from tips and 0.3 ETH from MEV). 
 
-So, if you allocate 1% of your execution rewards to the Guild, that’s 0.011 ETH per validator per year. 5% would equal 0.055 ETH. Of course, the actual amount will fluctuate based on demand for Ethereum blockspace. 
+So, if you allocate 1% of your execution rewards to the Guild, that’s 0.010 ETH per validator per year. 5% would equal 0.05 ETH. Of course, the actual amount will fluctuate based on demand for Ethereum blockspace.
 
 Any amount you donate is appreciated, and signals your support for all the work that goes into building the Ethereum protocol.</i>
 
