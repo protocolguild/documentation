@@ -48,4 +48,5 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
   7-anticipated-concerns
   8-case-studies
   9-membership
-  10-resources
+  10-donate
+  11-resources
