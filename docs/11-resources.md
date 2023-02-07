@@ -2,7 +2,8 @@
 
 ## Links
 
-- [Pilot vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+- [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+- [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
 - [Pilot Gnosis Safe multisig](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances)
 - [Twitter](https://twitter.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
@@ -12,6 +13,7 @@
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
 | [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call #24 | Dec 12 2022 |
 | [Lunch with Protocol Guild](https://www.youtube.com/watch?v=d2HP3GTbkUs) | DAOcember @ DAOhouse | Dec 05 2022 |
 | [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
