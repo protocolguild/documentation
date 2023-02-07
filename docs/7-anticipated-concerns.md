@@ -1,6 +1,6 @@
 # 7. Anticipated Concerns
 
-While we can't conceive of every scenario, we've tried to think critically about deficiencies when they've presented themselves. If you see a devious edge case, an organizational pitfall - please join the [**Stateful Works Discord**](https://discord.gg/t8zSZCvf3y) to discuss, and hopefully add it here!
+While we can't conceive of every scenario, we've tried to think critically about deficiencies when they've presented themselves. If you see a devious edge case, an organizational pitfall - please join the [**Protocol Guild Discord**](https://discord.com/invite/HaUhXYsMyC) to discuss, and hopefully add it here!
 
 ## 7.1 Related to Operations
 
@@ -60,7 +60,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **Why don't contributors ask for some multiple of their current salary?**
 
-- As discussed in "[2. Broader Context](https://hackmd.io/ANe-MBCgTFSN6qG7drn3zg?both#2-Broader-Context)," traditional orgs will never be able to match the upside that comes from working on a novel tokenized application or L2.
+- As discussed in "[2. Tradeoffs of Existing Mechanisms](https://protocol-guild.readthedocs.io/en/latest/2-existing-mechanisms.html#tradeoffs-of-existing-mechanisms)," traditional orgs will never be able to match the upside that comes from working on a novel tokenized application or L2.
 
 **Aren't donated assets a form of bribe?**
 - No. This would be a very inefficient form of bribing, as the large membership distribution dilutes any targeted intent. It would be much more effective to bribe individuals, which can already happen today without a split contract. It could even be argued that this mechanism makes bribes less effective, because bribes are most effective in situations of relative wealth inequality. By raising the holdings of core developers, they are less likely to be swayed by individual financial offers. Of course, this is completely opt-in and protocol contributors are welcome to redirect their share to e.g. other public goods projects. Only when there are relatively few donating entities could the mechanism become more susceptible to bribes. Or, if the relative amount donated by one entity dwarfs that given by others.
