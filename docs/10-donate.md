@@ -4,12 +4,12 @@
 
 The Protocol Guild’s funding mechanism was designed to remove all friction associated with supporting Ethereum’s core protocol development, by providing a single onchain address which vests funds to all active core protocol contributors over time. Anyone can donate ETH and ERC-20 tokens to the following address: 
 
-<b>theprotocolguild.eth<br>
-0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9</b>
+<b>[theprotocolguild.eth](https://app.ens.domains/name/theprotocolguild.eth/details)<br>
+[0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)</b>
 
-![QR](https://user-images.githubusercontent.com/76262359/216310584-94b261a6-d9f5-4da8-bae0-8366c6b6e066.png)
+[![QR](https://user-images.githubusercontent.com/76262359/216310584-94b261a6-d9f5-4da8-bae0-8366c6b6e066.png)](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 
-Funds sent to the above address will be held in the Guild’s [vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/), which vests funds over 1 year (during the pilot), before being moved to the Guild’s [split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/), for distribution to members. You can read more about the Protocol Guild’s smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#smart-contract-architecture). 
+Funds sent to the above address will be held in the Guild’s [Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/), which vests funds over 1 year (during the pilot), before being moved to the Guild’s [Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/), for distribution to members. You can read more about the Protocol Guild’s smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#smart-contract-architecture). 
 
 ## 10.2 Donate a Portion of Staking Rewards
 
