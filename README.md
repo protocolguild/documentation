@@ -24,7 +24,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
 | 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
-| Akula | [Artem Vorotnikov](https://github.com/vorot93/) | 1 |
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
@@ -82,8 +81,9 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
+ | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) | 0.5 |
  | Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) | 1 |
- | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 1 |
+ | Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
