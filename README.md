@@ -136,7 +136,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
  | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
- | Status | [Konrad Staniec](https://github.com/KonradStaniec/) | 1 |
  | Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
  | Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
  | Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
@@ -144,6 +143,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
  | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 |
+ | Teku | [Lucas Saldanha](https://github.com/lucassaldanha) | 1 |
  | Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
  | Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
