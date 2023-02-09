@@ -28,6 +28,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
+ | EF DevOps | [Andrew Davis](https://github.com/savid/) | 1 |
  | EF Geth | [Gary Rong](https://github.com/rjl493456442/) | 1 |
  | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
  | EF Geth | [Jared Wasinger](https://github.com/jwasinger/) | 1 |
