@@ -125,7 +125,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
  | Prysmatic | [potuz](https://github.com/potuz/) | 1 |
- | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
+ | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 0.5 |
  | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
  | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 1 |
  | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 1 |
