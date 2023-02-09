@@ -1,12 +1,22 @@
 # 4. Roles & Expectations
 
-To operate the guild, five unique roles will be required, each with their own obligations.
+## 4.1 The Protocol Guild
 
-## 4.1 Members
+The Protocol Guild's core output is a curated membership registry, with weights assigned to each member.
 
-There will be three types of members: Slot holders, curators and signers.
+The registry is comprised of individuals who are [actively contributing](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications) to Ethereum's core protocol development, while the [weights are calculated](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting) based on how long each member has been actively contributing.
 
-### 4.11 Slot Holders
+This registry is tied to a [single Ethereum address](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/), which anyone can send funds to, and whose funds will be vested to the membership over time, proportionally to members' normalized weighting.
+
+By providing this registry and address, Ethereum's ecosystem and its community get access to a highly effective and frictionless way to support core protocol contributors. At sufficient scale, this has the downstream effect of boosting the long-term incentives associated with core protocol work.
+
+It should be noted that, apart from providing this registry and facilitating fundraising initiatives related to the registry, the Protocol Guild is not itself responsible for or otherwise involved in Ethereum's core protocol work.
+
+## 4.2 Members
+
+Members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
+
+### 4.21 Slot Holders
 
 Slot holders are members of the Guild who have qualified for a placement (slot) in the split contract. Estimated to be around 150-200 individuals, however the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any Ethereum address, including the individuals own, a charity, or another split contract.
 
@@ -42,9 +52,9 @@ Members are strongly encouraged to participate in the Guild beyond the aforement
 - Helping with comms
 - Outreach and awareness to potential/existing sponsors
 
-### 4.12 Curators
+### 4.22 Curators
 
-Curators are members of the guild who maintain the list and weights of eligible members.
+Curators are members of the Guild who maintain the list and weights of eligible members.
 
 #### Qualifications
 
@@ -65,11 +75,11 @@ We believe it is incentive compatible that curators are drawn from the beneficia
 
 Beyond this basic expectation, members should consider mentoring through something like the [Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/cohort-three) (EPF) to surface a wide variety of contributor backgrounds, and help them on their journey. As global internet infrastructure, it would be a disappointment if Ethereum forever remained the domain of a small, homogeneous set of developers.
 
-### 4.13 Signers
+### 4.23 Signers
 
-Signers are Guild members who act as key holders for the multisig, which can update the membership and their weights in the weighting contract. The 6/10 Gnosis Safe can be seen [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances). These should be well regarded figures from the Ethereum community. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence (e.g. quarterly). Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over vested funds. To learn more about how the multisig and the weighting contract interact, see section **Smart Contract Architecture**.
+Signers are Guild members who act as key holders for the multisig, which can update the membership and their weights in the weighting contract. The 6/10 Gnosis Safe can be seen [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances). These should be well regarded figures from the Ethereum community. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence (e.g. quarterly). Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over vested funds. To learn more about how the multisig and the weighting contract interact, see section [Smart Contract Architecture](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html).
 
-## 4.2 Sponsors
+## 4.3 Sponsors
 
 > "A main promise of DAOs lies in their ability not only to bring many people together, but many organizations - this is when they'll really shine" - *[Kei Kreutler](https://twitter.com/keikreutler/status/1461646035491692550)*
 
@@ -83,11 +93,11 @@ Ethereum has a rich culture of experimenting with radical new ideas: it’s what
 -  Fractionalized NFTs
 -  Good old-fashioned ETH
 
-In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see **Case Studies** for more explorations on this.
+In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see [Case Studies](https://protocol-guild.readthedocs.io/en/latest/8-case-studies.html) for more explorations on this.
 
 Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New vesting contracts will need to be deployed and sponsored periodically to maintain  future incentives to contribute to the protocol.
 
-## 4.3 The Community
+## 4.4 The Community
 
 Even when the Guild is live, it will require consistent efforts from the broader community to ensure its long-term success. This includes application developers, users, investors, enthusiasts, and builders of all kinds. They will be instrumental in:
 
