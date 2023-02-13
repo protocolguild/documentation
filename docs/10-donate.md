@@ -181,7 +181,7 @@ Verify that both instances of Lodestar are no longer running.
 
 * `$ sudo nano /etc/systemd/system/beacon-chain.service`
 
-Find the “--suggestedFeeRecipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggestedFeeRecipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 * `$ sudo nano /etc/systemd/system/validator.service`
 
@@ -208,7 +208,7 @@ Verify that Nimbus is no longer running.
 
 * `$ sudo nano /etc/systemd/system/nimbus.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 ![Nimbus](https://user-images.githubusercontent.com/76262359/216322165-5be36787-b7e3-4f71-91af-544ede47e498.png)
 
@@ -227,7 +227,7 @@ Verify that Nimbus is no longer running.
 
 * `$ sudo nano /etc/systemd/system/validator.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 * `$ sudo systemctl daemon-reload`
 * `$ sudo systemctl start beacon-chain`
@@ -250,13 +250,13 @@ Verify that both instances of Prysm are no longer running.
 
 * `$ sudo nano /etc/systemd/system/prysmbeacon.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 ![Prysm1](https://user-images.githubusercontent.com/76262359/216322237-6be31154-bbe0-48fd-8172-9fdd2592f6b6.png)
 
 * `$ sudo nano /etc/systemd/system/prysmvalidator.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 ![Prysm2](https://user-images.githubusercontent.com/76262359/216322251-1f2c9936-34fe-475d-bf24-5bfce25d9605.png)
 
@@ -279,11 +279,11 @@ Verify that both instances of Prysm are no longer running.
 
 * `$ sudo nano /etc/systemd/system/beacon-chain.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 * `$ sudo nano /etc/systemd/system/validator.service`
 
-Find the “--suggested-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--suggested-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 * `$ sudo systemctl daemon-reload`
 * `$ sudo systemctl start beacon-chain`
@@ -306,7 +306,7 @@ Verify that Teku is no longer running.
 
 * `$ sudo nano /etc/systemd/system/teku.service`
 
-Find the “--validators-proposer-default-fee-recipient” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
+Find the “`--validators-proposer-default-fee-recipient`” flag, and replace the existing address with your new Split contract address (don’t change anything else). Double-check the address is correct. Then press <CTRL> + X then Y then <ENTER> to save and exit.
 
 
 
