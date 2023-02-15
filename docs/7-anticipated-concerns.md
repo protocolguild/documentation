@@ -43,7 +43,6 @@ While we can't conceive of every scenario, we've tried to think critically about
 - Lending markets built into the vesting stream
 - Programmatically dripping membership
 - Extensions that let users automate a custom functions like "claim and sell to DAI"
-- Anyone who donates would eventually be airdropped a social token which unlocks a token-gated core devs Discord /jk
 
 **What are some ways that curation can fail?**
 - There are edge cases which should be considered. For example, where the marginal legitimacy lost by excluding a given contributor is too low to get curators to push for their inclusion. 
