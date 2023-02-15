@@ -10,11 +10,11 @@ This registry is tied to a [single Ethereum address](https://app.0xsplits.xyz/ac
 
 By providing this registry and address, Ethereum's ecosystem and its community get access to a highly effective and frictionless way to support core protocol contributors. At sufficient scale, this has the downstream effect of boosting the long-term incentives associated with core protocol work.
 
-It should be noted that, apart from providing this registry and facilitating fundraising initiatives related to the registry, the Protocol Guild is not itself responsible for or otherwise involved in Ethereum's core protocol work.
+It should be noted that the Guild as an entity does not directly manage or participate in the day-to-day stewardship of the Ethereum protocol. This remains the responsibility of the [existing organizations, teams and individuals](https://ethereum.org/en/governance/) whose ongoing focus it is to do so. Similarly, the Guild abstractly as well as its online spaces (Twitter, Discord, GitHub etc.) are not intended as forums for protocol decision-making, nor is it a bloc to coerce alignment among core contributors. Decision-making in Ethereum is by rough consensus and should remain so, and in this vein, the Guild should be as credibly neutral about this area of protocol stewardship as the Ethereum network is about the usecases built on top of it.
 
 ## 4.2 Members
 
-Members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
+For the pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
 
 ### 4.21 Slot Holders
 
