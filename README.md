@@ -112,6 +112,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
+ | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
