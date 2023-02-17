@@ -24,11 +24,11 @@ Discussion should be open for ~1 week to give members time to review and contrib
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
 | 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
-| Akula | [Artem Vorotnikov](https://github.com/vorot93/) | 1 |
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
  | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 |
+ | EF DevOps | [Andrew Davis](https://github.com/savid/) | 1 |
  | EF Geth | [Gary Rong](https://github.com/rjl493456442/) | 1 |
  | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
  | EF Geth | [Jared Wasinger](https://github.com/jwasinger/) | 1 |
@@ -65,11 +65,11 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
- | EF Research | [Proto](https://github.com/protolambda/) | 0.5 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
+ | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
  | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
@@ -83,8 +83,8 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
- | Erigon | [Enrique Avila Asapche](https://github.com/enriavil1/) | 1 |
- | Erigon | [Giulio rebuffo](https://github.com/Giulio2002/) | 1 |
+ | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) | 0.5 |
+ | Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
@@ -114,6 +114,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
+ | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
@@ -126,10 +127,10 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
  | Prysmatic | [potuz](https://github.com/potuz/) | 1 |
- | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
+ | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 0.5 |
  | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
- | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 1 |
- | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 1 |
+ | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
+ | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | .5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
@@ -143,14 +144,10 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
+ | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 |
+ | Teku | [Lucas Saldanha](https://github.com/lucassaldanha) | 1 |
  | Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
  | Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
-
-Temporarily separating out one new member because they are below the 6 month threshold. They can be added in the update next quarter.
-
-| Team  |                Name / Link to work |  Weight Multiplier |
-| :---        |        :--- |        :--- |
-| EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
