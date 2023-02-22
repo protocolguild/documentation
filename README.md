@@ -6,7 +6,6 @@ An existing member should make a PR to this repo with team, name (+ link to work
 
 - Any new additions should have been contributing **at least 6 months** before being proposed
 - use a single PR per person
-- Add the appropriate tag (add/remove member, change time-weight) 
 - share the link to the PR in the PG discord membership channel
 
 Include the following in the comment:
