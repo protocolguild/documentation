@@ -2,11 +2,13 @@
 
 Internal tool to propose new members, remove inactive members, and modify full/part-time weights via PR and private discussion. Will only match [public docs](https://protocol-guild.readthedocs.io/en/latest/9-membership.html) ~1x per quarter when the split is updated.
 
+### Adding a new member
+
 An existing member should make a PR to this repo with team, name (+ link to work), and time-weight
 
 - Any new additions should have been contributing **at least 6 months** before being proposed
 - use a single PR per person
-- share the link to the PR in the PG discord membership channel
+- share the link to the PR in the PG discord membership channel so other members are aware
 
 Include the following in the comment:
 
@@ -19,6 +21,13 @@ Include the following in the comment:
 
 Discussion should be open for ~1 week to give members time to review and contribute to the discussion. This can be either with 👍 / 👎, but also ideally some writing on why you think the proposed member fits the eligibility or not.
 
+### Remove an Existing member or Update Weights
+
+- if the individual under consideration is not making the PR themselves (eg. from a team member or collaborator), please have them acknowledge the change on the PR or in the Discord
+- use a single PR per person
+- share the link to the PR in the PG discord membership channel so other members are aware
+
+---
 
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
