@@ -1,6 +1,8 @@
 # 9. Membership 
 ## Member List
 
+_Last updated Dec 14th 2022_
+
 For transparency purposes, we are disclosing each Guild member's team, the name/identifier, and a link to their work. This set will evolve over time as members leave core development or change teams.
 
 | 		| Team  |                Name / Link to work |
