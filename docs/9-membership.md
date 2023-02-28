@@ -129,7 +129,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 
  | Teku | [Lucas Saldanha](https://github.com/lucassaldanha/) | 
- | Teku | [Mehdi Aouadi](https://github.com/https://github.com/mehdi-aouadi/) | 
+ | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi/) | 
  | Teku | [Paul Harris](https://github.com/rolfyone/) | 
  | Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 
