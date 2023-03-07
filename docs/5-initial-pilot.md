@@ -189,7 +189,7 @@ Finally, we hope to use L2 forwarding contracts to automatically forward funds f
 
 Below is a preliminary diagram for what the new architecture of the Guild could look like: 
 
-<img width="1451" alt="pgv2" src="https://user-images.githubusercontent.com/76262359/206178007-e26a0696-f215-40e8-b374-202263a26d2c.png">
+<img width="1416" alt="PG Moloch v2" src="https://user-images.githubusercontent.com/27454964/223480334-3367acd9-65a3-4ead-9f51-e9c5cbbb455a.png">
 
 If you have any suggestions for the Guild’s v2 architecture, please [reach](https://twitter.com/ProtocolGuild) [out](https://discord.gg/HaUhXYsMyC)!
 
