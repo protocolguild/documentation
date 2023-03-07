@@ -114,7 +114,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
- | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 1 |
+ | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 |
  | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 1 |
  | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 1 |
  | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 |
