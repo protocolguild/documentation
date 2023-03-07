@@ -108,6 +108,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
+ | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
