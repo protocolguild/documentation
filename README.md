@@ -116,7 +116,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
  | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 |
  | Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 1 |
- | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 1 |
+ | Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 0.5 |
  | Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 |
  | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 1 |
  | Lighthouse | [Anton Delaruelle](https://github.com/antondlr) | 1 |
