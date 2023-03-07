@@ -110,7 +110,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
- | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
+ | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
