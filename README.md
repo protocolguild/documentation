@@ -58,7 +58,9 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
  | EF Privacy & Scaling Explorations (PSE) | [Kevaundray](https://github.com/kevaundray/) | 1 |
  | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
+ | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 0.5 |
  | EF Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
+ | EF Protocol Support | [Peter Davies](https://github.com/ultratwo/) | 1 |
  | EF Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
  | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
@@ -71,9 +73,10 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
- | EF Research | [Hsiao Wei Wang](https://github.com/hwwhww/) | 1 |
+ | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
+ | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
@@ -106,9 +109,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
- | Independent | [Guru](https://github.com/gurukamath/) | 0.5 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
- | Independent | [Peter Davies](https://github.com/ultratwo/) | 1 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 1 |
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
@@ -149,7 +150,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
  | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
- | Status | [Mamy Ratsimbazafy](https://github.com/mratsim/) | 1 |
  | Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
  | Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
