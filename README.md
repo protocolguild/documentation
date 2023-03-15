@@ -58,7 +58,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
  | EF Privacy & Scaling Explorations (PSE) | [Kevaundray](https://github.com/kevaundray/) | 1 |
  | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
- | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 0.5 |
+ | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
  | EF Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
  | EF Protocol Support | [Peter Davies](https://github.com/ultratwo/) | 1 |
  | EF Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
