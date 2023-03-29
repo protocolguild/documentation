@@ -9,7 +9,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 |        :--- |        :--- |
  | 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 
  | EF DevOps | [Andrew Davis](https://github.com/Savid/) | 
- | EF DevOps | [Barnabas Busa](https://github.com/https://github.com/barnabasbusa/) | 
+ | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa/) | 
  | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 
