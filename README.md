@@ -41,6 +41,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
  | EF Geth | [Jared Wasinger](https://github.com/jwasinger/) | 1 |
  | EF Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 |
+ | EF Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
  | EF Geth | [Matt Garnett](https://github.com/lightclient/) | 1 |
  | EF Geth | [Peter Szilagyi](https://github.com/karalabe/) | 1 |
  | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 1 |
