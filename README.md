@@ -57,6 +57,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Portal | [Mike Ferris](https://github.com/mrferris/) | 1 |
  | EF Portal | [Ognyan Genev](https://github.com/ogenev/) | 1 |
  | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
+ | EF Portal | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
  | EF Privacy & Scaling Explorations (PSE) | [Kevaundray](https://github.com/kevaundray/) | 1 |
  | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
  | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
