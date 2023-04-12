@@ -13,6 +13,9 @@
 
 | Title | Event | Date |
 |:----|:----|:----|
+
+
+| [Public Goodies: Protocol Guild w/ Trent](https://twitter.com/i/spaces/1lDxLnapyBwGm) | Twitter Space | April 12 2023 |
 | [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
 | [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call #24 | Dec 12 2022 |
 | [Lunch with Protocol Guild](https://www.youtube.com/watch?v=d2HP3GTbkUs) | DAOcember @ DAOhouse | Dec 05 2022 |
