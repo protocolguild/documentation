@@ -6,10 +6,6 @@ This is a new public goods funding mechanism: a split contract which distributes
 >
 > Foundation, Isaac Asimov
 
-- This is a draft WIP - there may be some inconsistencies in argument or design throughout
-- [Announcement Post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
-- follow for updates at [@StatefulWorks](https://twitter.com/StatefulWorks)
-
 ### → [Read the docs here!](https://protocol-guild.readthedocs.io/en/latest/index.html#) ←
 ### → Follow us [on Twitter](https://twitter.com/protocolguild) ←
 ### → Donate to our [Gitcoin Grant](https://gitcoin.co/grants/4832/protocol-guild) during matching rounds ←
