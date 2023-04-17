@@ -39,6 +39,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF DevOps | [Andrew Davis](https://github.com/savid/) | 1 |
  | EF Geth | [Gary Rong](https://github.com/rjl493456442/) | 1 |
  | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
+ | EF Geth | [Felix Lange](https://github.com/fjl/) | 1 |
  | EF Geth | [Jared Wasinger](https://github.com/jwasinger/) | 1 |
  | EF Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 |
  | EF Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
