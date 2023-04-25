@@ -147,7 +147,8 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 0.5 |
  | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
  | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
- | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | .5 |
+ | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
+ | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
