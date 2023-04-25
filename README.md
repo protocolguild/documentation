@@ -134,12 +134,13 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
+ | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
- | Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
- | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
+ | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
+ | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
  | Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
