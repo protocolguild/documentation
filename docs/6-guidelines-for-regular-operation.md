@@ -48,7 +48,7 @@ We are exploring tools and methods to make this process more transparent, potent
 
 ## 6.5 Onboarding new members
 
-Eligible and confirmed members should be given an onboarding form link to be added to the split contract at the next quarterly update. They should also be added to the Stateful Works Discord and given the proper `Guild Member` / Team roles.
+Eligible and confirmed members should be given an onboarding form link to be added to the split contract at the next quarterly update. They should also be added to the Protocol Guild's Discord and given the proper `Guild Member` / Team roles.
 
 When introducing the concept to potential members or onboarding accepted ones, it should be noted that the submitted address should refer to an individual's personal wallet and *not* their employer's. If teams were the atomic unit, all team members would have to agree on whether to accept or decline membership, likely decreasing the number of participants.
 
