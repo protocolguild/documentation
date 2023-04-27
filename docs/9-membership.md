@@ -82,7 +82,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 
- | Independent | [Jim mcDonald](https://github.com/mcdee/) | 
+ | Independent | [Jim McDonald](https://github.com/mcdee/) | 
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 
