@@ -169,3 +169,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
+ | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
