@@ -45,6 +45,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
  | EF Geth | [Matt Garnett](https://github.com/lightclient/) | 1 |
  | EF Geth | [Peter Szilagyi](https://github.com/karalabe/) | 1 |
+ | EF Ipsilon | [Alex Beregszaszi](https://github.com/axic/) | 1 |
  | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 1 |
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
  | EF Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 1 |
@@ -90,7 +91,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
  | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
- | EF Solidity | [Alex Beregszaszi](https://github.com/axic/) | 1 |
  | EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
  | EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 0.5 |
  | EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 1 |
@@ -109,6 +109,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 1 |
  | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
  | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
+ | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
@@ -131,16 +132,18 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
  | Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
+ | Nethermind | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 |
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
+ | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
  | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
- | Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
- | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
+ | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
+ | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
  | Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
@@ -148,7 +151,8 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 0.5 |
  | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
  | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
- | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | .5 |
+ | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
+ | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
