@@ -35,6 +35,13 @@ It is possible for eligible individuals to work on a team which has a token, has
 
 Though Ethereum is a highly technical field, it is clear that the work of non-developers around the core protocol is also crucial and should be eligible. This may include people affiliated with the All Core Devs call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
 
+There may also be contributors to Protocol Guild itself whose work is significant enough to consider for membership. This work may include: 
+
+- general comms/public presentations to improve awareness or explain the mechanism
+- fundraising from the broader ecosystem (eg. funding programs, individuals, larger entities who depend on Ethereum)
+- research related to the evolution of the Guild itself: smart contract architecture, surveys to members, documentation
+- internal maintenance for the Guild membership: helping with curation processes, onboarding/offboarding members
+
 #### Expectations
 
 Members must notify each other if their contribution status changes, or if the work that afforded eligibility breaks one of the guidelines above. If you’re unsure about whether a new focus is still qualified, please ask the broader membership. 
