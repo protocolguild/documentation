@@ -79,6 +79,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
+ | EF Research | [Luca Zanolini](https://github.com/LucaZanolini) | 1 |
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
