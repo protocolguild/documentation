@@ -94,7 +94,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
  | EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 0.5 |
  | EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 1 |
- | EF Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) | 1 |
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
