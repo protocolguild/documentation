@@ -94,7 +94,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
  | EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 0.5 |
  | EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 1 |
- | EF Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) | 1 |
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
@@ -109,13 +108,17 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 1 |
  | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
  | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
+ | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
+ | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
+ | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
+ | Independent | [Henri Dubois-Ferriere](https://github.com/henridf/) | 1 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
  | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
