@@ -150,6 +150,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
  | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | .5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
+ | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
  | Status | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
