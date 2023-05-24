@@ -45,6 +45,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
  | EF Geth | [Matt Garnett](https://github.com/lightclient/) | 1 |
  | EF Geth | [Peter Szilagyi](https://github.com/karalabe/) | 1 |
+ | EF Geth | [Sina Mahmoodi](https://github.com/s1na/) | 1 |
  | EF Ipsilon | [Alex Beregszaszi](https://github.com/axic/) | 1 |
  | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 1 |
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
