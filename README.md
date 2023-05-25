@@ -31,7 +31,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
-| 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
