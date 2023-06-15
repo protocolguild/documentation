@@ -13,11 +13,12 @@
 
 | Title | Event | Date |
 |:----|:----|:----|
-| [Protocol Guild: Funding & Incentivising Ethereum's Core Protocol Development with Mário Havel](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
-| [Protocol Guild: Funding & Incentivising Ethereum's Core Protocol Development with cheeky-gorilla](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
-| [Protocol Guild: Funding + Incentivizing Core Protocol Work with cheeky-gorilla](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
+| [Protocol Guild: Funding & Incentivising Ethereum's Core Protocol Development by Mário Havel](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
+| [Protocol Guild: Funding & Incentivising Ethereum's Core Protocol Development by cheeky-gorilla](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
+| [Protocol Guild: Funding + Incentivizing Core Protocol Work by cheeky-gorilla](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
 | [Protocol Guild: 1 Year In with Tim Beiko and cheeky-gorilla](https://youtu.be/4_Z0TAoDae4) | Green Pill Podcast | May 12 2023 |
 | [Public Goodies: Protocol Guild w/ Trent](https://twitter.com/i/spaces/1lDxLnapyBwGm) | Twitter Space | Apr 12 2023 |
+| [Protocol Guild: 1 year old by Trent Van Epps]([https://twitter.com/i/spaces/1lDxLnapyBwGm](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view?usp=sharing)) | Shelling Point Denver | Mar 02 2023 |
 | [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
 | [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call #24 | Dec 12 2022 |
 | [Lunch with Protocol Guild](https://www.youtube.com/watch?v=d2HP3GTbkUs) | DAOcember @ DAOhouse | Dec 05 2022 |
