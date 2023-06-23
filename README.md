@@ -119,7 +119,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Independent | [Henri Dubois-Ferriere](https://github.com/henridf/) | 1 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
- | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
  | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 |
