@@ -24,39 +24,41 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
   - `timeWeighting` can be either 1.0 for full-time or .5 for part-time contributors
   - Existing contributors get "diluted" as newcomers come in
   - Continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-  - Anyone who stops contributing is removed from the split via periodic curation reviews
+  - Anyone who stops contributing should remove themselves is removed from the split via periodic curation reviews
 
-## 6.4 Proposing and Discussing New Members
+## 6.4 Modifying Projects and Members
 
-If current members believe that the set should be expanded to include another contributor, they should propose them well enough in advance of a membership update. This would mean at least a week. The process would look something like this:
+Modifying  eligible projects and active membership should be proposed separately in the case both are being considered. Both should be shared with the membership at least two weeks in advance of any onchain update.
 
-1. An existing member (akin to an EIP champion) should send this info in the `proposed-members` channel.
+### Adding/removing Projects
+
+Changing the list of [eligible projects](link) can be made through a PR to the docs repo. This PR should add the project in the appropriate section, along with the following info:
+
+- Name of project/research area
+- Summary of why this project/research area should be considered eligible 
+
+### Adding Members
+
+Changing the current membership can be done by an existing member making a PR in the membership repo (currently private to members only). 
+
+When adding a new member, the PR should add the individual to the member list, along with the accompanying info:
 
 - Name / Identifier
-- Team / Project
-- Discord handle
+- Project
+- Discord handle 
 - Link to relevant work, eg. GitHub, research
 - Summary of their work and eligibility
 
-2. Discussion should be open for at least a few days to give members time to review and contribute to the discussion. This can be either with reacts on the proposal 👍 / 👎, ideally along with some written thoughts on why you think the proposed member fits the eligibility or not. Deliberations should strive to end in rough consensus, resorting to formal voting procedures only in rare extreme situations.
+Discussion should be open for at least one week to give members time to review and discuss. This can be with reacts on the proposal 👍 / 👎 or written thoughts on why the proposed member fits the eligibility or not.
 
-3. Once a positive consensus has been reached, the person can be contacted with the typical onboarding flow. 
+Once one week has passed, the PR should be merged.
 
-If you are an existing core contributor that is not included, please contact an existing member to have them propose your work for consideration. 
+### Removing Members/adjusting weights/changing project affiliation
 
-We are exploring tools and methods to make this process more transparent, potentially through a forum for discussion and to maintain a public record of decisions.
+ideally this PR should come from the member themselves, in keeping with the spirit and mutual trust of self-curation. Where this isn't possible, the member should be notified or tagged on the PR so they are aware changes.
 
 ## 6.5 Onboarding new members
 
 Eligible and confirmed members should be given an onboarding form link to be added to the split contract at the next quarterly update. They should also be added to the Protocol Guild's Discord and given the proper `Guild Member` / Team roles.
 
 When introducing the concept to potential members or onboarding accepted ones, it should be noted that the submitted address should refer to an individual's personal wallet and *not* their employer's. If teams were the atomic unit, all team members would have to agree on whether to accept or decline membership, likely decreasing the number of participants.
-
-## 6.6 Guild Contact
-
-It may be the case that there should be a Guild Contact for each team. The backstop is each team/project, who only need to confirm when a contributor has been added or removed. One member of each team/project (e.g. Lighthouse) should agree to be the point of contact responsible for ensuring other members are aware of any significant developments like:
-
-- Explaining membership obligations to new team members
-- Collecting addresses and signatures for inclusion in the eligible set
-- Migration to a new smart contract
-- A change to the weighting scheme
