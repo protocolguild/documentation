@@ -14,7 +14,7 @@ It should be noted that the Guild as an entity does not directly manage or parti
 
 ## 4.2 Members
 
-For the pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
+For the Pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
 
 ### 4.21 Slot Holders
 
@@ -22,25 +22,34 @@ Slot holders are members of the Guild who have qualified for a placement (slot) 
 
 #### Qualifications
 
-Members should be committed to Ethereum and its ethos of decentralization. The contributions of qualifying individuals should be:
+Note: members should expect these guidelines to change over time, i.e. become more restrictive in some places and more permissive in others.
 
-- Fully open source, ie. available for forking, modification and redistribution
-- Continuous for at least 6 months ahead of inclusion
-- Released under permissive licenses
-- Part of the protocol, not built on top of it, e.g. a specific client implementation vs. an application
-- Beneficial to the broader Ethereum community 
-- Dedicated to a permissionless, open access Ethereum
+Qualifying contributions _must_ be:
 
-It is possible for eligible individuals to work on a team which has a token, has VC backing or gives equity. However, members should expect these guidelines to change over time, i.e. become more restrictive in some places and more permissive in others.
+- Fully open source, ie. both “source available” and free to fork, modify, redistribute
+- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting))
+- Continuous for at least 6 months ahead of inclusion, and ongoing
 
-Though Ethereum is a highly technical field, it is clear that the work of non-developers around the core protocol is also crucial and should be eligible. This may include people affiliated with the All Core Devs call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
+Qualifying contributions _must_ target at least one of the following projects/areas (note that some areas may not have explicit repos to link to):
 
-There may also be contributors to Protocol Guild itself whose work is significant enough to consider for membership. This work may include: 
+1. Ethereum L1 core protocol maintenance and development
 
-- general comms/public presentations to improve awareness or explain the mechanism
-- fundraising from the broader ecosystem (eg. funding programs, individuals, larger entities who depend on Ethereum)
-- research related to the evolution of the Guild itself: smart contract architecture, surveys to members, documentation
-- internal maintenance for the Guild membership: helping with curation processes, onboarding/offboarding members
+- Client implementations: [Erigon](https://github.com/ledgerwatch/erigon), [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku)
+- Client Testing/security/infra which supports these implementations
+- Protocol maintenance and upgrades, and the related coordination: [EELS](https://github.com/ethereum/execution-specs)
+
+2. Research and implementation experiments related to potential protocol changes/refinements
+- Verkle Tries, Portal Network, EVM
+
+3. Spec work resulting from the above, where the specs should be implementation agnostic, unopinionated
+4. Protocol Guild itself
+
+- general comms
+- fundraising
+- research related to the evolution of the Guild itself
+- internal maintenance for the Guild membership
+
+Qualifying contributions _usually_ occur in the collaborative context of a structured collaborative group - however, there have been independent unaffiliated contributors.
 
 #### Expectations
 
