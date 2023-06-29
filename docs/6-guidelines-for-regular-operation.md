@@ -28,7 +28,7 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
 
 ## 6.4 Modifying Projects and Members
 
-Modifying  eligible projects and active membership should be proposed separately in the case both are being considered. Both should be shared with the membership at least two weeks in advance of any onchain update.
+Modifying eligible projects and active membership should be proposed separately in the case both are being considered. Both should be shared with the membership at least two weeks in advance of any onchain update.
 
 ### Adding/removing Projects
 
@@ -55,7 +55,7 @@ Once one week has passed, the PR should be merged.
 
 ### Removing Members/adjusting weights/changing project affiliation
 
-Ideally this PR should come from the member themselves, in keeping with the spirit and mutual trust of self-curation. Where this isn't possible, the member should be notified or tagged on the PR so they are aware changes.
+Ideally this PR should come from the member themselves, in keeping with the spirit and mutual trust of self-curation. Where this isn't possible, the member should be notified or tagged on the PR so they are aware of the changes.
 
 ## 6.5 Onboarding new members
 
