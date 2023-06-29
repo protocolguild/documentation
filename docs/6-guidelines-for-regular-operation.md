@@ -24,7 +24,7 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
   - `timeWeighting` can be either 1.0 for full-time or .5 for part-time contributors
   - Existing contributors get "diluted" as newcomers come in
   - Continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-  - Anyone who stops contributing should remove themselves is removed from the split via periodic curation reviews
+  - Anyone who stops contributing should remove themselves from the membership
 
 ## 6.4 Modifying Projects and Members
 
@@ -55,7 +55,7 @@ Once one week has passed, the PR should be merged.
 
 ### Removing Members/adjusting weights/changing project affiliation
 
-ideally this PR should come from the member themselves, in keeping with the spirit and mutual trust of self-curation. Where this isn't possible, the member should be notified or tagged on the PR so they are aware changes.
+Ideally this PR should come from the member themselves, in keeping with the spirit and mutual trust of self-curation. Where this isn't possible, the member should be notified or tagged on the PR so they are aware changes.
 
 ## 6.5 Onboarding new members
 
