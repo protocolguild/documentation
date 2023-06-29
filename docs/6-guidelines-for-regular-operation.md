@@ -1,4 +1,4 @@
-# 6. Guidelines for Regular Operation
+# 6. Operating Guidelines
 
 What follows is an outline for how we plan to start, recommendations, and guidelines for regular operation scenarios.
 
