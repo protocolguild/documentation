@@ -24,7 +24,7 @@ Antifragility and non-gameability emerge from simple frameworks. This limits the
   - `timeWeighting` can be either 1.0 for full-time or .5 for part-time contributors
   - Existing contributors get "diluted" as newcomers come in
   - Continuing contributors get additional weight per month they are active. This means historic contributors don't maintain their split weighting if they leave protocol development
-  - Anyone who stops contributing should remove themselves from the membership
+  - Anyone who stops contributing should remove themselves from the membership, and may be removed via periodic curation reviews
 
 ## 6.4 Modifying Projects and Members
 
