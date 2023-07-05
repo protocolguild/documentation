@@ -49,7 +49,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 - Resource pricing
 
 3. Spec work resulting from the above (should be implementation agnostic, unopinionated)
-- [Execution Specs(EELS)](https://github.com/ethereum/execution-specs)
+- [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
 - [Consensus Specs](https://github.com/ethereum/consensus-specs)
 
 4. Protocol Guild itself
