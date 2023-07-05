@@ -60,7 +60,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 
 Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
 
-See [6.4 Modifying Projects and Members](URL) for guidelines on adding/removing eligible projects and members.
+See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#proposing-and-discussing-new-members) for guidelines on adding/removing eligible projects and members.
 
 #### Expectations
 
