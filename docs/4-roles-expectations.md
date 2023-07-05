@@ -27,7 +27,7 @@ Note 2: contributing to the projects/repos referenced below is necessary but doe
 
 Qualifying contributions _must_ be:
 
-- Fully open source, ie. both “source available” and free to fork, modify, redistribute
+- Fully open source, i.e. both “source available” and free to fork, modify, redistribute
 - The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting))
 - Continuous for at least 6 months ahead of inclusion and ongoing
 
