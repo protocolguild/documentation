@@ -42,7 +42,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 2. Research and implementation experiments related to potential protocol changes/refinements
 - [Verkle Tries](https://github.com/gballet/go-verkle) (Verge)
 - [Portal Network](https://github.com/ethereum/portal-network-specs) (Purge)
-- EVM Improvements: [Ipsilon](https://github.com/ipsilon)
+- EVM improvements: [Ipsilon](https://github.com/ipsilon)
 - Consensus work
 - Cryptography
 - Mechanism design
