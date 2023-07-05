@@ -50,7 +50,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 
 3. Spec work resulting from the above (should be implementation agnostic, unopinionated)
 - [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
-- [Consensus Specs](https://github.com/ethereum/consensus-specs)
+- [Consensus specs](https://github.com/ethereum/consensus-specs)
 
 4. Protocol Guild itself
 - General comms
