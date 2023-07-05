@@ -40,7 +40,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 - Coordination related to upgrades and maintenance: [ethereum/pm](https://github.com/ethereum/pm)
 
 2. Research and implementation experiments related to potential protocol changes/refinements
-- [Verkle Tries](https://github.com/gballet/go-verkle) (Verge)
+- [Verkle tries](https://github.com/gballet/go-verkle) (Verge)
 - [Portal Network](https://github.com/ethereum/portal-network-specs) (Purge)
 - EVM improvements: [Ipsilon](https://github.com/ipsilon)
 - Consensus work
