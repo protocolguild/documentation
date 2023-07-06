@@ -23,6 +23,7 @@ Slot holders are members of the Guild who have qualified for a placement (slot) 
 #### Qualifications
 
 Note 1: these guidelines will change over time, i.e. become more restrictive in some places and more permissive in others.
+
 Note 2: contributing to the projects/repos referenced below is necessary but does not guarantee Guild eligibility. While this list tries to be explicit by linking to example repos, there are some research areas which can't be linked to a single repo.
 
 Qualifying contributions _must_ be:
