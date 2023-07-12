@@ -4,20 +4,23 @@
 
 - [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
-- [Pilot Gnosis Safe multisig](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances)
+- [Mainnet Safe multisig](https://app.safe.global/transactions/history?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
+- [Arbitrum Safe multisig](https://app.safe.global/transactions/history?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
 - [Twitter](https://twitter.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
-- [Stateful Works Mirror publication](https://stateful.mirror.xyz/)
+- [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 
 ## Media
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Octant's EpochZero: Meet the Projects](https://twitter.com/i/spaces/1RDGlagLkZmJL) | Giveth Twitter Space | Jul 10 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Development](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Development](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
 | [Funding + Incentivizing Core Protocol Work](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
 | [Protocol Guild: 1 Year In with Tim Beiko and cheeky-gorilla](https://youtu.be/4_Z0TAoDae4) | Green Pill Podcast | May 12 2023 |
-| [Public Goodies: Protocol Guild w/ Trent](https://twitter.com/i/spaces/1lDxLnapyBwGm) | Twitter Space | Apr 12 2023 |
+| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/session/301) | Zuzalu | Apr 12 2023 |
+| [Public Goodies: Protocol Guild w/ Trent](https://twitter.com/i/spaces/1lDxLnapyBwGm) | ENS Twitter Space | Apr 12 2023 |
 | [Protocol Guild: 1 year old by Trent Van Epps](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view) | Shelling Point Denver | Mar 02 2023 |
 | [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
 | [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call #24 | Dec 12 2022 |
