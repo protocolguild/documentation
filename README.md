@@ -157,6 +157,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
  | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
+ | Status | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
  | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
