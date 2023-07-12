@@ -18,7 +18,7 @@ For the Pilot, members of the Protocol Guild will have up to three different fun
 
 ### 4.21 Slot Holders
 
-Slot holders are members of the Guild who have qualified for a placement (slot) in the split contract. Estimated to be around 150-200 individuals, however the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any Ethereum address, including the individuals own, a charity, or another split contract.
+Slot holders are members of the Guild who have qualified for a placement (slot) in the split contract. Estimated to be around 150-200 individuals, however the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any Ethereum address, including the individual's own, a charity, or another split contract.
 
 #### Qualifications
 
