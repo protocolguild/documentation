@@ -51,7 +51,7 @@ When adding a new member, the PR should add the individual to the member list, a
 
 Discussion should be open for at least one week to give members time to review and discuss. This can be with reacts on the proposal 👍 / 👎 or written thoughts on why the proposed member fits the eligibility or not.
 
-Once one week has passed, the PR should be merged.
+Once one week has passed, if no objections, the PR can be merged.
 
 ### Removing Members/adjusting weights/changing project affiliation
 
