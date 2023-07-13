@@ -53,7 +53,7 @@ Qualifying contributions _must_ target at least one of the following projects/ar
 - [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
 - [Consensus specs](https://github.com/ethereum/consensus-specs)
 
-4. Protocol Guild itself
+There may also be exceptional cases where members are added for contributing to Protocol Guild itself:
 - General comms
 - Fundraising
 - Research related to the evolution of the Guild itself
