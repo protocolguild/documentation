@@ -112,7 +112,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
- | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
