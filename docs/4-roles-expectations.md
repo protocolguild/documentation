@@ -14,33 +14,54 @@ It should be noted that the Guild as an entity does not directly manage or parti
 
 ## 4.2 Members
 
-For the pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
+For the Pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
 
 ### 4.21 Slot Holders
 
-Slot holders are members of the Guild who have qualified for a placement (slot) in the split contract. Estimated to be around 150-200 individuals, however the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any Ethereum address, including the individuals own, a charity, or another split contract.
+Slot holders are members of the Guild who have qualified for a placement (slot) in the split contract. Estimated to be around 150-200 individuals, however the actual number may be higher or lower. There is no cap or target for number of slots. Slots can be set to any Ethereum address, including the individual's own, a charity, or another split contract.
 
 #### Qualifications
 
-Members should be committed to Ethereum and its ethos of decentralization. The contributions of qualifying individuals should be:
+Note 1: these guidelines will change over time, i.e. become more restrictive in some places and more permissive in others.
 
-- Fully open source, ie. available for forking, modification and redistribution
-- Continuous for at least 6 months ahead of inclusion
-- Released under permissive licenses
-- Part of the protocol, not built on top of it, e.g. a specific client implementation vs. an application
-- Beneficial to the broader Ethereum community 
-- Dedicated to a permissionless, open access Ethereum
+Note 2: contributing to the projects/repos referenced below is necessary but does not guarantee Guild eligibility. While this list tries to be explicit by linking to example repos, there are some research areas which can't be linked to a single repo.
 
-It is possible for eligible individuals to work on a team which has a token, has VC backing or gives equity. However, members should expect these guidelines to change over time, i.e. become more restrictive in some places and more permissive in others.
+Qualifying contributions _must_ be:
 
-Though Ethereum is a highly technical field, it is clear that the work of non-developers around the core protocol is also crucial and should be eligible. This may include people affiliated with the All Core Devs call, those coordinating ecosystem upgrades, and anyone helping to coevolve the protocol alongside the community.
+- Fully open source, i.e. both “source available” and free to fork, modify, redistribute
+- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting))
+- Continuous for at least 6 months ahead of inclusion and ongoing
 
-There may also be contributors to Protocol Guild itself whose work is significant enough to consider for membership. This work may include: 
+Qualifying contributions _must_ target at least one of the following projects/areas:
 
-- general comms/public presentations to improve awareness or explain the mechanism
-- fundraising from the broader ecosystem (eg. funding programs, individuals, larger entities who depend on Ethereum)
-- research related to the evolution of the Guild itself: smart contract architecture, surveys to members, documentation
-- internal maintenance for the Guild membership: helping with curation processes, onboarding/offboarding members
+1. Ethereum L1 core protocol maintenance and development
+
+- Production client implementations: Currently this includes [Erigon](https://github.com/ledgerwatch/erigon), [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku)
+- Client testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
+- Coordination related to upgrades and maintenance: [ethereum/pm](https://github.com/ethereum/pm)
+
+2. Research and implementation experiments related to potential protocol changes/refinements
+- [Verkle tries](https://github.com/gballet/go-verkle) (Verge)
+- [Portal Network](https://github.com/ethereum/portal-network-specs) (Purge)
+- EVM improvements: [Ipsilon](https://github.com/ipsilon)
+- Consensus work
+- Cryptography
+- Mechanism design
+- Resource pricing
+
+3. Spec work resulting from the above (should be implementation agnostic, unopinionated)
+- [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
+- [Consensus specs](https://github.com/ethereum/consensus-specs)
+
+There may also be exceptional cases where members are added for contributing to Protocol Guild itself:
+- General comms
+- Fundraising
+- Research related to the evolution of the Guild itself
+- Internal maintenance for the Guild membership
+
+Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
+
+See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#proposing-and-discussing-new-members) for guidelines on adding/removing eligible projects and members.
 
 #### Expectations
 

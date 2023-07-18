@@ -6,8 +6,6 @@ Protocol Guild
 - by maintaining an onchain registry of its membership
 - which allows ecosystem sponsors to directly fund the membership, their work, the public good.
 
-Members are from EF DevOps, EF Geth, EF Ipsilon, EF JavaScript, EF Portal, EF Protocol Support, EF Research, EF Robust Incentives Group (RIG), EF Security, EF Testing, Erigon, Ethereum Cat Herders, Hyperledger Besu, Independent, Lighthouse, Lodestar, Nethermind, Prysmatic, Status, Teku, and TXRX.
-
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
 Sponsor the Pilot
