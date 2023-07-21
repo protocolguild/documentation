@@ -118,6 +118,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Independent | [Henri Dubois-Ferriere](https://github.com/henridf/) | 1 |
+ | Independent | [Navie Chan](https://github.com/naviechan/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
