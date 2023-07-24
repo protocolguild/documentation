@@ -14,6 +14,7 @@
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Funding & Incentivising Ethereum's Core Protocol Development](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
 | [Octant's EpochZero: Meet the Projects](https://twitter.com/i/spaces/1RDGlagLkZmJL) | Giveth Twitter Space | Jul 10 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Development](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Development](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
