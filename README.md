@@ -53,7 +53,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) | 1 |
  | EF JavaScript | [Gabriel](https://github.com/gabrocheleau/) | 0.5 |
  | EF JavaScript | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
- | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 0.5 |
+ | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
  | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
  | EF Portal | [Jason Carver](https://github.com/carver/) | 1 |
