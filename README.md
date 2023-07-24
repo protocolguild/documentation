@@ -2,6 +2,8 @@
 
 Internal tool to propose new members, remove inactive members, and modify full/part-time weights via PR and private discussion. Will only match [public docs](https://protocol-guild.readthedocs.io/en/latest/9-membership.html) ~1x per quarter when the split is updated.
 
+In the case where someone is doing work you feel should be eligible but is not currently listed in the [qualifying ontributions](https://github.com/protocolguild/docs/blob/outline/docs/4-roles-expectations.md#qualifications): see the section [6.4 Modifying Projects and Members](https://github.com/protocolguild/docs/blob/outline/docs/6-operating-guidelines.md#64-modifying-projects-and-members).
+
 ### Adding a new member
 
 An existing member should make a PR to this repo with team, name (+ link to work), and time-weight
