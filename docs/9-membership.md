@@ -153,7 +153,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 ## Addresses and Weights
 For member privacy, the order of weights below does not correspond to the names above. These addresses and weights will change over time as members change from full-time to part-time (or vice-versa), and as members are on/offboarded.
 
-Read more about how weighting is determined in [**6.3 Weighting**](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting)
+Read more about how weighting is determined in [**6.3 Weighting**](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting)
 
 | Address  |                Weight (% of total) |
 |        :--- |        :--- |
