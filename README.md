@@ -31,7 +31,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
 
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
-| 0xSplits | [donations.0xSplits.eth](https://github.com/0xSplits/) | 1 |
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
@@ -45,14 +44,16 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
  | EF Geth | [Matt Garnett](https://github.com/lightclient/) | 1 |
  | EF Geth | [Peter Szilagyi](https://github.com/karalabe/) | 1 |
+ | EF Geth | [Sina Mahmoodi](https://github.com/s1na/) | 1 |
  | EF Ipsilon | [Alex Beregszaszi](https://github.com/axic/) | 1 |
  | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 1 |
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
  | EF Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 1 |
+ | EF Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 |
  | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) | 1 |
  | EF JavaScript | [Gabriel](https://github.com/gabrocheleau/) | 0.5 |
  | EF JavaScript | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
- | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 0.5 |
+ | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
  | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
  | EF Portal | [Jason Carver](https://github.com/carver/) | 1 |
@@ -79,22 +80,20 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
+ | EF Research | [Luca Zanolini](https://github.com/LucaZanolini) | 1 |
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
+ | EF Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
  | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
  | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
  | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
- | EF Solidity | [Daniel Kirchner](https://github.com/ekpyron/) | 0.5 |
- | EF Solidity | [Harikrishnan Mulackal](https://github.com/hrkrshnn/) | 0.5 |
- | EF Solidity | [Kamil Sliwak](https://github.com/cameel/) | 1 |
- | EF Solidity | [Leonardo de Sa Alt](https://github.com/leonardoalt/) | 1 |
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
@@ -109,14 +108,17 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 1 |
  | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
  | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
+ | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
- | Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
+ | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
+ | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
+ | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
+ | Independent | [Henri Dubois-Ferriere](https://github.com/henridf/) | 1 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
- | Lighthouse | [Diva Martínez](https://github.com/divagant-martian/) | 1 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
  | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 |
@@ -130,17 +132,21 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [dapplion](https://github.com/dapplion/) | 1 |
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
+ | Lodestar | [Nico Flaig](https://github.com/nflaig) | 1 |
  | Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
+ | Nethermind | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 |
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
+ | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
  | Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
- | Nethermind | [Tanishq](https://github.com/tanishqjasoria/) | 1 |
- | Nethermind | [Tomasz Stanzeck](https://github.com/tkstanczak/) | 0.5 |
+ | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
+ | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
+ | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
  | Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
@@ -151,12 +157,15 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
  | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
+ | Status | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
+ | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
  | Status | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
  | Status | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
  | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
+ | Status | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 |
  | Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
  | Teku | [Ben Edgington](https://github.com/benjaminion/) | 1 |
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
@@ -170,3 +179,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
  | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
+ | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm/) | 1 |
