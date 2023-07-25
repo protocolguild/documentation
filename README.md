@@ -100,7 +100,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
- | Erigon | [Artem Vorotnikov](https://github.com/vorot93/) | 0.5 |
  | Erigon | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 |
  | Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
