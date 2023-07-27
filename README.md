@@ -52,6 +52,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
  | EF Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 1 |
  | EF Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 |
+ | EF JavaScript | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 |
  | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) | 1 |
  | EF JavaScript | [Gabriel](https://github.com/gabrocheleau/) | 0.5 |
  | EF JavaScript | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
