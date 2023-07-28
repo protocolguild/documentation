@@ -169,7 +169,7 @@ To date the Guild has been using a private GitHub repository to coordinate chang
 
 In terms of smart contract tooling, [0xSplits](https://0xsplits.xyz/) has been used to automate both the [vesting of donated funds](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/) and [distribution of vested funds](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/) to members, and has worked without issues so far. We intend to continue using this tool for the foreseeable future.
 
-However, the way the Guild *interacts with* the 0xSplits contracts can certainly be improved. Today, a 6/10 multisig is used to interact with the 0xSplits front-end, specifically to add / remove members and update member allocations (based on their [weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting)). This process entails an excessive amount of manual entry, and is potentially susceptible to errors in the future.
+However, the way the Guild *interacts with* the 0xSplits contracts can certainly be improved. Today, a 6/10 multisig is used to interact with the 0xSplits front-end, specifically to add / remove members and update member allocations (based on their [weighting](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting)). This process entails an excessive amount of manual entry, and is potentially susceptible to errors in the future.
 
 Another place to improve is the use of stateful.eth to receive funding on Layer 2's. This process should be made as trustless and automated as possible to avoid manual effort and prevent errors / abuse.
 
