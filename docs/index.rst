@@ -42,7 +42,7 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
   3-smart-contract
   4-roles-expectations
   5-initial-pilot
-  6-guidelines-for-regular-operation
+  6-operating-guidelines
   7-anticipated-concerns
   8-case-studies
   9-membership
