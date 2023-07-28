@@ -4,7 +4,7 @@
 
 The Protocol Guild's core output is a curated membership registry, with weights assigned to each member.
 
-The registry is comprised of individuals who are [actively contributing](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications) to Ethereum's core protocol development, while the [weights are calculated](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting) based on how long each member has been actively contributing.
+The registry is comprised of individuals who are [actively contributing](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications) to Ethereum's core protocol development, while the [weights are calculated](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting) based on how long each member has been actively contributing.
 
 This registry is tied to a [single Ethereum address](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/), which anyone can send funds to, and whose funds will be vested to the membership over time, proportionally to members' normalized weighting.
 
@@ -29,7 +29,7 @@ Note 2: contributing to the projects/repos referenced below is necessary but doe
 Qualifying contributions _must_ be:
 
 - Fully open source, i.e. both “source available” and free to fork, modify, redistribute
-- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting))
+- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting))
 - Continuous for at least 6 months ahead of inclusion and ongoing
 
 Qualifying contributions _must_ target at least one of the following projects/areas:
@@ -61,7 +61,7 @@ There may also be exceptional cases where members are added for contributing to 
 
 Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
 
-See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#proposing-and-discussing-new-members) for guidelines on adding/removing eligible projects and members.
+See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#modifying-projects-and-members) for guidelines on adding/removing eligible projects and members.
 
 #### Expectations
 
