@@ -141,6 +141,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
  | Nethermind | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 |
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
+ | Nethermind | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
  | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
