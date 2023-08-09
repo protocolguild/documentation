@@ -137,7 +137,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Prysm | [Terence Tsao](https://github.com/terencechain) | 
  | Stateless Consensus | [Guillaume Ballet](https://github.com/gballet) | 
  | Stateless Consensus | [Ignacio Hagiopan](https://github.com/jsign) | 
- | Stateless Consensus | [Kevaundray](https://github.com/kevaundray) | 
+ | Stateless Consensus | [Kevaundray Wedderburn](https://github.com/kevaundray) | 
  | Status | [Csaba Kiraly](https://github.com/cskiraly) | 
  | Status | [Dustin Brody](https://github.com/tersec) | 
  | Status | [Etan Kissling](https://github.com/etan-status) | 
