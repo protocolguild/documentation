@@ -161,7 +161,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin) | 
 
 ## Addresses and Weights
-Member addresses and weights can be seen in the [Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/). For member privacy, the order of weights in the Split does not correspond to the names above.
+Member addresses and weights can be seen in the [Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/).
 
 Note that these addresses and weights will change over time as members change from full-time to part-time (or vice-versa), and as members are on/offboarded.
 
