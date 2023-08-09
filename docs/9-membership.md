@@ -7,6 +7,8 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
 
 | Team  |                Name / Link to work |
 |        :--- |        :--- |
+ | Consensys DDS | [Chenyi Zhang](https://github.com/czhang-fm) | 
+ | Consensys DDS | [Roberto Saltini](https://github.com/saltiniroberto) | 
  | EF DevOps | [Andrew Davis](https://github.com/Savid) | 
  | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa) | 
  | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh) | 
@@ -157,8 +159,6 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | TXRX | [Alex Vlasov](https://github.com/ericsson49) | 
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev) | 
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin) | 
- | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm) | 
- | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto) | 
 
 ## Addresses and Weights
 Member addresses and weights can be seen in the [Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/). For member privacy, the order of weights in the Split does not correspond to the names above.
@@ -190,7 +190,7 @@ We asked members to share why they think the Protocol Guild is important for Eth
 **Core Contributor** - "I believe this experiment will result in a great precedent on how to keep the core values of the Ethereum protocol alive and relevant." <br><br>
 **Core Contributor** - "I think open source is really important today and is one of the pillars of the world today, and it is going to be more and more important in future, but as today a proper way to reward its developers is missing, so I hope that this experiment will create the basis for a wider approach that could improve the sustainability of open source development." <br><br>
 **Core Contributor** - "Incentive alignment is one of the core issues that impact the long term health of a software/network. I think the Protocol Guild helps solve a part of the incentive alignment problem by allowing members to gain exposure to the network they are developing. I feel like it will go a long way in helping keep and onboard new core developers, as well as ensure everyone has skin in the game." <br><br>
-**Core Contributor** - "it is an interesting concept to fund the Ethereum project, provides both funds and incentives/reward for core devs to do more, and that in my opinion set this open source community a part from the rest" <br><br>
+**Core Contributor** - "It is an interesting concept to fund the Ethereum project, provides both funds and incentives/reward for core devs to do more, and that in my opinion set this open source community a part from the rest." <br><br>
 **Core Contributor** - "It is important that we allow those that contribute to the core protocol the opportunity to be financially rewarded on a similar scale as those that choose to operate in the private sector.  Without such a mechanism, the choice to work on the core protocol is also a choice to forfeit monetary rewards offered elsewhere, which in many cases, will lead to continual attrition of talent into the private sector." <br><br>
 **Core Contributor** - "It is important to retain talent in this industry, and the Protocol Guild provides a mechanism for doing so. Decentralized public goods funding of the researchers and developers that build the underlying technology have good chances of benefitting the applications built on top, long term." <br><br>
 **Core Contributor** - "It should help to bring and keep talents in the Ethereum core dev group." <br><br>
