@@ -6,6 +6,7 @@
 - [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
 - [Mainnet Safe multisig](https://app.safe.global/transactions/history?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
 - [Arbitrum Safe multisig](https://app.safe.global/transactions/history?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
+- [Base Safe multisig](https://app.safe.global/transactions/history?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
 - [Twitter](https://twitter.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
