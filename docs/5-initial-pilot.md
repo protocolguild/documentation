@@ -37,7 +37,7 @@ As of May 8th 2022, all of the above tasks have been completed. What follows is 
 
 ### Dune Dashboard
 
-An overview of pilot finances can be explored via this Dune Analytics dashboard: [Protocol Guild Finances](https://dune.com/datamonkey_eth/protocol-guild). Thanks to [@datamonkey_eth](https://twitter.com/datamonkey_eth) for working with us to make it happen - we can strongly recommend them if your project needs data viz done!
+An overview of pilot finances can be explored via this Dune Analytics dashboard: [Protocol Guild Finances](https://dune.com/protocolguild/protocol-guild)
 
 ## 5.4 Documenting Outcomes
 
