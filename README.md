@@ -105,6 +105,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
  | Erigon | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 |
  | Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
+ | Erigon | [Kairat Abylkasymov](https://github.com/racytech/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
