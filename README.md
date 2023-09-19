@@ -92,8 +92,8 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
  | EF Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
- | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Thomas Thiery](https://github.com/soispoke) | 1 |
+ | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 1 |
  | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
