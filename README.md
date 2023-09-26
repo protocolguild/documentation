@@ -92,7 +92,8 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
  | EF Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
- | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 0.5 |
+ | EF Robust Incentives Group (RIG) | [Thomas Thiery](https://github.com/soispoke) | 1 |
+ | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 1 |
  | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
@@ -103,9 +104,11 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Testing | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
+ | Erigon | [Artem Tsebrovskii](https://github.com/awskii/) | 1 |
  | Erigon | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 |
  | Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
  | Erigon | [lupin012](https://github.com/lupin012/) | 0.5 |
+ | Erigon | [Kairat Abylkasymov](https://github.com/racytech/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
