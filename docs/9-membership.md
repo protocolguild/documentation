@@ -59,7 +59,7 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww) | 
  | EF Research | [Justin Drake](https://github.com/justindrake) | 
  | EF Research | [Luca Zanolini](https://github.com/luca-zanolini) | 
- | EF Research | [Mark Simkin](msimkin.github.io) | 
+ | EF Research | [Mark Simkin](https://msimkin.github.io/) | 
  | EF Research | [Pop](https://github.com/ppopth) | 
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang) | 
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson) | 
