@@ -1,5 +1,5 @@
 Protocol Guild
-------------
+---------------
 
 - A collective of Ethereum contributors 
 - working to boost the incentives around stewarding the core protocol
@@ -9,7 +9,7 @@ Protocol Guild
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
 Sponsor the Pilot
-================
+==================
 
 We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
 
