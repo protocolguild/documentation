@@ -14,6 +14,16 @@
 
 ## Media
 
+Want to get up to speed on everything Protocol Guild? We recommend these three videos:
+
+- | [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
+
+- | [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work) | FtC Berlin 2023 | Sep 09 2023 |
+
+- | [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | The Blockchain Guy Twitter Space | Aug 31 2023 |
+
+All media in chronological order:
+
 | Title | Event | Date |
 |:----|:----|:----|
 | [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
