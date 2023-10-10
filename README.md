@@ -60,6 +60,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
  | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
  | EF Portal | [Jason Carver](https://github.com/carver/) | 1 |
+ | EF Portal | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
  | EF Portal | [Mike Ferris](https://github.com/mrferris/) | 1 |
  | EF Portal | [Ognyan Genev](https://github.com/ogenev/) | 1 |
  | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
