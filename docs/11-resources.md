@@ -8,24 +8,26 @@
 - [Arbitrum Safe multisig](https://app.safe.global/balances?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
 - [Base Safe multisig](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
 - [Optimism Safe multisig](https://app.safe.global/balances?safe=oeth:0x728D29E9E06cE5d846242692dF05467076c19849)
+- [theprotocolguild.eth ENS](https://app.ens.domains/theprotocolguild.eth)
 - [Twitter](https://twitter.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 
 ## Media
 
-Want to get up to speed on everything Protocol Guild? We recommend these three videos:
+Want to get up to speed quickly? Check out these three videos:
 
-- | [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
-
-- | [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work) | FtC Berlin 2023 | Sep 09 2023 |
-
-- | [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | The Blockchain Guy Twitter Space | Aug 31 2023 |
+1. [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work)
+2. [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work)
+3. [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20)
 
 All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Octant’s Epoch 1 Public Goods Funding Initiative](https://twitter.com/i/spaces/1YpKkwOZpNdKj?s=20) | Gitcoin Twitter Space | Oct 11 2023 |
+| [Credibly Neutral Public Goods Funding w/ Trent Van Epps](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
+| [$EFUT ETF: Why We’re Donating 10% of Profits to @ProtocolGuild](https://twitter.com/i/spaces/1lPJqbrjYjbxb) | VanEck Twitter Space | Oct 04 2023 |
 | [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
 | [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work) | FtC Berlin 2023 | Sep 09 2023 |
 | [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | The Blockchain Guy Twitter Space | Aug 31 2023 |
