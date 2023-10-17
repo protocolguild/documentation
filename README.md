@@ -88,6 +88,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
+ | EF Research | [Mike Neuder](https://github.com/michaelneuder) | 1 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
