@@ -124,7 +124,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
- | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
+ | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 0.5 |
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Independent | [Henri Dubois-Ferriere](https://github.com/henridf/) | 1 |
