@@ -121,7 +121,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
  | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
- | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
