@@ -102,6 +102,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
  | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
  | EF Stateless Consensus| [Ignacio Hagopian](https://github.com/jsign/) | 1 |
+ | EF Testing | [danceratopz](https://github.com/danceratopz) | 1 |
  | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
  | EF Testing | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
