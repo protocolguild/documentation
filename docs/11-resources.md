@@ -4,14 +4,18 @@
 
 - [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
-- [Mainnet Safe multisig](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
-- [Arbitrum Safe multisig](https://app.safe.global/balances?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
-- [Base Safe multisig](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
-- [Optimism Safe multisig](https://app.safe.global/balances?safe=oeth:0x728D29E9E06cE5d846242692dF05467076c19849)
 - [theprotocolguild.eth ENS](https://app.ens.domains/theprotocolguild.eth)
 - [Twitter](https://twitter.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
+
+Multisigs:
+- [Mainnet Safe multisig](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
+- [Arbitrum Safe multisig](https://app.safe.global/balances?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
+- [Base Safe multisig](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
+- [Optimism Safe multisig](https://app.safe.global/balances?safe=oeth:0x728D29E9E06cE5d846242692dF05467076c19849)
+- [Polygon Safe multisig](https://app.safe.global/balances?safe=matic:0x22BdFa4e038F71eEF5a7d2fc6daB383f8d54FD72)
+
 
 ## Media
 
