@@ -73,6 +73,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
  | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
+ | EF Research | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
  | EF Research | [Aditya Asgaonkar](https://github.com/adiasg/) | 1 |
  | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
  | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
@@ -81,7 +82,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
  | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | EF Research | [Domothy](https://github.com/domothyb/) | 1 |
- | EF Research | [Francesco d’Amato](https://github.com/notes.ethereum.org/@fradamt/) | 1 |
+ | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
