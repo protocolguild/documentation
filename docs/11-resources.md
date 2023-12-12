@@ -22,16 +22,17 @@ Multisigs:
 Want to get up to speed quickly? Check out these three videos:
 
 1. [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work)
-2. [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work)
-3. [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20)
+2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
+3. [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work)
 
 All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Safeguarding Ethereum's Soul with Trent Van Epps](https://www.youtube.com/watch?v=eYZ7zHPvoHU) | Blockchain Socialist | Dec 10 2023 |
 | [Octant’s Epoch 1 Public Goods Funding Initiative](https://twitter.com/i/spaces/1YpKkwOZpNdKj?s=20) | Gitcoin Twitter Space | Oct 11 2023 |
 | [Credibly Neutral Public Goods Funding w/ Trent Van Epps](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
-| [$EFUT ETF: Why We’re Donating 10% of Profits to @ProtocolGuild](https://twitter.com/i/spaces/1lPJqbrjYjbxb) | VanEck Twitter Space | Oct 04 2023 |
+| [$EFUT ETF: Why We’re Donating 10% of Profits to Protocol Guild](https://twitter.com/i/spaces/1lPJqbrjYjbxb) | VanEck Twitter Space | Oct 04 2023 |
 | [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
 | [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work) | FtC Berlin 2023 | Sep 09 2023 |
 | [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | The Blockchain Guy Twitter Space | Aug 31 2023 |
