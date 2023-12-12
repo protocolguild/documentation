@@ -74,7 +74,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
  | EF Cryptography | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
- | EF Research | [Aditya Asgaonkar](https://github.com/adiasg/) | 1 |
  | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
  | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
@@ -162,6 +161,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
  | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
  | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
+ | Offchain Labs / Independent | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 |
  | Prysmatic | [James He](https://github.com/james-prysm/) | 1 |
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
