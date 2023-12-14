@@ -127,7 +127,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
-| Hyperledger Besu | [Devrim (Karim Taam)](https://github.com/matkt/) | 1 |
+| Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
