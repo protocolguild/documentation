@@ -113,6 +113,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Erigon | [lupin012](https://github.com/lupin012/) | 0.5 |
  | Erigon | [Kairat Abylkasymov](https://github.com/racytech/) | 1 |
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 0.5 |
+ | Erigon | [Somnath Banerjee](https://github.com/somnathb1/) | 1 |
  | Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
  | Hyperledger Besu | [Ameziane](https://github.com/https://github.com/ahamlat/) | 1 |
