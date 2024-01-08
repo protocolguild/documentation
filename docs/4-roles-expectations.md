@@ -30,7 +30,7 @@ Qualifying contributions _must_ be:
 
 - Fully open source, i.e. both “source available” and free to fork, modify, redistribute
 - The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting))
-- Continuous for at least 6 months ahead of inclusion and ongoing
+- Continuous for at least 6 months ahead of inclusion and ongoing. Any contribution breaks for an existing member must be shorter than 1 quarter / 3 months - Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
 
 Qualifying contributions _must_ target at least one of the following projects/areas:
 
