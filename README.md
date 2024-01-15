@@ -160,6 +160,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
+ | Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
  | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
  | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
  | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
