@@ -142,9 +142,9 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 1 |
  | Lighthouse | [Anton Delaruelle](https://github.com/antondlr) | 1 |
  | Lighthouse | [Jimmy Chen](https://github.com/jimmygchen) | 1 |
+ | Lighthouse | [dapplion](https://github.com/dapplion/) | 1 |
  | Lodestar | [Afri](https://github.com/q9f/) | 0.5 |
  | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
- | Lodestar | [dapplion](https://github.com/dapplion/) | 1 |
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Matthew Keil](https://github.com/matthewkeil) | 1 |
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
