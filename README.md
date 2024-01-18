@@ -147,6 +147,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Matthew Keil](https://github.com/matthewkeil) | 1 |
+ | Lodestar | [Navie Chan](https://github.com/ensi321) | 1 |
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
  | Lodestar | [Nico Flaig](https://github.com/nflaig) | 1 |
  | Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
