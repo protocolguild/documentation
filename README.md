@@ -89,6 +89,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Research | [Mike Neuder](https://github.com/michaelneuder) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
+ | EF Research | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
@@ -142,9 +143,9 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lighthouse | [Anton Delaruelle](https://github.com/antondlr) | 1 |
  | Lighthouse | [Jimmy Chen](https://github.com/jimmygchen) | 1 |
  | Lighthouse | [João Oliveira](https://github.com/jxs) | 1 |
+ | Lighthouse | [dapplion](https://github.com/dapplion/) | 1 |
  | Lodestar | [Afri](https://github.com/q9f/) | 0.5 |
  | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
- | Lodestar | [dapplion](https://github.com/dapplion/) | 1 |
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Matthew Keil](https://github.com/matthewkeil) | 1 |
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
@@ -154,6 +155,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Nethermind | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 |
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
  | Nethermind | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 |
+ | Nethermind | [Ben Adams](https://github.com/benaadams) | 0.5 |
  | Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
  | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
@@ -161,6 +163,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
  | Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
  | Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
+ | Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
  | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
  | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
  | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
