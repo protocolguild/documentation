@@ -200,4 +200,4 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 0.5 |
  | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
- | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm/) | 1 |
+ | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 |
