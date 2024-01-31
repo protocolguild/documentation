@@ -74,6 +74,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
  | EF Cryptography | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
+ | EF Cryptography | [Mary Maller](https://github.com/mmaller) | 0.5 |
  | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
  | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
