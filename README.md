@@ -183,6 +183,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Reth | [Dragan Rakita](https://github.com/rakita/) | 1 | 
  | Status | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
  | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
+ | Status | [Andri Lim](https://github.com/jangko/) | 1 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
  | Status | [Etan Kissling](https://github.com/etan-status/) | 1 |
  | Status | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
