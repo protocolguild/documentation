@@ -146,7 +146,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | Lighthouse | [Jimmy Chen](https://github.com/jimmygchen) | 1 |
  | Lighthouse | [João Oliveira](https://github.com/jxs) | 1 |
  | Lighthouse | [dapplion](https://github.com/dapplion/) | 1 |
- | Lodestar | [Afri](https://github.com/q9f/) | 0.5 |
  | Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
  | Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
  | Lodestar | [Matthew Keil](https://github.com/matthewkeil) | 1 |
