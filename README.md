@@ -65,7 +65,6 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Portal | [Ognyan Genev](https://github.com/ogenev/) | 1 |
  | EF Portal | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
  | EF Portal | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
- | EF Privacy & Scaling Explorations (PSE) | [Kevaundray](https://github.com/kevaundray/) | .5 |
  | EF Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
  | EF Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
  | EF Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
@@ -103,6 +102,7 @@ Discussion should be open for ~1 week to give members time to review and contrib
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
  | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
+ | EF Stateless Consensus| [Kevaundray](https://github.com/kevaundray/) | 1 |
  | EF Stateless Consensus| [Ignacio Hagopian](https://github.com/jsign/) | 1 |
  | EF Stateless Consensus| [Josh Rudolf](https://github.com/jrudolf/) | 1 |
  | EF Testing | [danceratopz](https://github.com/danceratopz) | 1 |
