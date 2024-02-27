@@ -45,7 +45,6 @@ When adding a new member, the PR should add the individual to the member list, a
 
 - Name / Identifier
 - Project
-- Discord handle 
 - Link to relevant work, eg. GitHub, research
 - Summary of their work and eligibility
 
