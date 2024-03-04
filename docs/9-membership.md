@@ -182,6 +182,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
  | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
  | Prysmatic | [Terence Tsao](https://github.com/terencechain/) | 1 |
+ | Prysmatic | [Manu Nalepa](https://github.com/nalepae) | 1 |
  | Reth | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 |
  | Reth | [Dan Cline](https://github.com/rjected/) | 1 |
  | Reth | [Dragan Rakita](https://github.com/rakita/) | 1 |
