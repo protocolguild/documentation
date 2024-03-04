@@ -15,7 +15,7 @@ Multisigs:
 - [Base Safe multisig](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
 - [Optimism Safe multisig](https://app.safe.global/balances?safe=oeth:0x728D29E9E06cE5d846242692dF05467076c19849)
 - [Polygon Safe multisig](https://app.safe.global/balances?safe=matic:0x22BdFa4e038F71eEF5a7d2fc6daB383f8d54FD72)
-
+- [Zora Safe multisig](https://safe.optimism.io/balances?safe=zora:0xD8cd6E414B28085E186968ee25cBba78dc28D6aa)
 
 ## Media
 
