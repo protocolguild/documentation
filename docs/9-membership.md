@@ -54,6 +54,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
  | EF Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 1 |
  | EF Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 |
+ | EF Ipsilon | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 |
  | EF JavaScript | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 |
  | EF JavaScript | [Andrew Day](https://github.com/acolytec3/) | 1 |
  | EF JavaScript | [Gabriel](https://github.com/gabrocheleau/) | 0.5 |
