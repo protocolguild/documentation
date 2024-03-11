@@ -188,6 +188,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Reth | [Dragan Rakita](https://github.com/rakita/) | 1 |
  | Reth | [Matthias Seitz](https://github.com/mattsse/) | 1 |
  | Reth | [Emilia Hane](https://github.com/emhane) | 1 |
+ | Reth | [Roman Krasiuk](https://github.com/rkrasiuk) | 1 |
  | Reth | [joshie](https://github.com/joshieDo) | 1 |
  | Status | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
  | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
