@@ -40,6 +40,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
  | EF DevOps | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 |
  | EF DevOps | [Andrew Davis](https://github.com/savid/) | 1 |
+ | EF DevOps | [pk910](https://github.com/pk910/) | 1 |
  | EF Geth | [Gary Rong](https://github.com/rjl493456442/) | 1 |
  | EF Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
  | EF Geth | [Felix Lange](https://github.com/fjl/) | 1 |
