@@ -23,12 +23,16 @@ Want to get up to speed quickly? Check out these three videos:
 
 1. [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work)
 2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
-3. [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work)
+3. [Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200)
 
 All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
+| [Protocol Guild Pledge Unlocking the future of Ethereum](https://twitter.com/i/spaces/1OyKAWbzAmMJb) | PWN DAO Twiter Space | Feb 20 2024 |
+| [Taking the Protocol Guild Pledge](https://twitter.com/i/spaces/1MnxnMyYwykJO) | Taiko Twitter Space | Feb 15 2024 |
+| [Chatting with Epoch Two Public Goods](https://twitter.com/i/spaces/1OwxWYbnkjAGQ) | Octant Twitter Space | Jan 29 2024 |
 | [Safeguarding Ethereum's Soul with Trent Van Epps](https://www.youtube.com/watch?v=eYZ7zHPvoHU) | Blockchain Socialist | Dec 10 2023 |
 | [Octant’s Epoch 1 Public Goods Funding Initiative](https://twitter.com/i/spaces/1YpKkwOZpNdKj?s=20) | Gitcoin Twitter Space | Oct 11 2023 |
 | [Credibly Neutral Public Goods Funding w/ Trent Van Epps](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
