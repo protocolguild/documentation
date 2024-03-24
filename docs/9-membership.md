@@ -135,7 +135,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
-| Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
