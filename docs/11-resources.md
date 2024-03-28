@@ -30,6 +30,7 @@ All media in chronological order:
 | Title | Event | Date |
 |:----|:----|:----|
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
+| [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QhaBynDSEHs) | Avail Hot Take | Feb 26 2024 |
 | [Protocol Guild Pledge Unlocking the future of Ethereum](https://twitter.com/i/spaces/1OyKAWbzAmMJb) | PWN DAO X Space | Feb 20 2024 |
 | [Taking the Protocol Guild Pledge](https://twitter.com/i/spaces/1MnxnMyYwykJO) | Taiko X Space | Feb 15 2024 |
 | [Chatting with Epoch Two Public Goods](https://twitter.com/i/spaces/1OwxWYbnkjAGQ) | Octant X Space | Jan 29 2024 |
