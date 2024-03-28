@@ -132,6 +132,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
+ | Hyperledger Besu | [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
