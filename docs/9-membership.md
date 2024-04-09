@@ -84,7 +84,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
  | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
  | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
- | EF Research | [Domothy](https://github.com/domothyb/) | 1 |
  | EF Research | [Echo](https://github.com/echoalice/) | 1 |
  | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
@@ -133,10 +132,10 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
+ | Hyperledger Besu | [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 |
  | Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
  | Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
-| Hyperledger Besu | [Karim Taam](https://github.com/matkt/) | 1 |
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
