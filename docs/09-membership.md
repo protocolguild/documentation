@@ -77,23 +77,24 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | EF Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
  | EF Cryptography | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
+ | EF Cryptography | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
+ | EF Cryptography | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Cryptography | [Mary Maller](https://github.com/mmaller) | 0.5 |
+ | EF Cryptography | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
  | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
  | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
- | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
+ | EF Research | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
  | EF Research | [Luca Zanolini](https://github.com/LucaZanolini) | 1 |
- | EF Research | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Research | [Mike Neuder](https://github.com/michaelneuder) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Research | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
- | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
@@ -105,7 +106,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
  | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
  | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
- | EF Stateless Consensus| [Kevaundray](https://github.com/kevaundray/) | 1 |
  | EF Stateless Consensus| [Ignacio Hagopian](https://github.com/jsign/) | 1 |
  | EF Stateless Consensus| [Josh Rudolf](https://github.com/jrudolf/) | 1 |
  | EF Testing | [danceratopz](https://github.com/danceratopz) | 1 |
