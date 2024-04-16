@@ -36,6 +36,7 @@ If someone is doing work you feel should be eligible but is not currently listed
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
 | EF ARG | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
+ | EF ARG | [Echo](https://github.com/echoalice/) | 1 |
 | EF ARG | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
 | EF ARG | [Mike Neuder](https://github.com/michaelneuder) | 1 |
 | EF ARG | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
@@ -88,6 +89,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
  | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
+ | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
