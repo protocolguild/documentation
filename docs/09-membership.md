@@ -89,7 +89,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
  | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
- | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
  | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
