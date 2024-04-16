@@ -128,7 +128,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 1 |
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 1 |
  | Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
- | Hyperledger Besu | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
  | Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
@@ -205,6 +204,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
+ | Teku | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
  | Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 |
  | Teku | [Lucas Saldanha](https://github.com/lucassaldanha) | 1 |
  | Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
