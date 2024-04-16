@@ -35,6 +35,10 @@ If someone is doing work you feel should be eligible but is not currently listed
 
 | Team  |                Name / Link to work |  Multiplier |
 | :---        |        :--- |        :--- |
+| EF ARG | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
+| EF ARG | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
+| EF ARG | [Mike Neuder](https://github.com/michaelneuder) | 1 |
+| EF ARG | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
 | EF DevOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
  | EF DevOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
@@ -62,7 +66,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF JavaScript | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
  | EF JavaScript | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EF JavaScript | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
- | EF Portal | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
  | EF Portal | [Jason Carver](https://github.com/carver/) | 1 |
  | EF Portal | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
  | EF Portal | [Mike Ferris](https://github.com/mrferris/) | 1 |
@@ -81,7 +84,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Cryptography | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Cryptography | [Mary Maller](https://github.com/mmaller) | 0.5 |
  | EF Cryptography | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
- | EF Research | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
  | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
  | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
@@ -92,9 +94,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
  | EF Research | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
  | EF Research | [Luca Zanolini](https://github.com/LucaZanolini) | 1 |
- | EF Research | [Mike Neuder](https://github.com/michaelneuder) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
- | EF Research | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
