@@ -177,7 +177,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Prysmatic | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysmatic | [Nishant Das](https://github.com/nisdas/) | 1 |
  | Prysmatic | [potuz](https://github.com/potuz/) | 1 |
- | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 0.5 |
+ | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
  | Prysmatic | [Radosław Kapka](https://github.com/rkapka/) | 1 |
  | Prysmatic | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
  | Prysmatic | [Sammy Rosso](https://github.com/saolyn/) | 1 |
