@@ -94,7 +94,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
  | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
  | EF Research | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
- | EF Research | [Luca Zanolini](https://github.com/LucaZanolini) | 1 |
+ | EF Research | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
  | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
