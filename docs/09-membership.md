@@ -191,6 +191,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Reth | [Emilia Hane](https://github.com/emhane) | 1 |
  | Reth | [Roman Krasiuk](https://github.com/rkrasiuk) | 1 |
  | Reth | [joshie](https://github.com/joshieDo) | 1 |
+ | Status | [Andri Lim](https://github.com/jangko/) | 1 |
  | Status | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
  | Status | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
  | Status | [Dustin Brody](https://github.com/tersec/) | 1 |
