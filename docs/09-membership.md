@@ -201,7 +201,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Status | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Status | [Kim De Mey](https://github.com/kdeme/) | 1 |
  | Status | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 |
- | Status | [Zahary Karadzhov](https://github.com/zah/) | 1 |
  | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
