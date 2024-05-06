@@ -85,17 +85,17 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EF Cryptography | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
  | EF Cryptography | [Mary Maller](https://github.com/mmaller) | 0.5 |
  | EF Cryptography | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
- | EF Research | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
- | EF Research | [Antonio Sanso](https://github.com/asanso/) | 1 |
- | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
- | EF Research | [Dankrad Feist](https://github.com/dankrad/) | 1 |
- | EF Research | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
- | EF Research | [George Kadianakis](https://github.com/asn-d6/) | 1 |
- | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
- | EF Research | [Justin Drake](https://github.com/justindrake/) | 1 |
- | EF Research | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
- | EF Research | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
- | EF Research | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
+ | EF Consensus R&D | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
+ | EF Consensus R&D | [Antonio Sanso](https://github.com/asanso/) | 1 |
+ | EF Consensus R&D | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
+ | EF Consensus R&D | [Dankrad Feist](https://github.com/dankrad/) | 1 |
+ | EF Consensus R&D | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
+ | EF Consensus R&D | [George Kadianakis](https://github.com/asn-d6/) | 1 |
+ | EF Consensus R&D | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
+ | EF Consensus R&D | [Justin Drake](https://github.com/justindrake/) | 1 |
+ | EF Consensus R&D | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
+ | EF Consensus R&D | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
+ | EF Consensus R&D | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
@@ -137,6 +137,7 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
  | Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
  | Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
+ | Independent | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 |
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
  | Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
@@ -172,7 +173,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
  | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
  | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
- | Offchain Labs / Independent | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 |
  | Prysm | [James He](https://github.com/james-prysm/) | 1 |
  | Prysm | [Kasey Kirkham](https://github.com/kasey/) | 1 |
  | Prysm | [Nishant Das](https://github.com/nisdas/) | 1 |
@@ -213,8 +213,8 @@ If someone is doing work you feel should be eligible but is not currently listed
  | TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
- | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
- | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 |
+ | Dependable Distributed Systems (DDS) | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
+ | Dependable Distributed Systems (DDS) | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 |
 
 ## Addresses and Weights
 
