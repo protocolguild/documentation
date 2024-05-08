@@ -68,18 +68,18 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EthereumJS | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EthereumJS | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
  | Portal Network (EF) | [Jason Carver](https://github.com/carver/) | 1 |
- | ortal Network (EF) | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
- | ortal Network (EF) | [Mike Ferris](https://github.com/mrferris/) | 1 |
- | ortal Network (EF) | [Ognyan Genev](https://github.com/ogenev/) | 1 |
- | ortal Network (EF) | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
- | ortal Network (EF) | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
- | Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
- | Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
- | Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
- | Protocol Support | [Peter Davies](https://github.com/ultratwo/) | 1 |
- | Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
- | Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
- | Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
+ | Portal Network (EF) | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
+ | Portal Network (EF) | [Mike Ferris](https://github.com/mrferris/) | 1 |
+ | Portal Network (EF) | [Ognyan Genev](https://github.com/ogenev/) | 1 |
+ | Portal Network (EF) | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
+ | Portal Network (EF) | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
+ | Protocol Support (EF) | [Danny Ryan](https://github.com/djrtwo/) | 1 |
+ | Protocol Support (EF)| [Guru](https://github.com/gurukamath/) | 1 |
+ | Protocol Support (EF)| [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
+ | Protocol Support (EF)| [Peter Davies](https://github.com/ultratwo/) | 1 |
+ | Protocol Support (EF)| [Sam Wilson](https://github.com/SamWilsn/) | 1 |
+ | Protocol Support (EF)| [Tim Beiko](https://github.com/timbeiko/) | 1 |
+ | Protocol Support (EF)| [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
  | Cryptography (EF) | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
  | Cryptography (EF) | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
  | Cryptography (EF) | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
