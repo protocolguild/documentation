@@ -67,12 +67,12 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EthereumJS | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
  | EthereumJS | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EthereumJS | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
- | Portal Network | [Jason Carver](https://github.com/carver/) | 1 |
- | Portal Network | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
- | Portal Network | [Mike Ferris](https://github.com/mrferris/) | 1 |
- | Portal Network | [Ognyan Genev](https://github.com/ogenev/) | 1 |
- | Portal Network | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
- | Portal Network | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
+ | EF Portal Network | [Jason Carver](https://github.com/carver/) | 1 |
+ | EF Portal Network | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
+ | EF Portal Network | [Mike Ferris](https://github.com/mrferris/) | 1 |
+ | EF Portal Network | [Ognyan Genev](https://github.com/ogenev/) | 1 |
+ | EF Portal Network | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
+ | EF Portal Network | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
  | Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
  | Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
  | Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
@@ -102,11 +102,11 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
  | Robust Incentives Group (RIG) | [Thomas Thiery](https://github.com/soispoke) | 1 |
  | Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 1 |
- | EF Security | [David Theodore](https://github.com/infosecual/) | 1 |
- | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
- | EF Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
- | EF Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
- | EF Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
+ | EF Protocol Security | [David Theodore](https://github.com/infosecual/) | 1 |
+ | EF Protocol Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
+ | EF Protocol Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
+ | EF Protocol Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
+ | EF Protocol Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
  | Stateless Consensus | [Ignacio Hagopian](https://github.com/jsign/) | 1 |
  | Stateless Consensus | [Josh Rudolf](https://github.com/jrudolf/) | 1 |
  | EF Testing | [danceratopz](https://github.com/danceratopz) | 1 |
