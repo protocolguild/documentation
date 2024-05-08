@@ -67,12 +67,12 @@ If someone is doing work you feel should be eligible but is not currently listed
  | EthereumJS | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
  | EthereumJS | [Jochem](https://github.com/jochem-brouwer/) | 1 |
  | EthereumJS | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
- | EF Portal Network | [Jason Carver](https://github.com/carver/) | 1 |
- | EF Portal Network | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
- | EF Portal Network | [Mike Ferris](https://github.com/mrferris/) | 1 |
- | EF Portal Network | [Ognyan Genev](https://github.com/ogenev/) | 1 |
- | EF Portal Network | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
- | EF Portal Network | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
+ | Portal Network (EF) | [Jason Carver](https://github.com/carver/) | 1 |
+ | ortal Network (EF) | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
+ | ortal Network (EF) | [Mike Ferris](https://github.com/mrferris/) | 1 |
+ | ortal Network (EF) | [Ognyan Genev](https://github.com/ogenev/) | 1 |
+ | ortal Network (EF) | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
+ | ortal Network (EF) | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
  | Protocol Support | [Danny Ryan](https://github.com/djrtwo/) | 1 |
  | Protocol Support | [Guru](https://github.com/gurukamath/) | 1 |
  | Protocol Support | [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
@@ -80,38 +80,38 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Protocol Support | [Sam Wilson](https://github.com/SamWilsn/) | 1 |
  | Protocol Support | [Tim Beiko](https://github.com/timbeiko/) | 1 |
  | Protocol Support | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
- | EF Cryptography | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
- | EF Cryptography | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
- | EF Cryptography | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
- | EF Cryptography | [Mary Maller](https://github.com/mmaller) | 0.5 |
- | EF Cryptography | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
- | EF Consensus R&D | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
- | EF Consensus R&D | [Antonio Sanso](https://github.com/asanso/) | 1 |
- | EF Consensus R&D | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
- | EF Consensus R&D | [Dankrad Feist](https://github.com/dankrad/) | 1 |
- | EF Consensus R&D | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
- | EF Consensus R&D | [George Kadianakis](https://github.com/asn-d6/) | 1 |
- | EF Consensus R&D | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
- | EF Consensus R&D | [Justin Drake](https://github.com/justindrake/) | 1 |
- | EF Consensus R&D | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
- | EF Consensus R&D | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
- | EF Consensus R&D | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
+ | Cryptography (EF) | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
+ | Cryptography (EF) | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
+ | Cryptography (EF) | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
+ | Cryptography (EF) | [Mary Maller](https://github.com/mmaller) | 0.5 |
+ | Cryptography (EF) | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
+ | Consensus R&D (EF) | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
+ | Consensus R&D (EF) | [Antonio Sanso](https://github.com/asanso/) | 1 |
+ | Consensus R&D (EF) | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
+ | Consensus R&D (EF) | [Dankrad Feist](https://github.com/dankrad/) | 1 |
+ | Consensus R&D (EF) | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
+ | Consensus R&D (EF) | [George Kadianakis](https://github.com/asn-d6/) | 1 |
+ | Consensus R&D (EF) | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
+ | Consensus R&D (EF) | [Justin Drake](https://github.com/justindrake/) | 1 |
+ | Consensus R&D (EF) | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
+ | Consensus R&D (EF) | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
+ | Consensus R&D (EF) | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
  | Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
  | Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
  | Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
  | Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
  | Robust Incentives Group (RIG) | [Thomas Thiery](https://github.com/soispoke) | 1 |
  | Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 1 |
- | EF Protocol Security | [David Theodore](https://github.com/infosecual/) | 1 |
- | EF Protocol Security | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
- | EF Protocol Security | [Justin Traglia](https://github.com/jtraglia/) | 1 |
- | EF Protocol Security | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
- | EF Protocol Security | [Yoav Weiss](https://github.com/yoavw/) | 1 |
+ | Protocol Security (EF) | [David Theodore](https://github.com/infosecual/) | 1 |
+ | Protocol Security (EF) | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
+ | Protocol Security (EF) | [Justin Traglia](https://github.com/jtraglia/) | 1 |
+ | Protocol Security (EF) | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
+ | Protocol Security (EF) | [Yoav Weiss](https://github.com/yoavw/) | 1 |
  | Stateless Consensus | [Ignacio Hagopian](https://github.com/jsign/) | 1 |
  | Stateless Consensus | [Josh Rudolf](https://github.com/jrudolf/) | 1 |
- | EF Testing | [danceratopz](https://github.com/danceratopz) | 1 |
- | EF Testing | [Mario Vega](https://github.com/marioevz/) | 1 |
- | EF Testing | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 |
+ | Testing (EF) | [danceratopz](https://github.com/danceratopz) | 1 |
+ | Testing (EF) | [Mario Vega](https://github.com/marioevz/) | 1 |
+ | Testing (EF) | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 |
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
  | Erigon | [Artem Tsebrovskii](https://github.com/awskii/) | 1 |
