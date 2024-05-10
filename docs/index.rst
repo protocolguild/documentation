@@ -37,14 +37,14 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
 .. toctree::
   :maxdepth: 2
   
-  1-proposal-rationale
-  2-existing-mechanisms
-  3-smart-contract
-  4-roles-expectations
-  5-initial-pilot
-  6-operating-guidelines
-  7-anticipated-concerns
-  8-case-studies
-  9-membership
+  01-proposal-rationale
+  02-existing-mechanisms
+  03-smart-contract
+  04-roles-expectations
+  05-initial-pilot
+  06-operating-guidelines
+  07-anticipated-concerns
+  08-case-studies
+  09-membership
   10-donate
   11-resources
