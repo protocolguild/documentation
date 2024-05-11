@@ -11,7 +11,7 @@ Protocol Guild
 Sponsor the Pilot
 ==================
 
-We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
+We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/05-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
 
 Information about the smart contracts and how you can help fund public goods and their contributors can be found `here <https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#xsplits-contracts>`_.
 
