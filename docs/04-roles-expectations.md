@@ -4,7 +4,7 @@
 
 The Protocol Guild's core output is a curated membership registry, with weights assigned to each member.
 
-The registry is comprised of individuals who are [actively contributing](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications) to Ethereum's core protocol development, while the [weights are calculated](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting) based on how long each member has been actively contributing.
+The registry is comprised of individuals who are [actively contributing](https://protocol-guild.readthedocs.io/en/latest/04-roles-expectations.html#qualifications) to Ethereum's core protocol development, while the [weights are calculated](https://protocol-guild.readthedocs.io/en/latest/06-operating-guidelines.html#weighting) based on how long each member has been actively contributing.
 
 This registry is tied to a [single Ethereum address](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/), which anyone can send funds to, and whose funds will be vested to the membership over time, proportionally to members' normalized weighting.
 
@@ -14,7 +14,7 @@ It should be noted that the Guild as an entity does not directly manage or parti
 
 ## 4.2 Members
 
-For the Pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#signers).
+For the Pilot, members of the Protocol Guild will have up to three different functions: [slot holders](https://protocol-guild.readthedocs.io/en/latest/04-roles-expectations.html#slot-holders), [curators](https://protocol-guild.readthedocs.io/en/latest/04-roles-expectations.html#curators) and [signers](https://protocol-guild.readthedocs.io/en/latest/04-roles-expectations.html#signers).
 
 ### 4.21 Slot Holders
 
@@ -29,7 +29,7 @@ Note 2: contributing to the projects/repos referenced below is necessary but doe
 Qualifying contributions _must_ be:
 
 - Fully open source, i.e. both “source available” and free to fork, modify, redistribute
-- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting))
+- The full focus of the individual (anything less receives a partial weighting, see [6.3 weighting](https://protocol-guild.readthedocs.io/en/latest/06-operating-guidelines.html#weighting))
 - Continuous for at least 6 months ahead of inclusion and ongoing. Any contribution breaks for an existing member must be shorter than 1 quarter / 3 months - Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
 
 Qualifying contributions _must_ target at least one of the following projects/areas:
@@ -61,7 +61,7 @@ There may also be exceptional cases where members are added for contributing to 
 
 Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
 
-See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#modifying-projects-and-members) for guidelines on adding/removing eligible projects and members.
+See [6.4 Modifying Projects and Members](https://protocol-guild.readthedocs.io/en/latest/06-operating-guidelines.html#modifying-projects-and-members) for guidelines on adding/removing eligible projects and members.
 
 #### Expectations
 
@@ -105,7 +105,7 @@ Beyond this basic expectation, members should consider mentoring through somethi
 
 ### 4.23 Signers
 
-Signers are Guild members who act as key holders for the multisig, which can update the membership and their weights in the weighting contract. The 6/10 Gnosis Safe can be seen [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances). These should be well regarded figures from the Ethereum community. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence (e.g. quarterly). Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over vested funds. To learn more about how the multisig and the weighting contract interact, see section [Smart Contract Architecture](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html).
+Signers are Guild members who act as key holders for the multisig, which can update the membership and their weights in the weighting contract. The 6/10 Gnosis Safe can be seen [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances). These should be well regarded figures from the Ethereum community. They should agree to follow strong security practices, and make themselves available to sign and deploy membership updates at the agreed upon cadence (e.g. quarterly). Similarly to curatorship, overlapping signers and beneficiaries allows for more efficient self-governance vs. the overhead that comes with a set of external signers. It should be noted that signers never have custody over vested funds. To learn more about how the multisig and the weighting contract interact, see section [Smart Contract Architecture](https://protocol-guild.readthedocs.io/en/latest/03-smart-contract.html).
 
 ## 4.3 Sponsors
 
@@ -121,7 +121,7 @@ Ethereum has a rich culture of experimenting with radical new ideas: it’s what
 -  Fractionalized NFTs
 -  Good old-fashioned ETH
 
-In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see [Case Studies](https://protocol-guild.readthedocs.io/en/latest/8-case-studies.html) for more explorations on this.
+In order to be effective, we suggest that new projects consider allocating 1% of total project tokens to the Protocol Guild - see [Case Studies](https://protocol-guild.readthedocs.io/en/latest/08-case-studies.html) for more explorations on this.
 
 Finally, it should be noted that just as protocol maintenance is an ongoing effort, so too is sponsor support. New vesting contracts will need to be deployed and sponsored periodically to maintain  future incentives to contribute to the protocol.
 

@@ -13,9 +13,9 @@ Sponsor the Pilot
 
 We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/05-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
 
-Information about the smart contracts and how you can help fund public goods and their contributors can be found `here <https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html#xsplits-contracts>`_.
+Information about the smart contracts and how you can help fund public goods and their contributors can be found `here <https://protocol-guild.readthedocs.io/en/latest/03-smart-contract.html#xsplits-contracts>`_.
 
-If you have additional questions about the project, please reach out to `@ProtocolGuild <https://twitter.com/ProtocolGuild>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/9-membership.html>`_.
+If you have additional questions about the project, please reach out to `@ProtocolGuild <https://twitter.com/ProtocolGuild>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/09-membership.html>`_.
 
 +---------------------------+---------------+
 | Donate Now                                |
@@ -27,7 +27,7 @@ If you have additional questions about the project, please reach out to `@Protoc
 
 .. _Pilot Vesting Contract: https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/
 .. _Split Contract: https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/
-.. _Learn more: https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html
+.. _Learn more: https://protocol-guild.readthedocs.io/en/latest/03-smart-contract.html
 
 Table of Contents
 ===================

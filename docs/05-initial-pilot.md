@@ -17,7 +17,7 @@ As of May 8th 2022, all of the above tasks have been completed. What follows is 
 
 - Sponsoring assets will vest for one year (365 days) from stream initialization. Sponsoring streams may overlap with the next iteration of the vesting contract by a few months.
 - We are targeting between $10-20mm in sponsorships. If you’re interested in being part of this initial cohort of sponsors, you can permissionlessly send funds to the [vesting contract 0xF29...1a9](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/). If you or your project have questions, please reach out on [Twitter](https://twitter.com/protocolguild) or to any of the existing members.
-- We will plan to update the [membership list](https://protocol-guild.readthedocs.io/en/latest/9-membership.html#member-list) and [weights](https://protocol-guild.readthedocs.io/en/latest/9-membership.html#addresses-and-weights) ideally once per quarter, barring any special cases.
+- We will plan to update the [membership list](https://protocol-guild.readthedocs.io/en/latest/09-membership.html#member-list) and [weights](https://protocol-guild.readthedocs.io/en/latest/09-membership.html#addresses-and-weights) ideally once per quarter, barring any special cases.
 - The beneficiary split has been launched with 111 beneficiary addresses - see the contract through the [0xsplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/). The initial set of pilot beneficiaries include:
   - Diviners (Researchers / Spec Writers / Client Tinkerers): Responsible for divining the future needs of the protocol.
   - Framers (Client Maintainers): In dialogue with the previous set, responsible for manifesting the best fit frameworks to hold these needs in balance with each other.
@@ -169,7 +169,7 @@ To date the Guild has been using a private GitHub repository to coordinate chang
 
 In terms of smart contract tooling, [0xSplits](https://0xsplits.xyz/) has been used to automate both the [vesting of donated funds](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/) and [distribution of vested funds](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/) to members, and has worked without issues so far. We intend to continue using this tool for the foreseeable future.
 
-However, the way the Guild *interacts with* the 0xSplits contracts can certainly be improved. Today, a 6/10 multisig is used to interact with the 0xSplits front-end, specifically to add / remove members and update member allocations (based on their [weighting](https://protocol-guild.readthedocs.io/en/latest/6-operating-guidelines.html#weighting)). This process entails an excessive amount of manual entry, and is potentially susceptible to errors in the future.
+However, the way the Guild *interacts with* the 0xSplits contracts can certainly be improved. Today, a 6/10 multisig is used to interact with the 0xSplits front-end, specifically to add / remove members and update member allocations (based on their [weighting](https://protocol-guild.readthedocs.io/en/latest/06-operating-guidelines.html#weighting)). This process entails an excessive amount of manual entry, and is potentially susceptible to errors in the future.
 
 Another place to improve is the use of stateful.eth to receive funding on Layer 2's. This process should be made as trustless and automated as possible to avoid manual effort and prevent errors / abuse.
 
