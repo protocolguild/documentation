@@ -201,7 +201,6 @@ If someone is doing work you feel should be eligible but is not currently listed
  | Nimbus | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
  | Nimbus | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
  | Nimbus | [Kim De Mey](https://github.com/kdeme/) | 1 |
- | Teku | [Courtney Hunter](https://github.com/courtneyeh/) | 1 |
  | Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
  | Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
  | Teku | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
