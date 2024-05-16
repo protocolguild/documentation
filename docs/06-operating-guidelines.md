@@ -32,7 +32,7 @@ Modifying eligible projects and active membership should be proposed separately 
 
 ### Adding/removing Projects
 
-Changing the list of [eligible projects](https://protocol-guild.readthedocs.io/en/latest/4-roles-expectations.html#qualifications) can be made through a PR to the docs repo. This PR should add the project in the appropriate section, along with the following info:
+Changing the list of [eligible projects](https://protocol-guild.readthedocs.io/en/latest/04-roles-expectations.html#qualifications) can be made through a PR to the docs repo. This PR should add the project in the appropriate section, along with the following info:
 
 - Name of project/research area
 - Summary of why this project/research area should be considered eligible 
