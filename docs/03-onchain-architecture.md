@@ -1,6 +1,6 @@
 # 3. Smart Contract Architecture
 
-This section describes the Guild's current smart contract architecture. You can learn more about the Pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/08-resources.html#pilot).
+This section describes the Guild's current smart contract architecture. You can learn more about the Pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/07-resources.html#pilot).
 
 Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations pass through a [4-year vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/) on mainnet, which vests funds into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership.
 
