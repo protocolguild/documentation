@@ -2,7 +2,7 @@
 
 ## 2.1 Active Members
 
-The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (Feb 14, 2024) Protocol Guild had 167 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
+The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (May 21, 2024) Protocol Guild had 177 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
 
 | Name | Multiplier | Team | Eligible Work |
 | :--- | :--- | :--- | :--- |
