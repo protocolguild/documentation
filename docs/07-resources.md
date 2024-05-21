@@ -54,7 +54,7 @@ All media in chronological order:
 
 ## 7.3 Pilot
 
-### 7.3.1 Pilot Links
+### Pilot Links
 - [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
 - [Mainnet Safe multisig](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
@@ -64,7 +64,7 @@ All media in chronological order:
 - [Polygon Safe multisig](https://app.safe.global/balances?safe=matic:0x22BdFa4e038F71eEF5a7d2fc6daB383f8d54FD72)
 - [Zora Safe multisig](https://safe.optimism.io/balances?safe=zora:0xD8cd6E414B28085E186968ee25cBba78dc28D6aa)
 
-### 7.3.2 Pilot Rationale
+### Pilot Rationale
 
 How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurring topic for many years in our community. When the latest discussion resurfaced in [Oct 2021](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching existing public goods funding mechanisms, to see if any offered a solution. Ultimately, we concluded that a new mechanism was needed. 
 
@@ -101,7 +101,7 @@ The new funding mechanism must provide autonomous funding and nudge the incentiv
 
 Over the course of this ideation process, we realized that we cannot answer the original question (how to give contributors exposure to the success of the application layer), without answering a more general question: what would a mechanism to trustlessly fund protocol contributors look like? We believe the design of the Protocol Guild as described here is a strong approach to addressing both these questions.
 
-### 7.3.3 Tradeoffs of Existing Mechanisms
+### Tradeoffs of Existing Mechanisms
 
 The existing suite of protocol funding mechanisms have so far adequately supported the ecosystem, but come with their own tradeoffs: 
 - Typically not forward looking, eg. they are usually retroactive
@@ -129,7 +129,7 @@ Some teams may opt to establish their own non-profit entities, e.g. the [Nomic F
 
 Salaries *do* target individuals, but are limited in that they can only account for the present and near future. Further, they are tied to a single legal organization, and can never be a good proxy for ecosystem value creation.
 
-### 7.3.4 Pilot Smart Contract Architecture
+### Pilot Smart Contract Architecture
 
 As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from **[0xSplits](https://www.0xsplits.xyz/)**. Learn more about that project [here](https://docs.0xsplits.xyz/).
 
@@ -183,7 +183,7 @@ We have deployed a 6/10 Gnosis Safe [here](https://gnosis-safe.io/app/eth:0xF6CB
 
 Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven’t been released (4a in the diagram above) and distributed (4b) to  beneficiaries of the Split contract. For this reason we won’t disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Further, releases and distributions should occur on a regular cadence (quarterly) to limit the impact of the multisig being compromised.
 
-### 7.3.5 Anticipated Concerns
+### Anticipated Concerns
 
 While we can't conceive of every scenario, we've tried to think critically about deficiencies when they've presented themselves.
 
@@ -272,7 +272,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - In the sense of gatekeeping/groupthink/capture, we sincerely hope not. There's certainly a possibility that previously effective people may get stuck in a position if the incentive is significant enough. However, this is no different from any other job with performance requirements, crypto or otherwise. If someone is not performing adequately, they will be removed from their job and then from the list. If anything, the infusion of new perspectives as the set grows will be a healthy process.
 - With the conclusion of each vesting period, everyone starts at 0 again, having to convince other members (and more broadly, the public), that they are legitimate heirs to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Anyone can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively  evolves their systems to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
 
-### 7.3.6 Pilot Retrospective
+### Pilot Retrospective
 
 *This retro was written April 10th 2024*
 
@@ -450,7 +450,7 @@ While waiting for this new smart contract architecture, a new immutable vesting 
 
 Overall, Protocol Guild’s future iterations will aim to replicate everything that worked well in the pilot, but with increased transparency, trustlessness and the removal of offchain dependencies. We hope that these changes, plus the 4-year vesting period, will encourage [more projects](https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge) built on Ethereum to take the Protocol Guild Pledge, to support the core protocol work they depend on. 
 
-*Conclusion*
+#### Conclusion
 
 With the tremendous success of raising $14+ million from 7.5k donations, we believe that the Protocol Guild has been validated as an effective funding mechanism. On behalf of all Protocol Guild members, we extend our heartfelt thanks to everyone who contributed. We are deeply humbled and incredibly grateful for our ecosystem's unwavering support of Ethereum’s core protocol work.
 
