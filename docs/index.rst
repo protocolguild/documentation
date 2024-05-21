@@ -38,7 +38,6 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
   02-membership
   03-onchain-architecture
   04-donate
-  05-design-principles
-  06-ethereum-commons
-  07-design-rational
-  08-resources
+  05-the-ethereum-commons
+  06-design-principles
+  07-resources
