@@ -59,7 +59,7 @@ Self-curation is an important part of the mechanism, which is different from oth
   - The core protocol, its governance, and funding should be held to the highest institutional standards. An external council places the operational onus on a set of individuals who have a different incentive-set than members. In the degenerate case, their goal is to maintain their position as curators, 
   - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth removed from core protocol stewardship.
 
-### 6.2 Incentive compatibility
+## 6.2 Incentive compatibility
 
 It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
 
