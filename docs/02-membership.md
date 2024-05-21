@@ -4,186 +4,186 @@
 
 The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (Feb 14, 2024) Protocol Guild had 167 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
 
-| Team  |                Name / Link to work |  Multiplier |
-| :---        |        :--- |        :--- |
-| Applied Research Group (ARG) | [Alex Stokes](https://github.com/ralexstokes/) | 1 |
- | Applied Research Group (ARG) | [Echo](https://github.com/echoalice/) | 1 |
-| Applied Research Group (ARG) | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 |
-| Applied Research Group (ARG) | [Mike Neuder](https://github.com/michaelneuder) | 1 |
-| Applied Research Group (ARG) | [Toni Wahrstätter](https://github.com/nerolation) | 1 |
-| ethPandaOps | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 |
-| ethPandaOps | [Rafael Matias](https://github.com/skylenet/) | 0.5 |
-| ethPandaOps | [Sam Calder-Mason](https://github.com/samcm/) | 1 |
-| ethPandaOps | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 |
-| ethPandaOps | [Andrew Davis](https://github.com/savid/) | 1 |
-| ethPandaOps | [pk910](https://github.com/pk910/) | 1 |
-| Geth | [Gary Rong](https://github.com/rjl493456442/) | 1 |
-| Geth | [Guillaume Ballet](https://github.com/gballet/) | 1 |
-| Geth | [Felix Lange](https://github.com/fjl/) | 1 |
-| Geth | [Jared Wasinger](https://github.com/jwasinger/) | 1 |
-| Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 |
-| Geth | [Martin Holst Swende](https://github.com/holiman/) | 1 |
-| Geth | [Matt Garnett](https://github.com/lightclient/) | 1 |
-| Geth | [Peter Szilagyi](https://github.com/karalabe/) | 1 |
-| Geth | [Sina Mahmoodi](https://github.com/s1na/) | 1 |
-| Ipsilon | [Alex Beregszaszi](https://github.com/axic/) | 1 |
-| Ipsilon | [Andrei Maiboroda](https://github.com/gumb0/) | 1 |
-| Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 |
-| Ipsilon | [Paweł Bylica](https://github.com/chfast/) | 1 |
-| Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 |
-| Ipsilon | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 |
-| EthereumJS | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 |
-| EthereumJS | [Andrew Day](https://github.com/acolytec3/) | 1 |
-| EthereumJS | [Gabriel](https://github.com/gabrocheleau/) | 0.5 |
-| EthereumJS | [Holger Drewes](https://github.com/holgerd77/) | 0.5 |
-| EthereumJS | [Jochem](https://github.com/jochem-brouwer/) | 1 |
-| EthereumJS | [Scotty Poi](https://github.com/ScottyPoi/) | 1 |
-| Portal Network (EF) | [Jason Carver](https://github.com/carver/) | 1 |
-| Portal Network (EF) | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 |
-| Portal Network (EF) | [Mike Ferris](https://github.com/mrferris/) | 1 |
-| Portal Network (EF) | [Ognyan Genev](https://github.com/ogenev/) | 1 |
-| Portal Network (EF) | [Piper Merriam](https://github.com/pipermerriam/) | 1 |
-| Portal Network (EF) | [Nick Gheorghita](https://github.com/njgheorghita) | 1 |
-| Protocol Support (EF) | [Danny Ryan](https://github.com/djrtwo/) | 1 |
-| Protocol Support (EF)| [Guru](https://github.com/gurukamath/) | 1 |
-| Protocol Support (EF)| [Mário Havel](https://github.com/taxmeifyoucan) | 1 |
-| Protocol Support (EF)| [Peter Davies](https://github.com/ultratwo/) | 1 |
-| Protocol Support (EF)| [Sam Wilson](https://github.com/SamWilsn/) | 1 |
-| Protocol Support (EF)| [Tim Beiko](https://github.com/timbeiko/) | 1 |
-| Protocol Support (EF)| [Trenton Van Epps](https://github.com/tvanepps/) | 1 |
-| Cryptography (EF) | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 |
-| Cryptography (EF) | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 |
-| Cryptography (EF) | [Mark Simkin](https://github.com/msimkin.github.io/) | 1 |
-| Cryptography (EF) | [Mary Maller](https://github.com/mmaller) | 0.5 |
-| Cryptography (EF) | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 |
-| Consensus R&D (EF) | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 |
-| Consensus R&D (EF) | [Antonio Sanso](https://github.com/asanso/) | 1 |
-| Consensus R&D (EF) | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 |
-| Consensus R&D (EF) | [Dankrad Feist](https://github.com/dankrad/) | 1 |
-| Consensus R&D (EF) | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 |
-| Consensus R&D (EF) | [George Kadianakis](https://github.com/asn-d6/) | 1 |
-| Consensus R&D (EF) | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 |
-| Consensus R&D (EF) | [Justin Drake](https://github.com/justindrake/) | 1 |
-| Consensus R&D (EF) | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 |
-| Consensus R&D (EF) | [Luca Zanolini](https://github.com/luca-zanolini) | 1 |
-| Consensus R&D (EF) | [Pop Chunhapanya](https://github.com/ppopth/) | 1 |
-| Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson/) | 1 |
-| Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 |
-| Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 |
-| Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis/) | 1 |
-| Robust Incentives Group (RIG) | [Thomas Thiery](https://github.com/soispoke) | 1 |
-| Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 1 |
-| Protocol Security (EF) | [David Theodore](https://github.com/infosecual/) | 1 |
-| Protocol Security (EF) | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 |
-| Protocol Security (EF) | [Justin Traglia](https://github.com/jtraglia/) | 1 |
-| Protocol Security (EF) | [Tyler Holmes](https://github.com/z3n-chada/) | 1 |
-| Protocol Security (EF) | [Yoav Weiss](https://github.com/yoavw/) | 1 |
-| Stateless Consensus | [Ignacio Hagopian](https://github.com/jsign/) | 1 |
-| Stateless Consensus | [Josh Rudolf](https://github.com/jrudolf/) | 1 |
-| Testing (EF) | [danceratopz](https://github.com/danceratopz) | 1 |
-| Testing (EF) | [Mario Vega](https://github.com/marioevz/) | 1 |
-| Testing (EF) | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 |
-| Erigon | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 |
-| Erigon | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 |
-| Erigon | [Artem Tsebrovskii](https://github.com/awskii/) | 1 |
-| Erigon | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 |
-| Erigon | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 |
-| Erigon | [lupin012](https://github.com/lupin012/) | 0.5 |
-| Erigon | [Kairat Abylkasymov](https://github.com/racytech/) | 1 |
-| Erigon | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 |
-| Erigon | [Somnath Banerjee](https://github.com/somnathb1/) | 1 |
-| Erigon | [Tullio Canepa](https://github.com/canepat/) | 1 |
-| Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 |
-| Hyperledger Besu | [Ameziane](https://github.com/https://github.com/ahamlat/) | 1 |
-| Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 |
-| Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon/) | 1 |
-| Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10/) | 1 |
-| Hyperledger Besu | [Gary Schulte](https://github.com/garyschulte/) | 1 |
-| Hyperledger Besu | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 |
-| Hyperledger Besu | [Jason Frame](https://github.com/jframe/) | 1 |
-| Hyperledger Besu | [Justin Florentine](https://github.com/jflo/) | 1 |
-| Hyperledger Besu | [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 |
-| Hyperledger Besu | [pinges](https://github.com/pinges/) | 1 |
-| Hyperledger Besu | [Sally Macfarlane](https://github.com/macfarla/) | 1 |
-| Hyperledger Besu | [Simon Dudley](https://github.com/siladu/) | 1 |
-| Independent | [Cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |
-| Independent | [Jim mcDonald](https://github.com/mcdee/) | 0.5 |
-| Independent | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 |
-| Lighthouse | [Adrian Manning](https://github.com/AgeManning/) | 0.5 |
-| Lighthouse | [Mac Ladson](https://github.com/macladson/) | 1 |
-| Lighthouse | [Mark Mackey](https://github.com/ethDreamer/) | 1 |
-| Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 |
-| Lighthouse | [Michael Sproul](https://github.com/michaelsproul/) | 1 |
-| Lighthouse | [Paul Hauner](https://github.com/paulhauner/) | 0.5 |
-| Lighthouse | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 |
-| Lighthouse | [Sean Anderson](https://github.com/realbigsean/) | 1 |
-| Lighthouse | [Anton Delaruelle](https://github.com/antondlr) | 1 |
-| Lighthouse | [Jimmy Chen](https://github.com/jimmygchen) | 1 |
-| Lighthouse | [João Oliveira](https://github.com/jxs) | 1 |
-| Lighthouse | [dapplion](https://github.com/dapplion/) | 1 |
-| Lodestar | [Cayman Nava](https://github.com/wemeetagain/) | 1 |
-| Lodestar | [Gajinder Singh](https://github.com/g11tech/) | 1 |
-| Lodestar | [Matthew Keil](https://github.com/matthewkeil) | 1 |
-| Lodestar | [NC](https://github.com/ensi321) | 1 |
-| Lodestar | [Nazar Hussain](https://github.com/nazarhussain/) | 1 |
-| Lodestar | [Nico Flaig](https://github.com/nflaig) | 1 |
-| Lodestar | [Phil Ngo](https://github.com/philknows/) | 1 |
-| Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 |
-| Nethermind | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 |
-| Nethermind | [Alexey Osipov](https://github.com/flcl42) | 1 |
-| Nethermind | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 |
-| Nethermind | [Ben Adams](https://github.com/benaadams) | 0.5 |
-| Nethermind | [Daniel Celeda](https://github.com/dceleda/) | 1 |
-| Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 |
-| Nethermind | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 |
-| Nethermind | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 |
-| Nethermind | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 |
-| Nethermind | [Marek Moraczyński](https://github.com/MarekM25/) | 1 |
-| Nethermind | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 |
-| Nethermind | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |
-| Nethermind | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 |
-| Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 |
-| Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 |
-| Prysm | [James He](https://github.com/james-prysm/) | 1 |
-| Prysm | [Kasey Kirkham](https://github.com/kasey/) | 1 |
-| Prysm | [Nishant Das](https://github.com/nisdas/) | 1 |
-| Prysm | [potuz](https://github.com/potuz/) | 1 |
-| Prysm | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |
-| Prysm | [Radosław Kapka](https://github.com/rkapka/) | 1 |
-| Prysm | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |
-| Prysm | [Sammy Rosso](https://github.com/saolyn/) | 1 |
-| Prysm | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |
-| Prysm | [Terence Tsao](https://github.com/terencechain/) | 1 |
-| Prysm | [Manu Nalepa](https://github.com/nalepae) | 1 |
-| Reth | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 |
-| Reth | [Dan Cline](https://github.com/rjected/) | 1 |
-| Reth | [DaniPopes](https://github.com/DaniPopes) | 1 |
-| Reth | [Dragan Rakita](https://github.com/rakita/) | 1 |
-| Reth | [Emilia Hane](https://github.com/emhane) | 1 |
-| Reth | [joshie](https://github.com/joshieDo) | 1 |
-| Reth | [Matthias Seitz](https://github.com/mattsse/) | 1 |
-| Reth | [Roman Krasiuk](https://github.com/rkrasiuk) | 1 |
-| Codex DAS | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 |
-| Codex DAS | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 |
-| Codex DAS | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 |
-| Nimbus | [Dustin Brody](https://github.com/tersec/) | 1 |
-| Nimbus | [Etan Kissling](https://github.com/etan-status/) | 1 |
-| Nimbus | [Eugene Kabanov](https://github.com/cheatfate/) | 1 |
-| Nimbus | [Jacek Sieka](https://github.com/arnetheduck/) | 1 |
-| Nimbus | [Jordan Hrycaj](https://github.com/mjfh/) | 1 |
-| Nimbus | [Kim De Mey](https://github.com/kdeme/) | 1 |
-| Teku | [Dmitry Shmatko](https://github.com/zilm13/) | 1 |
-| Teku | [Enrico Del Fante](https://github.com/tbenr/) | 1 |
-| Teku | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 |
-| Teku | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 |
-| Teku | [Lucas Saldanha](https://github.com/lucassaldanha) | 1 |
-| Teku | [Paul Harris](https://github.com/rolfyone/) | 1 |
-| Teku | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 |
-| TXRX | [Alex Vlasov](https://github.com/ericsson49/) | 1 |
-| TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 |
-| TXRX | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 |
-| Dependable Distributed Systems (DDS) | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 |
-| Dependable Distributed Systems (DDS) | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 |
+| Name | Team | Eligible Work | Multiplier |
+| :--- | :--- | :--- | :--- |
+| [Alex Stokes](https://github.com/ralexstokes/) | Applied Research Group (ARG) | | 1 |
+| [Echo](https://github.com/echoalice/) | Applied Research Group (ARG) | | 1 |
+| [Jacob Kaufmann](https://github.com/jacobkaufmann/) | Applied Research Group (ARG) | | 1 |
+| [Mike Neuder](https://github.com/michaelneuder) | Applied Research Group (ARG) | | 1 |
+| [Toni Wahrstätter](https://github.com/nerolation) | Applied Research Group (ARG) | | 1 |
+| [Parithosh Jayanthi](https://github.com/parithosh/) | ethPandaOps | | 1 |
+| [Rafael Matias](https://github.com/skylenet/) | ethPandaOps | | 0.5 |
+| [Sam Calder-Mason](https://github.com/samcm/) | ethPandaOps | | 1 |
+| [Barnabas Busa](https://github.com/barnabasbusa/) | ethPandaOps | | 1 |
+| [Andrew Davis](https://github.com/savid/) | ethPandaOps | | 1 |
+| [pk910](https://github.com/pk910/) | ethPandaOps | | 1 |
+| [Gary Rong](https://github.com/rjl493456442/) | Geth | | 1 |
+| [Guillaume Ballet](https://github.com/gballet/) | Geth | | 1 |
+| [Felix Lange](https://github.com/fjl/) | Geth | | 1 |
+| [Jared Wasinger](https://github.com/jwasinger/) | Geth | | 1 |
+| [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | Geth | | 1 |
+| [Martin Holst Swende](https://github.com/holiman/) | Geth | | 1 |
+| [Matt Garnett](https://github.com/lightclient/) | Geth | | 1 |
+| [Peter Szilagyi](https://github.com/karalabe/) | Geth | | 1 |
+| [Sina Mahmoodi](https://github.com/s1na/) | Geth | | 1 |
+| [Alex Beregszaszi](https://github.com/axic/) | Ipsilon | | 1 |
+| [Andrei Maiboroda](https://github.com/gumb0/) | Ipsilon | | 1 |
+| [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | Ipsilon | | 0.5 |
+| [Paweł Bylica](https://github.com/chfast/) | Ipsilon | | 1 |
+| [Radosław Zagórowicz](https://github.com/rodiazet) | Ipsilon | | 1 |
+| [Piotr Dobaczewski](https://github.com/pdobacz) | Ipsilon | | 1 |
+| [Amir Ghorbanian](https://github.com/scorbajio/) | EthereumJS | | 1 |
+| [Andrew Day](https://github.com/acolytec3/) | EthereumJS | | 1 |
+| [Gabriel](https://github.com/gabrocheleau/) | EthereumJS | | 0.5 |
+| [Holger Drewes](https://github.com/holgerd77/) | EthereumJS | | 0.5 |
+| [Jochem](https://github.com/jochem-brouwer/) | EthereumJS | | 1 |
+| [Scotty Poi](https://github.com/ScottyPoi/) | EthereumJS | | 1 |
+| [Jason Carver](https://github.com/carver/) | Portal Network (EF) | | 1 |
+| [Kolby Moroz Liebl](https://github.com/KolbyML) | Portal Network (EF) | | 1 |
+| [Mike Ferris](https://github.com/mrferris/) | Portal Network (EF) | | 1 |
+| [Ognyan Genev](https://github.com/ogenev/) | Portal Network (EF) | | 1 |
+| [Piper Merriam](https://github.com/pipermerriam/) | Portal Network (EF) | | 1 |
+| [Nick Gheorghita](https://github.com/njgheorghita) | Portal Network (EF) | | 1 |
+| [Danny Ryan](https://github.com/djrtwo/) | Protocol Support (EF) | | 1 |
+| [Guru](https://github.com/gurukamath/) | Protocol Support (EF) | | 1 |
+| [Mário Havel](https://github.com/taxmeifyoucan) | Protocol Support (EF) | | 1 |
+| [Peter Davies](https://github.com/ultratwo/) | Protocol Support (EF) | | 1 |
+| [Sam Wilson](https://github.com/SamWilsn/) | Protocol Support (EF) | | 1 |
+| [Tim Beiko](https://github.com/timbeiko/) | Protocol Support (EF) | | 1 |
+| [Trenton Van Epps](https://github.com/tvanepps/) | Protocol Support (EF) | | 1 |
+| [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | Cryptography (EF) | | 1 |
+| [Dmitry Khovratovich](https://github.com/khovratovich/) | Cryptography (EF) | | 1 |
+| [Mark Simkin](https://github.com/msimkin.github.io/) | Cryptography (EF) | | 1 |
+| [Mary Maller](https://github.com/mmaller) | Cryptography (EF) | | 0.5 |
+| [Zhenfei Zhang](https://github.com/zhenfeizhang/) | Cryptography (EF) | | 0.5 |
+| [Ansgar Dietrichs](https://github.com/adietrichs/) | Consensus R&D (EF) | | 1 |
+| [Antonio Sanso](https://github.com/asanso/) | Consensus R&D (EF) | | 1 |
+| [Carl Beekhuizen](https://github.com/CarlBeek/) | Consensus R&D (EF) | | 1 |
+| [Dankrad Feist](https://github.com/dankrad/) | Consensus R&D (EF) | | 1 |
+| [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | Consensus R&D (EF) | | 1 |
+| [George Kadianakis](https://github.com/asn-d6/) | Consensus R&D (EF) | | 1 |
+| [Hsiao-Wei Wang](https://github.com/hwwhww/) | Consensus R&D (EF) | | 1 |
+| [Justin Drake](https://github.com/justindrake/) | Consensus R&D (EF) | | 1 |
+| [Kevaundray Wedderburn](https://github.com/kevaundray/) | Consensus R&D (EF) | | 1 |
+| [Luca Zanolini](https://github.com/luca-zanolini) | Consensus R&D (EF) | | 1 |
+| [Pop Chunhapanya](https://github.com/ppopth/) | Consensus R&D (EF) | | 1 |
+| [Anders](https://github.com/anderselowsson/) | Robust Incentives Group (RIG) | | 1 |
+| [Barnabé Monnot](https://github.com/barnabemonnot/) | Robust Incentives Group (RIG) | | 1 |
+| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | Robust Incentives Group (RIG) | | 1 |
+| [Davide Crapis](https://github.com/dcrapis/) | Robust Incentives Group (RIG) | | 1 |
+| [Thomas Thiery](https://github.com/soispoke) | Robust Incentives Group (RIG) | | 1 |
+| [Julian Ma](https://github.com/Ma-Julian) | Robust Incentives Group (RIG) | | 1 |
+| [David Theodore](https://github.com/infosecual/) | Protocol Security (EF) | | 1 |
+| [Fredrik Svantes](https://github.com/fredriksvantes/) | Protocol Security (EF) | | 1 |
+| [Justin Traglia](https://github.com/jtraglia/) | Protocol Security (EF) | | 1 |
+| [Tyler Holmes](https://github.com/z3n-chada/) | Protocol Security (EF) | | 1 |
+| [Yoav Weiss](https://github.com/yoavw/) | Protocol Security (EF) | | 1 |
+| [Ignacio Hagopian](https://github.com/jsign/) | Stateless Consensus | | 1 |
+| [Josh Rudolf](https://github.com/jrudolf/) | Stateless Consensus | | 1 |
+| [danceratopz](https://github.com/danceratopz) | Testing (EF) | | 1 |
+| [Mario Vega](https://github.com/marioevz/) | Testing (EF) | | 1 |
+| [Spencer Taylor-Brown](https://github.com/spencer-tb/) | Testing (EF) | | 1 |
+| [Alex Sharov](https://github.com/AskAlexSharov/) | Erigon | | 1 |
+| [Andrey Ashikhmin](https://github.com/yperbasis/) | Erigon | | 1 |
+| [Artem Tsebrovskii](https://github.com/awskii/) | Erigon | | 1 |
+| [Daniel Lazarenko](https://github.com/battlmonstr/) | Erigon | | 0.5 |
+| [Giulio Rebuffo](https://github.com/Giulio2002/) | Erigon | | 1 |
+| [lupin012](https://github.com/lupin012/) | Erigon | | 0.5 |
+| [Kairat Abylkasymov](https://github.com/racytech/) | Erigon | | 1 |
+| [Michelangelo Riccobene](https://github.com/mriccobene/) | Erigon | | 1 |
+| [Somnath Banerjee](https://github.com/somnathb1/) | Erigon | | 1 |
+| [Tullio Canepa](https://github.com/canepat/) | Erigon | | 1 |
+| [Pooja Ranjan](https://github.com/poojaranjan/) | Ethereum Cat Herders | | 1 |
+| [Ameziane](https://github.com/https://github.com/ahamlat/) | Hyperledger Besu | | 1 |
+| [Daniel Lehrner](https://github.com/daniellehrner/) | Hyperledger Besu | | 1 |
+| [Danno Ferrin](https://github.com/shemnon/) | Hyperledger Besu | | 1 |
+| [Fabio di Fabio](https://github.com/fab-10/) | Hyperledger Besu | | 1 |
+| [Gary Schulte](https://github.com/garyschulte/) | Hyperledger Besu | | 1 |
+| [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | Hyperledger Besu | | 1 |
+| [Jason Frame](https://github.com/jframe/) | Hyperledger Besu | | 1 |
+| [Justin Florentine](https://github.com/jflo/) | Hyperledger Besu | | 1 |
+| [Matt Nelson](https://github.com/non-fungible-nelson) | Hyperledger Besu | | 0.5 |
+| [pinges](https://github.com/pinges/) | Hyperledger Besu | | 1 |
+| [Sally Macfarlane](https://github.com/macfarla/) | Hyperledger Besu | | 1 |
+| [Simon Dudley](https://github.com/siladu/) | Hyperledger Besu | | 1 |
+| [cheeky-gorilla](https://github.com/cheeky-gorilla) | Independent | [protocolguild/documentation](https://github.com/protocolguild/documentation) | 1 |
+| [Jim mcDonald](https://github.com/mcdee/) | Independent | | 0.5 |
+| [Aditya Asgaonkar](https://github.com/adiasg/) | Independent | | 0.5 |
+| [Adrian Manning](https://github.com/AgeManning/) | Lighthouse | | 0.5 |
+| [Mac Ladson](https://github.com/macladson/) | Lighthouse | | 1 |
+| [Mark Mackey](https://github.com/ethDreamer/) | Lighthouse | | 1 |
+| [Mehdi Zerouali](https://github.com/zedt3ster/) | Lighthouse | | 0.5 |
+| [Michael Sproul](https://github.com/michaelsproul/) | Lighthouse | | 1 |
+| [Paul Hauner](https://github.com/paulhauner/) | Lighthouse | | 0.5 |
+| [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | Lighthouse | | 1 |
+| [Sean Anderson](https://github.com/realbigsean/) | Lighthouse | | 1 |
+| [Anton Delaruelle](https://github.com/antondlr) | Lighthouse | | 1 |
+| [Jimmy Chen](https://github.com/jimmygchen) | Lighthouse | | 1 |
+| [João Oliveira](https://github.com/jxs) | Lighthouse | | 1 |
+| [dapplion](https://github.com/dapplion/) | Lighthouse | | 1 |
+| [Cayman Nava](https://github.com/wemeetagain/) | Lodestar | | 1 |
+| [Gajinder Singh](https://github.com/g11tech/) | Lodestar | | 1 |
+| [Matthew Keil](https://github.com/matthewkeil) | Lodestar | | 1 |
+| [NC](https://github.com/ensi321) | Lodestar | | 1 |
+| [Nazar Hussain](https://github.com/nazarhussain/) | Lodestar | | 1 |
+| [Nico Flaig](https://github.com/nflaig) | Lodestar | | 1 |
+| [Phil Ngo](https://github.com/philknows/) | Lodestar | | 1 |
+| [Tuyen Nguyen](https://github.com/tuyennhv/) | Lodestar | | 1 |
+| [Ahmad Bitar](https://github.com/smartprogrammer93 ) | Nethermind | | 0.5 |
+| [Alexey Osipov](https://github.com/flcl42) | Nethermind | | 1 |
+| [Ayman Bouchareb](https://github.com/Demuirgos) | Nethermind | | 1 |
+| [Ben Adams](https://github.com/benaadams) | Nethermind | | 0.5 |
+| [Daniel Celeda](https://github.com/dceleda/) | Nethermind | | 1 |
+| [Jorge Mederos](https://github.com/jmederosalvarado/) | Nethermind | | 0.5 |
+| [Kamil Chodoła](https://github.com/kamilchodola/) | Nethermind | | 1 |
+| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | Nethermind | | 1 |
+| [Marcin Sobczak](https://github.com/marcindsobczak/) | Nethermind | | 1 |
+| [Marek Moraczyński](https://github.com/MarekM25/) | Nethermind | | 1 |
+| [Mateusz Jędrzejewski](https://github.com/matilote/) | Nethermind | | 0.5 |
+| [Muhammad Amirul Ashraf](https://github.com/asdacap) | Nethermind | | 1 |
+| [Ruben Buniatyan](https://github.com/rubo/) | Nethermind | | 0.5 |
+| [Tanishq Jasoria](https://github.com/tanishqjasoria/) | Nethermind | | 1 |
+| [Tomasz Stanczak](https://github.com/tkstanczak/) | Nethermind | | 0.5 |
+| [James He](https://github.com/james-prysm/) | Prysm | | 1 |
+| [Kasey Kirkham](https://github.com/kasey/) | Prysm | | 1 |
+| [Nishant Das](https://github.com/nisdas/) | Prysm | | 1 |
+| [potuz](https://github.com/potuz/) | Prysm | | 1 |
+| [Preston Van Loon](https://github.com/prestonvanloon/) | Prysm | | 1 |
+| [Radosław Kapka](https://github.com/rkapka/) | Prysm | | 1 |
+| [Raul Jordan](https://github.com/rauljordan/) | Prysm | | 0.5 |
+| [Sammy Rosso](https://github.com/saolyn/) | Prysm | | 1 |
+| [Taran Singh](https://github.com/Taranpreet26311/) | Prysm | | 0.5 |
+| [Terence Tsao](https://github.com/terencechain/) | Prysm | | 1 |
+| [Manu Nalepa](https://github.com/nalepae) | Prysm | | 1 |
+| [Alexey Shekhirin](https://github.com/shekhirin/) | Reth | | 1 |
+| [Dan Cline](https://github.com/rjected/) | Reth | | 1 |
+| [DaniPopes](https://github.com/DaniPopes) | Reth | | 1 |
+| [Dragan Rakita](https://github.com/rakita/) | Reth | | 1 |
+| [Emilia Hane](https://github.com/emhane) | Reth | | 1 |
+| [joshie](https://github.com/joshieDo) | Reth | | 1 |
+| [Matthias Seitz](https://github.com/mattsse/) | Reth | | 1 |
+| [Roman Krasiuk](https://github.com/rkrasiuk) | Reth | | 1 |
+| [Dmitriy Ryajov](https://github.com/dryajov/) | Codex DAS | | 0.5 |
+| [Csaba Kiraly](https://github.com/cskiraly/) | Codex DAS | | 0.5 |
+| [Leonardo Bautista-Gomez](https://github.com/leobago/) | Codex DAS | | 0.5 |
+| [Dustin Brody](https://github.com/tersec/) | Nimbus | | 1 |
+| [Etan Kissling](https://github.com/etan-status/) | Nimbus | | 1 |
+| [Eugene Kabanov](https://github.com/cheatfate/) | Nimbus | | 1 |
+| [Jacek Sieka](https://github.com/arnetheduck/) | Nimbus | | 1 |
+| [Jordan Hrycaj](https://github.com/mjfh/) | Nimbus | | 1 |
+| [Kim De Mey](https://github.com/kdeme/) | Nimbus | | 1 |
+| [Dmitry Shmatko](https://github.com/zilm13/) | Teku | | 1 |
+| [Enrico Del Fante](https://github.com/tbenr/) | Teku | | 1 |
+| [Gabriel Fukushima](https://github.com/gfukushima/) | Teku | | 1 |
+| [Mehdi Aouadi](https://github.com/mehdi-aouadi) | Teku | | 1 |
+| [Lucas Saldanha](https://github.com/lucassaldanha) | Teku | | 1 |
+| [Paul Harris](https://github.com/rolfyone/) | Teku | | 1 |
+| [Stefan Bratanov](https://github.com/StefanBratanov/) | Teku | | 1 |
+| [Alex Vlasov](https://github.com/ericsson49/) | TXRX | | 1 |
+| [Anton Nashatyrev](https://github.com/Nashatyrev/) | TXRX | | 1 |
+| [Mikhail Kalinin](https://github.com/mkalinin/) | TXRX | | 1 |
+| [Roberto Saltini](https://github.com/saltiniroberto/) | Dependable Distributed Systems (DDS) | | 1 |
+| [Chenyi Zhang](https://github.com/czhang-fm/) | Dependable Distributed Systems (DDS) | | 0.5 |
 
 ## 2.2 Membership Requirements
 
