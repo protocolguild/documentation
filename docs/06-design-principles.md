@@ -39,7 +39,7 @@
   - High bar for membership 
   - Reduces overhead
   - Attracts meaningful contributions
-  - APPEARS IN:
+  - APPEARS AS
     - Explicit eligibility
 
 ## 6.1 Self Curation
