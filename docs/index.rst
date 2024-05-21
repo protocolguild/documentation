@@ -18,12 +18,12 @@ This is a simple but powerful mechanism which allows Ethereum core protocol R&D 
 Donate
 ==================
 
-- Mainnet: `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9 <https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/>`_
-- Arbitrum: `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
-- Base: `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
-- Optimism: `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
-- Polygon: `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
-- Zora:`0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
+- **Ethereum Mainnet:** `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9 <https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/>`_
+- **Arbitrum:** `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
+- **Base:** `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
+- **Optimism:** `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
+- **Polygon:** `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
+- **Zora:** `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_
 
 Table of Contents
 ===================
