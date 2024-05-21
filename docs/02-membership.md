@@ -191,7 +191,7 @@ All current members have been contributing:
 1. To one or more of the list of [eligible projects](https://protocol-guild.readthedocs.io/en/latest/01-eligibility.html).
 2. Continuously for **at least 6 months** ahead of inclusion. This work is expected to be ongoing (e.g. not a short-term or one-off project). To avoid removal from the current membership, any breaks in contribution must be shorter than 1 quarter (3 months). Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
 3. In a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#time-weight-formula).
-https://protocol-guild.readthedocs.io/en/latest/02-membership.html#time-weight-formula
+
 ## 2.3 Adding a Member
 
 An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
