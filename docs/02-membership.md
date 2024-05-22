@@ -91,6 +91,7 @@ The membership is a set of people working within the eligible projects who have 
 | [lupin012](https://github.com/lupin012/) | 0.5 | Erigon | |
 | [Jacek Glen](https://github.com/jacekglen/) | 0.5 | Erigon | |
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
+| [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | Erigon | |
