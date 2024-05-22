@@ -1,13 +1,13 @@
-# 7. Resources
+# 6. Resources
 
-## 7.1 Links
+## 6.1 Links
 
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 - [Twitter](https://twitter.com/protocolguild)
 - [Farcaster](https://warpcast.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 
-## 7.2 Media
+## 6.2 Media
 
 Want to get up to speed quickly? Check out these three videos:
 
@@ -52,7 +52,9 @@ All media in chronological order:
 | [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) | Shelling Point | Feb 17 2022 |
 | [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) | Mirror | Dec 31 2021 |
 
-## 7.3 Pilot
+## 6.3 Pilot
+
+Protocol Guild's 1-year pilot was kicked off on May 7th, 2022 with the [deployment](https://etherscan.io/tx/0x0fe4b8b7ff4e1301e9cbf6613b805dc76cffb4a633f36244e7544e9dfd8612b7) of the pilot vesting contract. This section contains documentation pertaining to the planning and execution of the pilot at that time, serving as a historical reference.
 
 ### Pilot Links
 - [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
@@ -189,9 +191,6 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 **Related to Operations**
 
-*What happens in the case of stolen/exploited funds being sent to the mechanism?*
-- To the best of our knowledge this has not happened to any other public goods project or individual, but that doesn't mean it wont happen, however unlikely. While the membership will ultimately decide how to handle each scenario individually, each should be carefully considered. It might play out something like this: Contract receives illicit funds > Membership collectively decides to claim/burn the specific funds in the contract > The affected parties deploy a recovery contract with a snapshot at each exploit and restore the funds via said contract.
-
 *Shouldn't one-off contributions be considered for membership?*
 - Every mechanism has its limit. The Protocol Guild may meet its at the edges of contribution, where someone has meaningfully contributed to a project, but does not work on it consistently, or produces something as a one-off. This remains an open question, and might be considered for a future weighting scheme if there are no major issues.
 
@@ -220,9 +219,6 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 *What happens when enough signers get compromised?*
 - This would damage the trust donating entities put into the members, as well as any future efforts to restart something similar. 
-
-*What are the tax implications of participation?*
-- We are not tax lawyers, each participant should seek experts for their jurisdiction.
 
 *What use cases can you anticipate wanting in the future that 0xSplits can’t facilitate today?*
 - Lending markets built into the vesting stream
