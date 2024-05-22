@@ -1,6 +1,6 @@
 # 4. Donate
 
-The Protocol Guild’s funding mechanism was designed to remove all friction associated with supporting Ethereum’s core protocol development, by providing a single onchain address which vests funds to all active core protocol contributors over time. 
+The Protocol Guild’s funding mechanism was designed to remove friction associated with supporting Ethereum’s core protocol development, by providing a single onchain address which vests funds directly to active core protocol contributors over time. 
 
 Note that there are different donation addresses depending on if you're donating on Ethereum mainnet or L2s / other chains!
 
@@ -11,11 +11,11 @@ Note that there are different donation addresses depending on if you're donating
 
 [![PGv2](https://github.com/cheeky-gorilla/documentation/assets/76262359/254efcd0-28c6-4ccb-ad3a-bd8aca08139d)](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)
 
-The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about the smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
+The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
 
 ## 4.2 L2s / Other Chains
 
-The Guild has deployed 6/10 multisigs to receive donations on different L2s or other chains. Funds in these multisigs will be periodically bridged into the [mainnet vesting contract](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html#vesting-contract). 
+The Guild has deployed 6/10 multisigs to receive donations on different L2s and other chains. Funds in these multisigs will be periodically bridged into the [mainnet vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9). 
 
 ### Arbitrum
 - [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
@@ -34,7 +34,7 @@ The Guild has deployed 6/10 multisigs to receive donations on different L2s or o
 
 ## 4.3 Protocol Guild Pledge
 
-Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoidinYou can see the projects that have already taken the pledge here: https://dune.com/protocolguild/protocol-guild#protocol-guild-pledgeg capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. 
+Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. 
 
 You can read about the Protocol Guild Pledge here: 
 [https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng](https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng)
