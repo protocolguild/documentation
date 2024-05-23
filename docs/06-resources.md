@@ -11,7 +11,7 @@
 
 Want to get up to speed quickly? Check out these three videos:
 
-1. [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work)
+1. [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM)
 2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
 3. [Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200)
 
@@ -28,8 +28,8 @@ All media in chronological order:
 | [Octant’s Epoch 1 Public Goods Funding Initiative](https://twitter.com/i/spaces/1YpKkwOZpNdKj?s=20) | Gitcoin X Space | Oct 11 2023 |
 | [Credibly Neutral Public Goods Funding w/ Trent](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
 | [Why We’re Donating 10% of Profits to PG](https://twitter.com/i/spaces/1lPJqbrjYjbxb) | VanEck X Space | Oct 04 2023 |
-| [Linux & Ethereum: Commoning vs Commodifying](https://watch.protocol.berlin/ethberlin/protocol_berg/session/protocol_guild_funding__incentivising_core_protocol_work) | Protocol Berg | Sep 15 2023 |
-| [Funding Ethereum's Core Protocol Work](https://app.streameth.org/funding_the_commons/funding_the_commons_berlin_2023/session/funding_ethereums_core_protocol_work) | FtC Berlin 2023 | Sep 09 2023 |
+| [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM) | Protocol Berg | Sep 15 2023 |
+| [Funding Ethereum's Core Protocol Work](https://www.youtube.com/watch?v=RM3lZtqrGjc) | FtC Berlin 2023 | Sep 09 2023 |
 | [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | Blockchain Guy X Space | Aug 31 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
 | [Octant's EpochZero: Meet the Projects](https://twitter.com/i/spaces/1RDGlagLkZmJL) | Giveth X Space | Jul 10 2023 |
@@ -68,7 +68,7 @@ Protocol Guild's 1-year pilot was kicked off on May 7th, 2022 with the [deployme
 
 ### Pilot Rationale
 
-How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurring topic for many years in our community. When the latest discussion resurfaced in [Oct 2021](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching existing public goods funding mechanisms, to see if any offered a solution. Ultimately, we concluded that a new mechanism was needed. 
+How can we give core protocol contributors exposure to the broader success of the projects building on top of Ethereum? This has been a recurring topic for many years in our community. When the latest discussion resurfaced in [Oct 2021](https://twitter.com/dannyryan/status/1454065104819916803?s=20&t=UpzCC7pDSqldgV-TAIMFiA), we started researching existing public goods funding mechanisms, to see if any offered a solution. Ultimately, we concluded that a new mechanism was needed.
 
 What follows is a description of three main motivations as to why there should be a new mechanism, the individual challenges related to each, and the resulting design objectives for creating a new mechanism.
 
@@ -76,7 +76,7 @@ What follows is a description of three main motivations as to why there should b
 
 Apps/L2s want to sponsor, but curation of the contributor set is difficult. Protocol contributors are interested in token upside, but self-organizing is hard.
 - There is no existing solution that collects all protocol contributors into one funding mechanism and consistently updates it. Expecting a single organization to curate and maintain this list by themselves is a pretty big ask when they’re not already involved in this work.
-- Design objective: Existing contributors should self-curate a list. 
+- Design objective: Existing contributors should self-curate a list.
 - Existing solutions usually favor teams.
 - A meta-goal is to avoid governance and intermediation, giving as much agency to independent contributors as possible.
 - Design objective: Avoid intermediation, individuals are the atomic unit.
@@ -105,7 +105,7 @@ Over the course of this ideation process, we realized that we cannot answer the 
 
 ### Tradeoffs of Existing Mechanisms
 
-The existing suite of protocol funding mechanisms have so far adequately supported the ecosystem, but come with their own tradeoffs: 
+The existing suite of protocol funding mechanisms have so far adequately supported the ecosystem, but come with their own tradeoffs:
 - Typically not forward looking, eg. they are usually retroactive
 - Tend to favor projects/teams instead of individuals
 - Formed around mediating institutions
@@ -137,7 +137,7 @@ Salaries *do* target individuals, but are limited in that they can only account 
 
 **Vested Assets in DAO Treasuries**
 
-Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings. (data taken from [Open-Orgs.info](https://openorgs.info/) by David Mihal on Nov. 11 2021). This is not meant to be a comprehensive survey. See the data behind the below charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing). 
+Projects which previously launched a token could donate a portion of the tokens currently controlled by governance. Here's a rough sample of what this might look like in practice, using the top 20 projects by unvested DAO holdings. (data taken from [Open-Orgs.info](https://openorgs.info/) by David Mihal on Nov. 11 2021). This is not meant to be a comprehensive survey. See the data behind the below charts [here](https://docs.google.com/spreadsheets/d/1eMPxTDNB-MFYCJL61sEHNce2IvI4jeu3GcA5nAgo_g4/edit?usp=sharing).
 
 |     Name     | Unvested Treasury | Vested Treasury |
 |:------------:| -----------------:| ---------------:|
@@ -201,7 +201,7 @@ The Protocol Guild really starts to show its promise when considering that proje
 |         | .5% Donation |  1% Donation | 1.5% Donation |
 |:-------:| ------------:| ------------:| -------------:|
 | **SUM** | $329,723,413 | $659,446,826 |  $989,170,239 |
-							
+
 ![](https://i.imgur.com/glD5TVl.png)
 
 We believe $2M-6.5M vested over 4 years to potential contributors will be a step in the right direction. The beauty of the mechanism is that there is no application process to participate as a sponsor: any entity can just send funds to the split contract, and the rest will happen without their involvement.
@@ -219,7 +219,7 @@ Both the Vesting and Split contract can directly receive ETH and ERC-20 tokens. 
 - Funds sent here will vest over 1 year.
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
 - Verify that the full address being sent to is 0xF29F…f1a9. In the future, there may be additional vesting contracts with different vesting schedules.
--Note that there are two steps: depositing and starting the stream. See the [documentation](https://docs.0xsplits.xyz/) for more information. 
+-Note that there are two steps: depositing and starting the stream. See the [documentation](https://docs.0xsplits.xyz/) for more information.
 
 *Split Contract*
 - Best for smaller donations outside of the pilot, or regular periodic contributions.
@@ -227,11 +227,11 @@ Both the Vesting and Split contract can directly receive ETH and ERC-20 tokens. 
 - **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
 - Verify that the full address being sent to is 0x84af…8ea1. While the addresses and weights contained in the contract are mutable, the address of the contract itself will be used in perpetuity and will not change. Outside of the unlikely case that the Split management (multisig) gets compromised, it’s reasonable for sponsors to assume that this address will never change,  to facilitate  automatic or recurring contributions. If this changes, we will be sure to communicate this publicly.
 
-The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them. 
+The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them.
 
 <img width="1572" alt="0xsplits horizontal" src="https://user-images.githubusercontent.com/80278162/165815437-11646882-bac0-41bf-9709-e64880c96d82.png">
 
-Out of all the existing mechanisms we explored, 0xSplits fulfills many of our original design objectives. 
+Out of all the existing mechanisms we explored, 0xSplits fulfills many of our original design objectives.
 
 - Accepts common asset types
   - To preserve the upside potential of donated assets, it's crucial that the split accepts ERC-20s in addition to ETH.
@@ -279,7 +279,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - Or worse, the existing signers decide not to honor the agreed upon outcomes from weighting deliberations, go slightly rogue. In this case, we can imagine some contributors deciding to ride it out until vesting has completed. In other situations, a significant portion of the members could collectively abandon the stream in solidarity. Or, they could claim and send the wrapped tokens to the burn address as a gesture of protest.
 
 *How can this be gamed?*
-- As the mechanism scales, it's inevitable that the amount of attention given by a core group of Guild members will eventually fall, become less thorough. At a sufficiently high number of members, unscrupulous developers might invent phantom co-workers and redirect the split shares to themselves. This is one area where the mechanism relies on mutual trust to avoid abuse. 
+- As the mechanism scales, it's inevitable that the amount of attention given by a core group of Guild members will eventually fall, become less thorough. At a sufficiently high number of members, unscrupulous developers might invent phantom co-workers and redirect the split shares to themselves. This is one area where the mechanism relies on mutual trust to avoid abuse.
 
 *What happens if a large percent of infrastructure contributors decide not to participate? Or, what if a significant number of contributors join and then decide to leave the split?*
 - The mechanism's legitimacy is predicated on broad participation. If enough contributors decline, this may not be an appropriate tool for incentivizing work on public goods. In the latter case, the vesting would still continue but it may be difficult to solicit additional donations.
@@ -289,11 +289,11 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 *What other failure modes have not been explored in-depth yet?*
 - The membership is updated to only include addresses controlled by the attackers.
-- More cleverly, they only dilute the existing membership a little bit, or adjusting the weights just enough to favor certain set of contributors. 
-- Members selling early access to their shares to capitalize early into a stream, or taking a loan against them and committing to stay at least as long as their agreements dictate. 
+- More cleverly, they only dilute the existing membership a little bit, or adjusting the weights just enough to favor certain set of contributors.
+- Members selling early access to their shares to capitalize early into a stream, or taking a loan against them and committing to stay at least as long as their agreements dictate.
 
 *What happens when enough signers get compromised?*
-- This would damage the trust donating entities put into the members, as well as any future efforts to restart something similar. 
+- This would damage the trust donating entities put into the members, as well as any future efforts to restart something similar.
 
 *What use cases can you anticipate wanting in the future that 0xSplits can’t facilitate today?*
 - Lending markets built into the vesting stream
@@ -301,7 +301,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 - Extensions that let users automate a custom functions like "claim and sell to DAI"
 
 *What are some ways that curation can fail?*
-- There are edge cases which should be considered. For example, where the marginal legitimacy lost by excluding a given contributor is too low to get curators to push for their inclusion. 
+- There are edge cases which should be considered. For example, where the marginal legitimacy lost by excluding a given contributor is too low to get curators to push for their inclusion.
 - The initial set of curators fails to expand beyond their social graphs, but still accumulates enough members to accomplish a state of "good enough" legitimacy.
 - The social norms that build up around the mechanism are sufficiently powerful to draw in continued donations even though it just barely hits the "good enough" threshold.
 
@@ -349,7 +349,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 The Protocol Guild was initially launched as a 1-year pilot which ran from May 2022 until May 2023. The mechanism tied together new components and ideas like self-curation, time-weighting and eligibility frameworks, to create a novel collective funding mechanism for Ethereum's core protocol maintainers.
 
-At the time, the decision to establish a new funding mechanism might have appeared counterintuitive, considering Ethereum's ecosystem had already given birth to a suite of innovative funding programs. Some of these programs focused on distributing grants via DAO / token-holder voting (e.g. [ENS](https://research.lido.fi/), [Uniswap](https://gov.uniswap.org)), others leveraged [quadratic funding](https://wtfisqf.com/) (e.g. [Gitcoin](https://www.gitcoin.co/)), while others sought to recognize impact via [retroactive public goods funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) (e.g. [Optimism RPGF](https://app.optimism.io/retropgf)). 
+At the time, the decision to establish a new funding mechanism might have appeared counterintuitive, considering Ethereum's ecosystem had already given birth to a suite of innovative funding programs. Some of these programs focused on distributing grants via DAO / token-holder voting (e.g. [ENS](https://research.lido.fi/), [Uniswap](https://gov.uniswap.org)), others leveraged [quadratic funding](https://wtfisqf.com/) (e.g. [Gitcoin](https://www.gitcoin.co/)), while others sought to recognize impact via [retroactive public goods funding](https://medium.com/ethereum-optimism/retroactive-public-goods-funding-33c9b7d00f0c) (e.g. [Optimism RPGF](https://app.optimism.io/retropgf)).
 
 Yet, while these funding programs have many positive qualities (such as accessibility to diverse grantees, consistent funding schedules and taking on operational overhead), they were not optimized for allocating funding to a diverse set of individuals contributing to Ethereum's decentralized and "[bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)" style core protocol development.
 
@@ -370,7 +370,7 @@ The below stats include the period starting May 7th 2022 (when the pilot’s ves
 - To date Protocol Guild has received 7.6k donations from 488 unique addresses, totalling $14mm in value at the time of donation
 - The average donation totalled $1.8k, but this was skewed by a small number of very large donations, as indicated by the median donation being $3
 - The first significant donation (and 6th overall) came from Lido DAO, with [2mm LDO tokens](https://twitter.com/StatefulWorks/status/1527675087847051265) worth $2.8mm at the time, which made Lido the largest individual donor during the pilot
-- However, the largest donor for the last year has been Arbitrum, with a donation of 3mm ARB tokens, worth $3.5mm when donated 
+- However, the largest donor for the last year has been Arbitrum, with a donation of 3mm ARB tokens, worth $3.5mm when donated
 - There were also two very generous individuals who managed to round out the top 10 donor leaderboard: [Tetranode](https://twitter.com/Tetranode) and [Anthony Sassano](https://twitter.com/sassal0x)
 - Two artistic projects also made the top 15 list of donors: [Stateful Works](https://stateful.mirror.xyz/) and [When Merge](https://opensea.io/collection/when-merge)
 - Optimism is missing from the donor leaderboard because, although the Guild was the [top recipient in RPGF2](https://twitter.com/Optimism/status/1641462704358686723) (and [RPGF3](https://twitter.com/Optimism/status/1745490889294688593)!), we haven't actually claimed those funds yet
@@ -416,7 +416,7 @@ The Protocol Guild was created in part to help make Ethereum more resilient, by 
 
 ![10](https://github.com/cheeky-gorilla/documentation/assets/76262359/a0d0af60-751a-4743-841f-29eb48e4085b)
 
-Perhaps unsurprisingly, this also meant that, on average, members were strongly aligned with the Guild's overall processes and strategy, with a mean score of 4.58/5 (Question 2). 
+Perhaps unsurprisingly, this also meant that, on average, members were strongly aligned with the Guild's overall processes and strategy, with a mean score of 4.58/5 (Question 2).
 
 ![11](https://github.com/cheeky-gorilla/documentation/assets/76262359/73c7ae38-b555-4c7a-ac92-59da8eef9805)
 
@@ -438,19 +438,19 @@ Given that there were two questions that indicated that there was room for impro
 
 ![14](https://github.com/cheeky-gorilla/documentation/assets/76262359/f17eddfd-6ee0-4c7c-8e76-bb3b333730bf)
 
-These three questions indicated that there's work to be done improving the nomination process, which would ultimately also help ensure that the Protocol Guild's membership remains the most accurate representation of Ethereum's core protocol contributor set. The actions taken to address this can be seen in “Pilot Reflection” section “Membership Curation” further below. 
+These three questions indicated that there's work to be done improving the nomination process, which would ultimately also help ensure that the Protocol Guild's membership remains the most accurate representation of Ethereum's core protocol contributor set. The actions taken to address this can be seen in “Pilot Reflection” section “Membership Curation” further below.
 
 *Architecture*
 
-One of the central features of the pilot was that donated funds vested linearily over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19). 
+One of the central features of the pilot was that donated funds vested linearily over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19).
 
 ![15](https://github.com/cheeky-gorilla/documentation/assets/76262359/7480d314-5274-4754-b6a5-e6bb3605ea5b)
 
-There was however some disagreement about how long funds should vest after the pilot. Question 25 showed that 72% of members thought the vesting should be longer than 1 year, but there was disagreement about how long exactly. On average the results indicated that funds should vest for 2.5 years, whereas previously there were discussions to vest funds over 4 years. This brought up interesting discussions internally, about how longer vesting timelines helps create income security for contributors, while also acknowledging that e.g. 4 years could represent an entire market cycle, and could lead to imbalanced funding. Ultimately a 4-year vesting period was chosen for after the pilot, as described in section “Protocol Guild V2”. 
+There was however some disagreement about how long funds should vest after the pilot. Question 25 showed that 72% of members thought the vesting should be longer than 1 year, but there was disagreement about how long exactly. On average the results indicated that funds should vest for 2.5 years, whereas previously there were discussions to vest funds over 4 years. This brought up interesting discussions internally, about how longer vesting timelines helps create income security for contributors, while also acknowledging that e.g. 4 years could represent an entire market cycle, and could lead to imbalanced funding. Ultimately a 4-year vesting period was chosen for after the pilot, as described in section “Protocol Guild V2”.
 
 ![16](https://github.com/cheeky-gorilla/documentation/assets/76262359/c6032882-3174-4cb3-9cf6-5f3af91109e0)
 
-Other questions related to the Protocol Guild's architecture revolved around the retroactive time weighting, which essentially rewards members for being long-term contributors. The time weighting is actually a square root function of the numbers of months a member has been actively contributing, multiplied by either 1 or 0.5, depending on if the member is contributing full time or part time. Time was selected here because it represents the most objective measurement of impact, while sidestepping the need for subjective interpretations of how to quantify "impact". 
+Other questions related to the Protocol Guild's architecture revolved around the retroactive time weighting, which essentially rewards members for being long-term contributors. The time weighting is actually a square root function of the numbers of months a member has been actively contributing, multiplied by either 1 or 0.5, depending on if the member is contributing full time or part time. Time was selected here because it represents the most objective measurement of impact, while sidestepping the need for subjective interpretations of how to quantify "impact".
 
 Question 18 asked if "[this] time-weighting mechanism is sufficiently fair", and the mean response was 4.05/5. Following up on this, Question 23 then asked how the tiers should be changed, with 57% wanting to keep things unchanged, 18% wanting to add more tiers, while 8% thought the membership should only have one tier, for those working full-time.
 
@@ -458,7 +458,7 @@ Question 18 asked if "[this] time-weighting mechanism is sufficiently fair", and
 
 ![18](https://github.com/cheeky-gorilla/documentation/assets/76262359/d6b56074-66b0-4c83-bd6f-8c5218c3e10d)
 
-Again these questions created interesting internal discussions, specifically if the weighting tiers should be used as a forcing function to encourage more full-time contributors to Ethereum's core protocol development (e.g. by removing the “part-time” tier, or by lowering part-time weights), or if it should be used as a reward function to reward anyone who is contributing (e.g. by allowing quarter-time contributors). Ultimately it was decided that no changes needed to be made to the time-weighting tiers for now. 
+Again these questions created interesting internal discussions, specifically if the weighting tiers should be used as a forcing function to encourage more full-time contributors to Ethereum's core protocol development (e.g. by removing the “part-time” tier, or by lowering part-time weights), or if it should be used as a reward function to reward anyone who is contributing (e.g. by allowing quarter-time contributors). Ultimately it was decided that no changes needed to be made to the time-weighting tiers for now.
 
 *Funding*
 
@@ -468,7 +468,7 @@ Overall, 88% of members found that the amount raised for the pilot was "appropri
 
 ![20](https://github.com/cheeky-gorilla/documentation/assets/76262359/e1731fda-d4c0-4156-9ba3-9e75cdeb2a4b)
 
-But was the amount raised enough to incentivize contributors to continue contributing? Around 84% of members agreed that the Protocol Guild had a "positive" effect on "[their] decision to start/continue working on the core protocol" (Question 16). Similarly, members agreed that "anticipated future incentives (fundraising post-Pilot) [makes] me want to continue my core protocol work", with a mean score of 4.34/5 (Question 24). 
+But was the amount raised enough to incentivize contributors to continue contributing? Around 84% of members agreed that the Protocol Guild had a "positive" effect on "[their] decision to start/continue working on the core protocol" (Question 16). Similarly, members agreed that "anticipated future incentives (fundraising post-Pilot) [makes] me want to continue my core protocol work", with a mean score of 4.34/5 (Question 24).
 
 ![21](https://github.com/cheeky-gorilla/documentation/assets/76262359/9f6be4d3-8be3-496d-8ef9-f1741a3f690f)
 
@@ -482,9 +482,9 @@ The 1-year pilot served as a successful proof of concept for how an onchain mech
 
 *Fundraising*
 
-We reached our fundraising target ($10mm), and indeed almost that entire amount came from just five governance proposals:[Lido](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016) ($2.8m),[Uniswap](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824) ($2.7m),[ENS](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877) ($1.8m),[Nouns DAO](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599) ($0.8m) and [Moloch DAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/22) ($0.8m). Since the pilot ended, we’ve also seen more unsolicited donations including [Arbitrum’s 3mm ARB donation as part of their token generation event](https://twitter.com/arbitrum/status/1638163833624600584). That donation, worth $3.5mm at the time, has kept Arbitrum at the top of our [donor leaderboard](https://dune.com/queries/2670033/4438326) at the time of writing. 
+We reached our fundraising target ($10mm), and indeed almost that entire amount came from just five governance proposals:[Lido](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016) ($2.8m),[Uniswap](https://gov.uniswap.org/t/governance-proposal-should-the-uniswap-community-participate-in-the-protocol-guild-pilot/16824) ($2.7m),[ENS](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877) ($1.8m),[Nouns DAO](https://discourse.nouns.wtf/t/proposal-nouns-funding-the-protocol-guild-pilot/1599) ($0.8m) and [Moloch DAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/22) ($0.8m). Since the pilot ended, we’ve also seen more unsolicited donations including [Arbitrum’s 3mm ARB donation as part of their token generation event](https://twitter.com/arbitrum/status/1638163833624600584). That donation, worth $3.5mm at the time, has kept Arbitrum at the top of our [donor leaderboard](https://dune.com/queries/2670033/4438326) at the time of writing.
 
-However, more work needs to be done to bootstrap the norm that projects built on Ethereum donate a portion of their tokens towards Ethereum’s core protocol development. 
+However, more work needs to be done to bootstrap the norm that projects built on Ethereum donate a portion of their tokens towards Ethereum’s core protocol development.
 
 *Operations*
 
@@ -492,19 +492,19 @@ As highlighted in the membership survey, members didn't always feel informed abo
 
 However, the weekly calls were an example of the significant time and effort associated with managing Protocol Guild’s operations (fundraising, coordinating membership updates, improving the mechanism etc.). Overall the Guild’s operations in these bootstrapping stages required more time than most members should reasonably commit, given the mechanism should enable focus on the core protocol, and not distract from it!
 
-Fortunately, halfway through the pilot, Protocol Guild [acquired an external contributor who was eventually made a Protocol Guild member](https://github.com/protocolguild/documentation/pull/69") to shoulder some of this operational burden. However, figuring out how to onboard and retain new contributors should be kept top-of-mind for the future, to ensure that operations never become a bottleneck for this mechanism to exist.
+Fortunately, halfway through the pilot, Protocol Guild [acquired an external contributor who was eventually made a Protocol Guild member](https://github.com/protocolguild/documentation/pull/69) to shoulder some of this operational burden. However, figuring out how to onboard and retain new contributors should be kept top-of-mind for the future, to ensure that operations never become a bottleneck for this mechanism to exist.
 
 *Membership Curation*
 
 There were four significant changes to membership management that came out of the Pilot:
 
-- [More explicit eligibility](https://github.com/protocolguild/docs/pull/47 "https://github.com/protocolguild/docs/pull/47")
+- [More explicit eligibility](https://github.com/protocolguild/docs/pull/47)
   - This change better specified the kinds of contributions that define the core protocol. We believe this change has successfully addressed the issues surfaced in the pilot survey, though we will try to quantify that in future membership surveys.
 - Removal of Solidity from eligibility & membership
-  - One of the results of the eligibility changes was the removal of Solidity contributors, some of which had previously been part of the Pilot. The reasoning for this change can be seen [here](https://github.com/protocolguild/documentation/issues/18 "https://github.com/protocolguild/documentation/issues/18") and [here](https://github.com/protocolguild/documentation/pull/80 "https://github.com/protocolguild/documentation/pull/80") - broadly, this was inconsistent with the goals of PG funding a narrow scope centered around the core protocol and not expanding into dev tooling.
-- Clarify the distinction between [proposing new projects/teams and individuals](https://github.com/protocolguild/docs/pull/58/files "https://github.com/protocolguild/docs/pull/58/files")
-- [Membership repo no longer private](https://github.com/protocolguild/documentation/issues/107 "https://github.com/protocolguild/documentation/issues/107")
-  - While the pilot survey indicated that members were comfortable keeping the repo private (to avoid self-censorship during new member discussions), ultimately it was agreed that the benefits of transparent processes outweighed the negatives. 
+  - One of the results of the eligibility changes was the removal of Solidity contributors, some of which had previously been part of the Pilot. The reasoning for this change can be seen [here](https://github.com/protocolguild/documentation/issues/18) and [here](https://github.com/protocolguild/documentation/pull/80) - broadly, this was inconsistent with the goals of PG funding a narrow scope centered around the core protocol and not expanding into dev tooling.
+- Clarify the distinction between [proposing new projects/teams and individuals](https://github.com/protocolguild/docs/pull/58/files)
+- [Membership repo no longer private](https://github.com/protocolguild/documentation/issues/107)
+  - While the pilot survey indicated that members were comfortable keeping the repo private (to avoid self-censorship during new member discussions), ultimately it was agreed that the benefits of transparent processes outweighed the negatives.
     - Transparency is the norm throughout Ethereum. We should hold ourselves to the same standard where it makes sense
     - Having an open operational record offers prospective members a reference for qualified contributions. This will be increasingly more important as funding scales and the incentives to join the Guild increase.
     - Funders and the broader Ethereum community deserve a window into Protocol Guild’s curation to both understand/engage with the mechanism and in the worst case, to act as a secondary check on it getting stale / losing legitimacy
@@ -519,7 +519,7 @@ Accordingly, Protocol Guild’s smart contract architecture will need to be upgr
 
 While waiting for this new smart contract architecture, a new immutable vesting contract will be deployed which vests funds linearly over 4 years (as opposed to 1 year during the pilot). The Github PR related to the ratifying this vesting duration can be seen [here](https://github.com/protocolguild/docs/issues/59). Although the membership survey indicated a preference for a shorter vesting period, it was ultimately agreed that sticking with the industry standard (4 years) made the most sense to facilitate donations and incentivize long-term contributions. That being said, we consider 4 years to be the default, but not a requirement - any donor can [deploy their own vesting contract](https://docs.splits.org/core/vesting) and point it to our V2 split with a shorter / longer vesting period!
 
-Overall, Protocol Guild’s future iterations will aim to replicate everything that worked well in the pilot, but with increased transparency, trustlessness and the removal of offchain dependencies. We hope that these changes, plus the 4-year vesting period, will encourage [more projects](https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge) built on Ethereum to take the Protocol Guild Pledge, to support the core protocol work they depend on. 
+Overall, Protocol Guild’s future iterations will aim to replicate everything that worked well in the pilot, but with increased transparency, trustlessness and the removal of offchain dependencies. We hope that these changes, plus the 4-year vesting period, will encourage [more projects](https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge) built on Ethereum to take the Protocol Guild Pledge, to support the core protocol work they depend on.
 
 #### Conclusion
 

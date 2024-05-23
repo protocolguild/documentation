@@ -53,7 +53,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | Protocol Support (EF) | |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
-| [Mark Simkin](https://github.com/msimkin.github.io/) | 1 | Cryptography (EF) | |
+| [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
 | [Mary Maller](https://github.com/mmaller) | 0.5 | Cryptography (EF) | |
 | [Zhenfei Zhang](https://github.com/zhenfeizhang/) | 0.5 | Cryptography (EF) | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
@@ -94,7 +94,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | Erigon | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | Ethereum Cat Herders | |
-| [Ameziane](https://github.com/https://github.com/ahamlat/) | 1 | Hyperledger Besu | |
+| [Ameziane](https://github.com/ahamlat/) | 1 | Hyperledger Besu | |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | Hyperledger Besu | |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | Hyperledger Besu | |
 | [Fabio di Fabio](https://github.com/fab-10/) | 1 | Hyperledger Besu | |
