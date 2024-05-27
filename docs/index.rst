@@ -1,33 +1,42 @@
 Protocol Guild
 ---------------
 
-- A collective of Ethereum contributors 
-- working to boost the incentives around stewarding the core protocol
-- by maintaining an onchain registry of its membership
-- which allows ecosystem sponsors to directly fund the membership, their work, the public good.
+Protocol Guild is a collective funding mechanism for Ethereum's layer 1 R&D maintainers. It has three components:
+
+1. An eligibility framework
+2. A member registry
+3. Onchain donation contracts
+
+The eligibility framework determines which projects' contributors should receive a share of the funding. This framework can then be used to maintain an active member registry. The registry addresses and weights are regularly published onchain to a `split contract <https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/>`_, where funding (`vested <https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/>`_ over 4 years) can be claimed.
+
+Protocol Guild is only concerned with managing the aforementioned components and soliciting funding to support the eligible work. The day-to-day stewardship discussions surrounding the Ethereum protocol continue to happen in other existing venues (All Core Devs calls, `ethresear.ch <https://ethresear.ch>`_, `Magician's forum <https://ethereum-magicians.org>`_ etc.), with the participation of a much broader set of contributors. Donations to the Protocol Guild have no bearing on stewardship decisions taking place in those existing venues.
+
+Protocol Guild is a simple but powerful mechanism which allows Ethereum's layer 1 R&D to be funded in the same way it is produced: a commons of peers and their collaborative effort over time.
 
 *"And, Ebling, there's another, greater purpose. Hari Seldon founded two Foundations three centuries ago; one at each end of the Galaxy. You must find that Second Foundation."* Foundation, Isaac Asimov
 
-Sponsor the Pilot
+Donate
 ==================
++----------------------+----------------------------------------------------------------------+
+| **Ethereum Mainnet** | `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9`_ |
++----------------------+----------------------------------------------------------------------+
+| **Arbitrum**         | `arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
++----------------------+----------------------------------------------------------------------+
+| **Base**             | `base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
++----------------------+----------------------------------------------------------------------+
+| **Optimism**         | `oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
++----------------------+----------------------------------------------------------------------+
+| **Polygon**          | `matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                  |
++----------------------+----------------------------------------------------------------------+
+| **Zora**             | `zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
++----------------------+----------------------------------------------------------------------+
 
-We're running a 1 year pilot (`read more here <https://protocol-guild.readthedocs.io/en/latest/05-initial-pilot.html>`_) to test our assumptions about the Protocol Guild’s funding mechanism and how to operate it. 
-
-Information about the smart contracts and how you can help fund public goods and their contributors can be found `here <https://protocol-guild.readthedocs.io/en/latest/03-smart-contract.html#xsplits-contracts>`_.
-
-If you have additional questions about the project, please reach out to `@ProtocolGuild <https://twitter.com/ProtocolGuild>`_ or any of the `members <https://protocol-guild.readthedocs.io/en/latest/09-membership.html>`_.
-
-+---------------------------+---------------+
-| Donate Now                                |
-+===========================+===============+
-| `Pilot Vesting Contract`_ | `Learn more`_ |
-+---------------------------+---------------+
-| `Split Contract`_         | `Learn more`_ |
-+---------------------------+---------------+
-
-.. _Pilot Vesting Contract: https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/
-.. _Split Contract: https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/
-.. _Learn more: https://protocol-guild.readthedocs.io/en/latest/03-smart-contract.html
+.. _theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9: https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9
+.. _arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
+.. _base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
+.. _oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
+.. _matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
+.. _zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
 
 Table of Contents
 ===================
@@ -37,14 +46,9 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
 .. toctree::
   :maxdepth: 2
   
-  01-proposal-rationale
-  02-existing-mechanisms
-  03-smart-contract
-  04-roles-expectations
-  05-initial-pilot
-  06-operating-guidelines
-  07-anticipated-concerns
-  08-case-studies
-  09-membership
-  10-donate
-  11-resources
+  01-eligibility
+  02-membership
+  03-onchain-architecture
+  04-donate
+  05-design-principles
+  06-resources
