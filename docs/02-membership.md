@@ -197,7 +197,7 @@ All current members have been contributing:
 
 ## 2.3 Adding a Member
 
-An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
+An existing member should open a pull request (PR) in [this repository](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with this accompanying information:
 
 - Name / Identifier
 - Affiliated project they work on which is eligible
@@ -206,7 +206,7 @@ An existing member should make a PR at [this repo](https://github.com/protocolgu
 
 See some examples here: [open](https://github.com/protocolguild/documentation/pulls) or [closed](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+is%3Aclosed+label%3A%22add+member%22) PRs
 
-Discussion should be open for at least one week to give members time to review and discuss.
+Pull requests should remain open for at least one week to give members time to review and discuss each nomination.
 
 Bias or conflicts of interest of the nominator should be disclosed, if they exist, e.g. where one is an advisor to the other’s side project. After one week of rough consensus, the PR should be merged or rejected.
 
