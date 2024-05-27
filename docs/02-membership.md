@@ -89,6 +89,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 | Erigon | |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | Erigon | |
 | [lupin012](https://github.com/lupin012/) | 0.5 | Erigon | |
+| [Jacek Glen](https://github.com/jacekglen/) | 0.5 | Erigon | |
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
