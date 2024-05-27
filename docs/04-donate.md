@@ -4,12 +4,14 @@ The Protocol Guild’s funding mechanism was designed to remove friction associa
 
 Note that there are different donation addresses depending on if you're donating on Ethereum mainnet or L2s / other chains!
 
+All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/protocolguild/protocol-guild). 
+
 ## 4.1 Mainnet
 
 <b>[theprotocolguild.eth](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)<br>
 [0x25941dC771bB64514Fc8abBce970307Fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)</b>
 
-[![PGv2](https://github.com/cheeky-gorilla/documentation/assets/76262359/254efcd0-28c6-4ccb-ad3a-bd8aca08139d)](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)
+[![Donate](https://github.com/cheeky-gorilla/documentation/assets/76262359/5b690222-f61c-4f6d-9dfd-d3b4972fd4aa)](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
 
@@ -42,7 +44,7 @@ You can read about the Protocol Guild Pledge here:
 You can see projects that have already taken the pledge here: 
 [https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge](https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge)
 
-### How to take the pledge?
+### How to take the Pledge?
 
 Projects that don't have a token yet can take the pledge by making a public commitment to donate 1% of a future token to the Protocol Guild. You can see an example of this [here](https://x.com/taikoxyz/status/1755609928167981330).
 
