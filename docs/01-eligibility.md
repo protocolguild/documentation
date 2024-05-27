@@ -3,10 +3,10 @@
 Protocol Guild eligible projects must:
 
 - Be fully open source: both “source available” and free to fork, modify, redistribute
-- Have a regular presence in R&D or governance venues, such as
+- Have a regular presence in Ethereum R&D or governance venues, such as
   - specification repos (e.g. `consensus-specs`, `execution-specs`, `execution-apis`)
   - research forums (e.g. [ethresear.ch](https://ethresear.ch)), feature prototyping (e.g. EIPs, devnets, etc.)
-  - regular protocol calls (e.g. AllCoreDevs, testing/interop calls, etc.)
+  - regular [Ethereum protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop calls, etc.)
 - Target at least one of the following projects/areas:
   - Ethereum core protocol maintenance and development
     - Contributors to well-tested, technically-differentiated and production-ready Ethereum mainnet client implementations. Currently, this includes [Erigon](https://github.com/ledgerwatch/erigon), [EthereumJS](https://github.com/ethereumjs),  [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku) and [Reth](https://github.com/paradigmxyz/reth)
@@ -33,7 +33,7 @@ Protocol Guild eligible projects must:
 
 The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accomodating to what is the core protocol, but not any broader. This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
 
-Contributing to the efforts referenced above does not guarantee Guild membership. While this list tries to be explicit by linking to example repos, there are some research areas which can't be linked to a single repo.
+Contributing to the efforts referenced above does not guarantee Protocol Guild membership. While this list tries to be explicit when possible linking to specific repositories, there are some research areas which can't be linked to a single source and may still be considered eligible.
 
 Formal organizational affiliations are not necessary for membership. It may be the case that some members of an organization will be eligible but others will not be.
 

@@ -15,9 +15,9 @@ The Guild’s smart contract architecture is modularized as follows:
 ### Vesting Contract
 
 - Contract address: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
-- Official documentation: [https://docs.splits.org/core/vesting](https://docs.splits.org/core/vesting)
+- Splits reference documentation: [https://docs.splits.org/core/vesting](https://docs.splits.org/core/vesting)
 
-The Guild’s donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Here, trustlessly means donations cannot be stopped or otherwise redirected during the vest by the donor or the recipient once sent.
+The Guild’s donation address is an immutable vesting contract which irrevocably vests donated funds on a linear, block-by-block, basis over 4 years. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership.
 
 Anyone can donate ETH and ERC-20 tokens to the vesting contract on mainnet, though NFT donations are not supported - standard NFT transfers (safeTransfer) will be rejected by the contract (i.e. meaning the transaction will fail), while non-safeTransfer NFT donations will be lost.
 
@@ -37,8 +37,8 @@ All funds from the vesting contract go into a pass-through wallet (PTW), which p
 The PTW allows the Guild’s membership to make arbitrary calls with vested tokens if needed, since the current split contract does not have arbitrary call functionality.
 
 **How it works:**
-- The PTW has a permissionless `passThrough` function, which allows anyone to push vested funds accumulated in the PTW to the so-called `passThrough` recipient, which is the Guild’s split contract
-- The PTWs owner (the Guild’s multisig), can pause / unpause the `passThrough` function at any time if there’s a need to move tokens via arbitrary calls instead
+- The PTW has a permissionless `passThrough` function, which allows anyone to push vested funds accumulated in the PTW to the contract's `passThrough`, which is set to the Guild’s split contract, `0xd4aD8dAbA9eE5ef16Bb931d1CbE63fb9e102eC10`. 
+- The PTWs owner (the Guild’s multisig), can pause / unpause the contract by changing the the `paused` value, allowing the owner to move specific tokens using arbitrary calls instead. 
 - The PTW owner can also update the `passThrough` recipient if needed e.g. if the Guild migrates to a different split contract in the future
 
 ### Split Contract
