@@ -3,11 +3,17 @@
 Protocol Guild eligible projects must:
 
 - Be fully open source: both “source available” and free to fork, modify, redistribute
-- Have a regular presence in Ethereum R&D or governance venues, such as
-  - specification repos (e.g. `consensus-specs`, `execution-specs`, `execution-apis`)
-  - research forums (e.g. [ethresear.ch](https://ethresear.ch)), feature prototyping (e.g. EIPs, devnets, etc.)
-  - regular [Ethereum protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop calls, etc.)
+- Have a regular presence in Ethereum R&D or governance venues, such as;
+  - Specification repos (e.g. [consensus-specs](https://github.com/ethereum/consensus-specs), [execution-specs](https://github.com/ethereum/execution-specs), [execution-apis](https://github.com/ethereum/execution-apis))
+  - Research forums (e.g. [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/))
+  - Feature prototyping (e.g. EIPs, devnets, etc.)
+  - Regular [Ethereum protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop calls, etc.)
 - Target at least one of the following projects/areas:
+  - Work on the canonical protocol specs (should be implementation agnostic, unopinionated)
+    - [Consensus specs](https://github.com/ethereum/consensus-specs)
+    - [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
+    - [Execution APIs](https://github.com/ethereum/execution-apis)
+    - EIPs
   - Ethereum core protocol maintenance and development
     - Contributors to well-tested, technically-differentiated and production-ready Ethereum mainnet client implementations. Currently, this includes [Erigon](https://github.com/ledgerwatch/erigon), [EthereumJS](https://github.com/ethereumjs),  [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku) and [Reth](https://github.com/paradigmxyz/reth)
     - Client testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
@@ -20,14 +26,11 @@ Protocol Guild eligible projects must:
     - Cryptography
     - Mechanism design
     - Resource pricing
-  - Spec work resulting from the above (should be implementation agnostic, unopinionated)
-    - [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
-    - [Consensus specs](https://github.com/ethereum/consensus-specs)
   - Protocol Guild
-    - General comms
     - Fundraising
     - Research related to the evolution of the Guild itself
     - Internal maintenance for the Guild membership
+    - General communications
 
 ## 1.1 Context
 
