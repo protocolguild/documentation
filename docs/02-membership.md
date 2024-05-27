@@ -185,7 +185,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | |
 | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 | Dependable Distributed Systems (DDS) | |
 
-*Note: Protocol Guild's [split](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contract contains all the above members plus one [multisig](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99) used for entity expenses.*
+*Note: Protocol Guild's [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one [multisig](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99) used for entity expenses.*
 
 ## 2.2 Membership Requirements
 
