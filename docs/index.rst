@@ -17,8 +17,9 @@ Protocol Guild is a simple but powerful mechanism which allows Ethereum's layer 
 
 Donate
 ==================
-
 +--------------------------+------------------------------------------------------------------------------+
+| Chain                    | Donation Address                                                             |   
++===========================+=============================================================================+
 | **Ethereum Mainnet**     | `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9 <https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/>`_ |
 +--------------------------+------------------------------------------------------------------------------+
 | **Arbitrum**             | `0x32e3C7fD24e175701A35c224f2238d18439C7dBC <https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC>`_ |
