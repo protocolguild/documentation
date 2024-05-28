@@ -239,7 +239,7 @@ These multipliers roughly track the effort per week given by contributors. Full-
 
 The final step of the formula uses a Square Root to compress the weight range. This is done to not overly privilege long-term members over newer contributors.
 
-### Time-Weight Example
+#### Time-Weight Example
 
 The table and graphs below illustrate how the 5 year weight change of a hypothetical three member Guild. The effect of the square root can be seen in how the difference between older and newer contributors gets smaller over time.
 
@@ -249,8 +249,6 @@ The table and graphs below illustrate how the 5 year weight change of a hypothet
 
 ![RelativeWeights](https://github.com/cheeky-gorilla/membership/assets/76262359/93a6f5a0-393e-46c8-8dfd-a51aa6864f46)
 
-### Governance of the mechanism
-
 ## 2.4 Membership Obligations
 
 Members are expected to participate in curation. Consider these examples:
@@ -259,22 +257,22 @@ Members are expected to participate in curation. Consider these examples:
 - a colleague making updates on behalf of their team
 - members giving input to shape the addition/removal process
 
-### Self-curation
+### Self-Curation
 
 We use the term "self-curation" to describe how the membership curates its own beneficiary set. This is an important part of the funding mechanism, and what distinguishes it from others e.g. badgeholders in OP Retro, or Gitcoin's use of donors and quadratic weighting. Curatorial bodies external to the beneficiary set come with their own tradeoffs. Self-curation is suited for this context for a few reasons:
 
-1. local actors are the only ones with domain knowledge
+1. Local actors are the only ones with domain knowledge
     - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
     - Any external curating council would be outside of core protocol stewardship. To approximate the local knowledge that core contributors naturally already have (e.g. who is doing what work, at what level of contribution, with what team), an external council would have to be embedded in the same work.
 
-2. fewer classes of actors are easier to reason about operationally
-    - good mechanisms are simple. they should have the minimum sufficient operational surface area (or at least start there and layer in complexity). if something can be done with less, it should be
-    - external councils shift the operational onus to participants with a different incentive-set than beneficiaries. In the worst case, their goal is to maintain their position as curators - not to accurately curate the membership.
-    - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth taken from the actual work of core protocol stewardship
+2. Fewer classes of actors are easier to reason about operationally
+    - Good mechanisms are simple. They should have the minimum sufficient operational surface area (or at least start there and layer in complexity). If something can be done with less, it should be.
+    - External councils shift the operational onus to participants with a different incentive-set than beneficiaries. In the worst case, their goal is to maintain their position as curators - not to accurately curate the membership.
+    - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth taken from the actual work of core protocol stewardship.
 
-3. mechanisms close to the core protocol should be robust
-    - the Ethereum core protocol is expected to operate in an adversarial environment. In the same way, protocol funding mechanisms should be held to similarly high institutional standards: resistant to failure
-    - inviting (read: obligating) all members to participate in curation sidesteps any dependency on a narrow class of mechanism operators like an external curation council.
+3. Mechanisms close to the core protocol should be robust
+    - The Ethereum core protocol is expected to operate in an adversarial environment. In the same way, protocol funding mechanisms should be held to similarly high institutional standards: resistant to failure.
+    - Inviting (read: obligating) all members to participate in curation sidesteps any dependency on a narrow class of mechanism operators like an external curation council.
 
 4. Incentive compatibility
 
@@ -300,13 +298,13 @@ Bias or conflicts of interest of the nominator should be disclosed, if they exis
 
 ### Removing a Member
 
-### Self-Removal, Affiliation, Weights
+#### Self-Removal, Affiliation, Weights
 
 Removals from the active membership should come from the member themselves, i.e. self-removal, by opening a PR in the [same repo](https://github.com/protocolguild/documentation). Example [here](https://github.com/protocolguild/documentation/pull/152). Where this isn't possible due to extenuating circumstances, the member should be notified or tagged on the PR so they are aware of the changes.
 
 Affiliation and weight changes should include some rationale for the change, ideally from the member themselves and seconding by a colleague.
 
-### Peer Removal
+#### Peer Removal
 
 Peer removals can occur when a member stops contributing to eligible work, and is not responsive to requests to self-remove (as described above). In such cases, another member (ideally from the same team) can propose to remove the inactive member.
 
