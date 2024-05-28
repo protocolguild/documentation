@@ -129,7 +129,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | |
 | [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | |
 | [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | |
-| [Tuyen Nguyen](https://github.com/tuyennhv/) | 1 | Lodestar | |
+| [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | Nethermind | |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
