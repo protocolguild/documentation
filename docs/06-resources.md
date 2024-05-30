@@ -11,7 +11,7 @@
 
 Want to get up to speed quickly? Check out these three videos:
 
-1. [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM)
+1. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o)
 2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
 3. [Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200)
 
@@ -19,6 +19,7 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QhaBynDSEHs) | Avail Hot Take | Feb 26 2024 |
 | [Protocol Guild Pledge Unlocking the future of Ethereum](https://twitter.com/i/spaces/1OyKAWbzAmMJb) | PWN DAO X Space | Feb 20 2024 |
