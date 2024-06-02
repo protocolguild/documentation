@@ -287,10 +287,10 @@ We use the term "self-curation" to describe how the membership curates its own b
 
 4. Incentive compatibility
 
-- It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
-    - Adding beneficiaries removes future vested value from existing members. They will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
-- The mechanism must accept all legitimate contributors
-    - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
+    - It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
+        - Adding beneficiaries removes future vested value from existing members. They will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
+    - The mechanism must accept all legitimate contributors
+        - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
 
 ### Adding a Member
 
