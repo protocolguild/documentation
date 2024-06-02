@@ -188,7 +188,7 @@ The membership is a set of people working within the eligible projects who have 
 
 *Note: Protocol Guild's [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one [multisig](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99) used for entity expenses.*
 
-## 2.2 Membership Prerequisites
+## 2.2 Prerequisites
 
 All current members have been contributing:
 
@@ -196,7 +196,7 @@ All current members have been contributing:
 2. Continuously for **at least 6 months** ahead of inclusion. This work is expected to be ongoing (e.g. not a short-term or one-off project). To avoid removal from the current membership, any breaks in contribution must be shorter than 1 quarter (3 months). Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
 3. In a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#time-weight-formula).
 
-## 2.3 Membership Rights
+## 2.3 Rights
 
 ### Split Share
 
@@ -210,7 +210,7 @@ This formulation recognizes the local knowledge contributors gain over time, and
 
 Each member's time-weight is updated onchain every quarter along with an Ethereum address they control to allocate the funding flowing through the mechanism. 
 
-### Time Weight
+#### Time Weight
 
 `time_weight` is a floating point number representing the square root of the time a member has been contributing to Ethereum (measured in months). It has the following components:
 
@@ -249,7 +249,18 @@ The table and graphs below illustrate how the 5 year weight change of a hypothet
 
 ![RelativeWeights](https://github.com/cheeky-gorilla/membership/assets/76262359/93a6f5a0-393e-46c8-8dfd-a51aa6864f46)
 
-## 2.4 Membership Obligations
+### Governance
+
+Only members are invited to govern the mechanism. This may include:
+
+- modifying high-level project elibility
+- discussing which smart contracts to use, and how to operate them
+- setting parameters like how long vests should be
+- how and where to fundraise
+
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - learn more in smart contract section.
+
+## 2.4 Obligations
 
 Members are expected to participate in curation. Consider these examples:
 
