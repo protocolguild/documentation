@@ -239,7 +239,7 @@ These multipliers roughly track the effort per week given by contributors. Full-
 
 The final step of the formula uses a Square Root to compress the weight range. This is done to not overly privilege long-term members over newer contributors.
 
-#### Time-Weight Example
+#### Time Weight Example
 
 The table and graphs below illustrate how the 5 year weight change of a hypothetical three member Guild. The effect of the square root can be seen in how the difference between older and newer contributors gets smaller over time.
 
