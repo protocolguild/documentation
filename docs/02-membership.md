@@ -321,7 +321,7 @@ Peer removals can occur when a member stops contributing to eligible work, and i
 
 There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This might only happen in special circumstances where the internal social cost of contention is lower than the external institutional cost (i.e. loss of legitimacy) which their continued membership would produce. The PR should include ample references to the alleged misconduct and justification for the removal. To date, this method has never been used.
 
-## 2.6 Quotes
+## 2.5 Quotes
 
 We asked members why they think the Guild is important for Ethereum. Last updated May 21 2024.
 
