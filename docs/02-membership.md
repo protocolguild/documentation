@@ -189,7 +189,7 @@ The membership is a set of people working within the eligible projects who have 
 
 *Note: Protocol Guild's [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one [multisig](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99) used for entity expenses.*
 
-## 2.2 Membership Requirements
+## 2.2 Prerequisites
 
 All current members have been contributing:
 
@@ -197,36 +197,9 @@ All current members have been contributing:
 2. Continuously for **at least 6 months** ahead of inclusion. This work is expected to be ongoing (e.g. not a short-term or one-off project). To avoid removal from the current membership, any breaks in contribution must be shorter than 1 quarter (3 months). Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
 3. In a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#time-weight-formula).
 
-## 2.3 Adding a Member
+## 2.3 Rights
 
-An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
-
-- Name / Identifier
-- Affiliated project they work on which is eligible
-- Links to relevant eligible work, eg. GitHub, research
-- 3-4 sentence summary of their contributions
-
-See some examples here: [open](https://github.com/protocolguild/documentation/pulls) or [closed](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+is%3Aclosed+label%3A%22add+member%22) PRs
-
-Discussion should be open for at least one week to give members time to review and discuss.
-
-Bias or conflicts of interest of the nominator should be disclosed, if they exist, e.g. where one is an advisor to the other’s side project. After one week of rough consensus, the PR should be merged or rejected.
-
-## 2.4 Removing a Member
-
-### Self-Removal, Affiliation, Weights
-
-Removals from the active membership should come from the member themselves, i.e. self-removal, by opening a PR in the [same repo](https://github.com/protocolguild/documentation). Example [here](https://github.com/protocolguild/documentation/pull/152). Where this isn't possible due to extenuating circumstances, the member should be notified or tagged on the PR so they are aware of the changes.
-
-Affiliation and weight changes should include some rationale for the change, ideally from the member themselves and seconding by a colleague.
-
-### Peer Removal
-
-Peer removals can occur when a member stops contributing to eligible work, and is not responsive to requests to self-remove (as described above). In such cases, another member (ideally from the same team) can propose to remove the inactive member.
-
-There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This should only happen in special circumstances where the cost of contention is higher than the loss of institutional legitimacy which their continued membership would produce. The PR should include ample references to the alleged misconduct and justification for the removal. To date, this method has never been used.
-
-## 2.5 Split Share
+### Split Share
 
 Each member's share of the [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) is calculated using member-specific inputs. There are two parts to the calculation:
 
@@ -238,7 +211,7 @@ This formulation recognizes the local knowledge contributors gain over time, and
 
 Each member's time-weight is updated onchain every quarter along with an Ethereum address they control to allocate the funding flowing through the mechanism. 
 
-### Time Weight
+#### Time Weight
 
 `time_weight` is a floating point number representing the square root of the time a member has been contributing to Ethereum (measured in months). It has the following components:
 
@@ -267,7 +240,7 @@ These multipliers roughly track the effort per week given by contributors. Full-
 
 The final step of the formula uses a Square Root to compress the weight range. This is done to not overly privilege long-term members over newer contributors.
 
-### Time-Weight Example
+#### Time Weight Example
 
 The table and graphs below illustrate how the 5 year weight change of a hypothetical three member Guild. The effect of the square root can be seen in how the difference between older and newer contributors gets smaller over time.
 
@@ -277,7 +250,83 @@ The table and graphs below illustrate how the 5 year weight change of a hypothet
 
 ![RelativeWeights](https://github.com/cheeky-gorilla/membership/assets/76262359/93a6f5a0-393e-46c8-8dfd-a51aa6864f46)
 
-## 2.6 Quotes
+### Governance
+
+Protocol Guild members govern the evolution of the mechanism, which may include:
+
+- modifying high-level project elibility
+- discussing which smart contracts to use, and how to operate them
+- setting parameters like how long vests should be
+- how and where to fundraise
+
+Governance **does not** include:
+
+- any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds
+
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - learn more in smart contract section.
+
+## 2.4 Obligations
+
+Members are expected to participate in curation. Consider these examples:
+
+- an individual updating their personal status
+- a colleague making updates on behalf of their team
+- members giving input to shape the addition/removal process
+
+### Self-Curation
+
+We use the term "self-curation" to describe how the membership selects its own beneficiary set. This is an important distinction between Protocol Guild and other public goods funding mechanisms. While curatorial bodies external to the beneficiary set are appropriate in some contexts, self-curation is well suited here for a few reasons:
+
+1. Local actors have the most domain knowledge
+    - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
+    - Any external curating council would be outside of core protocol stewardship. To approximate the local knowledge that core contributors naturally already have (e.g. who is doing what work, at what level of contribution, with what team), an external council would have to be embedded in the same work.
+
+2. Fewer classes of actors are easier to reason about operationally
+    - Good mechanisms are simple. They should have the minimum sufficient operational surface area (or at least start there and layer in complexity). If something can be done with less, it should be.
+    - External councils shift the operational onus to participants with a different incentive-set than beneficiaries. In the worst case, their goal is to maintain their position as curators - not to accurately curate the membership.
+    - Additional governance processes would need to be set up for the membership to nominate and remove council members - more time, overhead, and bandwidth taken from the actual work of core protocol stewardship.
+
+3. Mechanisms close to the core protocol should be robust
+    - The Ethereum core protocol is expected to operate in an adversarial environment. In the same way, protocol funding mechanisms should be held to similarly high institutional standards: resistant to failure.
+    - Inviting (read: obligating) all members to participate in curation sidesteps any dependency on a narrow class of mechanism operators like an external curation council.
+
+4. Incentive compatibility
+
+    - It is incentive compatible that curators (Guild members) are drawn from the beneficiaries (Guild members).
+        - Adding beneficiaries removes future vested value from existing members. They will more carefully consider potential members and their contributions. An external council would not feel this constraint so directly.
+    - The mechanism must accept all legitimate contributors
+        - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
+
+### Adding a Member
+
+An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
+
+- Name / Identifier
+- Affiliated project they work on which is eligible
+- Links to relevant eligible work, eg. GitHub, research
+- 3-4 sentence summary of their contributions
+
+See some examples here: [open](https://github.com/protocolguild/documentation/pulls) or [closed](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+is%3Aclosed+label%3A%22add+member%22) PRs
+
+Discussion should be open for at least one week to give members time to review and discuss.
+
+Bias or conflicts of interest of the nominator should be disclosed, if they exist, e.g. where one is an advisor to the other’s side project. After one week of rough consensus, the PR should be merged or rejected.
+
+### Removing a Member
+
+#### Self-Removal, Affiliation, Weights
+
+Removals from the active membership should come from the member themselves, i.e. self-removal, by opening a PR in the [same repo](https://github.com/protocolguild/documentation). Example [here](https://github.com/protocolguild/documentation/pull/152). Where this isn't possible due to extenuating circumstances, the member should be notified or tagged on the PR so they are aware of the changes.
+
+Affiliation and weight changes should include some rationale for the change, ideally from the member themselves and seconding by a colleague.
+
+#### Peer Removal
+
+Peer removals can occur when a member stops contributing to eligible work, and is not responsive to requests to self-remove (as described above). In such cases, another member (ideally from the same team) can propose to remove the inactive member.
+
+There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This should only happen in special circumstances where the removed member's contributions are far below what would generally be expected, or in the case of other grave misconducts. The PR should include ample documentation and justification for the removal. To date, this method has never been used.
+
+## 2.5 Quotes
 
 We asked members why they think the Guild is important for Ethereum. Last updated May 21 2024.
 
