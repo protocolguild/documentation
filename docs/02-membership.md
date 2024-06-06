@@ -270,7 +270,7 @@ Members are expected to participate in curation. Consider these examples:
 
 ### Self-Curation
 
-We use the term "self-curation" to describe how the membership curates its own beneficiary set. This is an important part of the funding mechanism, and what distinguishes it from others e.g. badgeholders in OP Retro, or Gitcoin's use of donors and quadratic weighting. Curatorial bodies external to the beneficiary set come with their own tradeoffs. Self-curation is suited for this context for a few reasons:
+We use the term "self-curation" to describe how the membership selects its own beneficiary set. This is an important distinction between Protocol Guild and other public goods funding mechanisms. While curatorial bodies external to the beneficiary set are appropriate in some contexts, self-curation is well suited here for a few reasons:
 
 1. Local actors are the only ones with domain knowledge
     - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
