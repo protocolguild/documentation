@@ -244,11 +244,14 @@ The final step of the formula uses a Square Root to compress the weight range. T
 
 The table and graphs below illustrate how the 5 year weight change of a hypothetical three member Guild. The effect of the square root can be seen in how the difference between older and newer contributors gets smaller over time.
 
-![TimeWeightTable](https://github.com/cheeky-gorilla/membership/assets/76262359/623d1a20-2bcb-4434-98cc-25853ced0c9f)
+|                                          |    0 |   12 |   24 |   36 |   48 |   60 |
+|------------------------------------------|-----:|-----:|-----:|-----:|-----:|-----:|
+| Peer 1 (starting weight 6mo, full-time)  | 4.24 | 5.48 | 6.48 | 7.35 | 8.12 | 8.12 |
+| Peer 2 (starting weight 24mo full-time)    | 6.00 | 6.93 | 7.75 | 8.49 | 9.17 | 9.17 |
+| Peer 3 (starting weight 12mo, part-time) | 3.46 | 6.00 | 6.93 | 7.75 | 8.49 | 8.49 |
 
-![RawWeights](https://github.com/cheeky-gorilla/membership/assets/76262359/171729d0-8011-41aa-9a00-49cbdb238e43)
-
-![RelativeWeights](https://github.com/cheeky-gorilla/membership/assets/76262359/93a6f5a0-393e-46c8-8dfd-a51aa6864f46)
+<img width="1007" alt="rawweights" src="https://github.com/protocolguild/documentation/assets/27454964/36d0917f-7b30-4bc3-bc5b-b2b94f62295b">
+<img width="1007" alt="relativeweights" src="https://github.com/protocolguild/documentation/assets/27454964/b915ab99-dd06-492f-a61b-3755d684535f">
 
 ### Governance
 
