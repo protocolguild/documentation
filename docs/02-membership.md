@@ -319,7 +319,7 @@ Affiliation and weight changes should include some rationale for the change, ide
 
 Peer removals can occur when a member stops contributing to eligible work, and is not responsive to requests to self-remove (as described above). In such cases, another member (ideally from the same team) can propose to remove the inactive member.
 
-There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This should only happen in special circumstances where the cost of contention is lower than the loss of institutional legitimacy which their continued membership would produce. The PR should include ample references to the alleged misconduct and justification for the removal. To date, this method has never been used.
+There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This might only happen in special circumstances where the internal social cost of contention is lower than the external institutional cost (i.e. loss of legitimacy) which their continued membership would produce. The PR should include ample references to the alleged misconduct and justification for the removal. To date, this method has never been used.
 
 ## 2.6 Quotes
 
