@@ -251,12 +251,16 @@ The table and graphs below illustrate how the 5 year weight change of a hypothet
 
 ### Governance
 
-Only members are invited to govern the mechanism. This may include:
+Protocol Guild members govern the evolution of the mechanism, which may include:
 
 - modifying high-level project elibility
 - discussing which smart contracts to use, and how to operate them
 - setting parameters like how long vests should be
 - how and where to fundraise
+
+Governance **does not** include:
+
+- any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds
 
 Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - learn more in smart contract section.
 
@@ -319,7 +323,7 @@ Affiliation and weight changes should include some rationale for the change, ide
 
 Peer removals can occur when a member stops contributing to eligible work, and is not responsive to requests to self-remove (as described above). In such cases, another member (ideally from the same team) can propose to remove the inactive member.
 
-There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This might only happen in special circumstances where the internal social cost of contention is lower than the external institutional cost (i.e. loss of legitimacy) which their continued membership would produce. The PR should include ample references to the alleged misconduct and justification for the removal. To date, this method has never been used.
+There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This should only happen in special circumstances where the removed member's contributions are far below what would generally be expected, or in the case of other grave misconducts. The PR should include ample documentation and justification for the removal. To date, this method has never been used.
 
 ## 2.5 Quotes
 
