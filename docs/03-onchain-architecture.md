@@ -1,6 +1,6 @@
 # 3. Smart Contract Architecture
 
-This section describes the Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot).
+This section describes the Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot-smart-contract-architecture).
 
 | Contract  | Address | ENS | Note |
 | :--- | :--- | :--- | :--- |
