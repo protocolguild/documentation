@@ -272,7 +272,7 @@ Members are expected to participate in curation. Consider these examples:
 
 We use the term "self-curation" to describe how the membership selects its own beneficiary set. This is an important distinction between Protocol Guild and other public goods funding mechanisms. While curatorial bodies external to the beneficiary set are appropriate in some contexts, self-curation is well suited here for a few reasons:
 
-1. Local actors are the only ones with domain knowledge
+1. Local actors have the most domain knowledge
     - Protocol Guild stakes its claim to legitimacy on the accuracy of its membership. This emerges from the perspectives and daily interactions of people that are already embedded: the core contributors themselves.
     - Any external curating council would be outside of core protocol stewardship. To approximate the local knowledge that core contributors naturally already have (e.g. who is doing what work, at what level of contribution, with what team), an external council would have to be embedded in the same work.
 
