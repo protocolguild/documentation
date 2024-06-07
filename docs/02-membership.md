@@ -4,7 +4,7 @@
 
 The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (May 21, 2024) Protocol Guild had 177 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
 
-| Name | Multiplier | Team | Eligible Work |
+| Name | Multiplier | Team | Primary Contributions |
 | :--- | :--- | :--- | :--- |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | Applied Research Group (ARG) | |
 | [Echo](https://github.com/echoalice/) | 1 | Applied Research Group (ARG) | |
@@ -50,7 +50,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Peter Davies](https://github.com/ultratwo/) | 1 | Protocol Support (EF) | |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | Protocol Support (EF) | |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | Protocol Support (EF) | |
-| [Trenton Van Epps](https://github.com/tvanepps/) | 1 | Protocol Support (EF) | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
+| [Trenton Van Epps](https://github.com/tvanepps/) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
 | [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
