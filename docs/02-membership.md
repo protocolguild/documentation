@@ -50,7 +50,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Peter Davies](https://github.com/ultratwo/) | 1 | Protocol Support (EF) | |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | Protocol Support (EF) | |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | Protocol Support (EF) | |
-| [Trenton Van Epps](https://github.com/tvanepps/) | 1 | Protocol Support (EF) | |
+| [Trenton Van Epps](https://github.com/tvanepps/) | 1 | Protocol Support (EF) | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
 | [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
