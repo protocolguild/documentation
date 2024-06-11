@@ -19,6 +19,7 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
 | [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QhaBynDSEHs) | Avail Hot Take | Feb 26 2024 |
