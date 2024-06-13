@@ -3,7 +3,7 @@
 ## 6.1 Links
 
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
-- [Twitter](https://twitter.com/protocolguild)
+- [X](https://twitter.com/protocolguild)
 - [Farcaster](https://warpcast.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 
@@ -19,6 +19,7 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
 | [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
 | [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
