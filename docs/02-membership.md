@@ -107,7 +107,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 | Hyperledger Besu | |
 | [pinges](https://github.com/pinges/) | 1 | Hyperledger Besu | |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | Hyperledger Besu | |
-| [Simon Dudley](https://github.com/siladu/) | 1 | Hyperledger Besu | |
+| [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Jim mcDonald](https://github.com/mcdee/) | 0.5 | Independent | |
 | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 | Independent | |
