@@ -124,7 +124,7 @@ The membership is a set of people working within the eligible projects who have 
 | [João Oliveira](https://github.com/jxs) | 1 | Lighthouse | |
 | [dapplion](https://github.com/dapplion/) | 1 | Lighthouse | |
 | [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
-| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech) |
+| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech) [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ag11tech)|
 | [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
 | [NC](https://github.com/ensi321) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
 | [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
