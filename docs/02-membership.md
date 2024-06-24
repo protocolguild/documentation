@@ -174,13 +174,13 @@ The membership is a set of people working within the eligible projects who have 
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | Nimbus | |
-| [Dmitry Shmatko](https://github.com/zilm13/) | 1 | Teku | |
-| [Enrico Del Fante](https://github.com/tbenr/) | 1 | Teku | |
-| [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | Teku | |
-| [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | Teku | |
-| [Lucas Saldanha](https://github.com/lucassaldanha) | 1 | Teku | |
-| [Paul Harris](https://github.com/rolfyone/) | 1 | Teku | |
-| [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | Teku | |
+| [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) | |
+| [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) | |
+| [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) | |
+| [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-aouadi) | |
+| [Lucas Saldanha](https://github.com/lucassaldanha) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Alucassaldanha) | |
+| [Paul Harris](https://github.com/rolfyone/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) | |
+| [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX | |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX | |
