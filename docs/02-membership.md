@@ -123,14 +123,14 @@ The membership is a set of people working within the eligible projects who have 
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | Lighthouse | |
 | [João Oliveira](https://github.com/jxs) | 1 | Lighthouse | |
 | [dapplion](https://github.com/dapplion/) | 1 | Lighthouse | |
-| [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | |
-| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | |
-| [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | |
-| [NC](https://github.com/ensi321) | 1 | Lodestar | |
-| [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | |
-| [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | |
-| [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | |
-| [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | |
+| [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
+| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech) [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ag11tech)|
+| [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
+| [NC](https://github.com/ensi321) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
+| [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
+| [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anflaig) |
+| [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
+| [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | Nethermind | |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
