@@ -10,7 +10,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Echo](https://github.com/echoalice/) | 1 | Applied Research Group (ARG) | |
 | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 | Applied Research Group (ARG) | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | Applied Research Group (ARG) | |
-| [Toni Wahrstätter](https://github.com/nerolation) | 1 | Applied Research Group (ARG) | |
+| [Toni Wahrstätter](https://github.com/nerolation) | 1 ||[research](https://github.com/nerolation/pglanding-nerolation)|
 | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | ethPandaOps | |
 | [Rafael Matias](https://github.com/skylenet/) | 0.5 | ethPandaOps | |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | ethPandaOps | |
