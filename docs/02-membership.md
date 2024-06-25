@@ -140,7 +140,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | Nethermind | |
 | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/LukaszRozmej?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
 | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | Nethermind | |
-| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | Nethermind | |
+| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25)|
 | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 | Nethermind | |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 | Nethermind | |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | Nethermind | |
