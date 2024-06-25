@@ -96,17 +96,17 @@ The membership is a set of people working within the eligible projects who have 
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | Erigon | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | Ethereum Cat Herders | |
-| [Ameziane](https://github.com/ahamlat/) | 1 | Hyperledger Besu | |
-| [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | Hyperledger Besu | |
-| [Danno Ferrin](https://github.com/shemnon/) | 1 | Hyperledger Besu | |
-| [Fabio di Fabio](https://github.com/fab-10/) | 1 | Hyperledger Besu | |
-| [Gary Schulte](https://github.com/garyschulte/) | 1 | Hyperledger Besu | |
-| [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 | Hyperledger Besu | |
-| [Jason Frame](https://github.com/jframe/) | 1 | Hyperledger Besu | |
-| [Justin Florentine](https://github.com/jflo/) | 1 | Hyperledger Besu | |
-| [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 | Hyperledger Besu | |
-| [pinges](https://github.com/pinges/) | 1 | Hyperledger Besu | |
-| [Sally Macfarlane](https://github.com/macfarla/) | 1 | Hyperledger Besu | |
+| [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
+| [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
+| [Danno Ferrin](https://github.com/shemnon/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
+| [Fabio di Fabio](https://github.com/fab-10/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afab-10) |
+| [Gary Schulte](https://github.com/garyschulte/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Agaryschulte) |
+| [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGabriel-Trintinalia) |
+| [Jason Frame](https://github.com/jframe/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajframe) |
+| [Justin Florentine](https://github.com/jflo/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajflo) |
+| [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Anon-fungible-nelson) |
+| [pinges](https://github.com/pinges/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
+| [Sally Macfarlane](https://github.com/macfarla/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Jim mcDonald](https://github.com/mcdee/) | 0.5 | Independent | |
