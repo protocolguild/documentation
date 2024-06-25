@@ -100,7 +100,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | Hyperledger Besu | |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | Hyperledger Besu | |
 | [Fabio di Fabio](https://github.com/fab-10/) | 1 | Hyperledger Besu | |
-| [Gary Schulte](https://github.com/garyschulte/) | 1 | Hyperledger Besu | [besu](https://github.com/hyperledger/besu/pulls?q=author%3Agaryschulte) |
+| [Gary Schulte](https://github.com/garyschulte/) | 1 | Hyperledger Besu | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Agaryschulte) |
 | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 | Hyperledger Besu | |
 | [Jason Frame](https://github.com/jframe/) | 1 | Hyperledger Besu | |
 | [Justin Florentine](https://github.com/jflo/) | 1 | Hyperledger Besu | |
