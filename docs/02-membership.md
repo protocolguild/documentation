@@ -10,7 +10,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Echo](https://github.com/echoalice/) | 1 | Applied Research Group (ARG) | |
 | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 | Applied Research Group (ARG) | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | Applied Research Group (ARG) | |
-| [Toni Wahrstätter](https://github.com/nerolation) | 1 | Applied Research Group (ARG) | |
+| [Toni Wahrstätter](https://github.com/nerolation) | 1 ||[research](https://github.com/nerolation/pglanding-nerolation)|
 | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | ethPandaOps | |
 | [Rafael Matias](https://github.com/skylenet/) | 0.5 | ethPandaOps | |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | ethPandaOps | |
@@ -33,7 +33,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | Ipsilon | |
 | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | EthereumJS | |
-| [Andrew Day](https://github.com/acolytec3/) | 1 | EthereumJS | |
+| [Andrew Day](https://github.com/acolytec3/) | 1 |  | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aacolytec3+) [ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Aacolytec3+) |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | EthereumJS | |
 | [Holger Drewes](https://github.com/holgerd77/) | 0.5 | EthereumJS | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | EthereumJS | |
@@ -45,10 +45,10 @@ The membership is a set of people working within the eligible projects who have 
 | [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
 | [Danny Ryan](https://github.com/djrtwo/) | 1 | Protocol Support (EF) | |
-| [Guru](https://github.com/gurukamath/) | 1 | Protocol Support (EF) | |
+| [Guru](https://github.com/gurukamath/) | 1 | | [EELS](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | Protocol Support (EF) | |
-| [Peter Davies](https://github.com/ultratwo/) | 1 | Protocol Support (EF) | |
-| [Sam Wilson](https://github.com/SamWilsn/) | 1 | Protocol Support (EF) | |
+| [Peter Davies](https://github.com/ultratwo/) | 1 | | [EELS](https://github.com/ethereum/execution-specs) |
+| [Sam Wilson](https://github.com/SamWilsn/) | 1 | | [EELS](https://github.com/ethereum/execution-specs) |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | Protocol Support (EF) | |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
@@ -78,7 +78,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | Protocol Security (EF) | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | Protocol Security (EF) | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | Protocol Security (EF) | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Ignacio Hagopian](https://github.com/jsign/) | 1 | Stateless Consensus | |
+| [Ignacio Hagopian](https://github.com/jsign/) | 1 | | [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22)<br>[ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22) & [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22)|
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | Stateless Consensus | |
 | [danceratopz](https://github.com/danceratopz) | 1 | Testing (EF) | |
 | [Mario Vega](https://github.com/marioevz/) | 1 | Testing (EF) | |
@@ -107,7 +107,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 | Hyperledger Besu | |
 | [pinges](https://github.com/pinges/) | 1 | Hyperledger Besu | |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | Hyperledger Besu | |
-| [Simon Dudley](https://github.com/siladu/) | 1 | Hyperledger Besu | |
+| [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Jim mcDonald](https://github.com/mcdee/) | 0.5 | Independent | |
 | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 | Independent | |
@@ -123,24 +123,24 @@ The membership is a set of people working within the eligible projects who have 
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | Lighthouse | |
 | [João Oliveira](https://github.com/jxs) | 1 | Lighthouse | |
 | [dapplion](https://github.com/dapplion/) | 1 | Lighthouse | |
-| [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | |
-| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | |
-| [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | |
-| [NC](https://github.com/ensi321) | 1 | Lodestar | |
-| [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | |
-| [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | |
-| [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | |
-| [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | |
+| [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
+| [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech) [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ag11tech)|
+| [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
+| [NC](https://github.com/ensi321) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
+| [Nazar Hussain](https://github.com/nazarhussain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
+| [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anflaig) |
+| [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
+| [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | Nethermind | |
-| [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | |
+| [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
 | [Ben Adams](https://github.com/benaadams) | 0.5 | Nethermind | |
 | [Daniel Celeda](https://github.com/dceleda/) | 1 | Nethermind | |
 | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 | Nethermind | |
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | Nethermind | |
-| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | Nethermind | |
+| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/LukaszRozmej?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
 | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | Nethermind | |
-| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | Nethermind | |
+| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25)|
 | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 | Nethermind | |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 | Nethermind | |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | Nethermind | |
@@ -169,18 +169,18 @@ The membership is a set of people working within the eligible projects who have 
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | Codex DAS | |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | Codex DAS | |
 | [Dustin Brody](https://github.com/tersec/) | 1 | Nimbus | |
-| [Etan Kissling](https://github.com/etan-status/) | 1 | Nimbus | |
+| [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
 | [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | |
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | Nimbus | |
-| [Dmitry Shmatko](https://github.com/zilm13/) | 1 | Teku | |
-| [Enrico Del Fante](https://github.com/tbenr/) | 1 | Teku | |
-| [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | Teku | |
-| [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | Teku | |
-| [Lucas Saldanha](https://github.com/lucassaldanha) | 1 | Teku | |
-| [Paul Harris](https://github.com/rolfyone/) | 1 | Teku | |
-| [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | Teku | |
+| [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) | |
+| [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) | |
+| [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) | |
+| [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-aouadi) | |
+| [Lucas Saldanha](https://github.com/lucassaldanha) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Alucassaldanha) | |
+| [Paul Harris](https://github.com/rolfyone/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) | |
+| [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX | |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX | |
