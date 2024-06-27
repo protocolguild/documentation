@@ -19,6 +19,8 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |
+| [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/) | CoinFund X Space | Jun 17 2024 |
 | [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
 | [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
 | [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
