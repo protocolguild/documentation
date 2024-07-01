@@ -183,7 +183,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX | |
-| [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX | |
+| [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX | [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io/@n0ble), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | |
 | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 | Dependable Distributed Systems (DDS) | |
 
