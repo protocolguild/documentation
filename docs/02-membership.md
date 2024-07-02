@@ -181,7 +181,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Lucas Saldanha](https://github.com/lucassaldanha) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Alucassaldanha) | |
 | [Paul Harris](https://github.com/rolfyone/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) | |
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) | |
-| [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX | |
+| [Alex Vlasov](https://github.com/ericsson49/) | 1 | | [https://hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) [https://ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49) [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX | |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX | |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | |
