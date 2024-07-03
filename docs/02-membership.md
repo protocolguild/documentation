@@ -135,7 +135,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
 | [Ben Adams](https://github.com/benaadams) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
-| [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | Nethermind | |
+| [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | | [NethermindEth contributions](https://github.com/cbermudez97?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+)|
 | [Daniel Celeda](https://github.com/dceleda/) | 1 | Nethermind | |
 | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 | Nethermind | |
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | Nethermind | |
