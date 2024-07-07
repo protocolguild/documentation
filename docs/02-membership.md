@@ -22,7 +22,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Felix Lange](https://github.com/fjl/) | 1 | Geth | |
 | [Jared Wasinger](https://github.com/jwasinger/) | 1 | Geth | |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | Geth | |
-| [Martin Holst Swende](https://github.com/holiman/) | 1 | Geth | |
 | [Matt Garnett](https://github.com/lightclient/) | 1 | Geth | |
 | [Peter Szilagyi](https://github.com/karalabe/) | 1 | Geth | |
 | [Sina Mahmoodi](https://github.com/s1na/) | 1 | Geth | |
