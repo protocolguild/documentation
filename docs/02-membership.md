@@ -87,7 +87,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | Erigon | |
 | [Daniel Lazarenko](https://github.com/battlmonstr/) | 0.5 | Erigon | |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | Erigon | |
-| [lupin012](https://github.com/lupin012/) | 0.5 | Erigon | |
+| [lupin012](https://github.com/lupin012/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests) |
 | [Jacek Glen](https://github.com/jacekglen/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) |
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
