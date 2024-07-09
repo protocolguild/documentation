@@ -43,7 +43,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Ognyan Genev](https://github.com/ogenev/) | 1 | Portal Network (EF) | |
 | [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
-| [Danny Ryan](https://github.com/djrtwo/) | 1 | Protocol Support (EF) | |
 | [Guru](https://github.com/gurukamath/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | Protocol Support (EF) | |
 | [Peter Davies](https://github.com/ultratwo/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
@@ -59,6 +58,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Antonio Sanso](https://github.com/asanso/) | 1 | Consensus R&D (EF) | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
 | [Dankrad Feist](https://github.com/dankrad/) | 1 | Consensus R&D (EF) | |
+| [Danny Ryan](https://github.com/djrtwo/) | 1 | Consensus R&D (EF) | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | Consensus R&D (EF) | |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | Consensus R&D (EF) | |
 | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 | Consensus R&D (EF) | |
