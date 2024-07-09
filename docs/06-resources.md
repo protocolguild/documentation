@@ -13,12 +13,13 @@ Want to get up to speed quickly? Check out these three videos:
 
 1. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o)
 2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
-3. [Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200)
+3. [Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship)
 
 All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship) | EthCC 2024 | Jul 09 2024 |
 | [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |
 | [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/) | CoinFund X Space | Jun 17 2024 |
 | [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
