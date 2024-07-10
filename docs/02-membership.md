@@ -12,7 +12,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | Applied Research Group (ARG) | |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 ||[research](https://github.com/nerolation/pglanding-nerolation)|
 | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | ethPandaOps | |
-| [Rafael Matias](https://github.com/skylenet/) | 0.5 | ethPandaOps | |
+| [Rafael Matias](https://github.com/skylenet/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | ethPandaOps | |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | ethPandaOps | |
 | [Andrew Davis](https://github.com/savid/) | 1 | ethPandaOps | |
@@ -210,7 +210,7 @@ Each member's share of the [split contract](https://app.splits.org/accounts/0xd4
 
 This formulation recognizes the local knowledge contributors gain over time, and uses that as a proxy for "value to the commons" and to allocate funding to members. Existing contributor weights get "diluted" as newcomers show up. Continuing contributors get additional weight per month they are active.
 
-Each member's time-weight is updated onchain every quarter along with an Ethereum address they control to allocate the funding flowing through the mechanism. 
+Each member's time-weight is updated onchain every quarter along with an Ethereum address they control to allocate the funding flowing through the mechanism.
 
 #### Time Weight
 
