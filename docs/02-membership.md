@@ -111,18 +111,18 @@ The membership is a set of people working within the eligible projects who have 
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Jim mcDonald](https://github.com/mcdee/) | 0.5 | Independent | |
 | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 | Independent | |
-| [Adrian Manning](https://github.com/AgeManning/) | 0.5 | Lighthouse | |
-| [Mac Ladson](https://github.com/macladson/) | 1 | Lighthouse | |
-| [Mark Mackey](https://github.com/ethDreamer/) | 1 | Lighthouse | |
-| [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | Lighthouse | |
-| [Michael Sproul](https://github.com/michaelsproul/) | 1 | Lighthouse | |
-| [Paul Hauner](https://github.com/paulhauner/) | 0.5 | Lighthouse | |
-| [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | Lighthouse | |
-| [Sean Anderson](https://github.com/realbigsean/) | 1 | Lighthouse | |
-| [Anton Delaruelle](https://github.com/antondlr) | 1 | Lighthouse | |
-| [Jimmy Chen](https://github.com/jimmygchen) | 1 | Lighthouse | |
-| [João Oliveira](https://github.com/jxs) | 1 | Lighthouse | |
-| [dapplion](https://github.com/dapplion/) | 1 | Lighthouse | |
+| [Adrian Manning](https://github.com/AgeManning/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AAgeManning), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3AAgeManning), [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3AAgeManning) |
+| [Mac Ladson](https://github.com/macladson/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
+| [Mark Mackey](https://github.com/ethDreamer/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
+| [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Azedt3ster) |
+| [Michael Sproul](https://github.com/michaelsproul/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
+| [Paul Hauner](https://github.com/paulhauner/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apaulhauner) |
+| [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
+| [Sean Anderson](https://github.com/realbigsean/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
+| [Anton Delaruelle](https://github.com/antondlr) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
+| [Jimmy Chen](https://github.com/jimmygchen) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimmygchen) |
+| [João Oliveira](https://github.com/jxs) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3Ajxs), [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3Ajxs) |
+| [dapplion](https://github.com/dapplion/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapplion), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Adapplion), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Adapplion) |
 | [Cayman Nava](https://github.com/wemeetagain/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
 | [Gajinder Singh](https://github.com/g11tech/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech) [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ag11tech)|
 | [Matthew Keil](https://github.com/matthewkeil) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
