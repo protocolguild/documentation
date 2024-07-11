@@ -109,7 +109,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
-| [Jim mcDonald](https://github.com/mcdee/) | 0.5 | Independent | |
+| [Jim McDonald](https://github.com/mcdee/) | 0.5 | | [ethereum/beacon-APIs](https://github.com/ethereum/beacon-APIs/pulls?q=author%3Amcdee) |
 | [Aditya Asgaonkar](https://github.com/adiasg/) | 0.5 | Independent | |
 | [Adrian Manning](https://github.com/AgeManning/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AAgeManning), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3AAgeManning), [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3AAgeManning) |
 | [Mac Ladson](https://github.com/macladson/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
