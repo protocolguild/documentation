@@ -47,7 +47,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | Protocol Support (EF) | |
 | [Peter Davies](https://github.com/ultratwo/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
-| [Tim Beiko](https://github.com/timbeiko/) | 1 | Protocol Support (EF) | |
+| [Tim Beiko](https://github.com/timbeiko/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 |  | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
