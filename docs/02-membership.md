@@ -18,7 +18,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Andrew Davis](https://github.com/savid/) | 1 | ethPandaOps | |
 | [pk910](https://github.com/pk910/) | 1 | ethPandaOps | |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | Geth | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
-| [Guillaume Ballet](https://github.com/gballet/) | 1 | Geth | |
+| [Guillaume Ballet](https://github.com/gballet/) | 1 | Geth | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet) |
 | [Felix Lange](https://github.com/fjl/) | 1 | Geth | |
 | [Jared Wasinger](https://github.com/jwasinger/) | 1 | Geth | |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | Geth | |
