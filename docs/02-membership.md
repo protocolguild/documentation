@@ -64,7 +64,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 | Consensus R&D (EF) | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | Consensus R&D (EF) | |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | Consensus R&D (EF) | |
-| [Luca Zanolini](https://github.com/luca-zanolini) | 1 | Consensus R&D (EF) | |
+| [Luca Zanolini](https://github.com/luca-zanolini) | 1 || [Research](https://github.com/luca-zanolini/research) |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | Consensus R&D (EF) | |
 | [Anders](https://github.com/anderselowsson/) | 1 | Robust Incentives Group (RIG) | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | Robust Incentives Group (RIG) | |
