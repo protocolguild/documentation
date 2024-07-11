@@ -169,7 +169,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 1 | Reth | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS | |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | Codex DAS | |
-| [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | Codex DAS | |
+| [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | Codex DAS | [DAS](https://ethresear.ch/u/leobago/summary/) |
 | [Dustin Brody](https://github.com/tersec/) | 1 | Nimbus | |
 | [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
 | [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | |
