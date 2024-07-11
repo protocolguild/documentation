@@ -24,7 +24,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | Geth | |
 | [Matt Garnett](https://github.com/lightclient/) | 1 | Geth | |
 | [Peter Szilagyi](https://github.com/karalabe/) | 1 | Geth | |
-| [Sina Mahmoodi](https://github.com/s1na/) | 1 | Geth | |
+| [Sina Mahmoodi](https://github.com/s1na/) | 1 | Geth | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3As1na+) |
 | [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | Ipsilon | |
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
