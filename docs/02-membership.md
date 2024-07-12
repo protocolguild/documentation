@@ -11,12 +11,12 @@ The membership is a set of people working within the eligible projects who have 
 | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 | Applied Research Group (ARG) | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | Applied Research Group (ARG) | |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 ||[research](https://github.com/nerolation/pglanding-nerolation)|
-| [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | ethPandaOps | |
+| [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
-| [Sam Calder-Mason](https://github.com/samcm/) | 1 | ethPandaOps | |
-| [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | ethPandaOps | |
-| [Andrew Davis](https://github.com/savid/) | 1 | ethPandaOps | |
-| [pk910](https://github.com/pk910/) | 1 | ethPandaOps | |
+| [Sam Calder-Mason](https://github.com/samcm/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
+| [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
+| [Andrew Davis](https://github.com/savid/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
+| [pk910](https://github.com/pk910/) | 1 | ethPandaOps | [ethPandaOps](https://github.com/ethpandaops) |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | Geth | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
 | [Guillaume Ballet](https://github.com/gballet/) | 1 | Geth | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet) |
 | [Felix Lange](https://github.com/fjl/) | 1 | Geth | |
