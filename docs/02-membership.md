@@ -115,7 +115,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Mark Mackey](https://github.com/ethDreamer/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
 | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Azedt3ster) |
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
-| [Paul Hauner](https://github.com/paulhauner/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apaulhauner) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
 | [Sean Anderson](https://github.com/realbigsean/) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
