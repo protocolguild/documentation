@@ -80,9 +80,9 @@ The membership is a set of people working within the eligible projects who have 
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | Protocol Security (EF) | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | | [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22)<br>[ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22) & [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22)|
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | Stateless Consensus | |
-| [danceratopz](https://github.com/danceratopz) | 1 | Testing (EF) | |
-| [Mario Vega](https://github.com/marioevz/) | 1 | Testing (EF) | |
-| [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 0.5 | Testing (EF) | |
+| [danceratopz](https://github.com/danceratopz) | 1 | Testing (EF) | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Mario Vega](https://github.com/marioevz/) | 1 | Testing (EF) | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 0.5 | Testing (EF) | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 | Erigon | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | Erigon | |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | Erigon | |
