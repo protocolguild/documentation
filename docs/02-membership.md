@@ -93,6 +93,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
+| [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Ataratorio) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Acanepat) |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | Ethereum Cat Herders | |
