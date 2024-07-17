@@ -95,7 +95,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Acanepat) |
-| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | Ethereum Cat Herders | |
+| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [Ethereum Protocol](https://www.youtube.com/@EthereumProtocol)|
 | [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
