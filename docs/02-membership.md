@@ -29,7 +29,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | Ipsilon | |
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
-| [Paweł Bylica](https://github.com/chfast/) | 1 | Ipsilon | |
+| [Paweł Bylica](https://github.com/chfast/) | 1 | Ipsilon | [evmone](https://github.com/ethereum/evmone) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | Ipsilon | |
 | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | EthereumJS | |
