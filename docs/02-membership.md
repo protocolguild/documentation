@@ -174,7 +174,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | |
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
-| [Kim De Mey](https://github.com/kdeme/) | 1 | Nimbus | |
+| [Kim De Mey](https://github.com/kdeme/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme), [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme)|
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) | |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) | |
 | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) | |
