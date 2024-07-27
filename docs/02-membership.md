@@ -172,8 +172,8 @@ The membership is a set of people working within the eligible projects who have 
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | Codex DAS | [DAS](https://ethresear.ch/u/leobago/summary/) |
 | [Dustin Brody](https://github.com/tersec/) | 1 | Nimbus | |
 | [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
-| [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | |
-| [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | |
+| [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | [Nimbus](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Acheatfate) |
+| [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | [Nimbus](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme), [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme)|
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) | |
