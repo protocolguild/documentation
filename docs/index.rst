@@ -28,6 +28,8 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 | **Polygon**          | `matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                  |
 +----------------------+----------------------------------------------------------------------+
+| **re.al**            | `matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                  |
++----------------------+----------------------------------------------------------------------+
 | **zkSync**           | `zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8`_                 |
 +----------------------+----------------------------------------------------------------------+
 | **Zora**             | `zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
@@ -38,6 +40,7 @@ Donate
 .. _base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
 .. _oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
 .. _matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
+.. _re-al:0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120: https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120
 .. _zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8: https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8
 .. _zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
 
