@@ -28,14 +28,14 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | Ipsilon | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb0+), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Agumb0+), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=author%3Agumb0+), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Agumb0+) |
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
-| [Paweł Bylica](https://github.com/chfast/) | 1 | Ipsilon | |
+| [Paweł Bylica](https://github.com/chfast/) | 1 | Ipsilon | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | Ipsilon | |
 | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | EthereumJS | |
 | [Andrew Day](https://github.com/acolytec3/) | 1 |  | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aacolytec3+) [ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Aacolytec3+) |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | EthereumJS | |
 | [Holger Drewes](https://github.com/holgerd77/) | 0.5 | EthereumJS | |
-| [Jochem](https://github.com/jochem-brouwer/) | 1 | EthereumJS | |
+| [Jochem](https://github.com/jochem-brouwer/) | 1 | EthereumJS | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | |
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
@@ -93,9 +93,10 @@ The membership is a set of people working within the eligible projects who have 
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
+| [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Ataratorio) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Acanepat) |
-| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | Ethereum Cat Herders | |
+| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol)|
 | [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
@@ -165,16 +166,16 @@ The membership is a set of people working within the eligible projects who have 
 | [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
 | [Matthias Seitz](https://github.com/mattsse/) | 1 | Reth | |
-| [Roman Krasiuk](https://github.com/rkrasiuk) | 1 | Reth | |
+| [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | Reth | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS | |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | Codex DAS | |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | Codex DAS | [DAS](https://ethresear.ch/u/leobago/summary/) |
-| [Dustin Brody](https://github.com/tersec/) | 1 | Nimbus | |
+| [Dustin Brody](https://github.com/tersec/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Atersec) |
 | [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
-| [Eugene Kabanov](https://github.com/cheatfate/) | 1 | Nimbus | |
-| [Jacek Sieka](https://github.com/arnetheduck/) | 1 | Nimbus | |
+| [Eugene Kabanov](https://github.com/cheatfate/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Acheatfate) |
+| [Jacek Sieka](https://github.com/arnetheduck/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
-| [Kim De Mey](https://github.com/kdeme/) | 1 | Nimbus | |
+| [Kim De Mey](https://github.com/kdeme/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme), [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme)|
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) | |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) | |
 | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | [Teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) | |

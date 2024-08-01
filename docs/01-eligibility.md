@@ -2,6 +2,7 @@
 
 Protocol Guild eligible projects must:
 
+- Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness
 - Be fully open source under an Open Source Initiative (OSI) [Approved License](https://opensource.org/licenses).
 - Have a regular presence in Ethereum R&D or governance venues, such as;
   - Specification repos (e.g. [consensus-specs](https://github.com/ethereum/consensus-specs), [execution-specs](https://github.com/ethereum/execution-specs), [execution-apis](https://github.com/ethereum/execution-apis))
