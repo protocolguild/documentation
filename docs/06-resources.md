@@ -75,7 +75,7 @@ Audits & Reviews
 Other
 - [Danny Ryan](https://x.com/dannyryan/) for [sparking the initial concept](https://x.com/dannyryan/status/1454065104819916803)
 - [datamonkey.eth](https://x.com/datamonkey_eth) for creating our [first Dune dashboard](https://dune.com/datamonkey_eth/protocol-guild)
-- [Everyone](https://dune.com/queries/2429254/3990575) who has every donated ❤️
+- [Everyone](https://dune.com/queries/2429254/3990575) who has ever donated ❤️
 
 ## 6.4 Pilot
 
