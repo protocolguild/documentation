@@ -58,7 +58,28 @@ All media in chronological order:
 | [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) | Shelling Point | Feb 17 2022 |
 | [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) | Mirror | Dec 31 2021 |
 
-## 6.3 Pilot
+## 6.3 Acknowledgments
+
+We are indebted to the following projects and individuals for their generous support of Protocol Guild's development over the years.
+
+Smart Contracts
+- [Splits](https://splits.org/) for their [onchain financial infrastructure](https://github.com/0xSplits)
+- [DAOhaus](https://daohaus.club/) for their [Moloch DAO](https://moloch.daohaus.fun/) implementation and work on an [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
+
+Audits & Reviews
+- [Sigma Prime](https://sigmaprime.io) for their review of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
+- [Dedaub](https://dedaub.com/) for two audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
+- [Zellic](https://www.zellic.io/) for their audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [Split V2 contracts](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/splits-v2)
+- [Red Guild](https://theredguild.org/) for their audit of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
+
+Other
+- [Danny Ryan](https://x.com/dannyryan/) for [inspiring the idea](https://x.com/dannyryan/status/1454065104819916803) for Protocol Guild
+- [datamonkey.eth](https://x.com/datamonkey_eth) for creating our [first Dune dashboard](https://dune.com/datamonkey_eth/protocol-guild)
+- [Everyone](https://dune.com/queries/2429254/3990575) who has every donated to Protocol Guild ❤️
+
+
+
+## 6.4 Pilot
 
 Protocol Guild's 1-year pilot was kicked off on May 7th, 2022 with the [deployment](https://etherscan.io/tx/0x0fe4b8b7ff4e1301e9cbf6613b805dc76cffb4a633f36244e7544e9dfd8612b7) of the pilot vesting contract. This section contains documentation pertaining to the planning and execution of the pilot at that time, serving as a historical reference.
 
