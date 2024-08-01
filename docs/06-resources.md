@@ -60,24 +60,22 @@ All media in chronological order:
 
 ## 6.3 Acknowledgments
 
-We are indebted to the following projects and individuals for their generous support of Protocol Guild's development over the years.
+We are indebted to the following projects and individuals for their generous contributions to Protocol Guild's development over the years.
 
 Smart Contracts
-- [Splits](https://splits.org/) for their [onchain financial infrastructure](https://github.com/0xSplits)
+- [Splits](https://splits.org/) for their [onchain financial infrastructure](https://github.com/0xSplits) and feedback
 - [DAOhaus](https://daohaus.club/) for their [Moloch DAO](https://moloch.daohaus.fun/) implementation and work on an [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 
 Audits & Reviews
-- [Sigma Prime](https://sigmaprime.io) for their review of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
+- [Sigma Prime](https://sigmaprime.io) for their review of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [splits vesting contract](https://github.com/0xSplits/splits-vesting)
 - [Dedaub](https://dedaub.com/) for two audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 - [Zellic](https://www.zellic.io/) for their audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [Split V2 contracts](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/splits-v2)
 - [Red Guild](https://theredguild.org/) for their audit of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 
 Other
-- [Danny Ryan](https://x.com/dannyryan/) for [inspiring the idea](https://x.com/dannyryan/status/1454065104819916803) for Protocol Guild
+- [Danny Ryan](https://x.com/dannyryan/) for [sparking the initial concept](https://x.com/dannyryan/status/1454065104819916803)
 - [datamonkey.eth](https://x.com/datamonkey_eth) for creating our [first Dune dashboard](https://dune.com/datamonkey_eth/protocol-guild)
-- [Everyone](https://dune.com/queries/2429254/3990575) who has every donated to Protocol Guild ❤️
-
-
+- [Everyone](https://dune.com/queries/2429254/3990575) who has every donated ❤️
 
 ## 6.4 Pilot
 
