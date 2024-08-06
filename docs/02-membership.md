@@ -131,6 +131,21 @@ The membership is a set of people working within the eligible projects who have 
 | [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
 | [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93) |
+| [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
+| [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
+| [Ben Adams](https://github.com/benaadams) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
+| [Damian Orzechowski](https://github.com/damian-orzechowski) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Adamian-orzechowski+) |
+| [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | | [NethermindEth contributions](https://github.com/cbermudez97?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+)|
+| [Daniel Celeda](https://github.com/dceleda/) | 1 | Nethermind | |
+| [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 | Nethermind | |
+| [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | Nethermind | |
+| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/LukaszRozmej?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
+| [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/marcindsobczak?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
+| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | Nethermind | [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25)|
+| [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 | Nethermind | |
+| [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 | Nethermind | |
+| [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | Nethermind | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
+| [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | | [NethermindEth contributions](https://github.com/tanishqjasoria?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
 | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 | Nethermind | |
 | [James He](https://github.com/james-prysm/) | 1 | Prysm | |
 | [Kasey Kirkham](https://github.com/kasey/) | 1 | Prysm | |
