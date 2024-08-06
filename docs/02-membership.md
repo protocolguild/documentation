@@ -83,18 +83,18 @@ The membership is a set of people working within the eligible projects who have 
 | [Mario Vega](https://github.com/marioevz/) | 1 | Testing (EF) | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 0.5 | Testing (EF) | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 | Erigon | |
-| [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | Erigon | |
+| [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis) [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | Erigon | |
-| [Daniel Lazarenko](https://github.com/battlmonstr/) | 1 | Erigon | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Abattlmonstr) |
+| [Daniel Lazarenko](https://github.com/battlmonstr/) | 1 | Erigon | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr) [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abattlmonstr) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | Erigon | |
-| [lupin012](https://github.com/lupin012/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests) |
-| [Jacek Glen](https://github.com/jacekglen/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon) |
+| [lupin012](https://github.com/lupin012/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [erigontech/erigon](https://github.com/erigontech/erigon) [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests) |
+| [Jacek Glen](https://github.com/jacekglen/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm) [erigontech/erigon](https://github.com/erigontech/erigon) |
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
-| [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Ataratorio) |
+| [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
-| [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon/pulls?q=author%3Acanepat) |
+| [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat) |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol)|
 | [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
