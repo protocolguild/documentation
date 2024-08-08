@@ -130,7 +130,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Nico Flaig](https://github.com/nflaig) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anflaig) |
 | [Phil Ngo](https://github.com/philknows/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
 | [Tuyen Nguyen](https://github.com/twoeths/) | 1 | Lodestar | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
-| [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | Nethermind | |
+| [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | Nethermind | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
 | [Ben Adams](https://github.com/benaadams) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
