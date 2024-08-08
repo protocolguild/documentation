@@ -146,17 +146,17 @@ The membership is a set of people working within the eligible projects who have 
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
 | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
 | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 | Nethermind | |
-| [James He](https://github.com/james-prysm/) | 1 | Prysm | |
-| [Kasey Kirkham](https://github.com/kasey/) | 1 | Prysm | |
-| [Nishant Das](https://github.com/nisdas/) | 1 | Prysm | |
-| [potuz](https://github.com/potuz/) | 1 | Prysm | |
-| [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | Prysm | |
-| [Radosław Kapka](https://github.com/rkapka/) | 1 | Prysm | |
-| [Raul Jordan](https://github.com/rauljordan/) | 0.5 | Prysm | |
-| [Sammy Rosso](https://github.com/saolyn/) | 1 | Prysm | |
-| [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 | Prysm | |
-| [Terence Tsao](https://github.com/terencechain/) | 1 | Prysm | |
-| [Manu Nalepa](https://github.com/nalepae) | 1 | Prysm | |
+| [James He](https://github.com/james-prysm/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm) |
+| [Kasey Kirkham](https://github.com/kasey/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey) |
+| [Nishant Das](https://github.com/nisdas/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas) |
+| [potuz](https://github.com/potuz/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [gohashtree](https://github.com/prysmaticlabs/gohashtree/pulls?q=author%3Apotuz)|
+| [Preston Van Loon](https://github.com/prestonvanloon/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvanloon)|
+| [Radosław Kapka](https://github.com/rkapka/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka) |
+| [Raul Jordan](https://github.com/rauljordan/) | 0.5 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arauljordan) |
+| [Sammy Rosso](https://github.com/saolyn/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Asaolyn) |
+| [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3ATaranpreet26311) devops |
+| [Terence Tsao](https://github.com/terencechain/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencechain) , [ethresear.ch](https://ethresear.ch/u/terence/activity) , [hackmd.io](https://hackmd.io/@ttsao) |
+| [Manu Nalepa](https://github.com/nalepae) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | Reth | |
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
 | [DaniPopes](https://github.com/DaniPopes) | 1 | Reth | |
