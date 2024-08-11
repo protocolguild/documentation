@@ -64,6 +64,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | Consensus R&D (EF) | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 || [Research](https://github.com/luca-zanolini/research) |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | Consensus R&D (EF) | |
+| [Gottfried Herold]([https://github.com/ppopth/](https://github.com/GottfriedHerold) | 1 | Consensus R&D (EF) | |
 | [Anders](https://github.com/anderselowsson/) | 1 | Robust Incentives Group (RIG) | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | Robust Incentives Group (RIG) | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | Robust Incentives Group (RIG) | |
