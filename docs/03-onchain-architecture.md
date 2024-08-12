@@ -94,16 +94,16 @@ The DAO does not keep track of member weights, nor does it hold any funds. Curre
 
 - Official documentation: [https://docs.safe.global/](https://docs.safe.global/)
 
-| Contract  | Address | ENS | Note |
-| :--- | :--- | :--- | :--- |
-| Mainnet Multisig | [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a) | - | Used when mainnet donations need to be claimed (e.g. [Octant](https://octant.app/projects)) |
-| Arbitrum Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Arbitrum |
-| Base Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Base |
-| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Optimism |
-| Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Polygon |
-| re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | - | Default donation address on re.al |
-| ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | - | Default donation address on ZKsync |
-| Zora Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Zora |
+| Contract  | Address | Note |
+| :--- | :--- | :--- |
+| Mainnet Multisig | [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a) | Used when mainnet donations need to be claimed (e.g. [Octant](https://octant.app/projects)) |
+| Arbitrum Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Arbitrum |
+| Base Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Base |
+| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Optimism |
+| Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Polygon |
+| re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | Default donation address on re.al |
+| ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | Default donation address on ZKsync |
+| Zora Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Zora |
 
 The Guild has deployed 6/10 [Safe](https://safe.global/) multisig contracts to control the PTW and split contract, and to claim funds on mainnet (which cannot be sent to the vesting contact directly). Multisigs are also used to receive donations on L2s, and then bridge those funds to mainnet.
 
