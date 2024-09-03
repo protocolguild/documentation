@@ -29,7 +29,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | Ipsilon | |
-| [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | |
+| [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Apdobacz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apdobacz), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Apdobacz), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Apdobacz) |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | EthereumJS | |
 | [Andrew Day](https://github.com/acolytec3/) | 1 | | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aacolytec3+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Aacolytec3+) |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | EthereumJS | |
