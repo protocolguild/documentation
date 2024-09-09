@@ -8,10 +8,12 @@ This section describes the Guild's current smart contract architecture. You can 
 | Pass-Through | [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/) | ptw.theprotocolguild.eth | Used by DAO to trigger arbitrary calls on tokens that have finished vesting |
 | Split | [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) | split.theprotocolguild.eth | Onchain membership registry for distributing vested funds to the membership |
 | DAO | [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members) | dao.theprotocolguild.eth | DAO containing all Protocol Guild members |
-| Mainnet Multisig | [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a) | - | Used when mainnet donations need to be claimed (e.g. [Octant](https://octant.app/projects)) |
+| Mainnet Multisig | [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a) | - | Used when mainnet donations need to be claimed |
+| Optimism Vesting | [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10) | - | Default donation address on Optimism |
+| Optimism Split | [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10) | - | Onchain membership registry for distributing vested funds to the membership on OP |
 | Arbitrum Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Arbitrum |
 | Base Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Base |
-| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Optimism |
+| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Used when Optimism donations need to be claimed |
 | Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Polygon |
 | re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | - | Default donation address on re.al |
 | ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | - | Default donation address on ZKsync |
@@ -29,8 +31,10 @@ The Guild’s smart contract architecture is modularized as follows:
 
 ### Vesting Contract
 
-- Contract address: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
-- Splits reference documentation: [https://docs.splits.org/core/vesting](https://docs.splits.org/core/vesting)
+- Contract addresses:
+  - Ethereum Mainnet: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+  - Optimism: [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
+- Official documentation: [https://docs.splits.org/core/vesting](https://docs.splits.org/core/vesting)
 
 The Guild’s donation address is an immutable vesting contract which irrevocably vests donated funds on a linear, block-by-block, basis over 4 years. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership.
 
@@ -49,7 +53,7 @@ All donated tokens are thus forced to vest - there is no way to do anything with
 - Contract address: [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1)
 - Official documentation: [https://docs.splits.org/core/pass-through](https://docs.splits.org/core/pass-through)
 
-All funds from the vesting contract go into a pass-through wallet (PTW), which pools vested tokens to be pushed to the split contract.
+All funds from the mainnet vesting contract go into a pass-through wallet (PTW), which pools vested tokens to be pushed to the split contract. (A PTW is not deployed on Optimism, there funds from the vesting contract go straight to the split.)
 
 The PTW allows the Guild’s membership to make arbitrary calls with vested tokens if needed, since the current split contract does not have arbitrary call functionality. For the avoidance of doubt: the PTW can only be used to interact with tokens which have already finished vesting. Tokens still vesting in the [vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/) cannot be prematurely interacted with.
 
@@ -60,8 +64,12 @@ The PTW allows the Guild’s membership to make arbitrary calls with vested toke
 
 ### Split Contract
 
-- Contract address: [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
-- Official documentation: [https://docs.splits.org/core/split](https://docs.splits.org/core/split)
+- Contract addresses:
+  - Ethereum Mainnet: [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
+  - Optimism: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
+- Official documentation:
+  - Split V1 (Ethereum Mainnet): [https://docs.splits.org/core/split](https://docs.splits.org/core/split)
+  - Split V2 (Optimism): [https://docs.splits.org/core/split-v2](https://docs.splits.org/core/split-v2)
 
 The split contract contains all Guild members’ addresses and their respective share of vested funds (based on the time-weight formula).
 
@@ -99,13 +107,13 @@ The DAO does not keep track of member weights, nor does it hold any funds. Curre
 | Mainnet Multisig | [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a) | Used when mainnet donations need to be claimed (e.g. [Octant](https://octant.app/projects)) |
 | Arbitrum Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Arbitrum |
 | Base Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Base |
-| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Optimism |
+| Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Used when Optimism donations need to be claimed (e.g. [OP RPGF](https://retrofunding.optimism.io/)) |
 | Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Polygon |
 | re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | Default donation address on re.al |
 | ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | Default donation address on ZKsync |
 | Zora Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Zora |
 
-The Guild has deployed 6/10 [Safe](https://safe.global/) multisig contracts to control the PTW and split contract, and to claim funds on mainnet (which cannot be sent to the vesting contact directly). Multisigs are also used to receive donations on L2s, and then bridge those funds to mainnet.
+The Guild has deployed 6/10 [Safe](https://safe.global/) multisig contracts to control the PTW and split contract, and to claim funds on mainnet and optimism (when donations cannot be sent to the vesting contact directly). Multisigs are also used to receive donations on most L2s, and then bridge those funds to mainnet.
 
 The multisigs’ signers are not disclosed publicly, and are rotated regularly.
 
