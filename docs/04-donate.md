@@ -4,7 +4,7 @@ The Protocol Guild’s funding mechanism was designed to remove friction associa
 
 Note that there are different donation addresses depending on if you're donating on Ethereum mainnet or L2s / other chains!
 
-All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/protocolguild/protocol-guild). 
+All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/protocolguild/protocol-guild).
 
 ## 4.1 Mainnet
 
@@ -15,30 +15,33 @@ All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
 
+Important: The vesting contract cannot claim funds. If donations need to be claimed on mainnet, then please use this multisig instead: [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/settings/setup?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a)
+
 ## 4.2 L2s / Other Chains
 
-The Guild has deployed 6/10 multisigs to receive donations on different L2s and other chains. Funds in these multisigs will be periodically bridged into the [mainnet vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9). 
+Currently vesting contracts have only been deployed on Ethereum mainnet and OP mainnet. For other L2s / chains, 6/10 multisigs have been deployed to receive donations. Multisig funds will be periodically bridged into the [mainnet vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9). 
 
 ### Arbitrum
-- [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+- Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ### Base
-- [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+- Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ### Optimism
-- [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+- Vesting Contract: [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
+  - Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ### Polygon
-- [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+- Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ### re.al
-- [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120)
+- Multisig: [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120)
 
 ### zkSync
-- [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8)
+- Multisig: [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8)
 
 ### Zora
-- [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+- Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ## 4.3 Protocol Guild Pledge
 
