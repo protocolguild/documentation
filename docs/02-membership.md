@@ -53,7 +53,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
 | [Mary Maller](https://github.com/mmaller) | 0.5 | Cryptography (EF) | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
-| [Antonio Sanso](https://github.com/asanso/) | 1 | Consensus R&D (EF) | |
+| [Antonio Sanso](https://github.com/asanso/) | 1 | Cryptography (EF) | [research](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
 | [Dankrad Feist](https://github.com/dankrad/) | 1 | Consensus R&D (EF) | |
 | [Danny Ryan](https://github.com/djrtwo/) | 1 | Consensus R&D (EF) | |
