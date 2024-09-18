@@ -7,9 +7,9 @@ There is a PG legal entity which currently receives 2% of the split proceeds to 
 
 The entity converts all tokens on a monthly basis to maintain a stablecoin reserve. This covers:
 
-1. $200k in reserve for 2 years of fixed annual/variable expenses incurred to operate the entity, hedge market volatility, and any unanticipated expenses
-2. $100k in reserve for potential insurance claims against the foundation 
-3. stable base compensation for independent Operations contributors
-  - $12.5k/month ($150k/year) to support Cheeky Gorilla's ongoing full-time contributions
+- $200k in reserve for 2 years of fixed annual/variable expenses incurred to operate the entity, hedge market volatility, and any unanticipated expenses
+- $100k in reserve for potential insurance claims against the foundation 
+- stable base compensation for independent Operations contributors
+    - $12.5k/month ($150k/year) to support Cheeky Gorilla's ongoing full-time contributions
 
-Generally, the entity should receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in section [2.3 Rights -> Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance).
+Generally, the entity should receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
