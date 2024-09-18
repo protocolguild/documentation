@@ -262,12 +262,12 @@ Protocol Guild members govern the evolution of the mechanism, which may include:
 - discussing which smart contracts to use, and how to operate them
 - setting parameters like how long vests should be
 - how and where to fundraise
+- the percentage of Split flows that the Foundation entity receives to account for various org expenses
+- stable base compensation for select Operations roles
 
-Governance **does not** include:
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - learn more in the smart contract section.
 
-- any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds
-
-Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - learn more in smart contract section.
+Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds.
 
 ## 2.4 Obligations
 
