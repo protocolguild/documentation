@@ -59,4 +59,5 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
   03-onchain-architecture
   04-donate
   05-design-principles
-  06-resources
+  06-entity-&-operations.md
+  07-resources
