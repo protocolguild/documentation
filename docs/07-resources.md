@@ -1,13 +1,13 @@
-# 6. Resources
+# 7. Resources
 
-## 6.1 Links
+## 7.1 Links
 
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 - [X](https://twitter.com/protocolguild)
 - [Farcaster](https://warpcast.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 
-## 6.2 Media
+## 7.2 Media
 
 Want to get up to speed quickly? Check out these three videos:
 
@@ -58,7 +58,7 @@ All media in chronological order:
 | [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) | Shelling Point | Feb 17 2022 |
 | [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) | Mirror | Dec 31 2021 |
 
-## 6.3 Acknowledgments
+## 7.3 Acknowledgments
 
 We are indebted to the following projects and individuals for their generous contributions to Protocol Guild's development over the years.
 
@@ -78,7 +78,7 @@ Other
 - [MolochDAO](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/) for providing 15 ETH via two grants ([1](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/40) and [2](https://app.daohaus.club/dao/0x1/0x519f9662798c2e07fbd5b30c1445602320c5cf5b/proposals/46)) to support the development of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 - [Everyone](https://dune.com/queries/2429254/3990575) who has ever donated ❤️
 
-## 6.4 Pilot
+## 7.4 Pilot
 
 Protocol Guild's 1-year pilot was kicked off on May 7th, 2022 with the [deployment](https://etherscan.io/tx/0x0fe4b8b7ff4e1301e9cbf6613b805dc76cffb4a633f36244e7544e9dfd8612b7) of the pilot vesting contract. This section contains documentation pertaining to the planning and execution of the pilot at that time, serving as a historical reference.
 
