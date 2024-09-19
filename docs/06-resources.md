@@ -19,6 +19,7 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | EDCON 2024 | Jul 29 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship) | EthCC 2024 | Jul 09 2024 |
 | [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |
 | [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/) | CoinFund X Space | Jun 17 2024 |
