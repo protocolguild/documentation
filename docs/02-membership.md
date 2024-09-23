@@ -68,7 +68,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Anders](https://github.com/anderselowsson/) | 1 | Robust Incentives Group (RIG) | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | Robust Incentives Group (RIG) | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | Robust Incentives Group (RIG) | |
-| [Davide Crapis](https://github.com/dcrapis/) | 1 | Robust Incentives Group (RIG) | |
+| [Davide Crapis](https://github.com/dcrapis/) | 0.5 | Robust Incentives Group (RIG) | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | | [ethresearch](https://ethresear.ch/u/soispoke/summary/) |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | Robust Incentives Group (RIG) | |
 • [Bhargava Shastry](https://github.com/bshastry/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
