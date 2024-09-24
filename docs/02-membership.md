@@ -264,7 +264,7 @@ Protocol Guild members govern the evolution of the mechanism, which may include:
 - how and where to fundraise
 - the percentage of Split flows that the Foundation entity receives to account for various org expenses, including some compensation for select operational roles
 
-Typically this takes the shape of rough consensus discussions. In some special cases, decisions needs to be voted on or ratified - [learn more here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html#moloch-v3-dao).
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions need to be voted on or ratified - [learn more here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html#moloch-v3-dao).
 
 Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds - more details about our narrow scope of concern [here](https://protocol-guild.readthedocs.io/en/latest/index.html).
 
