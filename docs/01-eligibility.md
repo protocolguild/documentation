@@ -15,7 +15,7 @@ Protocol Guild eligible projects must:
     - [Execution specs (EELS)](https://github.com/ethereum/execution-specs)
     - [Execution APIs](https://github.com/ethereum/execution-apis)
   - Ethereum core protocol maintenance and development
-    - Contributors to well-tested, technically-differentiated and production-ready Ethereum mainnet client implementations. Currently, this includes [Erigon](https://github.com/erigontech/erigon), [EthereumJS](https://github.com/ethereumjs),  [Geth](https://github.com/ethereum/go-ethereum), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku) and [Reth](https://github.com/paradigmxyz/reth)
+    - Contributors to well-tested, technically-differentiated and production-ready Ethereum mainnet client implementations. Currently, this includes [Erigon](https://github.com/erigontech/erigon), [EthereumJS](https://github.com/ethereumjs),  [Geth](https://github.com/ethereum/go-ethereum), [Grandine](https://github.com/grandinetech/grandine), [Hyperledger Besu](https://github.com/hyperledger/besu), [Lighthouse](https://github.com/sigp/lighthouse), [Lodestar](https://github.com/ChainSafe/lodestar), [Nethermind](https://github.com/NethermindEth/nethermind), [Nimbus](https://github.com/status-im/nimbus-eth2), [Prysm](https://github.com/prysmaticlabs/prysm), [Teku](https://github.com/ConsenSys/teku) and [Reth](https://github.com/paradigmxyz/reth)
     - Client testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
     - Coordination related to upgrades and maintenance: [ethereum/pm](https://github.com/ethereum/pm)
   - Research and implementation experiments related to potential protocol changes
@@ -47,5 +47,7 @@ Independent or unaffiliated contributors are considered by the same guidelines a
 Changing the eligibility framework can be made through a PR to the [documentation repo](https://github.com/protocolguild/documentation). This PR should add the project in the appropriate section, along with the following info:
 
 - Name of project
-- Start date of the project
+- Eligibility start date for the project
 - Summary of why this project should be considered eligible/ineligible
+
+The eligibility start date for the project is the date at which the project met the Eligibility criteria above. This is the earliest date that future Protocol Guild members can use to count contributions towards the project. 
