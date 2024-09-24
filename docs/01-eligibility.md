@@ -47,5 +47,7 @@ Independent or unaffiliated contributors are considered by the same guidelines a
 Changing the eligibility framework can be made through a PR to the [documentation repo](https://github.com/protocolguild/documentation). This PR should add the project in the appropriate section, along with the following info:
 
 - Name of project
-- Start date of the project
+- Eligibility start date for the project
 - Summary of why this project should be considered eligible/ineligible
+
+The eligibility start date for the project is the date at which the project met the Eligibility criteria above. This is the earliest date that future Protocol Guild members can use to count contributions towards the project. 
