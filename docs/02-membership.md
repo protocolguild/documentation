@@ -51,7 +51,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
 | [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
-| [Mary Maller](https://github.com/mmaller) | 0.5 | Cryptography (EF) | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | Consensus R&D (EF) | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
