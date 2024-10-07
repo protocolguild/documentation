@@ -35,7 +35,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | EthereumJS | |
 | [Holger Drewes](https://github.com/holgerd77/) | 0.5 | EthereumJS | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
-| [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | |
+| [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
