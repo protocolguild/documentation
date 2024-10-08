@@ -55,7 +55,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Antonio Sanso](https://github.com/asanso/) | 1 | Cryptography (EF) | [research](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
 | [Dankrad Feist](https://github.com/dankrad/) | 1 | Consensus R&D (EF) | |
-| [Danny Ryan](https://github.com/djrtwo/) | 1 | Consensus R&D (EF) | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | Consensus R&D (EF) | |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | Consensus R&D (EF) | |
 | [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 | Consensus R&D (EF) | |
