@@ -115,7 +115,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Azedt3ster) |
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
-| [Sean Anderson](https://github.com/realbigsean/) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
+| [Sean Anderson](https://github.com/realbigsean/) | 0.5 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimmygchen) |
 | [João Oliveira](https://github.com/jxs) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3Ajxs), [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3Ajxs) |
