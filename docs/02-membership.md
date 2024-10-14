@@ -130,6 +130,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Phil Ngo](https://github.com/philknows/) | 1 | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
 | [Tuyen Nguyen](https://github.com/twoeths/) | 1 | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93+) |
+| [Anders Kristiansen](https://github.com/ak88) | 0.5 |  Nethermind | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 |  | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aflcl42+) |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
 | [Ben Adams](https://github.com/benaadams) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
