@@ -184,7 +184,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | | [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | | [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-spec](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | | [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io/@n0ble), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin) |
-| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | |
+| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | [Research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 | Dependable Distributed Systems (DDS) | |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
 
