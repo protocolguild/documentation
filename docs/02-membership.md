@@ -103,7 +103,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGabriel-Trintinalia) |
 | [Jason Frame](https://github.com/jframe/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajframe) |
 | [Justin Florentine](https://github.com/jflo/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajflo) |
-| [Matt Nelson](https://github.com/non-fungible-nelson) | 0.5 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Anon-fungible-nelson) |
 | [pinges](https://github.com/pinges/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
