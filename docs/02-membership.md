@@ -24,7 +24,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Matt Garnett](https://github.com/lightclient/) | 1 | Geth | |
 | [Peter Szilagyi](https://github.com/karalabe/) | 1 | Geth | |
 | [Sina Mahmoodi](https://github.com/s1na/) | 1 | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3As1na+) |
-| [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | |
+| [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aaxic), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Aaxic), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Aaxic), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Aaxic), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aaxic) |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb0+), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Agumb0+), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=author%3Agumb0+), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Agumb0+) |
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
