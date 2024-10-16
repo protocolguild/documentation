@@ -159,7 +159,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Manu Nalepa](https://github.com/nalepae) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | Reth | |
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
-| [DaniPopes](https://github.com/DaniPopes) | 1 | Reth | |
+| [DaniPopes](https://github.com/DaniPopes) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Arakita+) |
 | [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
