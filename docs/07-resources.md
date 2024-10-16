@@ -9,16 +9,18 @@
 
 ## 7.2 Media
 
-Want to get up to speed quickly? Check out these three videos:
+Want to get up to speed quickly? Check out these pieces of media:
 
-1. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o)
-2. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
-3. [Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship)
+1. [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ)
+2. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o)
+3. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
+4. [Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship)
 
 All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
+| [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) | Mirror | Oct 10 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | EDCON 2024 | Jul 29 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archive/Protocol-Guild-Funding-Core-Protocol-Stewardship) | EthCC 2024 | Jul 09 2024 |
 | [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |

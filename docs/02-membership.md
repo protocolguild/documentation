@@ -35,11 +35,11 @@ The membership is a set of people working within the eligible projects who have 
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | EthereumJS | |
 | [Holger Drewes](https://github.com/holgerd77/) | 0.5 | EthereumJS | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
-| [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | |
+| [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
-| [Ognyan Genev](https://github.com/ogenev/) | 1 | Portal Network (EF) | |
+| [Ognyan Genev](https://github.com/ogenev/) | 1 | |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)         |
 | [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
 | [Guru](https://github.com/gurukamath/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
@@ -50,7 +50,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
-| [Mark Simkin](https://msimkin.github.io) | 1 | Cryptography (EF) | |
+| [Mark Simkin](https://msimkin.github.io) | 1 | | [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md) |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | Cryptography (EF) | [research](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
@@ -73,7 +73,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [David Theodore](https://github.com/infosecual/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Justin Traglia](https://github.com/jtraglia/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Justin Traglia](https://github.com/jtraglia/) | 1 | | [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [consensys/teku](https://github.com/consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | | [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22)|
@@ -160,7 +160,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | Reth | |
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
 | [DaniPopes](https://github.com/DaniPopes) | 1 | Reth | |
-| [Dragan Rakita](https://github.com/rakita/) | 1 | Reth | |
+| [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Arakita+) |
 | [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
 | [Matthias Seitz](https://github.com/mattsse/) | 1 | Reth | |
@@ -184,10 +184,12 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | | [hackMD](https://hackmd.io/@ericsson49), [ethresearch](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | | [consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-spec](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | | [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io/@n0ble), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin) |
-| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | |
+| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | [Research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 | Dependable Distributed Systems (DDS) | |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
 | [Tumas](https://github.com/tumas) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
+| [Povilas Liubauskas](https://github.com/povi) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
+
 
 *Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one additional address used for entity expenses ([current address](https://app.safe.global/balances?safe=eth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B), [former address](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99)).*
 
