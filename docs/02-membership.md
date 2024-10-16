@@ -165,7 +165,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Arakita+) |
 | [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
-| [Matthias Seitz](https://github.com/mattsse/) | 1 | Reth | |
+| [Matthias Seitz](https://github.com/mattsse/) | 0.5 | Reth | |
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | Reth | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS | |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | Codex DAS | |
