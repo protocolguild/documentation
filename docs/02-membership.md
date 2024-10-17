@@ -176,6 +176,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme), [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme)|
+| [Ben Hartnett](https://github.com/bhartnett/) | 1 | | [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett)|
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
 | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) |
