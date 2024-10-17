@@ -6,7 +6,7 @@
 
 ## 6.2 Finances
 
-Protocol Guild's legal entity currently receives 2% of split proceeds to Safe multisigs:
+Protocol Guild's legal entity currently receives 5% (as of Oct 4, 2024 - [tx link](https://etherscan.io/tx/0x8c1836d568fa4e5eca78d8a6e6880b954fd3377e7b538e305fa5d77a7f6c4071)) of split proceeds to Safe multisigs:
 
 - Mainnet
     - [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=eth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B) (current address)
