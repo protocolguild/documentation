@@ -18,8 +18,8 @@ The entity converts all tokens on a monthly basis to maintain a stablecoin reser
 
 - $200k in reserve for 2 years of fixed + variable costs incurred to operate the entity
 - $100k in reserve for potential insurance claims against the foundation 
-- Stable base compensation for independent Operations contributors
-    - $12.5k/month ($150k/year) to support cheeky-gorilla's ongoing full-time contributions
+- Compensation for independent operations contributors
+    - $12.5k/month to support cheeky-gorilla's contributions
 
 Generally, the entity should receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
 
