@@ -20,8 +20,8 @@ All media in chronological order:
 
 | Title | Event | Date |
 |:----|:----|:----|
-| [Protocol Guild: funding the Ethereum commons]((https://app.devcon.org/schedule/EJVT7E)) | Devcon 7 | Nov 15 2024 |
-| [Protocol Guild Has Distributed $20M To Support Ethereum Development]((https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development)) | The Defiant | Nov 7 2024 |
+| [Protocol Guild: funding the Ethereum commons](https://app.devcon.org/schedule/EJVT7E) | Devcon 7 | Nov 15 2024 |
+| [Protocol Guild Has Distributed $20M To Support Ethereum Development](https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development) | The Defiant | Nov 7 2024 |
 | [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) | Mirror | Oct 10 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | EDCON 2024 | Jul 29 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship) | EthCC 2024 | Jul 09 2024 |
