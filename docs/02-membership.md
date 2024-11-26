@@ -2,7 +2,7 @@
 
 ## 2.1 Active Members
 
-The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (August 27, 2024) Protocol Guild had 181 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
+The membership is a set of people working within the eligible projects who have also opted into Protocol Guild. As of the last onchain update (November 08, 2024) Protocol Guild had 187 members who cumulatively contributed over 600 years of effort to protocol stewardship. See the latest membership numbers [here](https://dune.com/protocolguild/protocol-guild#membership).
 
 | Name | Multiplier | Team | Primary Contributions |
 | :--- | :--- | :--- | :--- |
@@ -22,7 +22,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Jared Wasinger](https://github.com/jwasinger/) | 1 | Geth | |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | Geth | |
 | [Matt Garnett](https://github.com/lightclient/) | 1 | Geth | |
-| [Peter Szilagyi](https://github.com/karalabe/) | 1 | Geth | |
 | [Sina Mahmoodi](https://github.com/s1na/) | 1 | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3As1na+) |
 | [Alex Beregszaszi](https://github.com/axic/) | 0.5 | Ipsilon | |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb0+), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Agumb0+), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=author%3Agumb0+), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Agumb0+) |
@@ -107,7 +106,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
-| [Jim McDonald](https://github.com/mcdee/) | 0.5 | | [ethereum/beacon-APIs](https://github.com/ethereum/beacon-APIs/pulls?q=author%3Amcdee) |
 | [Adrian Manning](https://github.com/AgeManning/) | 0.5 | Lighthouse | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AAgeManning), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3AAgeManning), [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3AAgeManning) |
 | [Mac Ladson](https://github.com/macladson/) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
 | [Mark Mackey](https://github.com/ethDreamer/) | 1 | | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
