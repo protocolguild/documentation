@@ -59,7 +59,7 @@ The PTW allows the Guild’s membership to make arbitrary calls with vested toke
 
 **How it works:**
 - The PTW has a permissionless `passThrough` function, which allows anyone to push vested funds accumulated in the PTW to the contract's `passThrough`, which is set to the Guild’s split contract, `0xd4aD8dAbA9eE5ef16Bb931d1CbE63fb9e102eC10`. 
-- The PTWs owner (the Guild’s multisig), can pause / unpause the contract by changing the the `paused` value, allowing the owner to move specific tokens using arbitrary calls instead. 
+- The PTWs owner (the Guild’s multisig), can pause / unpause the contract by changing the `paused` value, allowing the owner to move specific tokens using arbitrary calls instead. 
 - The PTW owner can also update the `passThrough` recipient if needed e.g. if the Guild migrates to a different split contract in the future
 
 ### Split Contract
