@@ -38,6 +38,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
+| [Milos Stankovic](https://github.com/morph-dev) | 1 | Portal Network (EF) | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 | |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)         |
 | [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
