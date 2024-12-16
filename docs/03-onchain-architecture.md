@@ -117,7 +117,7 @@ The Guild has deployed 6/10 [Safe](https://safe.global/) multisig contracts to c
 
 The multisigs’ signers are not disclosed publicly, and are rotated regularly.
 
-The aim is to reduce reliance on multisigs over time, to replace them with the DAO or other more trustless alternatives as the become available.
+The aim is to reduce reliance on multisigs over time, to replace them with the DAO or other more trustless alternatives as they become available.
 
 ## 3.2 Future Updates
 
