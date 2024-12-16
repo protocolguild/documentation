@@ -275,11 +275,11 @@ Out of all the existing mechanisms we explored, 0xSplits fulfills many of our or
 - Includes vesting
   - In order to provide long-term incentives, donated assets should be subject to a vesting period. The vesting schedule for the pilot will be ~1 year, while subsequent vesting periods will likely last 4 years. This should be discussed and set by the split beneficiaries, with consideration for the expectations of donating entities. The vesting terms deployed with the contract should not be modifiable by any party.
   - 0xSplits allows the Guild to deploy the initial contract with optionality over desired launch date, vesting time, etc.
-  - The same vesting contract can be reused for many donations, either from the same org or different ones. The avoids unnecessary gas + time costs to sponsors. The vesting terms are the same for each donation.
+  - The same vesting contract can be reused for many donations, either from the same org or different ones. This avoids unnecessary gas + time costs to sponsors. The vesting terms are the same for each donation.
 - Multi-claims are straightforward
   - Members are able to claim their allocation from multiple eligibility windows and multiple assets in a single transaction.
 - Members decide when to take custody/withdraw
-  - Members should be able to decide when and how they withdraw funds from the mechanism, to suite the tax framework of the jurisdiction they reside within.
+  - Members should be able to decide when and how they withdraw funds from the mechanism, to suit the tax framework of the jurisdiction they reside within.
 - Donations have finality
   - It is not possible to remove donated assets from the Vesting Contract by anyone other than the beneficiaries.
 
@@ -289,7 +289,7 @@ While it’s possible for the contract to be “set and forget,” we plan to fu
 
 We have deployed a 6/10 Gnosis Safe [here](https://gnosis-safe.io/app/eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4/balances) to take on a few key tasks that cannot be handled autonomously. This includes updating the membership list, and possibly deploying new vesting contracts (though this can also be done by unrelated EOAs with no reduction in trust).
 
-Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven’t been released (4a in the diagram above) and distributed (4b) to  beneficiaries of the Split contract. For this reason we won’t disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Further, releases and distributions should occur on a regular cadence (quarterly) to limit the impact of the multisig being compromised.
+Members and sponsors should be aware that if a malicious entity were to compromise enough signers, they could steal any assets that haven’t been released (4a in the diagram above) and distributed (4b) to beneficiaries of the Split contract. For this reason we won’t disclose the name of signers and will regularly rotate them, expanding the set of signers when possible. Further, releases and distributions should occur on a regular cadence (quarterly) to limit the impact of the multisig being compromised.
 
 ### Anticipated Concerns
 
@@ -372,7 +372,7 @@ While we can't conceive of every scenario, we've tried to think critically about
 
 *Will long-term vesting lead to stagnation in core development roles?*
 - In the sense of gatekeeping/groupthink/capture, we sincerely hope not. There's certainly a possibility that previously effective people may get stuck in a position if the incentive is significant enough. However, this is no different from any other job with performance requirements, crypto or otherwise. If someone is not performing adequately, they will be removed from their job and then from the list. If anything, the infusion of new perspectives as the set grows will be a healthy process.
-- With the conclusion of each vesting period, everyone starts at 0 again, having to convince other members (and more broadly, the public), that they are legitimate heirs to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Anyone can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively  evolves their systems to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
+- With the conclusion of each vesting period, everyone starts at 0 again, having to convince other members (and more broadly, the public), that they are legitimate heirs to the Protocol Guild name and legacy. Competition for scarce political purchase means there will be alliances, intrigue, rebalances. Anyone can copy this blueprint and create their own competing versions. We anticipate that even the initial cohort now will unavoidably have its own political undercurrents! A blooming society actively evolves their systems to avoid settling into patterns too soon. So we should continue - see the approaching Leviathan peeking over the horizon, pull ourselves towards well considered implementations, norms, visions. Subtle frameworks like this interface between the social and the economic resources a group traffics in. They are dense confluences of swirling power - what we're doing is preempting inevitability.
 
 ### Pilot Retrospective
 
@@ -473,11 +473,11 @@ These three questions indicated that there's work to be done improving the nomin
 
 *Architecture*
 
-One of the central features of the pilot was that donated funds vested linearily over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19).
+One of the central features of the pilot was that donated funds vested linearly over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19).
 
 ![15](https://github.com/cheeky-gorilla/documentation/assets/76262359/7480d314-5274-4754-b6a5-e6bb3605ea5b)
 
-There was however some disagreement about how long funds should vest after the pilot. Question 25 showed that 72% of members thought the vesting should be longer than 1 year, but there was disagreement about how long exactly. On average the results indicated that funds should vest for 2.5 years, whereas previously there were discussions to vest funds over 4 years. This brought up interesting discussions internally, about how longer vesting timelines helps create income security for contributors, while also acknowledging that e.g. 4 years could represent an entire market cycle, and could lead to imbalanced funding. Ultimately a 4-year vesting period was chosen for after the pilot, as described in section “Protocol Guild V2”.
+There was however some disagreement about how long funds should vest after the pilot. Question 25 showed that 72% of members thought the vesting should be longer than 1 year, but there was disagreement about how long exactly. On average the results indicated that funds should vest for 2.5 years, whereas previously there were discussions to vest funds over 4 years. This brought up interesting discussions internally, about how longer vesting timelines help create income security for contributors, while also acknowledging that e.g. 4 years could represent an entire market cycle, and could lead to imbalanced funding. Ultimately a 4-year vesting period was chosen for after the pilot, as described in section “Protocol Guild V2”.
 
 ![16](https://github.com/cheeky-gorilla/documentation/assets/76262359/c6032882-3174-4cb3-9cf6-5f3af91109e0)
 
