@@ -163,7 +163,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
-| [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
 | [Federico Gimenez](https://github.com/fgimenez) | 1 | | [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)|
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | Reth | |
