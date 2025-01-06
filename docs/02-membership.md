@@ -49,6 +49,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
+| [Benedikt Wagner](https://github.com/b-wagn) | 1 | Cryptography (EF) | https://github.com/b-wagn/pg-contrib/blob/main/README.md |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
 | [Mark Simkin](https://msimkin.github.io) | 1 | | [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md) |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
