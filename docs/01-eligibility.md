@@ -7,7 +7,7 @@ Protocol Guild eligible projects must:
 - Have a regular presence in Ethereum R&D or governance venues, such as;
   - Specification repos (e.g. [consensus-specs](https://github.com/ethereum/consensus-specs), [execution-specs](https://github.com/ethereum/execution-specs), [execution-apis](https://github.com/ethereum/execution-apis))
   - Research forums (e.g. [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/))
-  - Feature prototyping (e.g. EIPs, devnets, etc.)
+  - Feature prototyping (e.g. [EIPs](https://github.com/ethereum/eips), devnets, etc.)
   - Regular [Ethereum protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop calls, etc.)
 - Target at least one of the following projects/areas:
   - Work on the canonical protocol specs (should be implementation agnostic, unopinionated)
