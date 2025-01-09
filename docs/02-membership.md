@@ -40,7 +40,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | Portal Network (EF) | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 | |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)         |
-| [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
+| [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
 | [Guru](https://github.com/gurukamath/) | 1 | | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | Protocol Support (EF) | |
