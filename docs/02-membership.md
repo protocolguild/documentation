@@ -18,15 +18,15 @@ The membership is a set of people working within the eligible projects who have 
 | [Andrew Davis](https://github.com/savid/) | 1 | | [ethPandaOps](https://github.com/ethpandaops) |
 | [pk910](https://github.com/pk910/) | 1 | | [ethPandaOps](https://github.com/ethpandaops) |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
-| [Guillaume Ballet](https://github.com/gballet/) | 1 | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet) |
+| [Guillaume Ballet](https://github.com/gballet/) | 1 |  | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet) |
 | [Jared Wasinger](https://github.com/jwasinger/) | 1 | Geth | |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | Geth | |
 | [Matt Garnett](https://github.com/lightclient/) | 1 | Geth | |
 | [Peter Szilagyi](https://github.com/karalabe/) | 1 | Geth | |
 | [Sina Mahmoodi](https://github.com/s1na/) | 1 | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3As1na+) |
-| [Alex Beregszaszi](https://github.com/axic/) | 1 | Ipsilon | |
+| [Alex Beregszaszi](https://github.com/axic/) | 0.5 | Ipsilon | [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Aaxic), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Aaxic), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Aaxic), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aaxic) |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb0+), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Agumb0+), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=author%3Agumb0+), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Agumb0+) |
-| [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | |
+| [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | Ipsilon | [ethereum/tests](https://github.com/ethereum/tests/pulls?q=author%3Ahugo-dc+), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Ahugo-dc+), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ahugo-dc+)|
 | [Paweł Bylica](https://github.com/chfast/) | 1 | | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | Ipsilon | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet) |
 | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | Ipsilon | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Apdobacz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apdobacz), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Apdobacz), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Apdobacz) |
@@ -38,6 +38,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
+| [Milos Stankovic](https://github.com/morph-dev) | 1 | Portal Network (EF) | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 | |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)         |
 | [Piper Merriam](https://github.com/pipermerriam/) | 1 | Portal Network (EF) | |
 | [Nick Gheorghita](https://github.com/njgheorghita) | 1 | Portal Network (EF) | |
@@ -48,6 +49,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
+| [Benedikt Wagner](https://github.com/b-wagn) | 1 | Cryptography (EF) | https://github.com/b-wagn/pg-contrib/blob/main/README.md |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
 | [Mark Simkin](https://msimkin.github.io) | 1 | | [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md) |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
@@ -69,12 +71,11 @@ The membership is a set of people working within the eligible projects who have 
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | | [ethresearch](https://ethresear.ch/u/soispoke/summary/) |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | Robust Incentives Group (RIG) | |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [David Theodore](https://github.com/infosecual/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | | [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [consensys/teku](https://github.com/consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Ignacio Hagopian](https://github.com/jsign/) | 1 | | [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22)|
+| [Ignacio Hagopian](https://github.com/jsign/) | 1 | | [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22), [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22)|
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | Stateless Consensus | |
 | [danceratopz](https://github.com/danceratopz) | 1 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
@@ -89,6 +90,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
+| [Ilya Mikheev](https://github.com/JkLondon/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3AJkLondon) | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
 | [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) 
@@ -132,21 +134,22 @@ The membership is a set of people working within the eligible projects who have 
 | [Tuyen Nguyen](https://github.com/twoeths/) | 1 | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93 ) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93+) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 |  Nethermind | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
-| [Alexey Osipov](https://github.com/flcl42) | 1 |  | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aflcl42+) |
-| [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | |
+| [Alexey Osipov](https://github.com/flcl42) | 1 |  | [NethermindEth contributions](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
+| [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | Nethermind | [NethermindEth contributions](https://github.com/Demuirgos?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=is%3Apr+author%3ADemuirgos+) |
 | [Ben Adams](https://github.com/benaadams) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams)|
 | [Damian Orzechowski](https://github.com/damian-orzechowski) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Adamian-orzechowski+) |
 | [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+)|
 | [Daniel Celeda](https://github.com/dceleda/) | 1 | Nethermind | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/), Snap Sync, State Design, Team and Product Management |
+| [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | | [NethermindEth contributions](https://github.com/cbermudez97?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+)|
 | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 | Nethermind | |
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Akamilchodola) |
-| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
-| [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
-| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25)|
+| [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | | [NethermindEth contributions](https://github.com/LukaszRozmej?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
+| [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | | [NethermindEth contributions](https://github.com/marcindsobczak?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
+| [Marek Moraczyński](https://github.com/MarekM25/) | 1 | | [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 | Nethermind | |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 | |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
-| [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
+| [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | | [NethermindEth contributions](https://github.com/tanishqjasoria?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
 | [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 | Nethermind | |
 | [James He](https://github.com/james-prysm/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm) |
 | [Kasey Kirkham](https://github.com/kasey/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey) |
@@ -162,8 +165,8 @@ The membership is a set of people working within the eligible projects who have 
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | Reth | |
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [revmc](https://github.com/paradigmxyz/revmc) |
-| [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Arakita+) |
-| [Emilia Hane](https://github.com/emhane) | 1 | Reth | |
+| [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
+| [Federico Gimenez](https://github.com/fgimenez) | 1 | | [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)|
 | [joshie](https://github.com/joshieDo) | 1 | Reth | |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | Reth | |
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | Reth | |
@@ -176,6 +179,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | Nimbus | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme), [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme)|
+| [Ben Hartnett](https://github.com/bhartnett/) | 1 | | [status-im/nimbus-eth1 Portal](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett)|
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
 | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) |
@@ -263,7 +267,7 @@ The table and graphs below illustrate how the 5 year weight change of a hypothet
 
 Protocol Guild members govern the evolution of the mechanism, which may include:
 
-- modifying high-level project elibility
+- modifying high-level project eligibility
 - discussing which smart contracts to use, and how to operate them
 - setting parameters like how long vests should be
 - how and where to fundraise
@@ -411,7 +415,7 @@ We asked members why they think the Guild is important for Ethereum. Last update
 **Guild Member (Anonymous)** - "Protocol Guild is one of the most important efforts within Ethereum right now because it creates an independent parallel structure for supporting core development. This is very unique across the whole crypto ecosystem where we see many projects struggling from lack of decentralized support of contributors. " <br><br>
 **Guild Member (Anonymous)** - "Prysm implements the ethereum beacon chain proof of stake protocol. The beacon chain is important because eliminating proof of work is a moral imperative. Multiple implementations of the beacon chain do and should exist for the resilience of the network. prysm is written in go, which is a language designed to minimize the complexity of strongly typed, highly concurrent source code. This means that prysm can be performant, have good support for safety and correctness, while also being built from source code that is easier to read and audit than other system languages. More eyes on the implementation should lead to greater understanding of how the system works and more confidence in the network." <br><br>
 **Guild Member (Anonymous)** - "The backbone of Ethereum is its diversity and the resilience it fosters. In order to safeguard its evolution, it's crucial to maintain a broad array of contributors who work in sync towards common goals. The Protocol Guild underlines this approach, by establishing a sustainable incentive model that supports those committed to the continued development and protection of Ethereum's open-source protocol. This initiative plays an instrumental role in ensuring a healthy, robust, and fair landscape for Ethereum's future." <br><br>
-**Guild Member (Anonymous)** - "The domain is inherently complicated, so there need to be incentive to attract capable developer. Relatively speaking, it also requires pretty beefy equiptment (large capacity ssd) whose cost can add up." <br><br>
+**Guild Member (Anonymous)** - "The domain is inherently complicated, so there need to be incentive to attract capable developer. Relatively speaking, it also requires pretty beefy equipment (large capacity ssd) whose cost can add up." <br><br>
 **Guild Member (Anonymous)** - "The Ethereum Foundation, however successful beyond what might have been reasonably expected of it, still comprises a single point of failure. The protocol guild can help ensure the values the foundation has helped shepherd can sustainably adapt in a decentralized fashion consistent with Ethereum's core principles." <br><br>
 **Guild Member (Anonymous)** - "The Ethereum Protocol needs careful and long-term thinking. Despite core-devs are very value driven, their short lifetime (compared to the pretended Ethereum lifetime) introduces some economic opportunity costs which can put Ethereum development at risk. Funding is just a problem that gets in the way between the protocol development and core-devs. I wish PG can fix this problem!" <br><br>
 **Guild Member (Anonymous)** - "The Guild is a great way to assure the high quality of contributions while diversifying the set of contributors, leading to solid and always-improving protocols for the whole ecosystem." <br><br>

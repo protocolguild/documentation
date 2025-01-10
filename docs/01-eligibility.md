@@ -19,7 +19,7 @@ Protocol Guild eligible projects must:
     - Client testing/security/infra which supports these implementations: [ethereum/tests](https://github.com/ethereum/tests) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests)
     - Coordination related to upgrades and maintenance: [ethereum/pm](https://github.com/ethereum/pm)
   - Research and implementation experiments related to potential protocol changes
-    - [Verkle tries](https://github.com/gballet/go-verkle) (Verge)
+    - [Verkle trees](https://github.com/gballet/go-verkle) (Verge)
     - [Portal Network](https://github.com/ethereum/portal-network-specs) (Purge)
     - EVM improvements: [Ipsilon](https://github.com/ipsilon)
     - Consensus work
@@ -34,7 +34,7 @@ Protocol Guild eligible projects must:
 
 ## 1.1 Context
 
-The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accomodating to what is the core protocol, but not any broader. This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
+The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accommodating to what is the core protocol, but not any broader. This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
 
 Contributing to the efforts referenced above does not guarantee Protocol Guild membership. While this list tries to be explicit when possible linking to specific repositories, there are some research areas which can't be linked to a single source and may still be considered eligible.
 
