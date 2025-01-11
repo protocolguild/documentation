@@ -7,7 +7,6 @@ The membership is a set of people working within the eligible projects who have 
 | Name | Multiplier | Team | Primary Contributions |
 | :--- | :--- | :--- | :--- |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | Applied Research Group (ARG) | |
-| [Echo](https://github.com/echoalice/) | 1 | Applied Research Group (ARG) | |
 | [Jacob Kaufmann](https://github.com/jacobkaufmann/) | 1 | Applied Research Group (ARG) | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | Applied Research Group (ARG) | |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 ||[research](https://github.com/nerolation/pglanding-nerolation)|
