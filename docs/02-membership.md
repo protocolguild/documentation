@@ -194,6 +194,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
 | [Tumas](https://github.com/tumas) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
 | [Povilas Liubauskas](https://github.com/povi) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
+| [Weekday](https://github.com/weekday-grandine-io) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
 
 
 *Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one additional address used for entity expenses ([current address](https://app.safe.global/balances?safe=eth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B), [former address](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99)).*
