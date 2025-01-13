@@ -148,7 +148,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 | |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
 | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | | [NethermindEth contributions](https://github.com/tanishqjasoria?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
-| [Tomasz Stanczak](https://github.com/tkstanczak/) | 0.5 | Nethermind | |
 | [James He](https://github.com/james-prysm/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm) |
 | [Kasey Kirkham](https://github.com/kasey/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey) |
 | [Nishant Das](https://github.com/nisdas/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas) |
