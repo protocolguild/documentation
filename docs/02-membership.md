@@ -143,6 +143,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jorge Mederos](https://github.com/jmederosalvarado/) | 0.5 | Nethermind | |
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Akamilchodola) |
 | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | | [NethermindEth contributions](https://github.com/LukaszRozmej?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
+| [Marc Harvey-Hill](https://github.com/Marchhill) | 0.5 | | [NethermindEth contributions](https://github.com/Marchhill?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarchhill) |
 | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | | [NethermindEth contributions](https://github.com/marcindsobczak?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
 | [Marek Moraczyński](https://github.com/MarekM25/) | 1 | | [NethermindEth contributions](https://github.com/MarekM25?org=NethermindEth)<br>[NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Mateusz Jędrzejewski](https://github.com/matilote/) | 0.5 | Nethermind | |
