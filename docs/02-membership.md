@@ -92,14 +92,14 @@ The membership is a set of people working within the eligible projects who have 
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3AJkLondon) | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
 | [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
-| [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) 
+| [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Shoham Chakraborty](https://github.com/shohamc1/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ashohamc1) |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat) |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | | [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol)|
 | [Ameziane](https://github.com/ahamlat/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
-| [Danno Ferrin](https://github.com/shemnon/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
+| [Danno Ferrin](https://github.com/shemnon/) | 1 | | [ethereum/eips](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon) [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon) [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
 | [Fabio di Fabio](https://github.com/fab-10/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afab-10) |
 | [Gary Schulte](https://github.com/garyschulte/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Agaryschulte) |
 | [Gabriel Trintinalia](https://github.com/Gabriel-Trintinalia/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AGabriel-Trintinalia) |
@@ -188,9 +188,9 @@ The membership is a set of people working within the eligible projects who have 
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | | [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io/@n0ble), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | [Research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Chenyi Zhang](https://github.com/czhang-fm/) | 0.5 | Dependable Distributed Systems (DDS) | |
-| [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
-| [Tumas](https://github.com/tumas) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
-| [Povilas Liubauskas](https://github.com/povi) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine)
+| [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine) |
+| [Tumas](https://github.com/tumas) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine) |
+| [Povilas Liubauskas](https://github.com/povi) | 1 | Grandine | [Grandine](https://github.com/grandinetech/grandine) |
 
 
 *Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one additional address used for entity expenses ([current address](https://app.safe.global/balances?safe=eth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B), [former address](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99)).*
