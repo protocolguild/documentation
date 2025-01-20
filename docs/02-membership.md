@@ -35,7 +35,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | EthereumJS | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | [Jason Carver](https://github.com/carver/) | 1 | Portal Network (EF) | |
-| [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | Portal Network (EF) | |
+| [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | | [ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs), [ethereum/hive](https://github.com/ethereum/hive) |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | Portal Network (EF) | |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | Portal Network (EF) | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 | |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs)         |
