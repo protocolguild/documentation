@@ -155,7 +155,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Raul Jordan](https://github.com/rauljordan/) | 0.5 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arauljordan) |
 | [Sammy Rosso](https://github.com/saolyn/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Asaolyn) |
 | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3ATaranpreet26311) devops |
-| [Terence Tsao](https://github.com/terencechain/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencechain) , [ethresear.ch](https://ethresear.ch/u/terence/activity) , [hackmd.io](https://hackmd.io/@ttsao) |
+| [Terence Tsao](https://github.com/terencechain/) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencechain) , [ethresear.ch](https://ethresear.ch/u/terence/activity) , [hackmd.io](https://hackmd.io/@ttsao) , [consensus-spec](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20)|
 | [Manu Nalepa](https://github.com/nalepae) | 1 |  | [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | Reth | |
 | [Dan Cline](https://github.com/rjected/) | 1 | Reth | |
