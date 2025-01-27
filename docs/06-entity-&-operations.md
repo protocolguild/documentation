@@ -2,7 +2,7 @@
 
 ## 6.1 Legal Structure
 
-*Coming soon*
+Protocol Guild incorporated a Cayman Islands-based non-profit foundation in 2024, to help scale fundraising efforts.
 
 ## 6.2 Finances
 
@@ -15,15 +15,14 @@ Protocol Guild's legal entity currently receives 5% (as of Oct 4, 2024 - [tx lin
     - [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=oeth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B)
 
 The entity converts all tokens on a monthly basis to maintain a stablecoin reserve. This covers:
-
 - $200k in reserve for 2 years of fixed + variable costs incurred to operate the entity
-- $100k in reserve for potential insurance claims against the foundation 
+- $100k in reserve for potential claims against the foundation 
 - Compensation for independent operations contributors
     - $12.5k/month to support cheeky-gorilla's contributions
     - $6k/month to support Peter Vechiarrelli's contributions
 
 Generally, the entity should receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
 
-## 6.3 Quarterly Reports
+## 6.3 Yearly Reports
 
 *Coming soon*
