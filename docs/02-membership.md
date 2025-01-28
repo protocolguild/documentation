@@ -63,11 +63,11 @@ The membership is a set of people working within the eligible projects who have 
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | Consensus R&D (EF) | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | Consensus R&D (EF) | |
 | [Anders](https://github.com/anderselowsson/) | 1 | Robust Incentives Group (RIG) | |
-| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | ResearchOps (EF Research) | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | Robust Incentives Group (RIG) | |
 | [Davide Crapis](https://github.com/dcrapis/) | 0.5 | Robust Incentives Group (RIG) | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | | [ethresearch](https://ethresear.ch/u/soispoke/summary/) |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | Robust Incentives Group (RIG) | |
+| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | ResearchOps (EF Research) | |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | | [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [consensys/teku](https://github.com/consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
