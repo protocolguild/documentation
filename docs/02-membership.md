@@ -63,7 +63,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | Consensus R&D (EF) | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | Consensus R&D (EF) | |
 | [Anders](https://github.com/anderselowsson/) | 1 | Robust Incentives Group (RIG) | |
-| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | Robust Incentives Group (RIG) | |
+| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | ResearchOps (EF Research) | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | Robust Incentives Group (RIG) | |
 | [Davide Crapis](https://github.com/dcrapis/) | 0.5 | Robust Incentives Group (RIG) | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | | [ethresearch](https://ethresear.ch/u/soispoke/summary/) |
