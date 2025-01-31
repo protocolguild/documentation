@@ -2,7 +2,7 @@
 
 ## 6.1 Legal Structure
 
-Protocol Guild incorporated a Cayman Islands-based non-profit foundation in 2024, to help scale fundraising efforts.
+Protocol Guild incorporated a Cayman Islands-based legal entity in 2024, to help scale fundraising efforts.
 
 ## 6.2 Finances
 
