@@ -26,5 +26,5 @@ Generally, the entity should receive sufficient funding to cover the above, but 
 ## 6.3 Yearly Reports
 
 - 2024
-    - [Summary](https://cryptpad.fr/file/#/2/file/ffN262dpBNwBeaahgdF6t6cp/)
+    - [1-Page Summary (PDF)](https://cryptpad.fr/file/#/2/file/ffN262dpBNwBeaahgdF6t6cp/)
     - [Full Report](https://cryptpad.fr/file/#/2/file/5PVpa9AIDynT580pIexMKnMz/)
