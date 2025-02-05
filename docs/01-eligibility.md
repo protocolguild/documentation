@@ -3,11 +3,11 @@
 Protocol Guild eligible projects must:
 
 - Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness 
-- Be fully open source | Open Source Initiative (OSI) [Approved Licenses](https://opensource.org/licenses)
+- Be fully open source under an Open Source Initiative (OSI) [approved License](https://opensource.org/licenses)
 - Have a regular presence in Ethereum R&D or governance venues like [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/), [protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop, etc.)
 - Be engaged in feature prototyping (e.g. [EIPs](https://github.com/ethereum/eips), devnets, etc.)
 
-Eligible Projects must target at least one of the following projects/areas related to Ethereum core protocol upgrades, maintenance and development:
+Eligible projects must also target at least one of the following projects/areas related to Ethereum core protocol upgrades, maintenance and development:
 
 | Description | Repos/Projects |
 |:--|:---|
