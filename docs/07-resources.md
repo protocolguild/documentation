@@ -16,6 +16,8 @@ Want to get up to speed quickly? Check out these pieces of media:
 3. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU) (podcast)
 4. [Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship) (presentation)
 
+Or, see all media from over the years below:
+
 | Longform Writing + Articles | Venue | Date |
 |:----|:----|----:|
 | [Protocol Guild Has Distributed $20M To Support Ethereum Development](https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development) | The Defiant | Nov 7 2024 |
