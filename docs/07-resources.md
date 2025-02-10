@@ -11,57 +11,72 @@
 
 Want to get up to speed quickly? Check out these pieces of media:
 
-1. [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ)
-2. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o)
-3. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU)
-4. [Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship)
+1. [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) (text)
+2. [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) (presentation)
+3. [Safeguarding Ethereum's Soul](https://www.youtube.com/watch?v=eYZ7zHPvoHU) (podcast)
+4. [Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship) (presentation)
 
-All media in chronological order:
+Or, see all media from over the years below:
 
-| Title | Event | Date |
-|:----|:----|:----|
-| [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
+| Longform Writing + Articles | Venue | Date |
+|:----|:----|----:|
 | [Protocol Guild Has Distributed $20M To Support Ethereum Development](https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development) | The Defiant | Nov 7 2024 |
+[Aggregation & atomization: dependency funding round dynamics](https://trent.mirror.xyz/ia1sSXWw6Q_0gseWhPDpt0WbsOadCfQ-23yAxNn4sXA) | Mirror | Oct 31 2024 |
 | [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) | Mirror | Oct 10 2024 |
+| [Ethereum Guilds: opportunities + challenges](https://trent.mirror.xyz/MsXtV_TGZHp05FN_qmzeT8bBc1lRghR3Y0TPvAd-WrA) | Mirror | June 6 2024 |
+| [So - you want to start a Guild?](https://trent.mirror.xyz/DLYnuoCN-Hwuu0s4G_XZVdI-c2OD2KP3UAg_UFB9MpY) | Mirror | April 27 2023 |
+| [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) | Mirror | Dec 31 2021 |
+
+| Presentations (Audio + Video) | Event | Date |
+|:----|:----|----:|
+| [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | EDCON 2024 | Jul 29 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://ethcc.io/archives/protocol-guild-funding-core-protocol-stewardship) | EthCC 2024 | Jul 09 2024 |
-| [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |
-| [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/) | CoinFund X Space | Jun 17 2024 |
-| [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
-| [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
 | [Capital and Enclosure in Software Commons: Linux & Ethereum](https://www.youtube.com/watch?v=Z9O5_lve10o) | Summer of Protocols | 27 Mar 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://twitter.com/EthereumDenver/status/1763690444121121200) | EthDenver 2024 | Mar 01 2024 |
+| [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM) | Protocol Berg | Sep 15 2023 |
+| [Funding Ethereum's Core Protocol Work](https://www.youtube.com/watch?v=RM3lZtqrGjc) | FtC Berlin 2023 | Sep 09 2023 |
+| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
+| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
+| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
+| [Funding + Incentivizing Core Protocol Work](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
+| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/session/301) | Zuzalu | Apr 12 2023 |
+| [Protocol Guild: 1 year old](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view) | Schelling Point | Mar 02 2023 |
+| [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
+| [Funding Ethereum with the Protocol Guild](https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg) | Funding the Commons | Jun 24 2022 |
+| [Funding Ethereum Public Goods with the Protocol Guild](https://www.youtube.com/watch?v=Bhx7advbPLE) | ETHDay (Devconnect) | Apr 18 2022 |
+| [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) | Schelling Point | Feb 17 2022 |
+
+| Podcasts & Discussions (Audio) | Host | Date |
+|:----|:----|----:|
+| [Enclosure of Software Commons and CoFi](https://x.com/i/spaces/1yoKMwZkXAOJQ) | CCA X Space | Jun 12 2024 |
+| [Future of Public Goods Funding #9 - Protocol Guild](https://x.com/i/spaces/1yNGaZNlQDnJj) | Eugene Leventhal X Space | Jun 11 2024 |
+| [Safeguarding Ethereum's Soul with Trent Van Epps](https://www.youtube.com/watch?v=eYZ7zHPvoHU) | Blockchain Socialist | Dec 10 2023 |
+| [Credibly Neutral Public Goods Funding w/ Trent](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
+| [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | Blockchain Guy X Space | Aug 31 2023 |
+| [Protocol Guild: 1 Year In with Tim and Cheeky](https://youtu.be/4_Z0TAoDae4) | Green Pill Podcast | May 12 2023 |
+| [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
+| [Funding Ethereum Core Development](https://anchor.fm/i-pledge-allegiance/episodes/Trent-Van-Epps-and-Tim-Beiko---Funding-Ethereum-Core-Development-and-the-Protocol-Guild-e1k26qh) | I Pledge Allegiance Podcast | Jun 20 2022 |
+| [The Protocol Guild - The Daily Gwei #481](https://thedailygwei.substack.com/p/the-protocol-guild-the-daily-gwei?s=w) | The Daily Gwei #481 | May 13 2022 |
+| [The Protocol Guild with Trent Van Epps](https://www.youtube.com/watch?v=VjE9a9COahc) | Green Pill Podcast #10 | Apr 25 2022 |
+| [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call | Dec 12 2022 |
+| [Lunch with Protocol Guild](https://www.youtube.com/watch?v=d2HP3GTbkUs) | DAOhouse DAOcember  | Dec 05 2022 |
+
+| Funding Announcements (Audio) | Event | Date |
+|:----|:----|----:|
+| [Proof of Donation w/ @ProtocolGuild](https://x.com/i/spaces/1OdJrjjXbjvJX) | LayerZero X Space | Jun 20 2024 |
+| [CESR + CoinFund + Protocol Guild](https://x.com/i/spaces/1ypKdkdZqoQxW/) | CoinFund X Space | Jun 17 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QhaBynDSEHs) | Avail Hot Take | Feb 26 2024 |
 | [Protocol Guild Pledge Unlocking the future of Ethereum](https://twitter.com/i/spaces/1OyKAWbzAmMJb) | PWN DAO X Space | Feb 20 2024 |
 | [Taking the Protocol Guild Pledge](https://twitter.com/i/spaces/1MnxnMyYwykJO) | Taiko X Space | Feb 15 2024 |
 | [Chatting with Epoch Two Public Goods](https://twitter.com/i/spaces/1OwxWYbnkjAGQ) | Octant X Space | Jan 29 2024 |
-| [Safeguarding Ethereum's Soul with Trent Van Epps](https://www.youtube.com/watch?v=eYZ7zHPvoHU) | Blockchain Socialist | Dec 10 2023 |
 | [Octant’s Epoch 1 Public Goods Funding Initiative](https://twitter.com/i/spaces/1YpKkwOZpNdKj?s=20) | Gitcoin X Space | Oct 11 2023 |
-| [Credibly Neutral Public Goods Funding w/ Trent](https://youtu.be/xISUVbyJp6k) | Strange Water Podcast | Oct 05 2023 |
 | [Why We’re Donating 10% of Profits to PG](https://twitter.com/i/spaces/1lPJqbrjYjbxb) | VanEck X Space | Oct 04 2023 |
-| [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM) | Protocol Berg | Sep 15 2023 |
-| [Funding Ethereum's Core Protocol Work](https://www.youtube.com/watch?v=RM3lZtqrGjc) | FtC Berlin 2023 | Sep 09 2023 |
-| [The RetroPGF Podcast #8: Protocol Guild](https://twitter.com/i/spaces/1LyxBqWnjopJN?s=20) | Blockchain Guy X Space | Aug 31 2023 |
-| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
 | [Octant's EpochZero: Meet the Projects](https://twitter.com/i/spaces/1RDGlagLkZmJL) | Giveth X Space | Jul 10 2023 |
-| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
-| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
-| [Funding + Incentivizing Core Protocol Work](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
-| [Protocol Guild: 1 Year In with Tim and Cheeky](https://youtu.be/4_Z0TAoDae4) | Green Pill Podcast | May 12 2023 |
-| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/session/301) | Zuzalu | Apr 12 2023 |
 | [Public Goodies: Protocol Guild w/ Trent](https://twitter.com/i/spaces/1lDxLnapyBwGm) | ENS X Space | Apr 12 2023 |
-| [Protocol Guild: 1 year old by Trent](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view) | Shelling Point | Mar 02 2023 |
-| [Tech Video: 0xSplit setup for Protocol Guild](https://www.youtube.com/watch?v=-KbH359Ek58) | EthStaker Live Stream | Feb 06 2023 |
-| [Community Call #24: Protocol Guild](https://youtu.be/WEZfDnHxRAk) | EthStaker Community Call | Dec 12 2022 |
-| [Lunch with Protocol Guild](https://www.youtube.com/watch?v=d2HP3GTbkUs) | DAOhouse DAOcember  | Dec 05 2022 |
-| [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
-| [Funding Ethereum with the Protocol Guild](https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg) | Funding the Commons | Jun 24 2022 |
-| [Funding Ethereum Core Development](https://anchor.fm/i-pledge-allegiance/episodes/Trent-Van-Epps-and-Tim-Beiko---Funding-Ethereum-Core-Development-and-the-Protocol-Guild-e1k26qh) | I Pledge Allegiance Podcast | Jun 20 2022 |
-| [The Protocol Guild - The Daily Gwei #481](https://thedailygwei.substack.com/p/the-protocol-guild-the-daily-gwei?s=w) | The Daily Gwei #481 | May 13 2022 |
-| [The Protocol Guild with Trent Van Epps](https://www.youtube.com/watch?v=VjE9a9COahc) | Green Pill Podcast #10 | Apr 25 2022 |
-| [Funding Ethereum Public Goods with the Protocol Guild](https://www.youtube.com/watch?v=Bhx7advbPLE) | ETHDay (Devconnect) | Apr 18 2022 |
-| [Overview of the Protocol Guild](https://www.youtube.com/watch?v=5EPRYXYQaIg) | Shelling Point | Feb 17 2022 |
-| [Announcement post](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY) | Mirror | Dec 31 2021 |
+
+
+
 
 ## 7.3 Acknowledgments
 
