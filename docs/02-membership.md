@@ -84,7 +84,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Daniel Lazarenko](https://github.com/battlmonstr/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abattlmonstr) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | Erigon | |
 | [lupin012](https://github.com/lupin012/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012) |
-| [Jacek Glen](https://github.com/jacekglen/) | 0.5 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ajacekglen), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ajacekglen) |
+| [Jacek Glen](https://github.com/jacekglen/) | 1 | | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ajacekglen), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ajacekglen), [gas-cost-estimator](https://github.com/imapp-pl/gas-cost-estimator) |
 | [Kairat Abylkasymov](https://github.com/racytech/) | 1 | Erigon | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
