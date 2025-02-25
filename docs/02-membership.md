@@ -56,7 +56,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Dankrad Feist](https://github.com/dankrad/) | 1 | Consensus R&D (EF) | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | Consensus R&D (EF) | |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | Consensus R&D (EF) | |
-| [Hsiao-Wei Wang](https://github.com/hwwhww/) | 1 | Consensus R&D (EF) | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | Consensus R&D (EF) | |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | Consensus R&D (EF) | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 || [Research](https://github.com/luca-zanolini/research) |
