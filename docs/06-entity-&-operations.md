@@ -124,7 +124,7 @@ _My quantitative definition of Protocol Guild's goal is to "make contributing to
 
 _Core devs don't generally get token upside for their work. By moving a tiny bit out on the risk curve, they can dramatically shift their rewards. The PGP aims to close that gap, and bring the risk/reward levels of L1 work in line with the ecosystem."_
 
-The Protocol Guid Pledge - and in fact, Protocol Guild itself - was inspired by a [Tweet](https://x.com/dannyryan/status/1454065104819916803) from Danny Ryan in late 2021 (see below). However, it didn't make sense to start soliciting projects for 1% of their token supply until we had completed our pilot and hardened the mechanism. With Tim's announcement, we were ready to start doing so!
+The Protocol Guild Pledge - and in fact, Protocol Guild itself - was inspired by a [Tweet](https://x.com/dannyryan/status/1454065104819916803) from Danny Ryan in late 2021 (see below). However, it didn't make sense to start soliciting projects for 1% of their token supply until we had completed our pilot and hardened the mechanism. With Tim's announcement, we were ready to start doing so!
 
 ![Tweet](https://github.com/user-attachments/assets/a6431a76-f629-4a24-90c0-00c061ec1df0)
 
