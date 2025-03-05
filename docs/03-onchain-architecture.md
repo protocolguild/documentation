@@ -16,6 +16,7 @@ This section describes the Guild's current smart contract architecture. You can 
 | Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Used when Optimism donations need to be claimed |
 | Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Polygon |
 | re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | - | Default donation address on re.al |
+| Scroll Multisig | [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B) | - | Default donation address on Scroll |
 | ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | - | Default donation address on ZKsync |
 | Zora Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | - | Default donation address on Zora |
 
@@ -110,6 +111,7 @@ The DAO does not keep track of member weights, nor does it hold any funds. Curre
 | Optimism Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Used when Optimism donations need to be claimed (e.g. [OP RPGF](https://retrofunding.optimism.io/)) |
 | Polygon Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Polygon |
 | re.al Multisig | [0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120](https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120) | Default donation address on re.al |
+| Scroll Multisig | [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B) | Default donation address on Scroll |
 | ZKsync Multisig | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) | Default donation address on ZKsync |
 | Zora Multisig | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) | Default donation address on Zora |
 
