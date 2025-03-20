@@ -19,7 +19,7 @@ The entity converts all tokens on a monthly basis to maintain a stablecoin reser
 - $100k in reserve for potential claims against the foundation 
 - Compensation for independent operations contributors
     - $12.5k/month to support cheeky-gorilla's contributions
-    - $6k/month to support Peter Vechiarrelli's contributions
+    - $10.5k/month to support Peter Vechiarrelli's contributions
 
 Generally, the entity should receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
 
