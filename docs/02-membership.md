@@ -186,7 +186,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | | [ethresearch](https://ethresear.ch/u/mkalinin), [hackmd](https://hackmd.io/@n0ble), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | Dependable Distributed Systems (DDS) | [Research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Artiom Tretjakovas](https://github.com/ArtiomTr/) | 0.5 |  | [Grandine](https://github.com/grandinetech/grandine), [rust-kzg](https://github.com/grandinetech/rust-kzg/) |
-| [Hangleang](https://github.com/hangleang/) | 0.5 |  | [Grandine](https://github.com/grandinetech/grandine) |
+| [Hangleang](https://github.com/hangleang/) | 1 |  | [Grandine](https://github.com/grandinetech/grandine) |
 | [Povilas Liubauskas](https://github.com/povi) | 1 |  | [Grandine](https://github.com/grandinetech/grandine) |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 |  | [Grandine](https://github.com/grandinetech/grandine) |
 | [Tumas](https://github.com/tumas) | 1 |  | [Grandine](https://github.com/grandinetech/grandine) |
