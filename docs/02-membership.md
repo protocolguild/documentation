@@ -169,6 +169,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | | [ethresearch](https://ethresear.ch/u/cskiraly/) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | | [ethresearch](https://ethresear.ch/u/leobago/) |
 | [Agnish Ghosh](https://github.com/agnxsh) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aagnxsh) |
+| [Andri Lim](https://github.com/jangko) | 1 | | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?author=jangko) |
 | [Dustin Brody](https://github.com/tersec/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Atersec) |
 | [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
 | [Eugene Kabanov](https://github.com/cheatfate/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Acheatfate) |
