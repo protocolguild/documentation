@@ -77,7 +77,7 @@ The membership is a set of people working within the eligible projects who have 
 | [danceratopz](https://github.com/danceratopz) | 1 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [winsvega](https://github.com/winsvega) | 0.5 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-| [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 0.5 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Alex Sharov](https://github.com/AskAlexSharov/) | 1 | Erigon | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | Erigon | |
