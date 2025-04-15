@@ -106,6 +106,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Jason Frame](https://github.com/jframe/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajframe) |
 | [Justin Florentine](https://github.com/jflo/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ajflo) |
 | [Luis Pinto](https://github.com/lu-pinto/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu-pinto), [hyperledger/besu-verkle-trie](https://github.com/hyperledger/besu-verkle-trie/pulls?q=author%3Alu-pinto), [Consensys/tuweni](https://github.com/Consensys/tuweni/pulls?q=author%3Alu-pinto) |
+| [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 | [pinges](https://github.com/pinges/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
