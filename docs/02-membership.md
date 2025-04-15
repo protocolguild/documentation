@@ -50,7 +50,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | Cryptography (EF) | |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | Cryptography (EF) | |
-| [Mark Simkin](https://msimkin.github.io) | 1 | | [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md) |
+| [Mark Simkin](https://msimkin.github.io) | 1 | Flashbots Research | [research](https://github.com/msimkin/pglanding-mark/blob/main/README.md) |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | Consensus R&D (EF) | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | Cryptography (EF) | [research](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | Consensus R&D (EF) | |
