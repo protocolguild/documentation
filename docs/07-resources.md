@@ -499,7 +499,7 @@ These three questions indicated that there's work to be done improving the nomin
 
 *Architecture*
 
-One of the central features of the pilot was that donated funds vested linearily over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19).
+One of the central features of the pilot was that donated funds vested linearly over 1 year, to build long-term incentives for members to continue working on the core protocol. This was implemented in an effort to reduce membership churn and facilitate knowledge handover - very important given the specialized knowledge contributors have. Overall, members found that the "vested distribution is useful and incentivizes long-term contributions", with a mean score of 4.54/5 (Question 19).
 
 ![15](https://github.com/cheeky-gorilla/documentation/assets/76262359/7480d314-5274-4754-b6a5-e6bb3605ea5b)
 
