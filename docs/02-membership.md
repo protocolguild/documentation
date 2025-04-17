@@ -167,6 +167,7 @@ The membership is a set of people working within the eligible projects who have 
 | [joshie](https://github.com/joshieDo) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3AjoshieDo)
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | Reth | |
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | Reth | |
+| [Arsenii Kulikov](https://github.com/klkvr)  | 0.5 | Reth |[Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS | |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 0.5 | | [ethresearch](https://ethresear.ch/u/cskiraly/) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | | [ethresearch](https://ethresear.ch/u/leobago/) |
