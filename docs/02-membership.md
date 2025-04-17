@@ -91,7 +91,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | Erigon | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3AJkLondon) | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | Erigon | |
-| [Milen Filatov](https://github.com/taratorio/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
+| [Milen Filatov](https://github.com/taratorio/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | Erigon | |
 | [Shoham Chakraborty](https://github.com/shohamc1/) | 0.5 | | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ashohamc1) |
