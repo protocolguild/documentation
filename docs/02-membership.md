@@ -171,6 +171,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS | |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | | [ethresearch](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | | [ethresearch](https://ethresear.ch/u/leobago/) |
+| [Advaita Saha ](https://github.com/advaita-saha) | 1 | | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Aadvaita-saha) |
 | [Agnish Ghosh](https://github.com/agnxsh) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aagnxsh) |
 | [Dustin Brody](https://github.com/tersec/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Atersec) |
 | [Etan Kissling](https://github.com/etan-status/) | 1 | | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aetan-status), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Aetan-status), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Aetan-status) |
