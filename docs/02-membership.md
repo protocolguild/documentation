@@ -165,7 +165,6 @@ The membership is a set of people working within the eligible projects who have 
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | | [Revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
 | [Federico Gimenez](https://github.com/fgimenez) | 1 | | [Reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez)|
-| [joshie](https://github.com/joshieDo) | 0.5 | Reth | [Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3AjoshieDo)
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | Reth | |
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | Reth | |
 | [Arsenii Kulikov](https://github.com/klkvr)  | 0.5 | Reth |[Reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
