@@ -42,7 +42,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Piper Merriam](https://github.com/pipermerriam/) |1| [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) |
 | [Guru](https://github.com/gurukamath/) |1| [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) |1| |
-| [Peter Davies](https://github.com/ultratwo/) |1| [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
+| [Peter Davies](https://github.com/petertdavies/) |1| [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Sam Wilson](https://github.com/SamWilsn/) |1| [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Tim Beiko](https://github.com/timbeiko/) |1| [ethereum/pm](https://github.com/ethereum/pm) |
 | [Trenton Van Epps](https://github.com/tvanepps/) |1| [protocolguild/documentation](https://github.com/protocolguild/documentation) |
