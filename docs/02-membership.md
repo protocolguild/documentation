@@ -151,7 +151,6 @@ The membership is a set of people working within the eligible projects who have 
 | [Tanishq Jasoria](https://github.com/tanishqjasoria/) |1| [NethermindEth contributions](https://github.com/tanishqjasoria?org=NethermindEth), [NethermindEth/nethermind PR's](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
 | [James He](https://github.com/james-prysm/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm) |
 | [Kasey Kirkham](https://github.com/kasey/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey) |
-| [Nishant Das](https://github.com/nisdas/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Anisdas) |
 | [potuz](https://github.com/potuz/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz) , [gohashtree](https://github.com/prysmaticlabs/gohashtree/pulls?q=author%3Apotuz), [hashtree](https://github.com/prysmaticlabs/hashtree), [consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethresearch](https://ethresear.ch/u/potuz), [Hackmd](https://hackmd.io/@potuz) |
 | [Preston Van Loon](https://github.com/prestonvanloon/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvanloon)|
 | [Radosław Kapka](https://github.com/rkapka/) |1| [Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka) |
