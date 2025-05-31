@@ -20,17 +20,15 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 | **Ethereum Mainnet** | `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9`_ |
 +----------------------+----------------------------------------------------------------------+
-| **Arbitrum**         | `arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
+| **Arbitrum**         | `arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b`_                   |
 +----------------------+----------------------------------------------------------------------+
-| **Base**             | `base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
+| **Base**             | `base:0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD`_                   |
 +----------------------+----------------------------------------------------------------------+
-| **Optimism**         | `oeth:0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830`_                   |
+| **Optimism**         | `oeth:0x58ae0925077527a87D3B785aDecA018F9977Ec34`_                   |
 +----------------------+----------------------------------------------------------------------+
-| **Polygon**          | `matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                  |
+| **Polygon**          | `matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF`_                  |
 +----------------------+----------------------------------------------------------------------+
-| **re.al**            | `re-al:0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120`_                  |
-+----------------------+----------------------------------------------------------------------+
-| **Scroll**           | `scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B`_                    |
+| **Scroll**           | `scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF`_                    |
 +----------------------+----------------------------------------------------------------------+
 | **Shape**            | `shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8`_                  |
 +----------------------+----------------------------------------------------------------------+
@@ -40,12 +38,11 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 
 .. _theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9: https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9
-.. _arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=arb1:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
-.. _base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
-.. _oeth:0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830: https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10
-.. _matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
-.. _re-al:0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120: https://safe.re.al/balances?safe=re-al%3A0x0E140Adb0a70569f0A8b3d48ab8c8c580939a120
-.. _scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B: https://app.safe.global/balances?safe=scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B
+.. _arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b: https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161
+.. _base:0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD: https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453
+.. _oeth:0x58ae0925077527a87D3B785aDecA018F9977Ec34: https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10
+.. _matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
+.. _scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
 .. _shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8: https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8
 .. _zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8: https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8
 .. _zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
