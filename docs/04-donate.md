@@ -15,7 +15,7 @@ All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
 
-Important: The vesting contract cannot claim funds. If donations need to be claimed on mainnet, then please use this multisig instead: [0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/settings/setup?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a)
+Important: The vesting contract cannot claim funds. If donations need to be claimed on mainnet, then please use this multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ## 4.2 L2s / Other Chains
 
