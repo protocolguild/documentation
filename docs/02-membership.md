@@ -7,7 +7,6 @@ The membership is a set of people working within the eligible projects who have 
 | Name | Multiplier | Primary Contributions |
 | :--- | :--- | :--- |
 | [Alex Stokes](https://github.com/ralexstokes/) |1| |
-| [Jacob Kaufmann](https://github.com/jacobkaufmann/) |1| |
 | [Mike Neuder](https://github.com/michaelneuder) |1| |
 | [Toni Wahrstätter](https://github.com/nerolation) |1|[research](https://github.com/nerolation/pglanding-nerolation)|
 | [Parithosh Jayanthi](https://github.com/parithosh/) |1| [ethPandaOps](https://github.com/ethpandaops) |
