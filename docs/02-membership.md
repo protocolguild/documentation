@@ -82,7 +82,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Sharov](https://github.com/AskAlexSharov/) |1| |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) |1| |
-| [Bartosz Zawistowski](https://github.com/bzawisto/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto) |
+| [Bartosz Zawistowski](https://github.com/bzawisto/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abzawisto)  |
 | [Daniel Lazarenko](https://github.com/battlmonstr/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abattlmonstr) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) |1| |
 | [lupin012](https://github.com/lupin012/) |0.5| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012) |
