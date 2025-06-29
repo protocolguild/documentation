@@ -69,7 +69,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Julian Ma](https://github.com/Ma-Julian) |1| |
 | [Bhargava Shastry](https://github.com/bshastry/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [David Theodore](https://github.com/infosecual/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Fredrik Svantes](https://github.com/fredriksvantes/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Fredrik](https://github.com/fredrik0x/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Justin Traglia](https://github.com/jtraglia/) |1| [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [consensys/teku](https://github.com/consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yoav Weiss](https://github.com/yoavw/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
