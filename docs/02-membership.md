@@ -7,7 +7,6 @@ The membership is a set of people working within the eligible projects who have 
 | Name | Multiplier | Primary Contributions |
 | :--- | :--- | :--- |
 | [Alex Stokes](https://github.com/ralexstokes/) |1| |
-| [Jacob Kaufmann](https://github.com/jacobkaufmann/) |1| |
 | [Mike Neuder](https://github.com/michaelneuder) |1| |
 | [Toni Wahrstätter](https://github.com/nerolation) |1|[research](https://github.com/nerolation/pglanding-nerolation)|
 | [Parithosh Jayanthi](https://github.com/parithosh/) |1| [ethPandaOps](https://github.com/ethpandaops) |
@@ -69,7 +68,7 @@ The membership is a set of people working within the eligible projects who have 
 | [Julian Ma](https://github.com/Ma-Julian) |1| |
 | [Bhargava Shastry](https://github.com/bshastry/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [David Theodore](https://github.com/infosecual/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Fredrik Svantes](https://github.com/fredriksvantes/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Fredrik](https://github.com/fredrik0x/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Justin Traglia](https://github.com/jtraglia/) |1| [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [consensys/teku](https://github.com/consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yoav Weiss](https://github.com/yoavw/) |1| [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
@@ -82,10 +81,10 @@ The membership is a set of people working within the eligible projects who have 
 | [Alex Sharov](https://github.com/AskAlexSharov/) |1| |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) |1| |
-| [Bartosz Zawistowski](https://github.com/bzawisto/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto) |
+| [Bartosz Zawistowski](https://github.com/bzawisto/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abzawisto)  |
+| [Daniel Lazarenko](https://github.com/battlmonstr/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abattlmonstr) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) |1| |
 | [lupin012](https://github.com/lupin012/) |0.5| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012) |
-| [Jacek Glen](https://github.com/jacekglen/) |1| [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ajacekglen), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ajacekglen), [gas-cost-estimator](https://github.com/imapp-pl/gas-cost-estimator) |
 | [Kewei Chen](https://github.com/domiwei/) |1| [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
 | [Mark Holt](https://github.com/mh0lt/) |0.5| |
 | [Ilya Mikheev](https://github.com/JkLondon/) |1| |
