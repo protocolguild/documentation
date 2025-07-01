@@ -1,4 +1,4 @@
-# 3. Smart Contract Architecture
+# 2. Smart Contract Architecture
 
 This section describes the Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot-smart-contract-architecture).
 
@@ -6,7 +6,7 @@ Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to 
 
 The split contract itself also serves as the Guild’s onchain membership registry of Ethereum’s active L1 R&D maintainers, while a [Moloch v3 DAO](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members) is used to ratify changes to the membership onchain.
 
-## 3.1 Modules
+## 2.1 Modules
 
 The Guild’s smart contract architecture is modularized as follows:
 
@@ -166,7 +166,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PGv2 Donations: 0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8)
   - [PG Director's 2/3 0x42b6846549aC160a5c607193CC9d481ebb79edc7](https://app.safe.global/balances?safe=zksync:0x42b6846549aC160a5c607193CC9d481ebb79edc7)
 
-## 3.2 Future Updates
+## 2.2 Future Updates
 
 Work is already underway on future iterations of the Guild’s smart contract architecture, to remove trusted components, manual input and offchain dependencies. The current modular architecture allows for these updates to be implemented in a gradual and secure way as and when ready. This documentation will also be updated at such time to reflect the changes being made.
 
