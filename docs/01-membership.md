@@ -282,6 +282,7 @@ To satisfy our requirements, working groups and members must:
 ### Additional Context
 
 The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accommodating to what is the core protocol, but not any broader. 
+- One frame is "strictly necessary and existential software required to produce blocks and advance the chain" (eg. MEV boost and light clients are omitted here as they are not required for local block production and are not implicated in consensus activities). The vast majority of PG funded work meets this definition, though there are some exceptions.
 - This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
 - Contributing to the working groups above above does not guarantee Protocol Guild membership.
 - While this list tries to be explicit when possible linking to specific repositories, there are some research areas which can't be linked to a single source and may still be considered eligible.
