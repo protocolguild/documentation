@@ -2,7 +2,7 @@
 
 ## 1.1  Active Working Groups + Members
 
-Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often work across many different working groups and projects. The four categories include:
+Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. The four categories include:
 
 - Wayfinding
 - Governance
@@ -16,6 +16,7 @@ Individuals from active working groups produce the membership by opting into Pro
 - Artifacts: Research & POCs
 
 |**Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
+|:---|:---|:---|
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
 | [Dankrad Feist](https://github.com/dankrad/) | 1 | |
