@@ -1,4 +1,4 @@
-# 4. Donate
+# 3. Donate
 
 The Protocol Guild’s funding mechanism was designed to remove friction associated with supporting Ethereum’s core protocol development, by providing a single onchain address which vests funds directly to active core protocol contributors over time. 
 
@@ -6,7 +6,7 @@ Note that there are different donation addresses depending on if you're donating
 
 All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/protocolguild/protocol-guild).
 
-## 4.1 Mainnet
+## 3.1 Mainnet
 
 <b>[theprotocolguild.eth](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)<br>
 [0x25941dC771bB64514Fc8abBce970307Fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)</b>
@@ -17,7 +17,7 @@ The Guild’s mainnet donation address is an immutable vesting contract which tr
 
 Important: The vesting contract only works with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed on mainnet, then please use this multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
-## 4.2 L2s / Other Chains
+## 3.2 L2s / Other Chains
 
 Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, 6/10 multisigs have been deployed to receive donations. Multisig funds will be periodically bridged into vesting contracts. 
 
@@ -48,7 +48,7 @@ Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, 
 ### Zora
 - Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
-## 4.3 Protocol Guild Pledge
+## 3.3 Protocol Guild Pledge
 
 Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. 
 
