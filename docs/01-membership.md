@@ -97,7 +97,7 @@ Individuals from active working groups produce the membership by opting into Pro
 - 11 Working Groups, 102 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
-- Constraints: Must be well-tested, technically differentiated, and production ready
+- Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
 
 | **EXECUTION CLIENTS** | | Other contributions |
 |:---|:---|:---|
