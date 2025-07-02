@@ -57,10 +57,8 @@ The Protocol Guild is a mechanism that learns and adapts - this documentation is
 .. toctree::
   :maxdepth: 2
   
-  01-eligibility
-  02-membership
-  03-onchain-architecture
-  04-donate
-  05-design-principles
-  06-entity-&-operations.md
-  07-resources
+  01-membership
+  02-onchain-architecture
+  03-donate
+  04-entity-&-operations.md
+  05-resources
