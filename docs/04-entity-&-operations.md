@@ -25,7 +25,7 @@ The entity swaps its share of vested tokens on a monthly basis to maintain a sta
     - $12.5k/month to support cheeky-gorilla's contributions
     - $10.5k/month to support Peter Vechiarrelli's contributions
 
-The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#governance) subsection of the docs.
+The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://github.com/protocolguild/documentation/blob/main/docs/01-membership.md#governance-1) subsection of the docs.
 
 ## 4.3 Yearly Reports
 
@@ -108,7 +108,7 @@ As during the pilot, [self-curation](https://github.com/protocolguild/documentat
 
 In 2024, two new projects were added to Protocol Guild; [Reth](https://github.com/protocolguild/documentation/pull/135) and [Grandine](https://github.com/protocolguild/documentation/pull/246). The introduction of Grandine came after they [open-sourced](https://medium.com/@grandine/grandine-is-open-sourced-b1815cf0ae39) their client, prompting a [refinement](https://github.com/protocolguild/documentation/pull/231) of our eligibility criteria to clarify the "open source" requirement.
 
-Another update related to curation was the addition of "Primary Contributions" in our documentation's [membership table](https://protocol-guild.readthedocs.io/en/latest/02-membership.html). This [change](https://github.com/protocolguild/documentation/pull/173) aims to provide more insightful information by showcasing contributions to e.g. GitHub repositories, rather than just team or organization names. Although still a work in progress, the goal is for the "Primary Contributions" column to eventually replace the "Team" column. In 2025, we plan to refine and potentially automate the updating of this new column to enhance accountability and streamline self-curation.
+Another update related to curation was the addition of "Primary Contributions" in our documentation's [membership table](https://github.com/protocolguild/documentation/blob/main/docs/01-membership.md#governance-1). This [change](https://github.com/protocolguild/documentation/pull/173) aims to provide more insightful information by showcasing contributions to e.g. GitHub repositories, rather than just team or organization names. Although still a work in progress, the goal is for the "Primary Contributions" column to eventually replace the "Team" column. In 2025, we plan to refine and potentially automate the updating of this new column to enhance accountability and streamline self-curation.
 
 Additionally, we engaged in extensive discussions regarding the potential removal of partial weight (i.e. part-time) contributors, who currently make up 17% of our membership. The main arguments for this consideration include evidence suggesting that part-time contributors are more likely to exit core protocol work, and that having multiple weight tiers increases the self-curation overhead. Given that Protocol Guild's membership has consistently grown, this presents a potential concern for long-term sustainability. However, some members argued that the flexibility of part-time work is beneficial for Ethereum in the long run, as it allows contributors to gain experience and insights from other projects and ecosystems - in addition to avoiding burnout.
 
