@@ -93,7 +93,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 100 contributors
+- 11 Working Groups, 109 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
@@ -137,10 +137,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind** (16 contributors) | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind** (15 contributors) | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93+) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
-| [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | [NethermindEth/nethermind](https://github.com/Demuirgos?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=is%3Apr+author%3ADemuirgos+) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
