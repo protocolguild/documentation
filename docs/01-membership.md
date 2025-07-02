@@ -11,11 +11,11 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 10 Working Groups, 42 contributors
+- 11 Working Groups, 44 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 
-|**Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
+| **Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
 |:---|:---|:---|
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
@@ -36,30 +36,32 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | [ethresear.ch/u/leobago](https://ethresear.ch/u/leobago/) |
-| **Execution (Gas limit, EVM, delayed, History Expiry)** (7 contributors) | | |
+| **Execution (Gas limit, EVM, delayed, History Expiry)** (6 contributors) | | |
 | [Alex Beregszaszi](https://github.com/axic/) | 0.5 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Aaxic), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Aaxic), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aaxic), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Aaxic) |
 | [Andrei Maiboroda](https://github.com/gumb0/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Agumb0+), [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Agumb0+), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Agumb0+), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Agumb0+) |
-| [Danno Ferrin](https://github.com/shemnon/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
 | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc/) | 0.5 | [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Ahugo-dc+), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ahugo-dc+), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=author%3Ahugo-dc+) |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Piotr Dobaczewski](https://github.com/pdobacz) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apdobacz), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Apdobacz), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Apdobacz), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Apdobacz) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
-|**Portal** (6 contributors)| | |
+| **Portal** (5 contributors)| | |
 | [Jason Carver](https://github.com/carver/) | 1 | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | [ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs), [ethereum/hive](https://github.com/ethereum/hive) |
 | [Mike Ferris](https://github.com/mrferris/) | 1 | |
-| [Milos Stankovic](https://github.com/morph-dev) | 1 | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
 | **Networking** (1 contributor) | | |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
-| **Mechanism Design** (7 contributors) | | |
+| **Mechanism Design** (6 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | |
 | [Davide Crapis](https://github.com/dcrapis/) | 0.5 | |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
+| **Prototyping** (4 contributors) | | |
+| [Danno Ferrin](https://github.com/shemnon/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
+| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
+| [Milos Stankovic](https://github.com/morph-dev) | 1 | |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
 | **Statelessness** (2 contributors) | | |
 | [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
@@ -227,7 +229,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 25 contributors
+- 5 Working Groups, 24 contributors
 - Venue: ADCT
 - Artifacts: Dev/testnets
 
@@ -246,11 +248,10 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [winsvega](https://github.com/winsvega) | 0.5 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-|**EthereumJS** (5 contributors)| | |
+|**EthereumJS** (4 contributors)| | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | |
 | [Andrew Day](https://github.com/acolytec3/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aacolytec3+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Aacolytec3+) |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
-| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | **Security** (5 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
