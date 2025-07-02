@@ -93,22 +93,20 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 102 contributors
+- 11 Working Groups, 100 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
 
 | **EXECUTION CLIENTS** | | Other contributions |
 |:---|:---|:---|
-| **Erigon** (17 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon) |
+| **Erigon** (15 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
 | [Bartosz Zawistowski](https://github.com/bzawisto/) | 1 | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto) |
-| [Daniel Lazarenko](https://github.com/battlmonstr/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Abattlmonstr), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abattlmonstr) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | |
-| [Jacek Glen](https://github.com/jacekglen/) | 1 | [gas-cost-estimator](https://github.com/imapp-pl/gas-cost-estimator), [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ajacekglen), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ajacekglen) |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
 | [Mark Holt](https://github.com/mh0lt/) | 0.5 | |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | |
