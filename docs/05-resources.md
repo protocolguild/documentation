@@ -1,13 +1,13 @@
-# 7. Resources
+# 5. Resources
 
-## 7.1 Links
+## 5.1 Links
 
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 - [X](https://twitter.com/protocolguild)
 - [Farcaster](https://warpcast.com/protocolguild)
 - [Discord](https://discord.com/invite/HaUhXYsMyC)
 
-## 7.2 Media
+## 5.2 Media
 
 Want to get up to speed quickly? Check out these pieces of media:
 
@@ -89,7 +89,7 @@ Or, see all media from over the years below:
 
 
 
-## 7.3 Acknowledgments
+## 5.3 Acknowledgments
 
 We are indebted to the following projects and individuals for their generous contributions to Protocol Guild's development over the years.
 

@@ -1,10 +1,10 @@
-# 6. Entity & Operations
+# 4. Entity & Operations
 
-## 6.1 Legal Structure
+## 4.1 Legal Structure
 
 Protocol Guild incorporated a Cayman Islands-based legal entity in 2024, to help scale fundraising efforts.
 
-## 6.2 Finances
+## 4.2 Finances
 
 Protocol Guild's legal entity currently receives 5% (as of Oct 4, 2024 - [tx link](https://etherscan.io/tx/0x8c1836d568fa4e5eca78d8a6e6880b954fd3377e7b538e305fa5d77a7f6c4071)) of vested funds to pay for the entity's legal and operational costs:
 
@@ -27,7 +27,7 @@ The entity swaps its share of vested tokens on a monthly basis to maintain a sta
 
 The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
 
-## 6.3 Yearly Reports
+## 4.3 Yearly Reports
 
 ### 2024
 - [1-Page Summary (PDF)](https://cryptpad.fr/file/#/2/file/ffN262dpBNwBeaahgdF6t6cp/)
