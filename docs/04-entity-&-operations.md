@@ -25,7 +25,7 @@ The entity swaps its share of vested tokens on a monthly basis to maintain a sta
     - $12.5k/month to support cheeky-gorilla's contributions
     - $10.5k/month to support Peter Vechiarrelli's contributions
 
-The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#governance) subsection of the docs.
+The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#governance) subsection of the docs.
 
 ## 4.3 Yearly Reports
 
@@ -99,7 +99,7 @@ You can read more about Ethereum's core protocol development in 2024 and 2025 in
 
 #### Membership
 
-At the start of 2024, Protocol Guild had 161 members, concluding the year with [187](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#active-members). This increase resulted from the addition of 41 new members and the removal of 15. Of the 187 members, 154 (83%) were engaged in Ethereum's core protocol work on a full-time basis, while the rest (15 members or 17%) contributed on a part-time basis.
+At the start of 2024, Protocol Guild had 161 members, concluding the year with [187](https://github.com/protocolguild/documentation/blob/main/docs/01-membership.md#11--active-working-groups--members). This increase resulted from the addition of 41 new members and the removal of 15. Of the 187 members, 154 (83%) were engaged in Ethereum's core protocol work on a full-time basis, while the rest (15 members or 17%) contributed on a part-time basis.
 
 ![Membershio](https://github.com/user-attachments/assets/e916aeb2-6dbf-408c-8f47-534ce7e95208)
 <small>[https://dune.com/queries/2665887/4430654?sidebar=none](https://dune.com/queries/2665887/4430654?sidebar=none)</small>
