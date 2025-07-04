@@ -179,7 +179,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Sean Anderson](https://github.com/realbigsean/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
 | **Lodestar** (8 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) |
 | [Cayman Nava](https://github.com/wemeetagain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
-| [Gajinder Singh](https://github.com/g11tech/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Ag11tech), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ag11tech) |
 | [Matthew Keil](https://github.com/matthewkeil) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
 | [NC](https://github.com/ensi321) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
 | [Nazar Hussain](https://github.com/nazarhussain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
