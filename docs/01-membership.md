@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 10 Working Groups, 42 contributors
+- 10 Working Groups, 43 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 
