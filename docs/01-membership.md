@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 10 Working Groups, 43 contributors
+- 10 Working Groups, 44 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 
@@ -51,7 +51,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
-| **Networking** (1 contributor) | | |
+| **Networking** (2 contributor) | | |
+| [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
 | **Mechanism Design** (7 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | |
@@ -72,7 +73,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
-- 2 Working Groups, 10 contributors
+- 2 Working Groups, 9 contributors
 - Venue: ACDC, ACDE
 - Artifact: EIPs <-> Specifications
 - Constraints: spec work must implementation agnostic + unopinionated
@@ -84,10 +85,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
-| **Consensus Layer Specs + Coordination** (5 contributors) | | |
+| **Consensus Layer Specs + Coordination** (4 contributors) | | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
-| [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.com/@n0ble) |
 
