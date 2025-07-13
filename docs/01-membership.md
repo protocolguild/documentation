@@ -58,7 +58,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | |
 | [Davide Crapis](https://github.com/dcrapis/) | 0.5 | |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | |
-| [Mike Neuder](https://github.com/michaelneuder) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
 | **Statelessness** (2 contributors) | | |
