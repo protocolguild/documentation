@@ -299,6 +299,14 @@ Changing the eligibility framework can be made through a PR to the [documentatio
 
 The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project. 
 
+#### Annual Working Group Updates
+
+In order to ensure working group information does not go stale, each working group must post an annual report in the "#annual-reports" Discord channel during Q3 membership updates. This timing allows teams to discuss any issues as part of Devcon/Devconnect.
+
+This report should be brief (1-2 paragraphs, <10 minutes to write, ~1 minute to read). Updates should explain what the project did in the past year, what it intends to do in the next year, and why the project remains eligible. This report must also include links to outputs such as GitHub repos or relevant published works. Teams with external governance (Linux Foundation, Apache Software Foundation, etc.) may reference existing organizational documentation instead of writing new summaries if those reports include the needed context.
+
+Failure to submit an annual update is sufficient cause to remove a working group from Protocol Guild eligibility. This requirement begins Q3 2025.
+
 ### Adding and removing members
 
 An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
