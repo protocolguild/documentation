@@ -47,7 +47,6 @@ Individuals from active working groups produce the membership by opting into Pro
 |**Portal** (6 contributors)| | |
 | [Jason Carver](https://github.com/carver/) | 1 | |
 | [Kolby Moroz Liebl](https://github.com/KolbyML) | 1 | [ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs), [ethereum/hive](https://github.com/ethereum/hive) |
-| [Mike Ferris](https://github.com/mrferris/) | 1 | |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | |
 | [Ognyan Genev](https://github.com/ogenev/) | 1 |[ethereum/trin](https://github.com/ethereum/trin), [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs) |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
