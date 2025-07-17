@@ -53,7 +53,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Mechanism Design** (7 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | |
-| [Davide Crapis](https://github.com/dcrapis/) | 0.5 | |
+| [Davide Crapis](https://github.com/dcrapis/) | 1 | |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | |
 | [Mike Neuder](https://github.com/michaelneuder) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
