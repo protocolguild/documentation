@@ -240,7 +240,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [winsvega](https://github.com/winsvega) | 0.5 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 |**EthereumJS** (5 contributors)| | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | |
-| [Andrew Day](https://github.com/acolytec3/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aacolytec3+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Aacolytec3+) |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
