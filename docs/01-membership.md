@@ -229,17 +229,17 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
-| **Testing** (5 contributors) | | |
+| **Testing** (4 contributors) | | |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-|**EthereumJS** (5 contributors)| | |
+|**EthereumJS** (4 contributors)| | |
 | [Amir Ghorbanian](https://github.com/scorbajio/) | 1 | |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
-| **Security** (5 contributors) | | |
+| **Security** (4 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
