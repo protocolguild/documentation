@@ -40,8 +40,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
-|**Portal** (3 contributors)| | |
-| [Mike Ferris](https://github.com/mrferris/) | 1 | |
+|**Portal** (2 contributors)| | |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
 | **Networking** (1 contributor) | | |
