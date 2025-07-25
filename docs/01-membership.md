@@ -36,8 +36,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | [ethresear.ch/u/leobago](https://ethresear.ch/u/leobago/) |
-| **Execution (Gas limit, EVM, delayed, History Expiry)** (6 contributors) | | |
-| [Alex Beregszaszi](https://github.com/axic/) | 0.5 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Aaxic), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Aaxic), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Aaxic), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Aaxic) |
+| **Execution (Gas limit, EVM, delayed, History Expiry)** (5 contributors) | | |
 | [Danno Ferrin](https://github.com/shemnon/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
