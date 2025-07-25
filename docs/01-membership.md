@@ -233,8 +233,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
-| **Testing** (4 contributors) | | |
+| **Testing** (5 contributors) | | |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [winsvega](https://github.com/winsvega) | 0.5 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
