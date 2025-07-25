@@ -32,7 +32,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| [Mark Simkin](https://msimkin.github.io) | 1 | [msimkin/pglanding-mark](https://msimkin.github.io) |
+| [Mark Simkin](https://msimkin.github.io) | 0.5 | [msimkin/pglanding-mark](https://msimkin.github.io) |
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | [ethresear.ch/u/leobago](https://ethresear.ch/u/leobago/) |
