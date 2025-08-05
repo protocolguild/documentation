@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 10 Working Groups, 44 contributors
+- 11 Working Groups, 36 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 
@@ -36,28 +36,30 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
 | [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | [ethresear.ch/u/leobago](https://ethresear.ch/u/leobago/) |
-| **Execution (Gas limit, EVM, delayed, History Expiry)** (2 contributors) | | |
-| [Danno Ferrin](https://github.com/shemnon/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ashemnon), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ashemnon), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Ashemnon) |
+| **Execution (Gas limit, EVM, delayed, History Expiry)** (1 contributors) | | |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
-|**Portal** (2 contributors)| | |
-| [Milos Stankovic](https://github.com/morph-dev) | 1 | |
+| **Portal** (1 contributor)| | |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
 | **Networking** (2 contributor) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
-| **Mechanism Design** (7 contributors) | | |
+| **Mechanism Design** (5 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | |
 | [Davide Crapis](https://github.com/dcrapis/) | 1 | |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
+| **Prototyping** (6 contributors) | | |
+| [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
+| [Danno Ferrin](https://github.com/shemnon/) | 1 | |
+| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
+| [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
 | [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
 | **Statelessness** (2 contributors) | | |
 | [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22) |
-| **Uncategorized** (4 contributors) |  |  |
-| [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
+| **Uncategorized** (3 contributors) | | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
@@ -214,7 +216,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 26 contributors
+- 5 Working Groups, 23 contributors
 - Venue: ADCT
 - Artifacts: Dev/testnets
 
@@ -234,10 +236,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-|**EthereumJS** (4 contributors)| | |
+|**EthereumJS** (3 contributors)| | |
 | [Amir Ghorbanian](https://github.com/am1r021/) | 1 | |
 | [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
-| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer+) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 1 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | **Security** (4 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
