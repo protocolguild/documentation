@@ -146,6 +146,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
 - Polygon
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=matic:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Bridge 2/3 0x29b904695b511A5B749C759111eE57834bC72d8e](https://app.safe.global/balances?safe=matic:0x29b904695b511A5B749C759111eE57834bC72d8e)
   - Deprecated:
     - [Pilot Donations: 0x22BdFa4e038F71eEF5a7d2fc6daB383f8d54FD72](https://app.safe.global/balances?safe=matic:0x22BdFa4e038F71eEF5a7d2fc6daB383f8d54FD72)
     - [PGv2 Donations: 0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=matic:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
@@ -158,8 +159,10 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
     - [PGv2 Donations: 0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=scr:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B)
 - Shape
   - [PGv2 Donations: 0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8](https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8)
+  - [PG Bridge 2/3 0x277D1536C010C14Fc0f4CCd8b2B6942387d4D980](https://safe.shape.network/balances?safe=shape:0x277D1536C010C14Fc0f4CCd8b2B6942387d4D980)
 - Zora
   - [PGv2 Donations: 0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
+  - [PG Bridge 2/3 0x9d7c1E5De5e491Eb8DbB7a5043993F4524D537C4](https://safe.optimism.io/balances?safe=zora:0x9d7c1E5De5e491Eb8DbB7a5043993F4524D537C4)
   - Deprecated:
     - [Pilot Donations: 0xD8cd6E414B28085E186968ee25cBba78dc28D6aa](https://safe.optimism.io/balances?safe=zora:0xD8cd6E414B28085E186968ee25cBba78dc28D6aa)
 - ZKsync
