@@ -52,6 +52,7 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [New Institutions Roundtable: mechanisms, publics, and the state of the protocol institution](https://otherinternet.substack.com/p/new-institutions-roundtable) | Other Internet | Aug 11 2025 |
 | [Infinite Garden w/ Shape and Protocol Guild](https://x.com/i/broadcasts/1djxXVyOXVNGZ) | X Space | Mar 26 2025 |
 | [Epoch 6 Projects Space](https://x.com/i/spaces/1ynKODDNaVXGR/peek) | X Space | Jan 21 2025 |
 | [Trailblazers of Octant Episode 3](https://www.cryptoaltruism.org/blog/crypto-altruism-podcast-trailblazers-of-octant-episode-3-protocol-guild-powering-ethereums-future-with-decentralized-funding) | Crypto Altruism Podcast | Dec 24 2024 |
