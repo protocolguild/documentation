@@ -51,7 +51,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
 | **Prototyping** (6 contributors) | | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
-| [Danno Ferrin](https://github.com/shemnon/) | 1 | |
 | [Jihoon Song](https://github.com/jihoonsong)) | 1 | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
