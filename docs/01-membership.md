@@ -245,6 +245,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Yassine Ferhane](https://github.com/gitToki/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | **Funding** (3 contributors) | | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
 | [Peter Vecchiarelli](https://github.com/pvecchiarelli) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Apvecchiarelli+) |
