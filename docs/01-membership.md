@@ -243,7 +243,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Security** (4 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Fredrik Svantes](https://github.com/fredriksvantes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Fredrik](https://github.com/fredrik0x/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | **Funding** (3 contributors) | | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation) |
