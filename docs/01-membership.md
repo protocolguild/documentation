@@ -46,8 +46,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Mechanism Design** (5 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | |
-| [Davide Crapis](https://github.com/dcrapis/) | 1 | |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | |
+| [Maria Silva](https://github.com/misilva73) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [ethresear.ch/u/soispoke/summary](https://ethresear.ch/u/soispoke/summary/) |
 | **Prototyping** (6 contributors) | | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
