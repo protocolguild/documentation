@@ -76,6 +76,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Guru](https://github.com/gurukamath/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Peter Miller](https://github.com/petertdavies/) | 1 | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
+| [Akash Kshirsagar](https://github.com/akashkshirsagar31) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [X-streams](https://x.com/i/broadcasts/1vAGRDmWBkjxl)|
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | **Consensus Layer Specs + Coordination** (3 contributors) | | |
