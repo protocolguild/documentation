@@ -137,7 +137,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Ayman Bouchareb](https://github.com/Demuirgos) | 1 | [NethermindEth/nethermind](https://github.com/Demuirgos?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=is%3Apr+author%3ADemuirgos+) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
 | [Carlos Bermudez Porto](https://github.com/cbermudez97) | 0.5 | [NethermindEth/nethermind](https://github.com/cbermudez97?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Acbermudez97+) |
-| [Damian Orzechowski](https://github.com/damian-orzechowski) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Adamian-orzechowski+) |
+| [Damian Orzechowski](https://github.com/damian-orzechowski) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Adamian-orzechowski+) |
 | [Kamil Chodoła](https://github.com/kamilchodola/) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Akamilchodola) |
 | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | [NethermindEth/nethermind](https://github.com/LukaszRozmej?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
 | [Marc Harvey-Hill](https://github.com/Marchhill) | 0.5 | [NethermindEth/nethermind](https://github.com/Marchhill?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarchhill) |
