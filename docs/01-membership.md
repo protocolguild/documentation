@@ -156,13 +156,14 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 | [Roman Krasiuk](https://github.com/rkrasiuk) | 0.5 | |
 | **CONSENSUS CLIENTS** | | Other contributions |
-| **Lighthouse** (13 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
+| **Lighthouse** (11 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
 | [Adrian Manning](https://github.com/AgeManning/) | 0.5 | [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3AAgeManning), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3AAgeManning), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AAgeManning) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
 | [dapplion](https://github.com/dapplion/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Adapplion), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Adapplion), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapplion) |
 | [Eitan Seri-Levi](https://github.com/eserilev/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeserilev) |
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimmygchen) |
 | [João Oliveira](https://github.com/jxs) | 1 | [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3Ajxs), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3Ajxs), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs) |
+| [Josh King](https://github.com/jking-aus) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls/jking-aus) |
 | [Mac Ladson](https://github.com/macladson/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
 | [Mark Mackey](https://github.com/ethDreamer/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
 | [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Azedt3ster) |
