@@ -194,7 +194,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Kasey Kirkham](https://github.com/kasey/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Akasey) |
 | [Manu Nalepa](https://github.com/nalepae) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Analepae) |
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
-| [Radosław Kapka](https://github.com/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Arkapka) |
+| [Radosław Kapka](https://github.com/rkapka) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Arkapka) |
 | [Raul Jordan](https://github.com/rauljordan/) | 0.5 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Arauljordan) |
 | [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3ATaranpreet26311) |
 | [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
