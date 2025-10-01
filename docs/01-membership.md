@@ -80,7 +80,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | **Consensus Layer Specs + Coordination** (3 contributors) | | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
-| [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
+| [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.com/@n0ble) |
 
 ## CLIENT IMPLEMENTATIONS
@@ -189,16 +189,16 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme) |
-| **Prysm** (9 contributors) | | [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) |
-| [James He](https://github.com/james-prysm/) | 1 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Ajames-prysm) |
-| [Kasey Kirkham](https://github.com/kasey/) | 1 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Akasey) |
-| [Manu Nalepa](https://github.com/nalepae) | 1 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Analepae) |
-| [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aprestonvanloon) |
-| [Radosław Kapka](https://github.com/rkapka) | 1 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arkapka) |
-| [Raul Jordan](https://github.com/rauljordan/) | 0.5 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Arauljordan) |
-| [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 | [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3ATaranpreet26311) |
-| [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
-| [potuz](https://github.com/potuz/) | 1 | [ethresear.ch/u/potuz](https://ethresear.ch/u/potuz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [prysmaticlabs/gohashtree](https://github.com/prysmaticlabs/gohashtree/pulls?q=author%3Apotuz), [prysmaticlabs/hashtree](https://github.com/prysmaticlabs/hashtree), [Prysmaticlabs/Prysm](https://github.com/Prysmaticlabs/Prysm/pulls?q=author%3Apotuz), [hackmd.io/@potuz](https://hackmd.io/@potuz) |
+| **Prysm** (9 contributors) | | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm) |
+| [James He](https://github.com/james-prysm/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Ajames-prysm) |
+| [Kasey Kirkham](https://github.com/kasey/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Akasey) |
+| [Manu Nalepa](https://github.com/nalepae) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Analepae) |
+| [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
+| [Radosław Kapka](https://github.com/rkapka) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Arkapka) |
+| [Raul Jordan](https://github.com/rauljordan/) | 0.5 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Arauljordan) |
+| [Taran Singh](https://github.com/Taranpreet26311/) | 0.5 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3ATaranpreet26311) |
+| [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
+| [potuz](https://github.com/potuz/) | 1 | [ethresear.ch/u/potuz](https://ethresear.ch/u/potuz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [OffchainLabs/gohashtree](https://github.com/OffchainLabs/gohashtree/pulls?q=author%3Apotuz), [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Apotuz), [hackmd.io/@potuz](https://hackmd.io/@potuz) |
 | **Teku** (7 contributors) | | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
