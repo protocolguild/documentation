@@ -2,7 +2,7 @@
 
 ## 1.1  Active Working Groups + Members
 
-Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. The four categories include:
+Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. Working groups should undergo periodic reviews as the core protocol development roadmap evolves. The four categories include:
 
 - Wayfinding
 - Governance
@@ -14,6 +14,13 @@ Individuals from active working groups produce the membership by opting into Pro
 - 11 Working Groups, 36 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
+- Research Constraints
+     - Generally agreed to be a significant and worthwhile direction for the protocol
+     - Composed of contributors who are sufficiently tethered to Ethereum's core protocol R&D, potentially being part of existing entities or teams focused on such work
+     - Performed according to general research principles, including open production of artifacts, peer review, and systematic, documented efforts to compare different approaches
+- Prototyping / "Research Engineering" Constraints
+    - Supporting a research direction that satisfies the criteria outlined above
+    - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
 |**Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
 |:---|:---|:---|
