@@ -212,7 +212,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Paul Harris](https://github.com/rolfyone/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) |
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) |
 | **Grandine** (5 contributors) | | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
-| [Artiom Tretjakovas](https://github.com/ArtiomTr/) | 0.5 | [grandinetech/grandine](https://github.com/grandinetech/grandine), [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg/) |
+| [Artiom Tretjakovas](https://github.com/ArtiomTr/) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine), [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg/) |
 | [Hangleang](https://github.com/hangleang/) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Povilas Liubauskas](https://github.com/povi) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
