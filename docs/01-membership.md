@@ -35,7 +35,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mark Simkin](https://msimkin.github.io) | 0.5 | [msimkin/pglanding-mark](https://msimkin.github.io) |
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
-| [Leonardo Bautista-Gomez](https://github.com/leobago/) | 0.5 | [ethresear.ch/u/leobago](https://ethresear.ch/u/leobago/) |
 | **Execution (Gas limit, EVM, delayed, History Expiry)** (1 contributors) | | |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
 | **Portal** (1 contributor)| | |
