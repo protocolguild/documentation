@@ -81,6 +81,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
+| [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
+
 | **Consensus Layer Specs + Coordination** (3 contributors) | | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
