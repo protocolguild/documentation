@@ -2,7 +2,7 @@
 
 ## 1.1  Active Working Groups + Members
 
-Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. The four categories include:
+Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. Working groups should undergo periodic reviews as the core protocol development roadmap evolves. The four categories include:
 
 - Wayfinding
 - Governance
@@ -14,6 +14,13 @@ Individuals from active working groups produce the membership by opting into Pro
 - 11 Working Groups, 36 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
+- Research Constraints
+     - Generally agreed to be a significant and worthwhile direction for the protocol
+     - Composed of contributors who are sufficiently tethered to Ethereum's core protocol R&D, potentially being part of existing entities or teams focused on such work
+     - Performed according to general research principles, including open production of artifacts, peer review, and systematic, documented efforts to compare different approaches
+- Prototyping / "Research Engineering" Constraints
+    - Supporting a research direction that satisfies the criteria outlined above
+    - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
 |**Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
 |:---|:---|:---|
@@ -35,8 +42,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mark Simkin](https://msimkin.github.io) | 0.5 | [msimkin/pglanding-mark](https://msimkin.github.io) |
 | **Data Availability** (2 contributors) | | |
 | [Dmitriy Ryajov](https://github.com/dryajov/) | 0.5 | Codex DAS (IFT) |
-| **Execution (Gas limit, EVM, delayed, History Expiry)** (1 contributors) | | |
-| [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
 | **Portal** (1 contributor)| | |
 | [Piper Merriam](https://github.com/ethereum/portal-network-specs) | 1 | |
 | **Networking** (2 contributor) | | |
@@ -61,10 +66,13 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22) |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
 | [Wei Han Ng](https://github.com/weiihann) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) |
-| **Uncategorized** (3 contributors) | | |
+| **Uncategorized** (2 contributors) | | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
-| [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| **zkEVM** (3 contributors) | | |
+| [Ignacio Hagopian](https://github.com/jsign/) | 1 | [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22) |
+| [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
+| [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
