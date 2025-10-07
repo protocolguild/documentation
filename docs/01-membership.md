@@ -302,7 +302,7 @@ Changing the eligibility framework can be made through a PR to the [documentatio
 - Eligibility start date for the project (if being added)
 - Summary of why this project should be considered eligible/ineligible
 
-The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project. After two weeks, rough consensus as to cloture is established. If cloture is acheived a DAO vote to add the working group is held, requiring 51% quorum.
+The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project. After two weeks, rough consensus as to cloture is established. If cloture is acheived a [DAO](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html#moloch-v3-dao) vote to add the working group is held, requiring 51% quorum.
 
 ### Adding and removing members
 
