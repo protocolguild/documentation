@@ -114,7 +114,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
-| [Mark Holt](https://github.com/mh0lt/) | 0.5 | |
+| [Mark Holt](https://github.com/mh0lt/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amh0lt) |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | |
 | [Milen Filatov](https://github.com/taratorio/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
