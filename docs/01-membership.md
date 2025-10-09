@@ -175,7 +175,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mac Ladson](https://github.com/macladson/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
 | [Mark Mackey](https://github.com/ethDreamer/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
-| [Paul Hauner](https://github.com/paulhauner/) | 0.5 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Apaulhauner), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apaulhauner) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
 | [Sean Anderson](https://github.com/realbigsean/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
 | **Lodestar** (7 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar) |
