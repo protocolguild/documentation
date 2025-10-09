@@ -174,7 +174,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [João Oliveira](https://github.com/jxs) | 1 | [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3Ajxs), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3Ajxs), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajxs) |
 | [Mac Ladson](https://github.com/macladson/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amacladson) |
 | [Mark Mackey](https://github.com/ethDreamer/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AethDreamer) |
-| [Mehdi Zerouali](https://github.com/zedt3ster/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Azedt3ster) |
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
 | [Paul Hauner](https://github.com/paulhauner/) | 0.5 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Apaulhauner), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apaulhauner) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
