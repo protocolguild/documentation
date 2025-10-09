@@ -167,7 +167,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 | **CONSENSUS CLIENTS** | | Other contributions |
 | **Lighthouse** (13 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
-| [Adrian Manning](https://github.com/AgeManning/) | 0.5 | [sigp/discv5](https://github.com/sigp/discv5/pulls?q=author%3AAgeManning), [sigp/enr](https://github.com/sigp/enr/pulls?q=author%3AAgeManning), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3AAgeManning) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
 | [dapplion](https://github.com/dapplion/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Adapplion), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Adapplion), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapplion) |
 | [Eitan Seri-Levi](https://github.com/eserilev/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeserilev) |
