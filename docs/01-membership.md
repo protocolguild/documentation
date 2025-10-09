@@ -64,7 +64,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Uncategorized** (2 contributors) | | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| **zkEVM** (3 contributors) | | |
+| **zkEVM** (4 contributors) | | |
+| [Sophia Gold](https://github.com/Sophia-Gold) | 1 | [realtime-proving](https://blog.ethereum.org/2025/07/10/realtime-proving), [EIP-7935](https://eips.ethereum.org/EIPS/eip-7935) |
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [crate-crypto/go-ipa](https://github.com/crate-crypto/go-ipa/pulls?q=author%3A%22jsign%22), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=author%3A%22jsign%22), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22jsign%22) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
 | [Radosław Zagórowicz](https://github.com/rodiazet) | 1 | [ethereum/evmc](https://github.com/ethereum/evmc/pulls?q=author%3Arodiazet), [ethereum/evmone](https://github.com/ethereum/evmone/pulls?q=author%3Arodiazet), [ethereum/tests](https://github.com/ethereum/tests/pulls?q=is%3Apr+author%3Arodiazet), [ipsilon/eof](https://github.com/ipsilon/eof/pulls?q=author%3Arodiazet) |
@@ -513,3 +514,6 @@ We asked members why they think the Guild is important for Ethereum. Last update
 **Guild Member (Anonymous)** - "The whole is greater than the sum of the parts.  But without the parts there is no whole. This project addresses the parts without diminishing the whole." <br><br>
 **Guild Member (Anonymous)** - "This type of a public funding should be main source of funds for such a projects like Ethereum blockchain research and development." <br><br>
 **Guild Member (Anonymous)** - "With its rewards beyond casual wages or project grants, Protocol Guild inspires members to apply their efforts to the Ethereum development in unrehearsed ways and directions where forces of EF and big companies are missed. It preserves the strong community engagement over major pathways, which safeguards Ethereum's decentralization." <br><br>
+
+
+[def]: ttps://eips.ethereum.org/EIPS/eip-7935
