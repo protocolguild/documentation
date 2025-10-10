@@ -40,10 +40,11 @@ Individuals from active working groups produce the membership by opting into Pro
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
 | [Mark Simkin](https://msimkin.github.io) | 0.5 | [msimkin/pglanding-mark](https://msimkin.github.io) |
-| **Networking** (3 contributor) | | |
+| **Networking** (4 contributors) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
-| [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
+| [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
+| [Raúl Kripalani](https://github.com/raulk/) | 1 | |
 | **Mechanism Design** (6 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
