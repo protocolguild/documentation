@@ -158,7 +158,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
 | [Tanishq Jasoria](https://github.com/tanishqjasoria/) | 1 | [NethermindEth/nethermind](https://github.com/tanishqjasoria?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Atanishqjasoria) |
 | **Reth** (7 contributors) | | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
-| [Alexey Shekhirin](https://github.com/shekhirin/) | 1 | |
+| [Alexey Shekhirin](https://github.com/shekhirin/) | 0.5 | |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dan Cline](https://github.com/rjected/) | 1 | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
