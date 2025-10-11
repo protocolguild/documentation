@@ -32,14 +32,13 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Consensus** (2 contributors) | | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
-| **Cryptography** (7 contributors) | | |
+| **Cryptography** (6 contributors) | | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | |
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| [Mark Simkin](https://msimkin.github.io) | 0.5 | [msimkin/pglanding-mark](https://msimkin.github.io) |
 | **Networking** (4 contributors) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
