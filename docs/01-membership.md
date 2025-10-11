@@ -165,7 +165,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Dan Cline](https://github.com/rjected/) | 1 | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
-| [Federico Gimenez](https://github.com/fgimenez) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
+| [Federico Gimenez](https://github.com/fgimenez) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 | [Roman Hodulák](https://github.com/RomanHodulak) | 0.5 | |
 | **CONSENSUS CLIENTS** | | Other contributions |
@@ -274,7 +274,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 To satisfy our requirements, working groups and members must:
 
-- Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness 
+- Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness
 - Be fully open source under an Open Source Initiative (OSI) [approved License](https://opensource.org/licenses)
 - Have a regular presence in Ethereum R&D or governance venues like [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/), [protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop, etc.)
 - Be engaged in feature prototyping (e.g. [EIPs](https://github.com/ethereum/eips), devnets, etc.)
@@ -283,7 +283,7 @@ To satisfy our requirements, working groups and members must:
 
 ### Additional Context
 
-The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accommodating to what is the core protocol, but not any broader. 
+The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accommodating to what is the core protocol, but not any broader.
 - One frame is "strictly necessary and existential software required to produce blocks and advance the chain" (eg. MEV boost and light clients are omitted here as they are not required for local block production and are not implicated in consensus activities). The vast majority of PG funded work meets this definition, though there are some exceptions.
 - This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
 - Contributing to the working groups above above does not guarantee Protocol Guild membership.
@@ -301,7 +301,7 @@ Changing the eligibility framework can be made through a PR to the [documentatio
 - Eligibility start date for the project (if being added)
 - Summary of why this project should be considered eligible/ineligible
 
-The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project. 
+The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project.
 
 ### Adding and removing members
 
