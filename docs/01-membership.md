@@ -229,7 +229,7 @@ Individuals from active working groups produce the membership by opting into Pro
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
 - 5 Working Groups, 23 contributors
-- Venue: ADCT
+- Venue: ACDT
 - Artifacts: Dev/testnets
 
 | **Dev/Testnets** (8 contributors) | Weight | Other contributions |
