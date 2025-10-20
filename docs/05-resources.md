@@ -20,6 +20,8 @@ Or, see all media from over the years below:
 
 | Longform Writing + Articles | Venue | Date |
 |:----|:----|----:|
+| [Ethereum Developers Earn 50-60% Less Than Market Rates: Protocol Guild](https://thedefiant.io/news/blockchains/ethereum-devs-earn-50-60-less-than-market-rates-protocol-guild) | The Defiant | Sept 9 2025 |
+| [‘Criminally Underpaid’: Report Highlights Ethereum Dev Pay Gap](https://blockworks.co/news/important-ethereum-devs-underpaid) | Blockworks | Sept 9 2025 |
 | [Protocol Guild Has Distributed $20M To Support Ethereum Development](https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development) | The Defiant | Nov 7 2024 |
 | [Aggregation & atomization: dependency funding round dynamics](https://trent.mirror.xyz/ia1sSXWw6Q_0gseWhPDpt0WbsOadCfQ-23yAxNn4sXA) | Mirror | Oct 31 2024 |
 | [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) | Mirror | Oct 10 2024 |
