@@ -31,6 +31,7 @@ Or, see all media from over the years below:
 
 | Presentations (Audio + Video) | Event | Date |
 |:----|:----|----:|
+| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | Crypto and Blockchain Economics Research (CBER) Forum | Oct 17 2025 |
 | [Protocol Guild: 3 years of impact & Institution Building](https://www.youtube.com/watch?v=JE1yMXAwZs0) | Dappcon | June 16 2025 |
 | [Ethereum Protocol Capture Risks](https://www.youtube.com/watch?v=Zlz8_A8urD0) | Protocol Berg v2 | June 13 2025 |
 | [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver | Feb 27 2025 |
