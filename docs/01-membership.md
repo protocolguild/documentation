@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 11 Working Groups, 36 contributors
+- 9 Working Groups, 41 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -22,17 +22,8 @@ Individuals from active working groups produce the membership by opting into Pro
     - Supporting a research direction that satisfies the criteria outlined above
     - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
-|**Architecture & Coordination** (5 contributors) |**Weight** |**Other contributions** |
+| **Cryptography Research** (7 contributors) |**Weight** |**Other contributions** |
 |:---|:---|:---|
-| [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
-| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
-| [Dankrad Feist](https://github.com/dankrad/) | 1 | |
-| [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
-| [Justin Drake](https://github.com/justindrake/) | 1 | |
-| **Consensus** (2 contributors) | | |
-| [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
-| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
-| **Cryptography** (7 contributors) | | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | |
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
@@ -40,27 +31,37 @@ Individuals from active working groups produce the membership by opting into Pro
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
-| **Networking** (4 contributors) | | |
+| **P2P Networking** (4 contributors) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
-| **Mechanism Design** (5 contributors) | | |
+|**Protocol Architecture** (5 contributors) | | |
+| [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
+| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
+| [Dankrad Feist](https://github.com/dankrad/) | 1 | |
+| [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
+| [Justin Drake](https://github.com/justindrake/) | 1 | |
+| **Protocol Consensus** (2 contributors) | | |
+| [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
+| [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
+| **Protocol Prototyping** (6 contributors) | | |
+| [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
+| [Jihoon Song](https://github.com/jihoonsong) | 1 | |
+| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
+| [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
+| [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
+| [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
+| **Robust Incentive Group (RIG)** (5 contributors) | | |
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | [rig.ethereum.org/all-works/julian](https://rig.ethereum.org/all-works/julian) |
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
-| **Prototyping** (6 contributors) | | |
-| [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
-| [Jihoon Song](https://github.com/jihoonsong) | 1 | |
-| [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
-| [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
-| [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
-| [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
-| **Statelessness** (3 contributors) | | |
-| [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
+| **Stateless Consensus** (4 contributors) | | |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
+| [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
+| [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
 | [Wei Han Ng](https://github.com/weiihann) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) |
 | **Uncategorized** (2 contributors) | | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
@@ -249,8 +250,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-|**EthereumJS** (3 contributors)| | |
-| [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
+|**EthereumJS** (1 contributor)| | |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | **Security** (6 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
