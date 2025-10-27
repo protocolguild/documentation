@@ -26,7 +26,6 @@ Individuals from active working groups produce the membership by opting into Pro
 |:---|:---|:---|
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
-| [Dankrad Feist](https://github.com/dankrad/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
 | **Consensus** (2 contributors) | | |
