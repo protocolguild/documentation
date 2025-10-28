@@ -35,7 +35,7 @@ Or, see all media from over the years below:
 | [Protocol Guild: 3 years of impact & Institution Building](https://www.youtube.com/watch?v=JE1yMXAwZs0) | Dappcon | June 16 2025 |
 | [Ethereum Protocol Capture Risks](https://www.youtube.com/watch?v=Zlz8_A8urD0) | Protocol Berg v2 | June 13 2025 |
 | [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver | Feb 27 2025 |
-| [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zuri | Jan 30 2025 |
+| [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zurich | Jan 30 2025 |
 | [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | ETHKL 2024 | Oct 05 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QfbIt3r9Qdo) | EDCON 2024 | Jul 29 2024 |
@@ -57,6 +57,7 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [Episode 29: Securing the Future of Ethereum Core Development](https://www.youtube.com/watch?v=HiS1wgyWDs8) | Deeply Intents | Oct 25 2025 |
 | [New Institutions Roundtable: mechanisms, publics, and the state of the protocol institution](https://otherinternet.substack.com/p/new-institutions-roundtable) | Other Internet | Aug 11 2025 |
 | [Infinite Garden w/ Shape and Protocol Guild](https://x.com/i/broadcasts/1djxXVyOXVNGZ) | X Space | Mar 26 2025 |
 | [Epoch 6 Projects Space](https://x.com/i/spaces/1ynKODDNaVXGR/peek) | X Space | Jan 21 2025 |
