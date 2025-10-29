@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 41 contributors
+- 9 Working Groups, 40 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -58,9 +58,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Julian Ma](https://github.com/Ma-Julian) | 1 | [rig.ethereum.org/all-works/julian](https://rig.ethereum.org/all-works/julian) |
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
-| **Stateless Consensus** (4 contributors) | | |
+| **Stateless Consensus** (3 contributors) | | |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
-| [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
 | [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
 | [Wei Han Ng](https://github.com/weiihann) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) |
 | **Uncategorized** (2 contributors) | | |
@@ -231,7 +230,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 23 contributors
+- 5 Working Groups, 24 contributors
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
@@ -252,7 +251,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Spencer Taylor-Brown](https://github.com/spencer-tb/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-|**EthereumJS** (1 contributor)| | |
+|**EthereumJS** (2 contributors)| | |
+| [Gabriel](https://github.com/gabrocheleau/) | 0.5 | |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 | **Security** (6 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
