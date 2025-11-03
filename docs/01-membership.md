@@ -36,10 +36,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
 | [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
-|**Protocol Architecture** (5 contributors) | | |
+|**Protocol Architecture** (4 contributors) | | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
-| [Dankrad Feist](https://github.com/dankrad/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
 | **Protocol Consensus** (2 contributors) | | |
