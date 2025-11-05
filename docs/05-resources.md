@@ -57,6 +57,7 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [Episode 3: Commons - Yancey Strickler & Trent Van Epps](https://youtube.com/watch?v=4xZSeujEmig) | Bridge Atlas (Summer of Protocols) | Nov 4 2025 |
 | [Episode 29: Securing the Future of Ethereum Core Development](https://www.youtube.com/watch?v=HiS1wgyWDs8) | Deeply Intents | Oct 25 2025 |
 | [New Institutions Roundtable: mechanisms, publics, and the state of the protocol institution](https://otherinternet.substack.com/p/new-institutions-roundtable) | Other Internet | Aug 11 2025 |
 | [Infinite Garden w/ Shape and Protocol Guild](https://x.com/i/broadcasts/1djxXVyOXVNGZ) | X Space | Mar 26 2025 |
