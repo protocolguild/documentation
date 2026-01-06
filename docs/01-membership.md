@@ -109,8 +109,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Povilas Liubauskas](https://github.com/povi) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Tumas](https://github.com/tumas) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
-| **Lighthouse** (11 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
+| **Lighthouse** (12 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
+| [Chonghe](https://github.com/chong-he/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Achong-he) |
 | [dapplion](https://github.com/dapplion/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Adapplion), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Adapplion), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapplion) |
 | [Eitan Seri-Levi](https://github.com/eserilev/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeserilev) |
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimmygchen) |
