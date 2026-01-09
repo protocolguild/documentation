@@ -44,7 +44,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Protocol Consensus** (2 contributors) | | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
-| **Protocol Prototyping** (6 contributors) | | |
+| **Protocol Prototyping** (7 contributors) | | |
+| [Bharath Vedartham](https://github.com/bharath-123/) | 1 | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
 | [Jihoon Song](https://github.com/jihoonsong) | 1 | |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
