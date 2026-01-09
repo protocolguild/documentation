@@ -225,6 +225,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
 | [Federico Gimenez](https://github.com/fgimenez) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
+| [Brian Picciano](https://github.com/mediocregopher) | 1.0 | |
 | [Roman Hodulák](https://github.com/RomanHodulak) | 0.5 | |
 
 ## UPGRADE DELIVERY
