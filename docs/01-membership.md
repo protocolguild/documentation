@@ -178,7 +178,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Tullio Canepa](https://github.com/canepat/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) |
 | [lupin012](https://github.com/lupin012/) | 0.5 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012) |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
-| **Geth** (6 contributors) | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) |
+| **Geth** (7 contributors) | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) |
+| [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
 | [Jared Wasinger](https://github.com/jwasinger/) | 1 | EF, [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ajwasinger) |
