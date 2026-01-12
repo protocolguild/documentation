@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 40 contributors
+- 9 Working Groups, 39 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -31,10 +31,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
-| **P2P Networking** (4 contributors) | | |
+| **P2P Networking** (3 contributors) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
-| [Pop Chunhapanya](https://github.com/ppopth/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
 |**Protocol Architecture** (4 contributors) | | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
@@ -273,7 +272,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 We're grateful to our former members who have helped us bootstrap Protocol Guild while building Ethereum for the world. ❤️
 
-[Aditya Asgaonkar](https://github.com/adiasg) [Andrei Maiboroda](https://github.com/gumb0) [Andrew Day](https://github.com/acolytec3) [axic](https://github.com/axic) [battlmonstr](https://github.com/battlmonstr) [Courtney Hunter](https://github.com/courtneyeh) [czhang-fm](https://github.com/czhang-fm) [danny ryan](https://github.com/djrtwo) [dceleda](https://github.com/dceleda) [domothy](https://github.com/domothyb) [dtheo](https://github.com/infosecual) [Echo](https://github.com/EchoAlice) [emhane](https://github.com/emhane) [g11tech](https://github.com/g11tech) [Holger Drewes](https://github.com/holgerd77) [Hsiao-Wei Wang](https://github.com/hwwhww) [Hugo De la cruz](https://github.com/hugo-dc) [Jacek Glen](https://github.com/JacekGlen) [jacobkaufmann](https://github.com/jacobkaufmann) [Jason Carver](https://github.com/carver) [Jim McDonald](https://github.com/mcdee) [Jorge Mederos](https://github.com/jmederosalvarado) [joshie](https://github.com/joshieDo) [Karim Taam](https://github.com/matkt) [Kolby Moroz Liebl](https://github.com/KolbyML) [Mateusz Jędrzejewski](https://github.com/matilote) [Matt Nelson](https://github.com/non-fungible-nelson) [Michael Ferris](https://github.com/mrferris) [mikeneuder](https://github.com/michaelneuder) [mmaller](https://github.com/mmaller) [nghita](https://github.com/njgheorghita) [Nishant Das](https://github.com/nisdas) [Ognyan Genev](https://github.com/ogenev) [pdobacz](https://github.com/pdobacz) [Peter Szilagyi](https://github.com/karalabe) [racytech](https://github.com/racytech) [Sammy Rosso](https://github.com/saolyn) [tkstanczak](https://github.com/tkstanczak) [wdimitry](https://github.com/winsvega) [Zahary Karadjov](https://github.com/zah) [zhenfei zhang](https://github.com/zhenfeizhang)
+[Aditya Asgaonkar](https://github.com/adiasg) [Andrei Maiboroda](https://github.com/gumb0) [Andrew Day](https://github.com/acolytec3) [axic](https://github.com/axic) [battlmonstr](https://github.com/battlmonstr) [Courtney Hunter](https://github.com/courtneyeh) [czhang-fm](https://github.com/czhang-fm) [danny ryan](https://github.com/djrtwo) [dceleda](https://github.com/dceleda) [domothy](https://github.com/domothyb) [dtheo](https://github.com/infosecual) [Echo](https://github.com/EchoAlice) [emhane](https://github.com/emhane) [g11tech](https://github.com/g11tech) [Holger Drewes](https://github.com/holgerd77) [Hsiao-Wei Wang](https://github.com/hwwhww) [Hugo De la cruz](https://github.com/hugo-dc) [Jacek Glen](https://github.com/JacekGlen) [jacobkaufmann](https://github.com/jacobkaufmann) [Jason Carver](https://github.com/carver) [Jim McDonald](https://github.com/mcdee) [Jorge Mederos](https://github.com/jmederosalvarado) [joshie](https://github.com/joshieDo) [Karim Taam](https://github.com/matkt) [Kolby Moroz Liebl](https://github.com/KolbyML) [Mateusz Jędrzejewski](https://github.com/matilote) [Matt Nelson](https://github.com/non-fungible-nelson) [Michael Ferris](https://github.com/mrferris) [mikeneuder](https://github.com/michaelneuder) [mmaller](https://github.com/mmaller) [nghita](https://github.com/njgheorghita) [Nishant Das](https://github.com/nisdas) [Ognyan Genev](https://github.com/ogenev) [pdobacz](https://github.com/pdobacz) [Peter Szilagyi](https://github.com/karalabe) [Pop Chunhapanya](https://github.com/ppopth/) [racytech](https://github.com/racytech) [Sammy Rosso](https://github.com/saolyn) [tkstanczak](https://github.com/tkstanczak) [wdimitry](https://github.com/winsvega) [Zahary Karadjov](https://github.com/zah) [zhenfei zhang](https://github.com/zhenfeizhang)
 
 ## 1.2 Eligibility Requirements
 
