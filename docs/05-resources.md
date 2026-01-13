@@ -20,6 +20,8 @@ Or, see all media from over the years below:
 
 | Longform Writing + Articles | Venue | Date |
 |:----|:----|----:|
+| [Ethereum Developers Earn 50-60% Less Than Market Rates: Protocol Guild](https://thedefiant.io/news/blockchains/ethereum-devs-earn-50-60-less-than-market-rates-protocol-guild) | The Defiant | Sept 9 2025 |
+| [‘Criminally Underpaid’: Report Highlights Ethereum Dev Pay Gap](https://blockworks.co/news/important-ethereum-devs-underpaid) | Blockworks | Sept 9 2025 |
 | [Protocol Guild Has Distributed $20M To Support Ethereum Development](https://thedefiant.io/news/blockchains/protocol-guild-has-distributed-usd20m-to-support-ethereum-development) | The Defiant | Nov 7 2024 |
 | [Aggregation & atomization: dependency funding round dynamics](https://trent.mirror.xyz/ia1sSXWw6Q_0gseWhPDpt0WbsOadCfQ-23yAxNn4sXA) | Mirror | Oct 31 2024 |
 | [Protocol Guild: a funding framework for the Ethereum commons](https://trent.mirror.xyz/Lehny46ZMdxMEow0XE_RgowV2ntkp30chJRWPCEYbGQ) | Mirror | Oct 10 2024 |
@@ -29,8 +31,11 @@ Or, see all media from over the years below:
 
 | Presentations (Audio + Video) | Event | Date |
 |:----|:----|----:|
-| [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver 2025 | Feb 27 2025 |
-| [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zuri | Jan 30 2025 |
+| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | Crypto and Blockchain Economics Research (CBER) Forum | Oct 17 2025 |
+| [Protocol Guild: 3 years of impact & Institution Building](https://www.youtube.com/watch?v=JE1yMXAwZs0) | Dappcon | June 16 2025 |
+| [Ethereum Protocol Capture Risks](https://www.youtube.com/watch?v=Zlz8_A8urD0) | Protocol Berg v2 | June 13 2025 |
+| [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver | Feb 27 2025 |
+| [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zurich | Jan 30 2025 |
 | [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=ZIXQJmBwSrM) | ETHKL 2024 | Oct 05 2024 |
 | [Protocol Guild: Funding Core Protocol Stewardship](https://www.youtube.com/watch?v=QfbIt3r9Qdo) | EDCON 2024 | Jul 29 2024 |
@@ -52,6 +57,8 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [Episode 3: Commons - Yancey Strickler & Trent Van Epps](https://youtube.com/watch?v=4xZSeujEmig) | Bridge Atlas (Summer of Protocols) | Nov 4 2025 |
+| [Episode 29: Securing the Future of Ethereum Core Development](https://www.youtube.com/watch?v=HiS1wgyWDs8) | Deeply Intents | Oct 25 2025 |
 | [New Institutions Roundtable: mechanisms, publics, and the state of the protocol institution](https://otherinternet.substack.com/p/new-institutions-roundtable) | Other Internet | Aug 11 2025 |
 | [Infinite Garden w/ Shape and Protocol Guild](https://x.com/i/broadcasts/1djxXVyOXVNGZ) | X Space | Mar 26 2025 |
 | [Epoch 6 Projects Space](https://x.com/i/spaces/1ynKODDNaVXGR/peek) | X Space | Jan 21 2025 |
