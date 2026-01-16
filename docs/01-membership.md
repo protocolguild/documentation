@@ -164,7 +164,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
-| [Bartosz Zawistowski](https://github.com/bzawisto/) | 1 | [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Abzawisto) |
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
