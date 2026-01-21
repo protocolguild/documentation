@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 39 contributors
+- 9 Working Groups, 38 contributors
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -65,11 +65,10 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Uncategorized** (2 contributors) | | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| **zkEVM** (5 contributors) | | |
+| **zkEVM** (4 contributors) | | |
 | [Cody Gunton](https://github.com/codygunton) | 1 | [zkevm-test-monitor](https://eth-act.github.io/zkevm-test-monitor/), [eth-act/cazkade](https://github.com/eth-act/cazkade), [risc0/risc0](https://github.com/risc0/risc0/), [risc0/zirgen](https://github.com/risc0/zirgen/pulls?q=is%3Apr+author%3Acodygunton+is%3Aclosed), [ethmag](https://ethereum-magicians.org/u/codygunton/activity), [ethresearch](https://ethresear.ch/t/before-jumping-on-the-riscv-bandwagon/22230/4)
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=author%3Ajsign) ([legacy repo](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajsign)), [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Ajsign), [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload/pulls?q=author%3Ajsign), [eth-act/ere](https://github.com/eth-act/ere/pulls?q=author%3Ajsign), [eth-act/zkboost](https://github.com/eth-act/zkboost/pulls?q=author%3Ajsign) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
-| [Sophia Gold](https://github.com/Sophia-Gold) | 1 | [realtime-proving](https://blog.ethereum.org/2025/07/10/realtime-proving), [EIP-7935](https://eips.ethereum.org/EIPS/eip-7935) |
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)| 
 
 ## GOVERNANCE
@@ -331,6 +330,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Roman Krasiuk](https://github.com/rkrasiuk)
 - [Raul Jordan](https://github.com/rauljordan)
 - [Sammy Rosso](https://github.com/saolyn)
+- [Sophia Gold](https://github.com/Sophia-Gold)
 - [Tanishq Jasoria](https://github.com/tanishqjasoria)
 - [Taran Singh](https://github.com/Taranpreet26311)
 - [tkstanczak](https://github.com/tkstanczak)
