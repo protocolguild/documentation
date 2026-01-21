@@ -274,69 +274,31 @@ Individuals from active working groups produce the membership by opting into Pro
 
 We're grateful to our former members who have helped us bootstrap Protocol Guild while building Ethereum for the world. ❤️
 
-- [Aditya Asgaonkar](https://github.com/adiasg)
-- [Adrian Manning](https://github.com/AgeManning)
-- [Amir Ghorbanian](https://github.com/am1r021)
-- [Andrei Maiboroda](https://github.com/gumb0)
-- [Andrew Day](https://github.com/acolytec3)
-- [axic](https://github.com/axic)
-- [Bartosz Zawistowski](https://github.com/bzawisto)
-- [battlmonstr](https://github.com/battlmonstr)
-- [Courtney Hunter](https://github.com/courtneyeh)
-- [czhang-fm](https://github.com/czhang-fm)
-- [Danno Ferrin](https://github.com/shemnon)
-- [danny ryan](https://github.com/djrtwo)
-- [Davide Crapis](https://github.com/dcrapis)
-- [dceleda](https://github.com/dceleda)
-- [Daniel Lazarenko](https://github.com/battlmonstr)
-- [Dankrad Feist](https://github.com/dankrad)
-- [Dmitriy Ryajov](https://github.com/dryajov)
-- [domothy](https://github.com/domothyb)
-- [dtheo](https://github.com/infosecual)
-- [Echo](https://github.com/EchoAlice)
-- [emhane](https://github.com/emhane)
-- [g11tech](https://github.com/g11tech)
-- [Holger Drewes](https://github.com/holgerd77)
-- [Hsiao-Wei Wang](https://github.com/hwwhww)
-- [Hugo De la cruz](https://github.com/hugo-dc)
-- [Jacek Glen](https://github.com/JacekGlen)
-- [jacobkaufmann](https://github.com/jacobkaufmann)
-- [Jason Carver](https://github.com/carver)
-- [Jim McDonald](https://github.com/mcdee)
-- [Jorge Mederos](https://github.com/jmederosalvarado)
-- [joshie](https://github.com/joshieDo)
-- [Kolby Moroz Liebl](https://github.com/KolbyML)
-- [Leonardo Bautista-Gomez](https://github.com/leobago)
-- [Mark Simkin](https://msimkin.github.io)
-- [Mateusz Jędrzejewski](https://github.com/matilote)
-- [Matt Nelson](https://github.com/non-fungible-nelson)
-- [Mehdi Zerouali](https://github.com/zedt3ster)
-- [Michael Ferris](https://github.com/mrferris)
-- [mikeneuder](https://github.com/michaelneuder)
-- [mmaller](https://github.com/mmaller)
-- [nghita](https://github.com/njgheorghita)
-- [Nishant Das](https://github.com/nisdas)
-- [Ognyan Genev](https://github.com/ogenev)
-- [Paul Hauner](https://github.com/paulhauner)
-- [pdobacz](https://github.com/pdobacz)
-- [Piper Merriam](https://github.com/pipermerriam)
-- [Piotr Dobaczewski](https://github.com/pdobacz)
-- [Peter Szilagyi](https://github.com/karalabe)
-- [Pop Chunhapanya](https://github.com/ppopth)
-- [racytech](https://github.com/racytech)
-- [Radosław Kapka](https://github.com/rkapka)
-- [Radosław Zagórowicz](https://github.com/rodiazet)
-- [Roman Hodulák](https://github.com/RomanHodulak)
-- [Roman Krasiuk](https://github.com/rkrasiuk)
-- [Raul Jordan](https://github.com/rauljordan)
-- [Sammy Rosso](https://github.com/saolyn)
-- [Sophia Gold](https://github.com/Sophia-Gold)
-- [Tanishq Jasoria](https://github.com/tanishqjasoria)
-- [Taran Singh](https://github.com/Taranpreet26311)
-- [tkstanczak](https://github.com/tkstanczak)
-- [wdimitry](https://github.com/winsvega)
-- [Zahary Karadjov](https://github.com/zah)
-- [zhenfei zhang](https://github.com/zhenfeizhang)
+| | | | |
+| :--- | :--- | :--- | :--- |
+| [Aditya Asgaonkar](https://github.com/adiasg) | [Adrian Sutton](https://github.com/ajsutton) | [Afri](https://github.com/q9f) | [AgeManning](https://github.com/agemanning) |
+| [Andrei Maiboroda](https://github.com/gumb0) | [Andrew Day](https://github.com/acolytec3) | [Artem Vorotnikov](https://github.com/vorot93) | [axic](https://github.com/axic) |
+| [Bartosz Zawistowski](https://github.com/bzawisto) | [battlmonstr](https://github.com/battlmonstr) | [Ben Edgington](https://github.com/benjaminion) | [Courtney Hunter](https://github.com/courtneyeh) |
+| [czhang-fm](https://github.com/czhang-fm) | [Dadepo Aderemi](https://github.com/dadepo) | [Daniel Kirchner](https://github.com/ekpyron) | [dankrad](https://github.com/dankrad) |
+| [Danno Ferrin](https://github.com/shemnon) | [danny ryan](https://github.com/djrtwo) | [Davide Crapis](https://github.com/dcrapis) | [dceleda](https://github.com/dceleda) |
+| [Diva Martínez](https://github.com/divagant-martian) | [domothy](https://github.com/domothyb) | [dryajov](https://github.com/dryajov) | [dtheo](https://github.com/infosecual) |
+| [Echo](https://github.com/EchoAlice) | [emhane](https://github.com/emhane) | [Enrique Avila Asapche](https://github.com/enriavil1) | [Felix Lange](https://github.com/fjl) |
+| [g11tech](https://github.com/g11tech) | [Harikrishnan Mulackal](https://github.com/hrkrshnn) | [Henri Dubois-Ferriere](https://github.com/henridf) | [Holger Drewes](https://github.com/holgerd77) |
+| [Hsiao-Wei Wang](https://github.com/hwwhww) | [Hugo De la cruz](https://github.com/hugo-dc) | [Jacek Glen](https://github.com/JacekGlen) | [jacobkaufmann](https://github.com/jacobkaufmann) |
+| [Jamie Lokier](https://github.com/jlokier) | [Jason Carver](https://github.com/carver) | [Jim McDonald](https://github.com/mcdee) | [Jiri Peinlich](https://github.com/gezero) |
+| [Johnson Ugwuru](https://github.com/ogwurujohnson) | [Jorge Mederos](https://github.com/jmederosalvarado) | [joshie](https://github.com/joshieDo) | [Kaan Uzdogan](https://github.com/kuzdogan) |
+| [Kamil Sliwak](https://github.com/cameel) | [Karim Taam](https://github.com/matkt) | [Kolby Moroz Liebl](https://github.com/KolbyML) | [Konrad Staniec](https://github.com/konradstaniec) |
+| [Kristof Gazso](https://github.com/kristofgaszo) | [Leonardo Bautista-Gomez](https://github.com/leobago) | [Leonardo de Sa Alt](https://github.com/leonardoalt) | [Mamy Ratsimbazafy](https://github.com/mratsim) |
+| [Mark Simkin](https://github.com/msimkin) | [Martin Swende](https://github.com/holiman) | [Mateusz Jędrzejewski](https://github.com/matilote) | [Matt Nelson](https://github.com/non-fungible-nelson) |
+| [Mehdi Zerouali](https://github.com/zedt3ster) | [Micah](https://github.com/micahzoltu) | [Michael Ferris](https://github.com/mrferris) | [mikeneuder](https://github.com/michaelneuder) |
+| [mmaller](https://github.com/mmaller) | [Mohamed Zahoor](https://github.com/jmozah) | [nghita](https://github.com/njgheorghita) | [Nishant Das](https://github.com/nisdas) |
+| [Ognyan Genev](https://github.com/ogenev) | [paulhauner](https://github.com/paulhauner) | [pdobacz](https://github.com/pdobacz) | [Peter Szilagyi](https://github.com/karalabe) |
+| [Piper Merriam](https://github.com/pipermerriam) | [Pop](https://github.com/ppopth) | [Proto](https://github.com/protolambda) | [racytech](https://github.com/racytech) |
+| [Radosław Kapka](https://github.com/rkapka) | [Raul Jordan](https://github.com/rauljordan) | [rodiazet](https://github.com/rodiazet) | [Roman Krasiuk](https://github.com/rkrasiuk) |
+| [RomanHodulak](https://github.com/RomanHodulak) | [Ryan Ghods](https://github.com/ryanio) | [Sammy Rosso](https://github.com/saolyn) | [Sarah Liu](https://github.com/avalonche) |
+| [scorbajio](https://github.com/scorbajio) | [Somu Bhargava](https://github.com/bhargavasomu) | [Sophia Gold](https://github.com/Sophia-Gold) | [Ștefan Talpalaru](https://github.com/stefantalpalaru) |
+| [Tanishq Jasoria](https://github.com/tanishqjasoria) | [Taran Singh](https://github.com/Taranpreet26311) | [tkstanczak](https://github.com/tkstanczak) | [Voith](https://github.com/voith) |
+| [wdimitry](https://github.com/winsvega) | [Zahary Karadjov](https://github.com/zah) | [zhenfei zhang](https://github.com/zhenfeizhang) | |
 
 ## 1.2 Eligibility Requirements
 
