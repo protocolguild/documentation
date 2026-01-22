@@ -121,14 +121,13 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
 | [Sean Anderson](https://github.com/realbigsean/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
-| **Lodestar** (8 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar), [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z) |
+| **Lodestar** (7 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar), [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z) |
 | [Bing](https://github.com/spiral-ladder) | 1 | [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z/pulls?q=author%3Aspiral-ladder) |
 | [Cayman Nava](https://github.com/wemeetagain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
 | [Matthew Keil](https://github.com/matthewkeil) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
 | [NC](https://github.com/ensi321) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
 | [Nazar Hussain](https://github.com/nazarhussain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
 | [Nico Flaig](https://github.com/nflaig) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anflaig) |
-| [Phil Ngo](https://github.com/philknows/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aphilknows) |
 | [twoeths](https://github.com/twoeths/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Atwoeths) |
 | **Nimbus** (10 contributors) | | |
 | [Advaita Saha](https://github.com/advaita-saha) | 1 | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Aadvaita-saha) |
