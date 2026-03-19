@@ -50,20 +50,14 @@ Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, 
 
 ## 3.3 Protocol Guild Pledge
 
-Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. 
+Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. You can read about the Protocol Guild Pledge [here](https://www.protocolguild.org/blog/20240130-protocol-guild-pledge).
 
 Projects taking the pledge can donate their tokens into this 4-year vesting contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
-
-You can read about the Protocol Guild Pledge here: 
-[https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng](https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng)
-
-You can see projects that have already taken the pledge here: 
-[https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge](https://dune.com/protocolguild/protocol-guild#protocol-guild-pledge)
 
 ### How to take the Pledge?
 
 Projects that don't have a token yet can take the pledge by making a public commitment to donate 1% of a future token to the Protocol Guild. You can see an example of this [here](https://x.com/taikoxyz/status/1755609928167981330).
 
-Projects that already have a token can take the pledge by donating 1% of its supply to one of the donation addresses indicated above. 
+Projects that already have a token can take the pledge by donating 1% of its supply to the donation addresses indicated above. 
 
-If you have questions about taking the pledge, please reach out on [Discord](https://discord.com/invite/HaUhXYsMyC), [Twitter](https://x.com/ProtocolGuild) or [Farcaster](https://warpcast.com/protocolguild).
+If you have questions about taking the pledge, please email pledge [at] protocolguild.org.
