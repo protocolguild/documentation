@@ -1,10 +1,10 @@
 # 2. Smart Contract Architecture
 
-This section describes the Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot-smart-contract-architecture).
+This section describes Protocol Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot-smart-contract-architecture).
 
-Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations pass through a [4-year vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/) on mainnet, which vests funds into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership.
+Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations are deposited into immutable vesting contracts, which vest funds into pass-through wallets, before being transferred to split contracts for distribution to the membership.
 
-The split contract itself also serves as the Guild’s onchain membership registry of Ethereum’s active L1 R&D maintainers, while a [Moloch v3 DAO](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members) is used to ratify changes to the membership onchain.
+The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active L1 R&D maintainers. An [Agora DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
 
 ## 2.1 Modules
 
@@ -14,24 +14,29 @@ The Guild’s smart contract architecture is modularized as follows:
 
 ### Vesting Contract
 
-The Guild’s donation addresses on Ethereum mainnet, Arbitrum, Base and Optimism are immutable vesting contract, built by the [Splits](https://splits.org/) team, which irrevocably vests donated funds on a linear (block-by-block), basis over 4 years. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership. Anyone can donate ETH and ERC-20 tokens to these  vesting contract.
+The Guild’s donation addresses on Ethereum mainnet, Arbitrum, Base and Optimism are immutable vesting contract, built by the [Splits](https://splits.org/) team, which irrevocably vests donated funds on a linear (block-by-block), basis. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership. Anyone can donate ETH and ERC-20 tokens to these  vesting contract.
 
 **NFT donations are not supported** - standard NFT transfers (safeTransfer) will be rejected by the contract (i.e. meaning the transaction will fail), while non-safeTransfer NFT donations will be lost.
 
 **How it works:**
 - Donated tokens will accrue in a per-asset queue until a vesting stream is started for that batch of tokens, by triggering the `startStream` function (permissionless, as in any actor can trigger this function, regardless of whether they are a Guild member)
-- Once the vesting stream is started, the tokens will vest linearly over 4 years, and anyone can permissionlessly trigger `releaseStream` to push any vested tokens into a pass-through wallet (this must be done per vesting stream)
+- Once the vesting stream is started, the tokens will vest linearly, and anyone can permissionlessly trigger `releaseStream` to push any vested tokens into a pass-through wallet (this must be done per vesting stream)
 - Official documentation: [https://docs.splits.org/core/vesting](https://docs.splits.org/core/vesting)
 
 All donated tokens are thus forced to vest - there is no way to do anything with them until they are vested into the pass-through wallet.
 
 **Deployed Vesting Contracts:**
 
-- Mainnet: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+- Mainnet
+  - 1-Year Vest: [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)
+  - 4-Year Vest: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
   - Deprecated: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
-- Arbitrum: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
-- Base: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
-- Optimism: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
+- Arbitrum
+  - 4-Year Vest: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+- Base
+  - 4-Year Vest: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+- Optimism
+  - 4-Year Vest: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
   - Deprecated: [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
 
 ### Pass-Through Wallet
@@ -79,22 +84,22 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 - Optimism: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
   - Deprecated: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
   
-### Moloch v3 DAO
+### DAO
 
-The Guild uses [DAOhaus'](https://daohaus.club/) Moloch V3 contracts for onchain governance. The DAO includes all Guild members, with one person one vote, including vote delegation.
+The Guild uses an [Agora DAO](http://gov.protocolguild.org/) for onchain governance. The DAO includes all Guild members, with one person one vote, including vote delegation.
 
 The DAO does not keep track of member weights, nor does it hold any funds. Currently, it is only used to ratify changes to the membership onchain. These changes are then processed by the Guild’s multisig (by updating the split contract).
 
 **How it works:**
 - Once a quarter, “Signal Proposals” are used to ratify changes to the membership onchain, which adjusts the DAO’s members in bulk (i.e. adding and removing members)
 - All proposals need to be sponsored by a DAO member before the voting period starts
-- The voting period lasts 5 days, with a 33% quorum required for proposals to pass
+- The voting period lasts 7 days, with a 33% quorum required for proposals to pass
 - Proposals that reach quorum have a 2-day grace period before they can be executed
-- Official documentation: [https://moloch.daohaus.fun/](https://moloch.daohaus.fun/)
 
 **Deployed DAOs:**
 
-- Mainnet: [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members)
+- Mainnet: [0x85d6bcc74877a1c6fc66a8cd14369f939663f68f](http://gov.protocolguild.org/) 
+  - Deprecated: Moloch V3 DAO [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members)
 
 ### Multisigs
 
@@ -168,9 +173,3 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
 - ZKsync
   - [PGv2 Donations: 0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8)
   - [PG Director's 2/3 0x42b6846549aC160a5c607193CC9d481ebb79edc7](https://app.safe.global/balances?safe=zksync:0x42b6846549aC160a5c607193CC9d481ebb79edc7)
-
-## 2.2 Future Updates
-
-Work is already underway on future iterations of the Guild’s smart contract architecture, to remove trusted components, manual input and offchain dependencies. The current modular architecture allows for these updates to be implemented in a gradual and secure way as and when ready. This documentation will also be updated at such time to reflect the changes being made.
-
-If you would like to help shape the future of the Guild’s smart contract architecture, please reach out on our [Discord](https://discord.com/invite/HaUhXYsMyC)!
