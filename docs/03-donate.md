@@ -8,14 +8,16 @@ All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/
 
 ## 3.1 Mainnet
 
-<b>[theprotocolguild.eth](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)<br>
-[0x25941dC771bB64514Fc8abBce970307Fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)</b>
+<b>[theprotocolguild.eth](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)<br>
+[0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)</b>
 
-[![Donate](https://github.com/cheeky-gorilla/documentation/assets/76262359/5b690222-f61c-4f6d-9dfd-d3b4972fd4aa)](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9)
+[![Donate](https://github.com/protocolguild/documentation/blob/main/assets/donate.png)](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
 
-The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 4 years. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html). 
+The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html).
 
-Important: The vesting contract only works with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed on mainnet, then please use this multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+For 1% Pledges, Protocol Guild also has a 4-year vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+
+Important: The vesting contracts only work with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed on mainnet, please use this multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ## 3.2 L2s / Other Chains
 
