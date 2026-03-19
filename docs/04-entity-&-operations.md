@@ -6,7 +6,7 @@ Protocol Guild incorporated a Cayman Islands-based legal entity in 2024, to help
 
 ## 4.2 Finances
 
-Protocol Guild's legal entity currently receives 10% of vested funds (as of Feb 21, 2026 - [tx link](https://etherscan.io/tx/0xaa7fd9e6ebb33b26f8140fd5836d9e17f9cae845ff51471745ecee2f8071894e)) to pay for the entity's legal and operational costs. The funds are received by the following 2/3 multisigs:
+Protocol Guild's legal entity currently receives 10% of vested funds (as of Feb 21, 2026 - [tx link](https://etherscan.io/tx/0xaa7fd9e6ebb33b26f8140fd5836d9e17f9cae845ff51471745ecee2f8071894e)) to pay for the entity's legal and operational costs. The funds are received by the following multisig accounts:
 
 - Mainnet
     - [0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=eth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
