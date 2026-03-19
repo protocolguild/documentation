@@ -11,11 +11,9 @@ All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/
 <b>[theprotocolguild.eth](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)<br>
 [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)</b>
 
-[![Donate](https://github.com/protocolguild/documentation/blob/main/assets/donate.png)](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
+[![Donate](https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/assets/donate.png)](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html).
-
-For larger donations, including 1% Pledges, Protocol Guild also has a 4-year vesting contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
 
 Important: The vesting contracts only work with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed on mainnet, please use this multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
@@ -53,6 +51,8 @@ Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, 
 ## 3.3 Protocol Guild Pledge
 
 Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. 
+
+Projects taking the pledge can donate their tokens into this 4-year vesting contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
 
 You can read about the Protocol Guild Pledge here: 
 [https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng](https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng)
