@@ -7,7 +7,7 @@ Protocol Guild is a collective funding mechanism for Ethereum's layer 1 R&D main
 2. A member registry
 3. Onchain donation contracts
 
-The eligibility framework determines which projects' contributors should receive a share of the funding. This framework can then be used to maintain an active member registry. The registry addresses and weights are regularly published onchain to a `split contract <https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/>`_, where funding (`vested <https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/>`_ over 4 years) can be claimed.
+The eligibility framework determines which projects' contributors should receive a share of the funding. This framework can then be used to maintain an active member registry. The registry addresses and weights are regularly published onchain to a `split contract <https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/>`_, where vested funding can be claimed.
 
 Protocol Guild is only concerned with managing the aforementioned components and soliciting funding to support the eligible work. The day-to-day stewardship discussions surrounding the Ethereum protocol continue to happen in other existing venues (All Core Devs calls, `ethresear.ch <https://ethresear.ch>`_, `Magician's forum <https://ethereum-magicians.org>`_ etc.), with the participation of a much broader set of contributors. Donations to the Protocol Guild have no bearing on stewardship decisions taking place in those existing venues.
 
@@ -18,7 +18,7 @@ Protocol Guild is a simple but powerful mechanism which allows Ethereum's layer 
 Donate
 ==================
 +----------------------+----------------------------------------------------------------------+
-| **Ethereum Mainnet** | `theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9`_ |
+| **Ethereum Mainnet** | `theprotocolguild.eth / 0x4EA88fa76848a8BBAB72613d4171df1eBcf68399`_ |
 +----------------------+----------------------------------------------------------------------+
 | **Arbitrum**         | `arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b`_                   |
 +----------------------+----------------------------------------------------------------------+
@@ -37,7 +37,7 @@ Donate
 | **Zora**             | `zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC`_                   |
 +----------------------+----------------------------------------------------------------------+
 
-.. _theprotocolguild.eth / 0x25941dC771bB64514Fc8abBce970307Fb9d477e9: https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9
+.. _theprotocolguild.eth / 0x4EA88fa76848a8BBAB72613d4171df1eBcf68399: https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/
 .. _arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b: https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161
 .. _base:0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD: https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453
 .. _oeth:0x58ae0925077527a87D3B785aDecA018F9977Ec34: https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10
