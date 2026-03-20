@@ -116,7 +116,8 @@ The DAO controls the Guild's PTW and split contracts on mainnet, but does otherw
 
 - Mainnet:
   - Agora DAO: [0x85d6bcc74877a1c6fc66a8cd14369f939663f68f](http://gov.protocolguild.org/) 
-  - Deprecated: Moloch V3 DAO [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members)
+  - Deprecated:
+    - Moloch V3 DAO [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members)
 
 ### Multisigs
 
