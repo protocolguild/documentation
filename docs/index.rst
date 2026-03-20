@@ -7,7 +7,7 @@ Protocol Guild is a collective funding mechanism for Ethereum's layer 1 R&D main
 2. A member registry
 3. Onchain donation contracts
 
-The eligibility framework determines which projects' contributors should receive a share of the funding. This framework can then be used to maintain an active member registry. The registry addresses and weights are regularly published onchain to a `split contract <https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/>`_, where vested funding can be claimed.
+The eligibility framework determines which projects' contributors should receive a share of the funding. This framework can then be used to maintain an active member registry. The registry addresses and weights are regularly published onchain to a `split contract <https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1>`_, where vested funding can be claimed.
 
 Protocol Guild is only concerned with managing the aforementioned components and soliciting funding to support the eligible work. The day-to-day stewardship discussions surrounding the Ethereum protocol continue to happen in other existing venues (All Core Devs calls, `ethresear.ch <https://ethresear.ch>`_, `Magician's forum <https://ethereum-magicians.org>`_ etc.), with the participation of a much broader set of contributors. Donations to the Protocol Guild have no bearing on stewardship decisions taking place in those existing venues.
 
@@ -47,7 +47,7 @@ Donate
 .. _zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8: https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8
 .. _zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC: https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC
 
-See `here <https://protocol-guild.readthedocs.io/en/latest/04-donate.html>`_ for more information on how to donate.
+See `here <https://protocol-guild.readthedocs.io/en/latest/03-donate.html>`_ for more information on how to donate.
 
 Table of Contents
 ===================
