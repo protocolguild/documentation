@@ -10,7 +10,7 @@ Protocol Guild's legal entity currently receives 10% of vested funds (as of Feb 
 
 - Mainnet
     - [0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=eth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
-    - Prior addresses:
+    - Deprecated:
         - [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=eth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B)
         - [0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99](https://app.safe.global/balances?safe=eth:0x69f4b27882eD6dc39E820acFc08C3d14f8e98a99)
 - Arbitrum
@@ -19,7 +19,7 @@ Protocol Guild's legal entity currently receives 10% of vested funds (as of Feb 
     - [0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/transactions/queue?safe=base:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
 - Optimism
     - [0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=oeth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
-    - Prior addresses:
+    - Deprecated:
         - [0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B](https://app.safe.global/balances?safe=oeth:0x0cDF1a78f00f56ba879D0aCc0FDa1789e415f23B)
 - Scroll
     - [0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/transactions/queue?safe=scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
@@ -33,7 +33,7 @@ The entity swaps its share of vested tokens on a monthly basis to maintain a sta
     - $12.5k/month to support cheeky-gorilla's contributions
     - $10.5k/month to support Peter Vechiarrelli's contributions
 
-The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [Governance](https://github.com/protocolguild/documentation/blob/main/docs/01-membership.md#governance-1) subsection of the docs.
+The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [governance](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#id1) subsection of the docs.
 
 ## 4.3 Annual Reports
 
