@@ -4,17 +4,17 @@ This section describes Protocol Guild's current smart contract architecture. You
 
 Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations are deposited into immutable vesting contracts, which vest funds into pass-through wallets, before being transferred to split contracts for distribution to the membership.
 
-The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active L1 R&D maintainers. An [Agora DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
+The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. An [Agora DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
 
 ## 2.1 Modules
 
 The Guild’s smart contract architecture is modularized as follows:
 
-<img width="1000" alt="OnchainArchitecture" src="https://github.com/cheeky-gorilla/membership/assets/76262359/66cb927d-6e12-4255-9e9f-04f5d6eb676e">
+<img width="1000" alt="OnchainArchitecture" src="https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/assets/architecture.png">
 
 ### Vesting Contract
 
-The Guild’s donation addresses on Ethereum mainnet, Arbitrum, Base and Optimism are immutable vesting contract, built by the [Splits](https://splits.org/) team, which irrevocably vests donated funds on a linear (block-by-block), basis. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership. Anyone can donate ETH and ERC-20 tokens to these  vesting contract.
+The Guild’s donation addresses on Ethereum mainnet, Arbitrum, Base and Optimism are immutable vesting contract, built by the [Splits](https://splits.org/) team, which irrevocably vests donated funds on a linear (block-by-block), basis. Here, "irrevocably" means donations **cannot** be stopped or otherwise redirected during the vest by anyone, be it the donor or Protocol Guild membership. Anyone can donate ETH and ERC-20 tokens to these vesting contracts.
 
 **NFT donations are not supported** - standard NFT transfers (safeTransfer) will be rejected by the contract (i.e. meaning the transaction will fail), while non-safeTransfer NFT donations will be lost.
 
@@ -30,24 +30,26 @@ All donated tokens are thus forced to vest - there is no way to do anything with
 - Mainnet
   - 1-Year Vest: [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)
   - 4-Year Vest: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
-  - Deprecated: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+  - Deprecated:
+    - Pilot Vest: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - Arbitrum
   - 4-Year Vest: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
 - Base
   - 4-Year Vest: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
 - Optimism
   - 4-Year Vest: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
-  - Deprecated: [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
+  - Deprecated:
+    - [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
 
 ### Pass-Through Wallet
 
 All funds from vesting contracts go into a pass-through wallet (PTW), built by the [Splits](https://splits.org/) team, which pools vested tokens to be pushed to split contracts.
 
-The PTW allows the Guild’s membership to make arbitrary calls with vested tokens if needed, since the current split contract does not have arbitrary call functionality. For the avoidance of doubt: the PTW can only be used to interact with tokens which have already finished vesting. Tokens still vesting in vesting contracts cannot be prematurely interacted with.
+The PTW allows the Guild’s membership to make arbitrary calls with vested tokens if needed, since the current split contract does not have such functionality. For the avoidance of doubt: the PTW can only be used to interact with tokens which have already finished vesting. Tokens still vesting in vesting contracts cannot be prematurely interacted with.
 
 **How it works:**
 - The PTW has a permissionless `passThrough` function, which allows anyone to push vested funds accumulated in the PTW to the contract's `passThrough`, which is set to the Guild’s split contract.
-- The PTWs owner (the Guild’s multisig), can pause / unpause the contract by changing the `paused` value, allowing the owner to move specific tokens using arbitrary calls instead. 
+- The PTWs owner (the Guild’s DAO), can pause / unpause the contract by changing the `paused` value, allowing the owner to move specific tokens using arbitrary calls instead. 
 - The PTW owner can also update the `passThrough` recipient if needed e.g. if the Guild migrates to a different split contract in the future
 - Official documentation: [https://docs.splits.org/core/pass-through](https://docs.splits.org/core/pass-through)
 
@@ -66,9 +68,13 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 - Distributions:
   - The `distribute` function allocates tokens in the split contract to Guild members according to their weights (it does not move the funds into the member wallets)
   - Once distribute has been triggered, members can trigger the `withdrawForMyself` function to deposit tokens into their wallets
+  - Distributions are permissioned to the Guild's DAO on mainnet, and multisigs on L2s
+    - On mainnet, Split distributions are triggered once a week via so-called "scoped proposals", which require a simple majority but no quorum, while maintaining the 7-day voting period + 2 day grace period
+    - On L2s, Split distributions are triggered by multisigs on a monthly basis or when enough funds have accumulated for distribution
 - Updates:
-  - Membership changes are ratified once a quarter with a vote in the Guild’s Moloch V3 DAO, where new members are added / old members are removed in an onchain “Signal Proposal”
-  - Once the DAO proposal is executed, the Guild’s 6/10 multisig exports the offchain membership registry (with member addresses and weights), and uploads it as a CSV into the split contract to update it
+  - Split updates - member additions, removals and weight changes - are permissioned to the Guild's DAO on mainnet, and multisigs on L2s
+    - On mainnet, Split updates are triggered once a quarter via a DAO proposal which requires a simple majority plus 33% quorum, with a 7-day voting period + 2 day grace period
+    - On L2s, the Split contracts are updated via multisigs once the mainnet DAO vote is complete
 - Official documentation:
   - Split V1: [https://docs.splits.org/core/split](https://docs.splits.org/core/split)
   - Split V2: [https://docs.splits.org/core/split-v2](https://docs.splits.org/core/split-v2)
@@ -82,19 +88,21 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 - Arbitrum: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=42161)
 - Base: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=8453)
 - Optimism: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
-  - Deprecated: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
+  - Deprecated:
+    - [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
   
 ### DAO
 
-The Guild uses an [Agora DAO](http://gov.protocolguild.org/) for onchain governance. The DAO includes all Guild members, with one person one vote, including vote delegation.
+The Guild currently uses an [Agora DAO](http://gov.protocolguild.org/) for onchain governance. The DAO includes all Guild members, with one person one vote, including vote delegation.
 
-The DAO does not keep track of member weights, nor does it hold any funds. Currently, it is only used to ratify changes to the membership onchain. These changes are then processed by the Guild’s multisig (by updating the split contract).
+The DAO controls the Guild's PTW and Split contracts on mainnet, but does otherwise not keep track of member weights, nor does it hold any funds.
 
 **How it works:**
-- Once a quarter, “Signal Proposals” are used to ratify changes to the membership onchain, which adjusts the DAO’s members in bulk (i.e. adding and removing members)
-- All proposals need to be sponsored by a DAO member before the voting period starts
-- The voting period lasts 7 days, with a 33% quorum required for proposals to pass
-- Proposals that reach quorum have a 2-day grace period before they can be executed
+- The DAO is generally used for two purposes; (1) update the mainnet Split and (2) trigger Split distributions
+  - Split updates are triggered once a quarter via a DAO proposal which requires a simple majority plus 33% quorum, with a 7-day voting period + 2 day grace period
+  - Split distributions are triggered once a week via so-called "scoped proposals", which require a simple majority but no quorum, while maintaining the 7-day voting period + 2 day grace period
+- All proposals need to be sponsored by an existing DAO member before the voting period starts
+- "Signal proposals" may be used for membership-wide voting on important Guild matters
 
 **Deployed DAOs:**
 
