@@ -268,7 +268,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Peter Vecchiarelli](https://github.com/pvecchiarelli) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Apvecchiarelli+), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Apvecchiarelli), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Atvanepps), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Atvanepps), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 
-*Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
+*Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
 
 ![ethereum - process, actors, artifacts v1](https://github.com/user-attachments/assets/b01d2634-fd91-414d-bec1-11be008e5261)
 
@@ -276,31 +276,97 @@ Individuals from active working groups produce the membership by opting into Pro
 
 We're grateful to our former members who have helped us bootstrap Protocol Guild while building Ethereum for the world. ❤️
 
-| | | | |
-| :--- | :--- | :--- | :--- |
-| [Aditya Asgaonkar](https://github.com/adiasg) | [Adrian Sutton](https://github.com/ajsutton) | [Afri](https://github.com/q9f) | [AgeManning](https://github.com/agemanning) |
-| [Andrei Maiboroda](https://github.com/gumb0) | [Andrew Day](https://github.com/acolytec3) | [Artem Vorotnikov](https://github.com/vorot93) | [axic](https://github.com/axic) |
-| [Bartosz Zawistowski](https://github.com/bzawisto) | [battlmonstr](https://github.com/battlmonstr) | [Ben Edgington](https://github.com/benjaminion) | [Courtney Hunter](https://github.com/courtneyeh) |
-| [czhang-fm](https://github.com/czhang-fm) | [Dadepo Aderemi](https://github.com/dadepo) | [Daniel Kirchner](https://github.com/ekpyron) | [dankrad](https://github.com/dankrad) |
-| [Danno Ferrin](https://github.com/shemnon) | [danny ryan](https://github.com/djrtwo) | [Davide Crapis](https://github.com/dcrapis) | [dceleda](https://github.com/dceleda) |
-| [Diva Martínez](https://github.com/divagant-martian) | [domothy](https://github.com/domothyb) | [dryajov](https://github.com/dryajov) | [dtheo](https://github.com/infosecual) |
-| [Echo](https://github.com/EchoAlice) | [emhane](https://github.com/emhane) | [Enrique Avila Asapche](https://github.com/enriavil1) | [Felix Lange](https://github.com/fjl) |
-| [g11tech](https://github.com/g11tech) | [Harikrishnan Mulackal](https://github.com/hrkrshnn) | [Henri Dubois-Ferriere](https://github.com/henridf) | [Holger Drewes](https://github.com/holgerd77) |
-| [Hsiao-Wei Wang](https://github.com/hwwhww) | [Hugo De la cruz](https://github.com/hugo-dc) | [Jacek Glen](https://github.com/JacekGlen) | [jacobkaufmann](https://github.com/jacobkaufmann) |
-| [Jamie Lokier](https://github.com/jlokier) | [Jason Carver](https://github.com/carver) | [Jim McDonald](https://github.com/mcdee) | [Jiri Peinlich](https://github.com/gezero) |
-| [Johnson Ugwuru](https://github.com/ogwurujohnson) | [Jorge Mederos](https://github.com/jmederosalvarado) | [joshie](https://github.com/joshieDo) | [Kaan Uzdogan](https://github.com/kuzdogan) |
-| [Kamil Sliwak](https://github.com/cameel) | [Karim Taam](https://github.com/matkt) | [Kolby Moroz Liebl](https://github.com/KolbyML) | [Konrad Staniec](https://github.com/konradstaniec) |
-| [Kristof Gazso](https://github.com/kristofgaszo) | [Leonardo Bautista-Gomez](https://github.com/leobago) | [Leonardo de Sa Alt](https://github.com/leonardoalt) | [Mamy Ratsimbazafy](https://github.com/mratsim) |
-| [Mark Simkin](https://github.com/msimkin) | [Martin Swende](https://github.com/holiman) | [Mateusz Jędrzejewski](https://github.com/matilote) | [Matt Nelson](https://github.com/non-fungible-nelson) |
-| [Mehdi Zerouali](https://github.com/zedt3ster) | [Micah](https://github.com/micahzoltu) | [Michael Ferris](https://github.com/mrferris) | [mikeneuder](https://github.com/michaelneuder) |
-| [mmaller](https://github.com/mmaller) | [Mohamed Zahoor](https://github.com/jmozah) | [nghita](https://github.com/njgheorghita) | [Nishant Das](https://github.com/nisdas) |
-| [Ognyan Genev](https://github.com/ogenev) | [paulhauner](https://github.com/paulhauner) | [pdobacz](https://github.com/pdobacz) | [Peter Szilagyi](https://github.com/karalabe) |
-| [Piper Merriam](https://github.com/pipermerriam) | [Pop](https://github.com/ppopth) | [Proto](https://github.com/protolambda) | [racytech](https://github.com/racytech) |
-| [Radosław Kapka](https://github.com/rkapka) | [Raul Jordan](https://github.com/rauljordan) | [rodiazet](https://github.com/rodiazet) | [Roman Krasiuk](https://github.com/rkrasiuk) |
-| [RomanHodulak](https://github.com/RomanHodulak) | [Ryan Ghods](https://github.com/ryanio) | [Sammy Rosso](https://github.com/saolyn) | [Sarah Liu](https://github.com/avalonche) |
-| [scorbajio](https://github.com/scorbajio) | [Somu Bhargava](https://github.com/bhargavasomu) | [Sophia Gold](https://github.com/Sophia-Gold) | [Ștefan Talpalaru](https://github.com/stefantalpalaru) |
-| [Tanishq Jasoria](https://github.com/tanishqjasoria) | [Taran Singh](https://github.com/Taranpreet26311) | [tkstanczak](https://github.com/tkstanczak) | [Voith](https://github.com/voith) |
-| [wdimitry](https://github.com/winsvega) | [Zahary Karadjov](https://github.com/zah) | [zhenfei zhang](https://github.com/zhenfeizhang) | |
+- [Aditya Asgaonkar](https://github.com/adiasg)
+- [Adrian Sutton](https://github.com/ajsutton)
+- [Afri](https://github.com/q9f)
+- [AgeManning](https://github.com/agemanning)
+- [Andrei Maiboroda](https://github.com/gumb0)
+- [Andrew Day](https://github.com/acolytec3)
+- [Artem Vorotnikov](https://github.com/vorot93)
+- [axic](https://github.com/axic)
+- [Bartosz Zawistowski](https://github.com/bzawisto)
+- [battlmonstr](https://github.com/battlmonstr)
+- [Ben Edgington](https://github.com/benjaminion)
+- [Courtney Hunter](https://github.com/courtneyeh)
+- [czhang-fm](https://github.com/czhang-fm)
+- [Dadepo Aderemi](https://github.com/dadepo)
+- [Daniel Kirchner](https://github.com/ekpyron)
+- [dankrad](https://github.com/dankrad)
+- [Danno Ferrin](https://github.com/shemnon)
+- [danny ryan](https://github.com/djrtwo)
+- [Davide Crapis](https://github.com/dcrapis)
+- [dceleda](https://github.com/dceleda)
+- [Diva Martínez](https://github.com/divagant-martian)
+- [domothy](https://github.com/domothyb)
+- [dryajov](https://github.com/dryajov)
+- [dtheo](https://github.com/infosecual)
+- [Echo](https://github.com/EchoAlice)
+- [emhane](https://github.com/emhane)
+- [Enrique Avila Asapche](https://github.com/enriavil1)
+- [Felix Lange](https://github.com/fjl)
+- [g11tech](https://github.com/g11tech)
+- [Harikrishnan Mulackal](https://github.com/hrkrshnn)
+- [Henri Dubois-Ferriere](https://github.com/henridf)
+- [Holger Drewes](https://github.com/holgerd77)
+- [Hsiao-Wei Wang](https://github.com/hwwhww)
+- [Hugo De la cruz](https://github.com/hugo-dc)
+- [Jacek Glen](https://github.com/JacekGlen)
+- [jacobkaufmann](https://github.com/jacobkaufmann)
+- [Jamie Lokier](https://github.com/jlokier)
+- [Jason Carver](https://github.com/carver)
+- [Jim McDonald](https://github.com/mcdee)
+- [Jiri Peinlich](https://github.com/gezero)
+- [Johnson Ugwuru](https://github.com/ogwurujohnson)
+- [Jorge Mederos](https://github.com/jmederosalvarado)
+- [joshie](https://github.com/joshieDo)
+- [Kaan Uzdogan](https://github.com/kuzdogan)
+- [Kamil Sliwak](https://github.com/cameel)
+- [Karim Taam](https://github.com/matkt)
+- [Kolby Moroz Liebl](https://github.com/KolbyML)
+- [Konrad Staniec](https://github.com/konradstaniec)
+- [Kristof Gazso](https://github.com/kristofgaszo)
+- [Leonardo Bautista-Gomez](https://github.com/leobago)
+- [Leonardo de Sa Alt](https://github.com/leonardoalt)
+- [Mamy Ratsimbazafy](https://github.com/mratsim)
+- [Mark Simkin](https://github.com/msimkin)
+- [Martin Swende](https://github.com/holiman)
+- [Mateusz Jędrzejewski](https://github.com/matilote)
+- [Matt Nelson](https://github.com/non-fungible-nelson)
+- [Mehdi Zerouali](https://github.com/zedt3ster)
+- [Micah](https://github.com/micahzoltu)
+- [Michael Ferris](https://github.com/mrferris)
+- [mikeneuder](https://github.com/michaelneuder)
+- [mmaller](https://github.com/mmaller)
+- [Mohamed Zahoor](https://github.com/jmozah)
+- [nghita](https://github.com/njgheorghita)
+- [Nishant Das](https://github.com/nisdas)
+- [Ognyan Genev](https://github.com/ogenev)
+- [paulhauner](https://github.com/paulhauner)
+- [pdobacz](https://github.com/pdobacz)
+- [Peter Szilagyi](https://github.com/karalabe)
+- [Piper Merriam](https://github.com/pipermerriam)
+- [Pop](https://github.com/ppopth)
+- [Proto](https://github.com/protolambda)
+- [racytech](https://github.com/racytech)
+- [Radosław Kapka](https://github.com/rkapka)
+- [Raul Jordan](https://github.com/rauljordan)
+- [rodiazet](https://github.com/rodiazet)
+- [Roman Krasiuk](https://github.com/rkrasiuk)
+- [RomanHodulak](https://github.com/RomanHodulak)
+- [Ryan Ghods](https://github.com/ryanio)
+- [Sammy Rosso](https://github.com/saolyn)
+- [Sarah Liu](https://github.com/avalonche)
+- [scorbajio](https://github.com/scorbajio)
+- [Somu Bhargava](https://github.com/bhargavasomu)
+- [Sophia Gold](https://github.com/Sophia-Gold)
+- [Ștefan Talpalaru](https://github.com/stefantalpalaru)
+- [Tanishq Jasoria](https://github.com/tanishqjasoria)
+- [Taran Singh](https://github.com/Taranpreet26311)
+- [tkstanczak](https://github.com/tkstanczak)
+- [Voith](https://github.com/voith)
+- [wdimitry](https://github.com/winsvega)
+- [Zahary Karadjov](https://github.com/zah)
+- [zhenfei zhang](https://github.com/zhenfeizhang)
 
 ## 1.2 Eligibility Requirements
 
@@ -308,10 +374,10 @@ To satisfy our requirements, working groups and members must:
 
 - Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness
 - Be fully open source under an Open Source Initiative (OSI) [approved License](https://opensource.org/licenses)
-- Have a regular presence in Ethereum R&D or governance venues like [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/), [protocol calls](https://calendar.google.com/calendar/u/0?cid=Y191cGFvZm9uZzhtZ3JtcmtlZ243aWM3aGs1c0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (e.g. AllCoreDevs, breakouts, testing/interop, etc.)
+- Have a regular presence in Ethereum R&D or governance venues like [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/), [protocol calls](https://forkcast.org/calls) (e.g. AllCoreDevs, breakouts, testing/interop, etc.)
 - Be engaged in feature prototyping (e.g. [EIPs](https://github.com/ethereum/eips), devnets, etc.)
 - Have been contributing continuously for **at least 6 months** ahead of inclusion. This work must be ongoing (e.g. not a short-term or one-off project). To avoid removal from the current membership, any breaks in contribution must be shorter than 1 quarter (3 months). Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
-- Be contributing in a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#time-weight-formula).
+- Be contributing in a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#time-weight).
 
 ### Additional Context
 
@@ -365,7 +431,7 @@ There may also be situations when another member proposes the removal of an exis
 
 ### Split Share
 
-Each member's share of the [split contract](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/) is calculated using member-specific inputs. There are two parts to the calculation:
+Each member's share of the [split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) is calculated using member-specific inputs. There are two parts to the calculation:
 
 1. Calculate each member's `time_weight`: `time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`)
 
@@ -427,7 +493,7 @@ Protocol Guild members govern the evolution of the mechanism, which may include:
 - how and where to fundraise
 - the percentage of Split flows that the Foundation entity receives to account for various org expenses, including some compensation for select operational roles
 
-Typically this takes the shape of rough consensus discussions. In some special cases, decisions need to be voted on or ratified - [learn more here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html#moloch-v3-dao).
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions need to be voted on or ratified - [learn more here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html#dao).
 
 Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds - more details about our narrow scope of concern [here](https://protocol-guild.readthedocs.io/en/latest/index.html).
 
