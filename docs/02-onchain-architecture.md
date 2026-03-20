@@ -1,10 +1,10 @@
 # 2. Smart Contract Architecture
 
-This section describes Protocol Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/06-resources.html#pilot-smart-contract-architecture).
+This section describes Protocol Guild's current smart contract architecture. You can learn more about the pilot’s architecture [here](https://protocol-guild.readthedocs.io/en/latest/05-resources.html#pilot-smart-contract-architecture).
 
 Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations are deposited into immutable vesting contracts, which vest funds into pass-through wallets, before being transferred to split contracts for distribution to the membership.
 
-The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. An [Agora DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
+The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. A [DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
 
 ## 2.1 Modules
 
@@ -69,12 +69,12 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
   - The `distribute` function allocates tokens in the split contract to Guild members according to their weights (it does not move the funds into the member wallets)
   - Once distribute has been triggered, members can trigger the `withdrawForMyself` function to deposit tokens into their wallets
   - Distributions are permissioned to the Guild's DAO on mainnet, and multisigs on L2s
-    - On mainnet, Split distributions are triggered once a week via so-called "scoped proposals", which require a simple majority but no quorum, while maintaining the 7-day voting period + 2 day grace period
-    - On L2s, Split distributions are triggered by multisigs on a monthly basis or when enough funds have accumulated for distribution
+    - On mainnet, split distributions are triggered once a week via so-called "scoped proposals", which require a simple majority but no quorum, while maintaining the 7-day voting period + 2 day grace period
+    - On L2s, split distributions are triggered by multisigs on a monthly basis or when enough funds have accumulated for distribution
 - Updates:
   - Split updates - member additions, removals and weight changes - are permissioned to the Guild's DAO on mainnet, and multisigs on L2s
-    - On mainnet, Split updates are triggered once a quarter via a DAO proposal which requires a simple majority plus 33% quorum, with a 7-day voting period + 2 day grace period
-    - On L2s, the Split contracts are updated via multisigs once the mainnet DAO vote is complete
+    - On mainnet, split updates are triggered once a quarter via a DAO proposal which requires a simple majority plus 33% quorum, with a 7-day voting period + 2 day grace period
+    - On L2s, split updates are triggered via multisigs once the mainnet DAO vote is complete
 - Official documentation:
   - Split V1: [https://docs.splits.org/core/split](https://docs.splits.org/core/split)
   - Split V2: [https://docs.splits.org/core/split-v2](https://docs.splits.org/core/split-v2)
@@ -95,10 +95,10 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 
 The Guild currently uses an [Agora DAO](http://gov.protocolguild.org/) for onchain governance. The DAO includes all Guild members, with one person one vote, including vote delegation.
 
-The DAO controls the Guild's PTW and Split contracts on mainnet, but does otherwise not keep track of member weights, nor does it hold any funds.
+The DAO controls the Guild's PTW and split contracts on mainnet, but does otherwise not keep track of member weights, nor does it hold any funds.
 
 **How it works:**
-- The DAO is generally used for two purposes; (1) update the mainnet Split and (2) trigger Split distributions
+- The DAO is generally used for two purposes; (1) update the mainnet split and (2) trigger split distributions
   - Split updates are triggered once a quarter via a DAO proposal which requires a simple majority plus 33% quorum, with a 7-day voting period + 2 day grace period
   - Split distributions are triggered once a week via so-called "scoped proposals", which require a simple majority but no quorum, while maintaining the 7-day voting period + 2 day grace period
 - All proposals need to be sponsored by an existing DAO member before the voting period starts
