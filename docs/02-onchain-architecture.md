@@ -4,7 +4,7 @@ This section describes Protocol Guild's current smart contract architecture. You
 
 Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations are deposited into immutable vesting contracts, which vest funds into pass-through wallets, before being transferred to split contracts for distribution to the membership.
 
-The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. A [DAO](http://gov.protocolguild.org/) is used to ratify changes to the membership onchain every quarter.
+The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. A DAO is used to ratify changes to the membership onchain every quarter.
 
 ## 2.1 Modules
 
@@ -55,10 +55,14 @@ The PTW allows the Guild’s membership to make arbitrary calls with vested toke
 
 **Deployed PTWs:**
 
-- Mainnet: [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1)
-- Arbitrum: [0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf](https://app.splits.org/accounts/0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf/?chainId=42161)
-- Base: [0xfcdf7254cca539f87f732c4bc19356a3d856a9b1](https://app.splits.org/accounts/0xfcdf7254cca539f87f732c4bc19356a3d856a9b1/?chainId=8453)
-- Optimism: [0xd62f993fa6a2d15815795c377cf5c9ccce81f499](https://app.splits.org/accounts/0xd62f993fa6a2d15815795c377cf5c9ccce81f499/?chainId=10)
+- Mainnet:
+  - [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1)
+- Arbitrum:
+  - [0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf](https://app.splits.org/accounts/0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf/?chainId=42161)
+- Base:
+  - [0xfcdf7254cca539f87f732c4bc19356a3d856a9b1](https://app.splits.org/accounts/0xfcdf7254cca539f87f732c4bc19356a3d856a9b1/?chainId=8453)
+- Optimism:
+  - [0xd62f993fa6a2d15815795c377cf5c9ccce81f499](https://app.splits.org/accounts/0xd62f993fa6a2d15815795c377cf5c9ccce81f499/?chainId=10)
 
 ### Split Contract
 
@@ -81,15 +85,19 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 
 **Deployed Splits Contracts:**
 
-- Mainnet: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1)
+- Mainnet:
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1)
   - Deprecated:
-    - [0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
-    - [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
-- Arbitrum: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=42161)
-- Base: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=8453)
-- Optimism: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
+    - Pilot Split: [0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
+    - Split V2.0: [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
+- Arbitrum:
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=42161)
+- Base:
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=8453)
+- Optimism:
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
   - Deprecated:
-    - [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
+    - Split V2.0: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
   
 ### DAO
 
@@ -106,7 +114,8 @@ The DAO controls the Guild's PTW and split contracts on mainnet, but does otherw
 
 **Deployed DAOs:**
 
-- Mainnet: [0x85d6bcc74877a1c6fc66a8cd14369f939663f68f](http://gov.protocolguild.org/) 
+- Mainnet:
+  - Agora DAO: [0x85d6bcc74877a1c6fc66a8cd14369f939663f68f](http://gov.protocolguild.org/) 
   - Deprecated: Moloch V3 DAO [0x412a32dd71357bd12337f4408168df903f90cbd3](https://admin.daohaus.club/#/molochv3/0x1/0x412a32dd71357bd12337f4408168df903f90cbd3/members)
 
 ### Multisigs
