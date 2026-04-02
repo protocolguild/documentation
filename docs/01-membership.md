@@ -162,7 +162,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 | **EXECUTION CLIENTS** | Weight | Contributions |
 |:---|:---|:---|
-| **Erigon** (16 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon) |
+| **Erigon** (15 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
@@ -173,7 +173,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amriccobene), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Amriccobene) |
 | [Milen Filatov](https://github.com/taratorio/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
-| [Shoham Chakraborty](https://github.com/shohamc1/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ashohamc1) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) |
 | [lupin012](https://github.com/lupin012/) | 0.5 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012) |
