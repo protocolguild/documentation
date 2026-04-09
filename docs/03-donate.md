@@ -2,9 +2,9 @@
 
 The Protocol Guild’s funding mechanism was designed to remove friction associated with supporting Ethereum’s core protocol development, by providing a single onchain address which vests funds directly to active core protocol contributors over time. 
 
-Note that there are different donation addresses depending on if you're donating on Ethereum mainnet or L2s / other chains!
-
 All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/protocolguild/protocol-guild).
+
+Note that there are different donation addresses depending on if you're donating on Ethereum mainnet or L2s / other chains!
 
 ## 3.1 Mainnet
 
@@ -15,24 +15,24 @@ All donations can be seen in Protocol Guild's [Dune Dashboard](https://dune.com/
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html).
 
-Important: The vesting contracts only work with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed on mainnet, please use this multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+Important: The vesting contract only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ## 3.2 L2s / Other Chains
 
-Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, 6/10 multisigs have been deployed to receive donations. Multisig funds will be periodically bridged into vesting contracts. 
+Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, multisigs have been deployed to receive donations. Multisig funds will be transferred / bridged into vesting contracts periodically. 
 
-Important: The vesting contracts only work with ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the indicated multisigs instead.
+Important: The vesting contracts only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the indicated multisigs instead.
 
 ### Arbitrum
-- Vesting Contract: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+- 1-Year Vesting Contract: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://app.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=arb1:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Base
-- Vesting Contract: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+- 1-Year Vesting Contract: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://app.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=base:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Optimism
-- Vesting Contract: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
+- 1-Year Vesting Contract: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://app.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=oeth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Polygon
@@ -54,7 +54,19 @@ Important: The vesting contracts only work with ETH and ERC20 tokens, and cannot
 
 Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. You can read about the Protocol Guild Pledge [here](https://www.protocolguild.org/blog/20240130-protocol-guild-pledge).
 
-Projects taking the pledge can donate their tokens into this 4-year vesting contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+Projects taking the pledge can donate their tokens into the below 4-year vesting contracts. Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordnate a test transaction first.
+
+### Mainnet
+-  4-Year Vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+
+### Arbitrum
+- 4-Year Vesting Contract: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+
+### Base
+- 4-Year Vesting Contract: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+
+### Optimism
+- 4-Year Vesting Contract: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
 
 ### How to take the Pledge?
 
