@@ -15,11 +15,11 @@ Note that there are different donation addresses depending on if you're donating
 
 The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html).
 
-Important: The vesting contract only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+Important: The vesting contract only supports ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ## 3.2 L2s / Other Chains
 
-Apart from Ethereumn mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, multisigs have been deployed to receive donations. Multisig funds will be transferred / bridged into vesting contracts periodically. 
+Apart from Ethereum mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, multisigs have been deployed to receive donations. Multisig funds will be transferred or bridged into vesting contracts periodically. 
 
 Important: The vesting contracts only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the indicated multisigs instead.
 
@@ -54,7 +54,7 @@ Important: The vesting contracts only support ETH and ERC20 tokens, and cannot c
 
 Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. You can read about the Protocol Guild Pledge [here](https://www.protocolguild.org/blog/20240130-protocol-guild-pledge).
 
-Projects taking the pledge can donate their tokens into the below 4-year vesting contracts. Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordnate a test transaction first.
+Projects taking the pledge can donate their tokens into the below 4-year vesting contracts. Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordinate a test transaction first.
 
 ### Mainnet
 -  4-Year Vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
@@ -72,6 +72,6 @@ Projects taking the pledge can donate their tokens into the below 4-year vesting
 
 Projects that don't have a token yet can take the pledge by making a public commitment to donate 1% of a future token to the Protocol Guild. You can see an example of this [here](https://x.com/taikoxyz/status/1755609928167981330).
 
-Projects that already have a token can take the pledge by donating 1% of its supply to the donation addresses indicated above. 
+Projects that already have a token can take the pledge by donating 1% of the supply to the donation addresses listed above. 
 
-If you have questions about taking the pledge, please email pledge [at] protocolguild.org.
+If you have questions about taking the pledge, please [schedule a call](https://calendly.com/vecchiarelli-peter/30min) or send an email to pledge [at] protocolguild.org.
