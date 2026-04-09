@@ -33,10 +33,13 @@ All donated tokens are thus forced to vest - there is no way to do anything with
   - Deprecated:
     - Pilot Vest: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - Arbitrum
+  - 1-Year Vest: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://app.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
   - 4-Year Vest: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
 - Base
+  - 1-Year Vest: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://app.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
   - 4-Year Vest: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
 - Optimism
+  - 1-Year Vest: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://app.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
   - 4-Year Vest: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
   - Deprecated:
     - [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
