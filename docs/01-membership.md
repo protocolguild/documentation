@@ -141,7 +141,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme) |
-| **Prysm** (9 contributors) | | |
+| **Prysm** (10 contributors) | | |
 | [Bastin](https://github.com/Inspector-Butters) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/Inspector-Butters) |
 | [Chris Karabats](https://github.com/ckarabats) | 0.5 | |
 | [James He](https://github.com/james-prysm/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Ajames-prysm) |
@@ -151,6 +151,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
 | [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
 | [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) | 
+| [Aarsh Shah](https://github.com/aarshkshah1992) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/aarshkshah1992) |
 | **Teku** (7 contributors) | | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
