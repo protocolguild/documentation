@@ -20,11 +20,11 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 | **Ethereum Mainnet** | `theprotocolguild.eth / 0x4EA88fa76848a8BBAB72613d4171df1eBcf68399`_ |
 +----------------------+----------------------------------------------------------------------+
-| **Arbitrum**         | `arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b`_                   |
+| **Arbitrum**         | `arb1:0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599`_                   |
 +----------------------+----------------------------------------------------------------------+
-| **Base**             | `base:0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD`_                   |
+| **Base**             | `base:0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20`_                   |
 +----------------------+----------------------------------------------------------------------+
-| **Optimism**         | `oeth:0x58ae0925077527a87D3B785aDecA018F9977Ec34`_                   |
+| **Optimism**         | `oeth:0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2`_                   |
 +----------------------+----------------------------------------------------------------------+
 | **Polygon**          | `matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF`_                  |
 +----------------------+----------------------------------------------------------------------+
@@ -38,9 +38,9 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 
 .. _theprotocolguild.eth / 0x4EA88fa76848a8BBAB72613d4171df1eBcf68399: https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/
-.. _arb1:0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b: https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161
-.. _base:0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD: https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453
-.. _oeth:0x58ae0925077527a87D3B785aDecA018F9977Ec34: https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10
+.. _arb1:0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599: https://app.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161
+.. _base:0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20: https://app.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453
+.. _oeth:0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2: https://app.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10
 .. _matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
 .. _scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
 .. _shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8: https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8
