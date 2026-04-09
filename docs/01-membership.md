@@ -230,11 +230,11 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 27 contributors
+- 5 Working Groups, 28 contributors
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
-| **Dev/Testnets** (8 contributors) | Weight | Contributions |
+| **Dev/Testnets** (9 contributors) | Weight | Contributions |
 |:---|:---|:---|
 | [Andrew Davis](https://github.com/savid/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
@@ -244,6 +244,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
+| [Stefan Starflinger](https://github.com/qu0b/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | **Testing** (8 contributors) | | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
