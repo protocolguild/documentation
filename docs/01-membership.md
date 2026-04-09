@@ -162,7 +162,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 | **EXECUTION CLIENTS** | Weight | Contributions |
 |:---|:---|:---|
-| **Erigon** (15 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon) |
+| **Erigon** (15 contributors) | | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
@@ -229,11 +229,11 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 27 contributors
+- 5 Working Groups, 28 contributors
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
-| **Dev/Testnets** (8 contributors) | Weight | Contributions |
+| **Dev/Testnets** (9 contributors) | Weight | Contributions |
 |:---|:---|:---|
 | [Andrew Davis](https://github.com/savid/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
@@ -243,6 +243,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
+| [Stefan Starflinger](https://github.com/qu0b/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | **Testing** (8 contributors) | | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
@@ -356,6 +357,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Sammy Rosso](https://github.com/saolyn)
 - [Sarah Liu](https://github.com/avalonche)
 - [scorbajio](https://github.com/scorbajio)
+- [Shoham Chakraborty](https://github.com/shohamc1)
 - [Somu Bhargava](https://github.com/bhargavasomu)
 - [Sophia Gold](https://github.com/Sophia-Gold)
 - [Ștefan Talpalaru](https://github.com/stefantalpalaru)
