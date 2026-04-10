@@ -243,11 +243,12 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Stefan Starflinger](https://github.com/qu0b/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
-| **Testing** (8 contributors) | | |
+| **Testing** (9 contributors) | | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-| [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Keri Clowes](https://github.com/kclowes) | 1 | [ethereum/execution-specs](), [ethereum/execution-spec-tests](ethereum/execution-spec-tests)
 | [Leo Lara](https://github.com/leolara) | 1 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) |
 | [Louis Tsai](https://github.com/LouisTsai-Csie/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
