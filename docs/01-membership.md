@@ -35,7 +35,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
-| [Sukun](https://github.com/sukunrt/) | 1 | |
+| [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 |**Protocol Architecture** (4 contributors) | | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
