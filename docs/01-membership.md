@@ -224,6 +224,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
 | [Federico Gimenez](https://github.com/fgimenez) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
+| [joshieDo]([https://github.com/fgimenez](http://github.com/joshieDo)) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=joshieDo) |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 
 ## UPGRADE DELIVERY
