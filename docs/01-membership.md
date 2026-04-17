@@ -69,7 +69,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Cody Gunton](https://github.com/codygunton) | 1 | [zkevm-test-monitor](https://eth-act.github.io/zkevm-test-monitor/), [eth-act/cazkade](https://github.com/eth-act/cazkade), [risc0/risc0](https://github.com/risc0/risc0/), [risc0/zirgen](https://github.com/risc0/zirgen/pulls?q=is%3Apr+author%3Acodygunton+is%3Aclosed), [ethmag](https://ethereum-magicians.org/u/codygunton/activity), [ethresearch](https://ethresear.ch/t/before-jumping-on-the-riscv-bandwagon/22230/4)
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=author%3Ajsign) ([legacy repo](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajsign)), [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Ajsign), [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload/pulls?q=author%3Ajsign), [eth-act/ere](https://github.com/eth-act/ere/pulls?q=author%3Ajsign), [eth-act/zkboost](https://github.com/eth-act/zkboost/pulls?q=author%3Ajsign) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
-| [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)| 
+| [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
@@ -96,7 +96,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 110 contributors
+- 11 Working Groups, 109 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
@@ -150,7 +150,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [potuz](https://github.com/potuz/) | 1 | [ethresear.ch/u/potuz](https://ethresear.ch/u/potuz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [OffchainLabs/gohashtree](https://github.com/OffchainLabs/gohashtree/pulls?q=author%3Apotuz), [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Apotuz), [hackmd.io/@potuz](https://hackmd.io/@potuz) |
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
 | [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
-| [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) | 
+| [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) |
 | **Teku** (7 contributors) | | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
@@ -217,13 +217,12 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Maksim Menshikov](https://github.com/maximmenshikov/) | 1 | [NethermindEth/riscv-alpine-build](https://github.com/NethermindEth/riscv-alpine-build), [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64/tree/riscv64_zk), [NethermindEth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv) |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
-| **Reth** (7 contributors) | | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
+| **Reth** (6 contributors) | | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 0.5 | |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dan Cline](https://github.com/rjected/) | 1 | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
-| [Federico Gimenez](https://github.com/fgimenez) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 
 ## UPGRADE DELIVERY
@@ -303,6 +302,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Echo](https://github.com/EchoAlice)
 - [emhane](https://github.com/emhane)
 - [Enrique Avila Asapche](https://github.com/enriavil1)
+- [Federico Gimenez](https://github.com/fgimenez)
 - [Felix Lange](https://github.com/fjl)
 - [g11tech](https://github.com/g11tech)
 - [Harikrishnan Mulackal](https://github.com/hrkrshnn)
