@@ -302,6 +302,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Echo](https://github.com/EchoAlice)
 - [emhane](https://github.com/emhane)
 - [Enrique Avila Asapche](https://github.com/enriavil1)
+- [Federico Gimenez](https://github.com/fgimenez)
 - [Felix Lange](https://github.com/fjl)
 - [g11tech](https://github.com/g11tech)
 - [Harikrishnan Mulackal](https://github.com/hrkrshnn)
