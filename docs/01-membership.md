@@ -31,18 +31,20 @@ Individuals from active working groups produce the membership by opting into Pro
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
-| **P2P Networking** (3 contributors) | | |
+| **P2P Networking** (4 contributors) | | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
+| [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 |**Protocol Architecture** (4 contributors) | | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
-| **Protocol Consensus** (2 contributors) | | |
+| **Protocol Consensus** (3 contributors) | | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
+| [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
 | **Protocol Prototyping** (7 contributors) | | |
 | [Bharath Vedartham](https://github.com/bharath-123/) | 1 | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
@@ -69,7 +71,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Cody Gunton](https://github.com/codygunton) | 1 | [zkevm-test-monitor](https://eth-act.github.io/zkevm-test-monitor/), [eth-act/cazkade](https://github.com/eth-act/cazkade), [risc0/risc0](https://github.com/risc0/risc0/), [risc0/zirgen](https://github.com/risc0/zirgen/pulls?q=is%3Apr+author%3Acodygunton+is%3Aclosed), [ethmag](https://ethereum-magicians.org/u/codygunton/activity), [ethresearch](https://ethresear.ch/t/before-jumping-on-the-riscv-bandwagon/22230/4)
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=author%3Ajsign) ([legacy repo](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajsign)), [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Ajsign), [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload/pulls?q=author%3Ajsign), [eth-act/ere](https://github.com/eth-act/ere/pulls?q=author%3Ajsign), [eth-act/zkboost](https://github.com/eth-act/zkboost/pulls?q=author%3Ajsign) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
-| [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)| 
+| [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
@@ -96,7 +98,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 110 contributors
+- 11 Working Groups, 109 contributors
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
@@ -109,9 +111,10 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Povilas Liubauskas](https://github.com/povi) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Saulius Grigaitis](https://github.com/sauliusgrigaitis) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Tumas](https://github.com/tumas) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
-| **Lighthouse** (12 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
+| **Lighthouse** (13 contributors) | | [sigp/lighthouse](https://github.com/sigp/lighthouse) |
 | [Anton Delaruelle](https://github.com/antondlr) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aantondlr) |
 | [Chee Keong Tan](https://github.com/chong-he/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Achong-he) |
+| [Daniel Knopik](https://github.com/dknopik/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adknopik) |
 | [dapplion](https://github.com/dapplion/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Adapplion), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=author%3Adapplion), [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Adapplion) |
 | [Eitan Seri-Levi](https://github.com/eserilev/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Aeserilev) |
 | [Jimmy Chen](https://github.com/jimmygchen) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Ajimmygchen) |
@@ -122,9 +125,10 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Michael Sproul](https://github.com/michaelsproul/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Amichaelsproul) |
 | [Pawan Dhananjay Ravi](https://github.com/pawanjay176/) | 1 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Apawanjay176) |
 | [Sean Anderson](https://github.com/realbigsean/) | 0.5 | [sigp/lighthouse](https://github.com/sigp/lighthouse/pulls?q=author%3Arealbigsean) |
-| **Lodestar** (7 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar), [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z) |
+| **Lodestar** (8 contributors) | | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar), [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z) |
 | [Bing](https://github.com/spiral-ladder) | 1 | [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z/pulls?q=author%3Aspiral-ladder) |
 | [Cayman Nava](https://github.com/wemeetagain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Awemeetagain) |
+| [grapebaba](https://github.com/grapebaba/) | 0.5 | [ChainSafe/lodestar-z](https://github.com/ChainSafe/lodestar-z/pulls?q=author%3Agrapebaba) |
 | [Matthew Keil](https://github.com/matthewkeil) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Amatthewkeil) |
 | [NC](https://github.com/ensi321) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Aensi321) |
 | [Nazar Hussain](https://github.com/nazarhussain/) | 1 | [ChainSafe/lodestar](https://github.com/ChainSafe/lodestar/pulls?q=author%3Anazarhussain) |
@@ -141,7 +145,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | |
 | [Kim De Mey](https://github.com/kdeme/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme) |
-| **Prysm** (9 contributors) | | |
+| **Prysm** (10 contributors) | | |
+| [Aarsh Shah](https://github.com/aarshkshah1992) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/aarshkshah1992) |
 | [Bastin](https://github.com/Inspector-Butters) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/Inspector-Butters) |
 | [Chris Karabats](https://github.com/ckarabats) | 0.5 | |
 | [James He](https://github.com/james-prysm/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Ajames-prysm) |
@@ -149,8 +154,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Manu Nalepa](https://github.com/nalepae) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Analepae) |
 | [potuz](https://github.com/potuz/) | 1 | [ethresear.ch/u/potuz](https://ethresear.ch/u/potuz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [OffchainLabs/gohashtree](https://github.com/OffchainLabs/gohashtree/pulls?q=author%3Apotuz), [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Apotuz), [hackmd.io/@potuz](https://hackmd.io/@potuz) |
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
+| [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) |
 | [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
-| [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) | 
 | **Teku** (7 contributors) | | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
@@ -169,17 +174,17 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
+| [lupin012](https://github.com/lupin012/) | 0.5 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012) |
 | [Mark Holt](https://github.com/mh0lt/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amh0lt) |
+| [Matt Joiner](https://github.com/anacrolix/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Aanacrolix) |
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amriccobene), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Amriccobene) |
 | [Milen Filatov](https://github.com/taratorio/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
+| [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) |
-| [lupin012](https://github.com/lupin012/) | 0.5 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012) |
-| [Matt Joiner](https://github.com/anacrolix/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Aanacrolix) |
-| [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Willian Mitsuda](https://github.com/wmitsuda/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Awmitsuda) |
-| **Geth** (7 contributors) | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) |
+| **Geth** (8 contributors) | | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) |
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
@@ -187,6 +192,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [lightclient](https://github.com/lightclient/) | 1 | EF, [ethereum/eips](https://github.com/ethereum/eips/pulls?q=is%3Apr+author%3Alightclient), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Alightclient), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Alightclient) |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | |
 | [Sina Mahmoodi](https://github.com/s1na/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3As1na+) |
+| [Jonny Rhea](https://github.com/jrhea/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ajrhea+) |
 | **Hyperledger Besu** (14 contributors) | | [hyperledger/besu](https://github.com/hyperledger/besu) |
 | [Ameziane](https://github.com/ahamlat/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
@@ -202,7 +208,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind** (15 contributors) | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind** (16 contributors) | | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Ahmad Bitar](https://github.com/smartprogrammer93) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asmartprogrammer93+) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
@@ -217,19 +223,20 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Marek Moraczyński](https://github.com/MarekM25/) | 0.5 | [NethermindEth/nethermind](https://github.com/MarekM25?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Maksim Menshikov](https://github.com/maximmenshikov/) | 1 | [NethermindEth/riscv-alpine-build](https://github.com/NethermindEth/riscv-alpine-build), [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64/tree/riscv64_zk), [NethermindEth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv) |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
+| [Oleksii Bespalov](https://github.com/alexb5dh/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aalexb5dh) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
-| **Reth** (7 contributors) | | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
+| **Reth** (6 contributors) | | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 0.5 | |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dan Cline](https://github.com/rjected/) | 1 | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
-| [Federico Gimenez](https://github.com/fgimenez) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=fgimenez) |
+| [joshieDo]([https://github.com/fgimenez](http://github.com/joshieDo)) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=joshieDo) |
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 28 contributors
+- 5 Working Groups, 29 contributors
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
@@ -244,11 +251,12 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Stefan Starflinger](https://github.com/qu0b/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
-| **Testing** (8 contributors) | | |
+| **Testing** (9 contributors) | | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-| [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
+| [Keri Clowes](https://github.com/kclowes) | 1 | [ethereum/execution-specs](), [ethereum/execution-spec-tests](ethereum/execution-spec-tests)
 | [Leo Lara](https://github.com/leolara) | 1 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs) |
 | [Louis Tsai](https://github.com/LouisTsai-Csie/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
@@ -256,11 +264,12 @@ Individuals from active working groups produce the membership by opting into Pro
 |**EthereumJS** (2 contributors)| | |
 | [Gabriel Rocheleau](https://github.com/gabrocheleau/) | 0.5 | [ethereum/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/issues?q=author%3Agabrocheleau) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
-| **Security** (6 contributors) | | |
+| **Security** (7 contributors) | | |
 | [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Antoine James](https://github.com/0xMushow) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik](https://github.com/fredrik0x/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| [Nikos Baxevanis](https://github.com/moodmosaic/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yassine Ferhane](https://github.com/gitToki/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | **Funding + PG Operations** (3 contributors) | | |
@@ -304,6 +313,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Echo](https://github.com/EchoAlice)
 - [emhane](https://github.com/emhane)
 - [Enrique Avila Asapche](https://github.com/enriavil1)
+- [Federico Gimenez](https://github.com/fgimenez)
 - [Felix Lange](https://github.com/fjl)
 - [g11tech](https://github.com/g11tech)
 - [Harikrishnan Mulackal](https://github.com/hrkrshnn)
