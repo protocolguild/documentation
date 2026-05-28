@@ -22,9 +22,9 @@ Individuals from active working groups produce the membership by opting into Pro
     - Supporting a research direction that satisfies the criteria outlined above
     - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
-| **Cryptography Research** (7 contributors) | **Weight** | **Contributions** |
+| **Group** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| _Group total_ | **7** | |
+| **Cryptography Research** (7 contributors) | **7** | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | |
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
@@ -81,9 +81,9 @@ Individuals from active working groups produce the membership by opting into Pro
 - Artifact: EIPs <-> Specifications
 - Constraints: spec work must implementation agnostic + unopinionated
 
-| **Execution Layer Specs + Coordination** (8 contributors) | Weight | Contributions |
+| **Group** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| _Group total_ | **8** | |
+| **Execution Layer Specs + Coordination** (8 contributors) | **8** | |
 | [Guru](https://github.com/gurukamath/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Carson](https://github.com/Carsons-Eels/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Peter Miller](https://github.com/petertdavies/) | 1 | |
@@ -92,8 +92,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Josh Davis](https://github.com/JoshDavisLight) | 1 | |
-| **Consensus Layer Specs + Coordination** (4 contributors) | Weight | Other contributions |
-| _Group total_ | **4** | |
+| **Consensus Layer Specs + Coordination** (4 contributors) | **4** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
@@ -228,7 +227,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
 | [Oleksii Bespalov](https://github.com/alexb5dh/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aalexb5dh) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
-| **Reth** (6 contributors) | **4.5** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
+| **Reth** (7 contributors) | **4.5** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
 | [Alexey Shekhirin](https://github.com/shekhirin/) | 0.5 | |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dan Cline](https://github.com/rjected/) | 1 | |
@@ -243,9 +242,9 @@ Individuals from active working groups produce the membership by opting into Pro
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
-| **Dev/Testnets** (9 contributors) | Weight | Contributions |
+| **Group** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| _Group total_ | **9** | |
+| **Dev/Testnets** (9 contributors) | **9** | |
 | [Andrew Davis](https://github.com/savid/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
