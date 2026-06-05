@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 38 contributors, 40 total weight
+- 9 Working Groups, 40 contributors, 40 total weight
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -100,7 +100,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## CLIENT IMPLEMENTATIONS
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 109 contributors, 105 total weight
+- 11 Working Groups, 114 contributors, 105 total weight
 - Venue: Internal Calls
 - Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
@@ -238,7 +238,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## UPGRADE DELIVERY
 - Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 29 contributors, 29 total weight
+- 5 Working Groups, 30 contributors, 29 total weight
 - Venue: ACDT
 - Artifacts: Dev/testnets
 
