@@ -248,7 +248,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Andrew Davis](https://github.com/savid/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
-| [Matt Evans](https://github.com/mattevans/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
