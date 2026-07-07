@@ -8,12 +8,12 @@ Note that there are different donation addresses depending on if you're donating
 
 ## 3.1 Mainnet
 
-<b>[theprotocolguild.eth](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)<br>
-[0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)</b>
+<b>[theprotocolguild.eth](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)<br>
+[0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)</b>
 
-[![Donate](https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/assets/donate.png)](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
+[![Donate](https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/assets/donate.png)](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
 
-The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html).
+The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://explorer.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html).
 
 Important: The vesting contract only supports ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
@@ -24,15 +24,15 @@ Apart from Ethereum mainnet, vesting contracts have been deployed on Arbitrum, B
 Important: The vesting contracts only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the indicated multisigs instead.
 
 ### Arbitrum
-- 1-Year Vesting Contract: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://app.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
+- 1-Year Vesting Contract: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://explorer.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=arb1:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Base
-- 1-Year Vesting Contract: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://app.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
+- 1-Year Vesting Contract: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://explorer.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=base:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Optimism
-- 1-Year Vesting Contract: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://app.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
+- 1-Year Vesting Contract: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://explorer.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
   - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=oeth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
 ### Polygon
@@ -57,16 +57,16 @@ Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D ec
 Projects taking the pledge can donate their tokens into the below 4-year vesting contracts. Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordinate a test transaction first.
 
 ### Mainnet
--  4-Year Vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+-  4-Year Vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://explorer.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
 
 ### Arbitrum
-- 4-Year Vesting Contract: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+- 4-Year Vesting Contract: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://explorer.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
 
 ### Base
-- 4-Year Vesting Contract: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+- 4-Year Vesting Contract: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://explorer.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
 
 ### Optimism
-- 4-Year Vesting Contract: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
+- 4-Year Vesting Contract: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://explorer.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
 
 ### How to take the Pledge?
 
