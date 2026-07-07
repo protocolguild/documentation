@@ -280,7 +280,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Peter Vecchiarelli](https://github.com/pvecchiarelli) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Apvecchiarelli+), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Apvecchiarelli), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Atvanepps), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Atvanepps), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 
-*Note: Protocol Guild's [Split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
+*Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
 
 ![ethereum - process, actors, artifacts v1](https://github.com/user-attachments/assets/b01d2634-fd91-414d-bec1-11be008e5261)
 
@@ -446,7 +446,7 @@ There may also be situations when another member proposes the removal of an exis
 
 ### Split Share
 
-Each member's share of the [split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) is calculated using member-specific inputs. There are two parts to the calculation:
+Each member's share of the [split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) is calculated using member-specific inputs. There are two parts to the calculation:
 
 1. Calculate each member's `time_weight`: `time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`)
 
