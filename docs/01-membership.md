@@ -166,6 +166,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-aouadi) |
 | [Paul Harris](https://github.com/rolfyone/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) |
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) |
+| [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AMatilda-Clerke), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 
 | **EXECUTION CLIENTS** | Weight | Contributions |
 |:---|:---|:---|
@@ -206,7 +207,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Kanchan Kaur](https://github.com/kkaur01) | 0.5 | [hyperledger/besu](https://github.com/hyperledger/besu) |
 | [Karim Taam](https://github.com/matkt) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amatkt) |
 | [Luis Pinto](https://github.com/lu-pinto/) | 1 | [Consensys/tuweni](https://github.com/Consensys/tuweni/pulls?q=author%3Alu-pinto), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu-pinto), [hyperledger/besu-verkle-trie](https://github.com/hyperledger/besu-verkle-trie/pulls?q=author%3Alu-pinto) |
-| [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
