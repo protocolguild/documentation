@@ -31,11 +31,17 @@ Or, see all media from over the years below:
 
 | Presentations (Audio + Video) | Event | Date |
 |:----|:----|----:|
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=S5gCbHNkd_Y) | EthCluj 2026 | May 14 2026 |
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=8rBpvhY4BIQ) | EthPrague 2026 | May 09 2026 |
+| [Maintaining Ethereum's Future](https://youtu.be/watch?v=0Mzne044HAQ) | EthCC 2026 | Apr 01 2026 |
 | [Funding Ethereum Takes a Village](https://www.youtube.com/watch?v=aLTXYIzGihc) | EthDenver 2026 | Feb 20 2026 |
 | [Core dev undercompensation by the numbers](https://www.youtube.com/watch?v=q5qPYZLGD3U) | Shelling Point | Nov 22 2025 |
-| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | Crypto and Blockchain Economics Research (CBER) Forum | Oct 17 2025 |
+| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | CBER Forum | Oct 17 2025 |
 | [Protocol Guild: 3 years of impact & Institution Building](https://www.youtube.com/watch?v=JE1yMXAwZs0) | Dappcon | June 16 2025 |
 | [Ethereum Protocol Capture Risks](https://www.youtube.com/watch?v=Zlz8_A8urD0) | Protocol Berg v2 | June 13 2025 |
+| [Sustaining Ethereum's Future](https://www.youtube.com/watch?v=_fMO6AmTPZI) | EthPrague 2025 | May 29 2025 |
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=wWybGDCyWKU) | EthCC 2025 | May 27 2025 |
+| [Sustaining Ethereum's Future](https://www.youtube.com/watch?v=zkp5Fql6vYk) | ETHdam | May 11 2025 |
 | [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver | Feb 27 2025 |
 | [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zurich | Jan 30 2025 |
 | [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
@@ -47,10 +53,10 @@ Or, see all media from over the years below:
 | [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM) | Protocol Berg | Sep 15 2023 |
 | [Funding Ethereum's Core Protocol Work](https://www.youtube.com/watch?v=RM3lZtqrGjc) | FtC Berlin 2023 | Sep 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
-| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
+| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=UVuiJR_Aywk) | ETHPrague 2023 | Jun 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Dev.](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
 | [Funding + Incentivizing Core Protocol Work](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
-| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/session/301) | Zuzalu | Apr 12 2023 |
+| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8d9a5b2d09b88ec1c2a) | Zuzalu | Apr 12 2023 |
 | [Protocol Guild: 1 year old](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view) | Schelling Point | Mar 02 2023 |
 | [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
 | [Funding Ethereum with the Protocol Guild](https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg) | Funding the Commons | Jun 24 2022 |
