@@ -11,7 +11,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## WAYFINDING
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 40 contributors, 40 total weight
+- 9 Working Groups, 41 contributors, 41 total weight
 - Venue: breakout calls
 - Artifacts: Research & POCs
 - Research Constraints
@@ -68,8 +68,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Uncategorized** (2 contributors) | **2** | |
 | [Josh Rudolf](https://github.com/jrudolf/) | 1 | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| **zkEVM** (4 contributors) | **4** | |
+| **zkEVM** (5 contributors) | **5** | |
 | [Cody Gunton](https://github.com/codygunton) | 1 | [zkevm-test-monitor](https://eth-act.github.io/zkevm-test-monitor/), [eth-act/cazkade](https://github.com/eth-act/cazkade), [risc0/risc0](https://github.com/risc0/risc0/), [risc0/zirgen](https://github.com/risc0/zirgen/pulls?q=is%3Apr+author%3Acodygunton+is%3Aclosed), [ethmag](https://ethereum-magicians.org/u/codygunton/activity), [ethresearch](https://ethresear.ch/t/before-jumping-on-the-riscv-bandwagon/22230/4)
+| [Francesco Risitano](https://github.com/frisitano/) | 1 | [EIP-8025](https://github.com/ethereum/EIPs/pull/11604), [EIP-8142 / BiB](https://eips.ethereum.org/EIPS/eip-8142), [EIP-8331](https://github.com/ethereum/EIPs/pull/11936), [consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Afrisitano+8025), [Lighthouse optional proofs](https://github.com/eth-act/lighthouse/pulls?q=is%3Apr+author%3Afrisitano+eip8025) |
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=author%3Ajsign) ([legacy repo](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajsign)), [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Ajsign), [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload/pulls?q=author%3Ajsign), [eth-act/ere](https://github.com/eth-act/ere/pulls?q=author%3Ajsign), [eth-act/zkboost](https://github.com/eth-act/zkboost/pulls?q=author%3Ajsign) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
