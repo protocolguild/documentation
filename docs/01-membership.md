@@ -38,7 +38,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 |**Protocol Architecture** (4 contributors) | **4** | |
-| [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
+| [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
