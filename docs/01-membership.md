@@ -42,10 +42,11 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
-| **Protocol Consensus** (3 contributors) | **3** | |
+| **Protocol Consensus** (4 contributors) | **4** | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
+| [Ben Edgington](https://github.com/benjaminion) | 1 |  |
 | **Protocol Prototyping** (7 contributors) | **7** | |
 | [Bharath Vedartham](https://github.com/bharath-123/) | 1 | |
 | [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
