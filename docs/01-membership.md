@@ -248,7 +248,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [danceratopz](https://github.com/danceratopz) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
-| [Keri Clowes](https://github.com/kclowes) | 1 | [ethereum/execution-specs](), [ethereum/execution-spec-tests](ethereum/execution-spec-tests)
 | [Leo Lara](https://github.com/leolara) | 1 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Louis Tsai](https://github.com/LouisTsai-Csie/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mario Vega](https://github.com/marioevz/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
@@ -332,6 +331,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Kaan Uzdogan](https://github.com/kuzdogan)
 - [Kamil Sliwak](https://github.com/cameel)
 - [Karim Taam](https://github.com/matkt)
+- [Keri Clowes](https://github.com/kclowes)
 - [Kolby Moroz Liebl](https://github.com/KolbyML)
 - [Konrad Staniec](https://github.com/konradstaniec)
 - [Kristof Gazso](https://github.com/kristofgaszo)
