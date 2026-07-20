@@ -246,7 +246,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Andrew Davis](https://github.com/savid/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Barnabas Busa](https://github.com/barnabasbusa/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
-| [Matt Evans](https://github.com/mattevans/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Parithosh Jayanthi](https://github.com/parithosh/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [pk910](https://github.com/pk910/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
@@ -344,6 +343,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Mark Simkin](https://github.com/msimkin)
 - [Martin Swende](https://github.com/holiman)
 - [Mateusz Jędrzejewski](https://github.com/matilote)
+- [Matt Evans](https://github.com/mattevans/)
 - [Matt Nelson](https://github.com/non-fungible-nelson)
 - [Mehdi Zerouali](https://github.com/zedt3ster)
 - [Micah](https://github.com/micahzoltu)
