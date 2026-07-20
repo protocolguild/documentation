@@ -371,6 +371,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Sarah Liu](https://github.com/avalonche)
 - [scorbajio](https://github.com/scorbajio)
 - [Shoham Chakraborty](https://github.com/shohamc1)
+- [Sina Mahmoodi](https://github.com/s1na/)
 - [Somu Bhargava](https://github.com/bhargavasomu)
 - [Sophia Gold](https://github.com/Sophia-Gold)
 - [Ștefan Talpalaru](https://github.com/stefantalpalaru)
