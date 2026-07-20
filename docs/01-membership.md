@@ -293,6 +293,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Artem Vorotnikov](https://github.com/vorot93)
 - [axic](https://github.com/axic)
 - [Ayman Bouchareb](https://github.com/Demuirgos)
+- [Barnabé Monnot](https://github.com/barnabemonnot/)
 - [Bartosz Zawistowski](https://github.com/bzawisto)
 - [battlmonstr](https://github.com/battlmonstr)
 - [Ben Edgington](https://github.com/benjaminion)
