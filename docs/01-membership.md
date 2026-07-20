@@ -293,6 +293,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [AgeManning](https://github.com/agemanning)
 - [Andrei Maiboroda](https://github.com/gumb0)
 - [Andrew Day](https://github.com/acolytec3)
+- [Andrés Jiménez Láinez](https://github.com/nethoxa/)
 - [Artem Vorotnikov](https://github.com/vorot93)
 - [axic](https://github.com/axic)
 - [Ayman Bouchareb](https://github.com/Demuirgos)
