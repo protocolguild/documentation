@@ -258,8 +258,7 @@ Individuals from active working groups produce the membership by opting into Pro
 |**EthereumJS** (2 contributors)| **1** | |
 | [Gabriel Rocheleau](https://github.com/gabrocheleau/) | 0.5 | [ethereum/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/issues?q=author%3Agabrocheleau) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
-| **Security** (7 contributors) | **7** | |
-| [Andrés Jiménez Láinez](https://github.com/nethoxa/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
+| **Security** (6 contributors) | **6** | |
 | [Antoine James](https://github.com/0xMushow) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik](https://github.com/fredrik0x/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
@@ -286,6 +285,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Ahmad Bitar](https://github.com/smartprogrammer93)
 - [Andrei Maiboroda](https://github.com/gumb0)
 - [Andrew Day](https://github.com/acolytec3)
+- [Andrés Jiménez Láinez](https://github.com/nethoxa/)
 - [Artem Vorotnikov](https://github.com/vorot93)
 - [axic](https://github.com/axic)
 - [Ayman Bouchareb](https://github.com/Demuirgos)
