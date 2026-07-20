@@ -151,7 +151,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
 | [Satyajit Das](https://github.com/satushh) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/satushh) |
 | [Terence Tsao](https://github.com/terencechain/) | 1 | [ethresear.ch/u/terence/activity](https://ethresear.ch/u/terence/activity), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Aterencechain%20), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aterencechain), [hackmd.io/@ttsao](https://hackmd.io/@ttsao) |
-| **Teku** (7 contributors) | **7** | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
+| **Teku** (8 contributors) | **8** | [ConsenSys/teku](https://github.com/ConsenSys/teku) |
 | [Dmitrii Shmatko](https://github.com/zilm13/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Azilm13) |
 | [Enrico Del Fante](https://github.com/tbenr/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Atbenr) |
 | [Gabriel Fukushima](https://github.com/gfukushima/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Agfukushima) |
@@ -159,6 +159,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Mehdi Aouadi](https://github.com/mehdi-aouadi) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Amehdi-aouadi) |
 | [Paul Harris](https://github.com/rolfyone/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3Arolfyone) |
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) |
+| [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AMatilda-Clerke), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 
 | **EXECUTION CLIENTS** | Weight | Contributions |
 |:---|:---|:---|
@@ -186,7 +187,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [lightclient](https://github.com/lightclient/) | 1 | EF, [ethereum/eips](https://github.com/ethereum/eips/pulls?q=is%3Apr+author%3Alightclient), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Alightclient), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Alightclient) |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | |
 | [Jonny Rhea](https://github.com/jrhea/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ajrhea+) |
-| **Hyperledger Besu** (14 contributors) | **13.5** | [hyperledger/besu](https://github.com/hyperledger/besu) |
+| **Hyperledger Besu** (13 contributors) | **12.5** | [hyperledger/besu](https://github.com/hyperledger/besu) |
 | [Ameziane](https://github.com/ahamlat/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Aahamlat) |
 | [Daniel Lehrner](https://github.com/daniellehrner/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Adaniellehrner) |
 | [Fabio di Fabio](https://github.com/fab-10/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Afab-10) |
@@ -197,7 +198,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Kanchan Kaur](https://github.com/kkaur01) | 0.5 | [hyperledger/besu](https://github.com/hyperledger/besu) |
 | [Karim Taam](https://github.com/matkt) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amatkt) |
 | [Luis Pinto](https://github.com/lu-pinto/) | 1 | [Consensys/tuweni](https://github.com/Consensys/tuweni/pulls?q=author%3Alu-pinto), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Alu-pinto), [hyperledger/besu-verkle-trie](https://github.com/hyperledger/besu-verkle-trie/pulls?q=author%3Alu-pinto) |
-| [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
