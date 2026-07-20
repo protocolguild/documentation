@@ -4,7 +4,7 @@ This section describes Protocol Guild's current smart contract architecture. You
 
 Protocol Guild uses smart contracts created by [Splits](https://splits.org/) to trustlessly manage the vesting and distribution of donated funds. All donations are deposited into immutable vesting contracts, which vest funds into pass-through wallets, before being transferred to split contracts for distribution to the membership.
 
-The [mainnet split contract](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. A DAO is used to ratify changes to the membership onchain every quarter.
+The [mainnet split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) also serves as Protocol Guild's membership registry of Ethereum’s active core protocol contributors. A DAO is used to ratify changes to the membership onchain every quarter.
 
 ## 2.1 Modules
 
@@ -28,21 +28,21 @@ All donated tokens are thus forced to vest - there is no way to do anything with
 **Deployed Vesting Contracts:**
 
 - Mainnet
-  - 1-Year Vest: [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://app.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)
-  - 4-Year Vest: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+  - 1-Year Vest: [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/)
+  - 4-Year Vest: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://explorer.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
   - Deprecated:
-    - Pilot Vest: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://app.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+    - Pilot Vest: [0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9](https://explorer.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
 - Arbitrum
-  - 1-Year Vest: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://app.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
-  - 4-Year Vest: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://app.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+  - 1-Year Vest: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://explorer.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
+  - 4-Year Vest: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://explorer.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
 - Base
-  - 1-Year Vest: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://app.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
-  - 4-Year Vest: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://app.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+  - 1-Year Vest: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://explorer.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
+  - 4-Year Vest: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://explorer.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
 - Optimism
-  - 1-Year Vest: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://app.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
-  - 4-Year Vest: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://app.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
+  - 1-Year Vest: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://explorer.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
+  - 4-Year Vest: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://explorer.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
   - Deprecated:
-    - [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://app.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
+    - [0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830](https://explorer.splits.org/accounts/0xB3d8d7887693a9852734b4D25e9C0Bb35Ba8a830/?chainId=10)
 
 ### Pass-Through Wallet
 
@@ -59,13 +59,13 @@ The PTW allows the Guild’s membership to make arbitrary calls with vested toke
 **Deployed PTWs:**
 
 - Mainnet:
-  - [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://app.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1)
+  - [0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E](https://explorer.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1)
 - Arbitrum:
-  - [0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf](https://app.splits.org/accounts/0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf/?chainId=42161)
+  - [0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf](https://explorer.splits.org/accounts/0x613d2d0dcbe95e2f06e1fa6651633ceb17b58dbf/?chainId=42161)
 - Base:
-  - [0xfcdf7254cca539f87f732c4bc19356a3d856a9b1](https://app.splits.org/accounts/0xfcdf7254cca539f87f732c4bc19356a3d856a9b1/?chainId=8453)
+  - [0xfcdf7254cca539f87f732c4bc19356a3d856a9b1](https://explorer.splits.org/accounts/0xfcdf7254cca539f87f732c4bc19356a3d856a9b1/?chainId=8453)
 - Optimism:
-  - [0xd62f993fa6a2d15815795c377cf5c9ccce81f499](https://app.splits.org/accounts/0xd62f993fa6a2d15815795c377cf5c9ccce81f499/?chainId=10)
+  - [0xd62f993fa6a2d15815795c377cf5c9ccce81f499](https://explorer.splits.org/accounts/0xd62f993fa6a2d15815795c377cf5c9ccce81f499/?chainId=10)
 
 ### Split Contract
 
@@ -89,18 +89,18 @@ Split contracts, built by the [Splits](https://splits.org/) team, contain all Gu
 **Deployed Splits Contracts:**
 
 - Mainnet:
-  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1)
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1)
   - Deprecated:
-    - Pilot Split: [0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
-    - Split V2.0: [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://app.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
+    - Pilot Split: [0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1](https://explorer.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
+    - Split V2.0: [0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10](https://explorer.splits.org/accounts/0xd4ad8daba9ee5ef16bb931d1cbe63fb9e102ec10/)
 - Arbitrum:
-  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=42161)
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=42161)
 - Base:
-  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=8453)
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=8453)
 - Optimism:
-  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://app.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
+  - Split V2.1: [0xd982477216dadd4c258094b071b49d17b6271d66](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=10)
   - Deprecated:
-    - Split V2.0: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://app.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
+    - Split V2.0: [0xc20A515648ecC1f379fDF6ECE07552a9093F416E](https://explorer.splits.org/accounts/0xc20A515648ecC1f379fDF6ECE07552a9093F416E/?chainId=10)
   
 ### DAO
 
@@ -135,9 +135,9 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
 **Deployed Multisigs:**
 
 - Mainnet
-  - [PG Security Level 1 (PTW): 0xaaaa99a4660f97Ce648FcaE65BEf2f70CF9d404A](https://app.safe.global/balances?safe=eth:0xaaaa99a4660f97Ce648FcaE65BEf2f70CF9d404A)
-  - [PG Security Level 2 (Split, ENS + foundation treasury reserves): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://app.safe.global/balances?safe=eth:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
-  - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+  - [PG Security Level 1 (PTW): 0xaaaa99a4660f97Ce648FcaE65BEf2f70CF9d404A](https://.global/balances?safe=eth:0xaaaa99a4660f97Ce648FcaE65BEf2f70CF9d404A)
+  - [PG Security Level 2 (Split, ENS + foundation treasury reserves): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://.global/balances?safe=eth:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
+  - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://.global/balances?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=eth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
   - Deprecated:
     - [Pilot Donations: 0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)

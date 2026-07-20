@@ -31,11 +31,17 @@ Or, see all media from over the years below:
 
 | Presentations (Audio + Video) | Event | Date |
 |:----|:----|----:|
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=S5gCbHNkd_Y) | EthCluj 2026 | May 14 2026 |
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=8rBpvhY4BIQ) | EthPrague 2026 | May 09 2026 |
+| [Maintaining Ethereum's Future](https://youtu.be/watch?v=0Mzne044HAQ) | EthCC 2026 | Apr 01 2026 |
 | [Funding Ethereum Takes a Village](https://www.youtube.com/watch?v=aLTXYIzGihc) | EthDenver 2026 | Feb 20 2026 |
 | [Core dev undercompensation by the numbers](https://www.youtube.com/watch?v=q5qPYZLGD3U) | Shelling Point | Nov 22 2025 |
-| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | Crypto and Blockchain Economics Research (CBER) Forum | Oct 17 2025 |
+| [Ethereum Governance](https://www.youtube.com/watch?v=07k4Dv5ZTvI) | CBER Forum | Oct 17 2025 |
 | [Protocol Guild: 3 years of impact & Institution Building](https://www.youtube.com/watch?v=JE1yMXAwZs0) | Dappcon | June 16 2025 |
 | [Ethereum Protocol Capture Risks](https://www.youtube.com/watch?v=Zlz8_A8urD0) | Protocol Berg v2 | June 13 2025 |
+| [Sustaining Ethereum's Future](https://www.youtube.com/watch?v=_fMO6AmTPZI) | EthPrague 2025 | May 29 2025 |
+| [Maintaining Ethereum's Future](https://www.youtube.com/watch?v=wWybGDCyWKU) | EthCC 2025 | May 27 2025 |
+| [Sustaining Ethereum's Future](https://www.youtube.com/watch?v=zkp5Fql6vYk) | ETHdam | May 11 2025 |
 | [Resilient Funding for Ethereum's Core Protocol](https://www.youtube.com/watch?v=rnF_y8Y2hrU) | EthDenver | Feb 27 2025 |
 | [Protocol Guild: Sustaining Ethereum's Future](https://www.youtube.com/watch?v=rSnrdISXcGY) | Ethereum Zurich | Jan 30 2025 |
 | [Protocol Guild: funding the Ethereum commons](https://www.youtube.com/watch?v=4Hc664qQkV0) | Devcon 7 | Nov 15 2024 |
@@ -47,10 +53,10 @@ Or, see all media from over the years below:
 | [Linux & Ethereum: Commoning vs Commodifying](https://www.youtube.com/watch?v=CEwXVUQEQwM) | Protocol Berg | Sep 15 2023 |
 | [Funding Ethereum's Core Protocol Work](https://www.youtube.com/watch?v=RM3lZtqrGjc) | FtC Berlin 2023 | Sep 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=YE30D6F2k28) | EthCC 2023 | Jul 18 2023 |
-| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://youtu.be/HT-BKtT73yI) | ETHPrague 2023 | Jun 09 2023 |
+| [Funding & Incentivising Ethereum's Core Protocol Dev.](https://www.youtube.com/watch?v=UVuiJR_Aywk) | ETHPrague 2023 | Jun 09 2023 |
 | [Funding & Incentivising Ethereum's Core Protocol Dev.](https://live.spaghett-eth.com/session/sessionprotocolguildfundingandincentivisingethereumscoreprotocoldevelopment) | SpaghettETH 2023 | May 25 2023 |
 | [Funding + Incentivizing Core Protocol Work](https://youtu.be/ZhopXK6haL8) |  EDCON 2023 | May 21 2023 |
-| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/session/301) | Zuzalu | Apr 12 2023 |
+| [Protocol Guild: Funding Ethereum's Core Protocol Work](https://zuzalu.streameth.org/65a90bfc7932ebe436ba9375/watch?session=65b8f8d9a5b2d09b88ec1c2a) | Zuzalu | Apr 12 2023 |
 | [Protocol Guild: 1 year old](https://drive.google.com/file/d/1GoOCzMDJMbOmieJvS_9SGGKmeDQWJQHK/view) | Schelling Point | Mar 02 2023 |
 | [Funding Ethereum with the Protocol Guild](https://youtu.be/hSgJiZQ70k8) | Devcon 6 | Oct 12 2022 |
 | [Funding Ethereum with the Protocol Guild](https://www.youtube.com/watch?v=UVN97qA4gBs&list=PLhuBigpl7lqvMt8d7h4sbCmra9KbFmAdg) | Funding the Commons | Jun 24 2022 |
@@ -104,13 +110,13 @@ Or, see all media from over the years below:
 We are indebted to the following projects and individuals for their generous contributions to Protocol Guild's development over the years.
 
 Smart Contracts
-- [Splits](https://splits.org/) for their [onchain financial infrastructure](https://github.com/0xSplits) and feedback
+- [](https://.org/) for their [onchain financial infrastructure](https://github.com/0x) and feedback
 - [DAOhaus](https://daohaus.club/) for their [Moloch v3](https://daohaus.club/moloch) governance toolkit and work on an [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 
 Audits & Reviews
-- [Sigma Prime](https://sigmaprime.io) for their review of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [splits vesting contract](https://github.com/0xSplits/splits-vesting)
+- [Sigma Prime](https://sigmaprime.io) for their review of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [ vesting contract](https://github.com/0x/-vesting)
 - [Dedaub](https://dedaub.com/) for two audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
-- [Zellic](https://www.zellic.io/) for their audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [Split V2 contracts](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/splits-v2)
+- [Zellic](https://www.zellic.io/) for their audits of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts) and [Split V2 contracts](https://github.com/0x/-contracts-monorepo/tree/main/packages/-v2)
 - [Red Guild](https://theredguild.org/) for their audit of the [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 
 Other
@@ -124,8 +130,8 @@ Other
 Protocol Guild's 1-year pilot was kicked off on May 7th, 2022 with the [deployment](https://etherscan.io/tx/0x0fe4b8b7ff4e1301e9cbf6613b805dc76cffb4a633f36244e7544e9dfd8612b7) of the pilot vesting contract. This section contains documentation pertaining to the planning and execution of the pilot at that time, serving as a historical reference.
 
 ### Pilot Links
-- [Pilot Vesting contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
-- [Pilot Split contract](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
+- [Pilot Vesting contract](https://explorer.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+- [Pilot Split contract](https://explorer.splits.org/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)
 - [Mainnet Safe multisig](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
 - [Arbitrum Safe multisig](https://app.safe.global/balances?safe=arb1:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
 - [Base Safe multisig](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
@@ -275,7 +281,7 @@ We believe $2M-6.5M vested over 4 years to potential contributors will be a step
 
 ### Pilot Smart Contract Architecture
 
-As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from **[0xSplits](https://www.0xsplits.xyz/)**. Learn more about that project [here](https://docs.0xsplits.xyz/).
+As part of the design process for the Protocol Guild, we researched a number of smart contracts and ultimately settled on the Split and Vesting contracts from **[0xSplits](https://www.splits.org/)**. Learn more about that project [here](https://docs.splits.org/).
 
 **0xSplits Contracts**
 
@@ -284,14 +290,14 @@ Both the Vesting and Split contract can directly receive ETH and ERC-20 tokens. 
 *Pilot Vesting Contract*
 - Best for larger entities participating in the pilot.
 - Funds sent here will vest over 1 year.
-- **[0xSplits interface](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
+- **[0xSplits interface](https://explorer.splits.org/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)** / [Etherscan](https://etherscan.io/address/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9)
 - Verify that the full address being sent to is 0xF29F…f1a9. In the future, there may be additional vesting contracts with different vesting schedules.
--Note that there are two steps: depositing and starting the stream. See the [documentation](https://docs.0xsplits.xyz/) for more information.
+-Note that there are two steps: depositing and starting the stream. See the [documentation](https://docs.splits.org/) for more information.
 
 *Split Contract*
 - Best for smaller donations outside of the pilot, or regular periodic contributions.
 - Funds sent to this contract will not vest, instead they’ll be immediately available for withdrawal by the core contributors listed in the contract.
-- **[0xSplits interface](https://app.0xsplits.xyz/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
+- **[0xSplits interface](https://explorer.splits.org/accounts/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1/)** / [Etherscan](https://etherscan.io/address/0x84af3D5824F0390b9510440B6ABB5CC02BB68ea1)
 - Verify that the full address being sent to is 0x84af…8ea1. While the addresses and weights contained in the contract are mutable, the address of the contract itself will be used in perpetuity and will not change. Outside of the unlikely case that the Split management (multisig) gets compromised, it’s reasonable for sponsors to assume that this address will never change,  to facilitate  automatic or recurring contributions. If this changes, we will be sure to communicate this publicly.
 
 The diagram below illustrates a set of 0xSplits contracts and how the Guild intends to operate them.
