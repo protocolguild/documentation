@@ -332,6 +332,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Johnson Ugwuru](https://github.com/ogwurujohnson)
 - [Jorge Mederos](https://github.com/jmederosalvarado)
 - [joshie](https://github.com/joshieDo)
+- [Julian Ma](https://github.com/Ma-Julian)
 - [Kaan Uzdogan](https://github.com/kuzdogan)
 - [Kamil Sliwak](https://github.com/cameel)
 - [Karim Taam](https://github.com/matkt)
