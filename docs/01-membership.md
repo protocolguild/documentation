@@ -342,6 +342,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Leonardo de Sa Alt](https://github.com/leonardoalt)
 - [Mamy Ratsimbazafy](https://github.com/mratsim)
 - [Mark Simkin](https://github.com/msimkin)
+- [Marco Munizaga](https://github.com/MarcoPolo/)
 - [Martin Swende](https://github.com/holiman)
 - [Mateusz Jędrzejewski](https://github.com/matilote)
 - [Matt Nelson](https://github.com/non-fungible-nelson)
