@@ -76,7 +76,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
-- 2 Working Groups, 12 contributors, 12 total weight
+- 2 Working Groups, 11 contributors, 11 total weight
 - Venue: ACDC, ACDE
 - Artifact: EIPs <-> Specifications
 - Constraints: spec work must implementation agnostic + unopinionated
@@ -89,7 +89,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Peter Miller](https://github.com/petertdavies/) | 1 | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | [Sam Wilson](https://github.com/SamWilsn/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
-| [Tim Beiko](https://github.com/timbeiko/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Josh Davis](https://github.com/JoshDavisLight) | 1 | |
 | **Consensus Layer Specs + Coordination** (4 contributors) | **4** | |
@@ -377,6 +376,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Ștefan Talpalaru](https://github.com/stefantalpalaru)
 - [Tanishq Jasoria](https://github.com/tanishqjasoria)
 - [Taran Singh](https://github.com/Taranpreet26311)
+- [Tim Beiko](https://github.com/timbeiko/)
 - [tkstanczak](https://github.com/tkstanczak)
 - [Voith](https://github.com/voith)
 - [wdimitry](https://github.com/winsvega)
