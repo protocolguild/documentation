@@ -344,6 +344,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Mark Simkin](https://github.com/msimkin)
 - [Martin Swende](https://github.com/holiman)
 - [Mateusz Jędrzejewski](https://github.com/matilote)
+- [Matt Evans](https://github.com/mattevans/)
 - [Matt Nelson](https://github.com/non-fungible-nelson)
 - [Mehdi Zerouali](https://github.com/zedt3ster)
 - [Micah](https://github.com/micahzoltu)
