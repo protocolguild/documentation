@@ -34,7 +34,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
 | **P2P Networking** (4 contributors) | **4** | |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
-| [Marco Munizaga](https://github.com/MarcoPolo/) | 1 | |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 |**Protocol Architecture** (4 contributors) | **4** | |
@@ -340,6 +339,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Leonardo de Sa Alt](https://github.com/leonardoalt)
 - [Mamy Ratsimbazafy](https://github.com/mratsim)
 - [Mark Simkin](https://github.com/msimkin)
+- [Marco Munizaga](https://github.com/MarcoPolo/)
 - [Martin Swende](https://github.com/holiman)
 - [Mateusz Jędrzejewski](https://github.com/matilote)
 - [Matt Evans](https://github.com/mattevans/)
