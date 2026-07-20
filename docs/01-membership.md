@@ -299,6 +299,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Bartosz Zawistowski](https://github.com/bzawisto)
 - [battlmonstr](https://github.com/battlmonstr)
 - [Ben Edgington](https://github.com/benjaminion)
+- [Bharath Vedartham](https://github.com/bharath-123/)
 - [Courtney Hunter](https://github.com/courtneyeh)
 - [czhang-fm](https://github.com/czhang-fm)
 - [Dadepo Aderemi](https://github.com/dadepo)
