@@ -335,6 +335,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Kaan Uzdogan](https://github.com/kuzdogan)
 - [Kamil Sliwak](https://github.com/cameel)
 - [Karim Taam](https://github.com/matkt)
+- [Keri Clowes](https://github.com/kclowes)
 - [Kolby Moroz Liebl](https://github.com/KolbyML)
 - [Konrad Staniec](https://github.com/konradstaniec)
 - [Kristof Gazso](https://github.com/kristofgaszo)
