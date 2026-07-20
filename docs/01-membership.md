@@ -53,7 +53,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | **Robust Incentive Group (RIG)** (6 contributors) | **6** | |
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
-| [Julian Ma](https://github.com/Ma-Julian) | 1 | [rig.ethereum.org/all-works/julian](https://rig.ethereum.org/all-works/julian) |
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
 | [QED](https://github.com/mariosioannou-create) | 1 | [rig.ethereum.org/all-works/marios](https://rig.ethereum.org/all-works/marios) |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
@@ -329,6 +328,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Jorge Mederos](https://github.com/jmederosalvarado)
 - [Josh Rudolf](https://github.com/jrudolf/)
 - [joshie](https://github.com/joshieDo)
+- [Julian Ma](https://github.com/Ma-Julian)
 - [Kaan Uzdogan](https://github.com/kuzdogan)
 - [Kamil Sliwak](https://github.com/cameel)
 - [Karim Taam](https://github.com/matkt)
