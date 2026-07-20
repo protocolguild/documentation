@@ -75,12 +75,12 @@ Individuals from active working groups produce the membership by opting into Pro
 
 ## GOVERNANCE
 - Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
-- 2 Working Groups, 12 contributors
+- 2 Working Groups, 11 contributors
 - Venue: ACDC, ACDE
 - Artifact: EIPs <-> Specifications
 - Constraints: spec work must implementation agnostic + unopinionated
 
-| **Execution Layer Specs + Coordination** (8 contributors) | Weight | Contributions |
+| **Execution Layer Specs + Coordination** (7 contributors) | Weight | Contributions |
 |:---|:---|:---|
 | [Guru](https://github.com/gurukamath/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Carson](https://github.com/Carsons-Eels/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
@@ -373,6 +373,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Ștefan Talpalaru](https://github.com/stefantalpalaru)
 - [Tanishq Jasoria](https://github.com/tanishqjasoria)
 - [Taran Singh](https://github.com/Taranpreet26311)
+- [Tim Beiko](https://github.com/timbeiko/)
 - [tkstanczak](https://github.com/tkstanczak)
 - [Voith](https://github.com/voith)
 - [wdimitry](https://github.com/winsvega)
