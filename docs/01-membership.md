@@ -39,7 +39,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 |**Protocol Architecture** (4 contributors) | **4** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 1 | |
-| [Barnabé Monnot](https://github.com/barnabemonnot/) | 1 | |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
 | **Protocol Consensus** (3 contributors) | **3** | |
@@ -296,6 +295,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Artem Vorotnikov](https://github.com/vorot93)
 - [axic](https://github.com/axic)
 - [Ayman Bouchareb](https://github.com/Demuirgos)
+- [Barnabé Monnot](https://github.com/barnabemonnot/)
 - [Bartosz Zawistowski](https://github.com/bzawisto)
 - [battlmonstr](https://github.com/battlmonstr)
 - [Ben Edgington](https://github.com/benjaminion)
