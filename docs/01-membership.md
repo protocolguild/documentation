@@ -291,6 +291,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Adrian Sutton](https://github.com/ajsutton)
 - [Afri](https://github.com/q9f)
 - [AgeManning](https://github.com/agemanning)
+- [Ahmad Bitar](https://github.com/smartprogrammer93)
 - [Andrei Maiboroda](https://github.com/gumb0)
 - [Andrew Day](https://github.com/acolytec3)
 - [Artem Vorotnikov](https://github.com/vorot93)
