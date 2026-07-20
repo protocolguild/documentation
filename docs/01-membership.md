@@ -45,7 +45,6 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
 | **Protocol Prototyping** (7 contributors) | **7** | |
-| [Carl Beekhuizen](https://github.com/CarlBeek/) | 1 | |
 | [Jihoon Song](https://github.com/jihoonsong) | 1 | [jihoonsong/pglanding-jihoonsong](https://github.com/jihoonsong/pglanding-jihoonsong) |
 | [Jochem](https://github.com/jochem-brouwer/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Ajochem-brouwer), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajochem-brouwer), [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ajochem-brouwer) |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
@@ -295,6 +294,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [battlmonstr](https://github.com/battlmonstr)
 - [Ben Edgington](https://github.com/benjaminion)
 - [Bharath Vedartham](https://github.com/bharath-123/)
+- [Carl Beekhuizen](https://github.com/CarlBeek/)
 - [Courtney Hunter](https://github.com/courtneyeh)
 - [czhang-fm](https://github.com/czhang-fm)
 - [Dadepo Aderemi](https://github.com/dadepo)
