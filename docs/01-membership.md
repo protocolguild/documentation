@@ -54,9 +54,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
 | [QED](https://github.com/mariosioannou-create) | 1 | [rig.ethereum.org/all-works/marios](https://rig.ethereum.org/all-works/marios) |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
-| **Stateless Consensus** (3 contributors) | **2.5** | |
+| **Stateless Consensus** (2 contributors) | **1.5** | |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
-| [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
 | [Wei Han Ng](https://github.com/weiihann) | 0.5 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Aweiihann) |
 | **Uncategorized** (1 contributor) | **1** | |
 | [Yoav Weiss](https://github.com/yoavw/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
@@ -176,6 +175,7 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Gary Rong](https://github.com/rjl493456442/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Arjl493456442+) |
+| [Guillaume Ballet](https://github.com/gballet/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Agballet), [ethereum/go-verkle](https://github.com/ethereum/go-verkle/pulls?q=is%3Apr+author%3Agballet), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=is%3Apr+author%3Agballet) |
 | [lightclient](https://github.com/lightclient/) | 1 | EF, [ethereum/eips](https://github.com/ethereum/eips/pulls?q=is%3Apr+author%3Alightclient), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Alightclient), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Alightclient) |
 | [Marius van der Wijden](https://github.com/MariusVanDerWijden/) | 1 | |
 | [Jonny Rhea](https://github.com/jrhea/) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ajrhea+) |
