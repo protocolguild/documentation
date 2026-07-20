@@ -326,6 +326,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Jacek Glen](https://github.com/JacekGlen)
 - [jacobkaufmann](https://github.com/jacobkaufmann)
 - [Jamie Lokier](https://github.com/jlokier)
+- [Jared Wasinger](https://github.com/jwasinger/)
 - [Jason Carver](https://github.com/carver)
 - [Jim McDonald](https://github.com/mcdee)
 - [Jiri Peinlich](https://github.com/gezero)
