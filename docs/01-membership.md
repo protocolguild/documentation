@@ -237,8 +237,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Jihoon Song](https://github.com/jihoonsong) | 1 | [jihoonsong/pglanding-jihoonsong](https://github.com/jihoonsong/pglanding-jihoonsong) |
 | [Justin Traglia](https://github.com/jtraglia/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/c-kzg-4844](https://github.com/ethereum/c-kzg-4844/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=is%3Amerged+is%3Apr+author%3Ajtraglia) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
-| **Execution Specifications** (12 contributors) | **12** | |
-| [Carson](https://github.com/Carsons-Eels/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
+| **Execution Specifications** (12 contributors) | **11.5** | |
+| [Carson](https://github.com/Carsons-Eels/) | 0.5 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Felipe Selmo](https://github.com/fselmo/) | 1 | [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Guru](https://github.com/gurukamath/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
