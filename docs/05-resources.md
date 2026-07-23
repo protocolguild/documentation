@@ -108,7 +108,7 @@ Or, see all media from over the years below:
 We are indebted to the following projects and individuals for their generous contributions to Protocol Guild's development over the years.
 
 Smart Contracts
-- [](https://.org/) for their [onchain financial infrastructure](https://github.com/0x) and feedback
+- The [Splits.org](https://splits.org/) team for their onchain financial infrastructure and feedback
 - [DAOhaus](https://daohaus.club/) for their [Moloch v3](https://daohaus.club/moloch) governance toolkit and work on an [onchain membership registry](https://github.com/HausDAO/protocol-guild-contracts)
 
 Audits & Reviews
