@@ -4,8 +4,6 @@
 
 - [Dune dashboard](https://dune.com/protocolguild/protocol-guild)
 - [X](https://twitter.com/protocolguild)
-- [Farcaster](https://warpcast.com/protocolguild)
-- [Discord](https://discord.com/invite/HaUhXYsMyC)
 
 ## 5.2 Media
 
