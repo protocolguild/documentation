@@ -41,10 +41,11 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
-| **Protocol Consensus** (3 contributors) | **3** | |
+| **Protocol Consensus** (4 contributors) | **4** | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
+| [Ben Edgington](https://github.com/benjaminion) | 1 | [benjaminion.xyz](https://benjaminion.xyz/) |
 | **Protocol Prototyping** (2 contributors) | **2** | |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
 | [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
