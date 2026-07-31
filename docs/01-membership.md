@@ -264,13 +264,12 @@ Individuals from active working groups produce the membership by opting into Pro
 |**EthereumJS** (2 contributors)| **1** | |
 | [Gabriel Rocheleau](https://github.com/gabrocheleau/) | 0.5 | [ethereum/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/issues?q=author%3Agabrocheleau) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
-| **Security** (7 contributors) | **7** | |
+| **Security** (6 contributors) | **6** | |
 | [Antoine James](https://github.com/0xMushow) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik](https://github.com/fredrik0x/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Huaifeng](https://github.com/jzh18/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Nikos Baxevanis](https://github.com/moodmosaic/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Tyler Holmes](https://github.com/0xtylerholmes/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yassine Ferhane](https://github.com/gitToki/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | **Funding + PG Operations** (3 contributors) | **3** | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Acheeky-gorilla), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Acheeky-gorilla), [Funding (+ maintaining dune dashboard itself)](https://dune.com/protocolguild/protocol-guild)|
@@ -388,6 +387,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Taran Singh](https://github.com/Taranpreet26311)
 - [Tim Beiko](https://github.com/timbeiko/)
 - [tkstanczak](https://github.com/tkstanczak)
+- [Tyler Holmes](https://github.com/0xTylerHolmes)
 - [Voith](https://github.com/voith)
 - [wdimitry](https://github.com/winsvega)
 - [Zahary Karadjov](https://github.com/zah)
