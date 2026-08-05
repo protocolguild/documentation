@@ -271,9 +271,8 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Huaifeng](https://github.com/jzh18/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Nikos Baxevanis](https://github.com/moodmosaic/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yassine Ferhane](https://github.com/gitToki/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| **Funding + PG Operations** (3 contributors) | **3** | |
+| **PG Operations + Funding** (2 contributors) | **2** | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Acheeky-gorilla), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Acheeky-gorilla), [Funding (+ maintaining dune dashboard itself)](https://dune.com/protocolguild/protocol-guild)|
-| [Peter Vecchiarelli](https://github.com/pvecchiarelli) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Apvecchiarelli+), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Apvecchiarelli), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Atvanepps), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Atvanepps), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 
 *Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
@@ -365,6 +364,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [paulhauner](https://github.com/paulhauner)
 - [pdobacz](https://github.com/pdobacz)
 - [Peter Szilagyi](https://github.com/karalabe)
+- [Peter Vecchiarelli](https://github.com/pvecchiarelli)
 - [Piper Merriam](https://github.com/pipermerriam)
 - [Pop](https://github.com/ppopth)
 - [Proto](https://github.com/protolambda)
