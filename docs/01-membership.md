@@ -297,7 +297,6 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Barnabé Monnot](https://github.com/barnabemonnot/)
 - [Bartosz Zawistowski](https://github.com/bzawisto)
 - [battlmonstr](https://github.com/battlmonstr)
-- [Ben Edgington](https://github.com/benjaminion)
 - [Bharath Vedartham](https://github.com/bharath-123/)
 - [Carl Beekhuizen](https://github.com/CarlBeek/)
 - [Courtney Hunter](https://github.com/courtneyeh)
