@@ -139,6 +139,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PG Security Level 2 (Split, ENS + foundation treasury reserves): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://.global/balances?safe=eth:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://.global/balances?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=eth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Director's 2/3 ACD Fund 0x1843116a25F380a0e1F1e7507Aa18Dc620706CCb](https://app.safe.global/home?safe=eth:0x1843116a25F380a0e1F1e7507Aa18Dc620706CCb)
   - Deprecated:
     - [Pilot Donations: 0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
     - [PGv2 Donations: 0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a](https://app.safe.global/balances?safe=eth:0x3250c2CEE20FA34D1c4F68eAA87E53512e95A62a)
