@@ -1,28 +1,25 @@
 # 1. Membership
 
-## 1.1  Active Working Groups + Members
+## 1.1  Active Members
 
-Individuals from active working groups produce the membership by opting into Protocol Guild. The delineation between categories and working groups below is for informational purposes only - contributors quite often collaborate across many different working groups and projects. Working groups should undergo periodic reviews as the core protocol development roadmap evolves. The four categories include:
+Eligible individuals from active teams produce the membership by opting into Protocol Guild. Members are assigned to a single team, though they may serve cross-functional roles. Teams undergo periodic reviews as the core protocol development roadmap evolves, and are categorized as follows:
 
-- Wayfinding
-- Governance
-- Client Implementations
-- Upgrade Delivery
+- Research + Prototyping
+- Client Development
+- Upgrade + Maintenance Support
 
-## WAYFINDING
+### Research + Prototyping
 - Overview: the exploratory process to surface, describe and validate potential protocol changes
-- 9 Working Groups, 41 contributors, 41 total weight
-- Venue: breakout calls
-- Artifacts: Research & POCs
-- Research Constraints
+- Constraints:
+  - Research:
      - Generally agreed to be a significant and worthwhile direction for the protocol
-     - Composed of contributors who are sufficiently tethered to Ethereum's core protocol R&D, potentially being part of existing entities or teams focused on such work
+     - Composed of contributors / teams who are sufficiently tethered to Ethereum's core protocol R&D
      - Performed according to general research principles, including open production of artifacts, peer review, and systematic, documented efforts to compare different approaches
-- Prototyping / "Research Engineering" Constraints
+  - Prototyping:
     - Supporting a research direction that satisfies the criteria outlined above
     - Equipped with sufficient resources that are commensurate with the complexity and confidence of the research direction, necessary to move the research direction to a concrete proposal for mainnet
 
-| **Group** | **Weight** | **Contributions** |
+| **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
 | **Cryptography Research** (7 contributors) | **7** | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
@@ -67,31 +64,13 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
 
-## GOVERNANCE
-- Overview: the deliberative process used to come to consensus on which specific EIPs should be in each upgrade
-- 2 Working Groups, 5 contributors, 5 total weight
-- Venue: ACDC, ACDE
-- Artifact: EIPs <-> Specifications
-- Constraints: spec work must implementation agnostic + unopinionated
-
-| **Group** | **Weight** | **Contributions** |
-|:---|:---|:---|
-| **Execution Coordination** (3 contributors) | **3** | |
-| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
-| [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
-| [Josh Davis](https://github.com/JoshDavisLight) | 1 | |
-| **Consensus Coordination** (2 contributors) | **2** | |
-| [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
-| [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |
-
-## CLIENT IMPLEMENTATIONS
+### Client Development
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
-- 11 Working Groups, 114 contributors, 105 total weight
-- Venue: Internal Calls
-- Artifacts: Client Releases
 - Constraints: Must be well-tested, technically differentiated, and production ready (ie. able to construct full blocks locally)
 
-| **CONSENSUS CLIENTS** | Weight | Contributions |
+#### Consensus Clients
+
+| **Team** | Weight | Contributions |
 |:---|:---|:---|
 | **Grandine** (5 contributors) | **5** | [grandinetech/grandine](https://github.com/grandinetech/grandine) |
 | [Artiom Tretjakovas](https://github.com/ArtiomTr/) | 1 | [grandinetech/grandine](https://github.com/grandinetech/grandine), [grandinetech/rust-kzg](https://github.com/grandinetech/rust-kzg/) |
@@ -156,7 +135,9 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Stefan Bratanov](https://github.com/StefanBratanov/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AStefanBratanov) |
 | [Matilda Clerke](https://github.com/Matilda-Clerke/) | 1 | [Consensys/teku](https://github.com/Consensys/teku/pulls?q=author%3AMatilda-Clerke), [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3AMatilda-Clerke) |
 
-| **EXECUTION CLIENTS** | Weight | Contributions |
+#### Execution Clients
+
+| **Team** | Weight | Contributions |
 |:---|:---|:---|
 | **Erigon** (16 contributors) | **15.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
@@ -226,13 +207,29 @@ Individuals from active working groups produce the membership by opting into Pro
 | [Matthias Seitz](https://github.com/mattsse/) | 0.5 | |
 | [Sergei Shulepov](https://github.com/pepyakin) | 0.5| [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Apepyakin+) |
 
-## UPGRADE DELIVERY
-- Overview: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
-- 5 Working Groups, 38 contributors, 37 total weight
-- Venue: ACDT
-- Artifacts: specs/devnets/testnets
+### Upgrade + Maintenance Support
+- Overview:
+  - Governance: the deliberative process to reach consensus on which EIPs ship in each upgrade
+  - Delivery & Maintenance: the process of bringing each bundle of spec changes to mainnet as a hard fork/upgrade
+- Constraints:
+  - Contributors must be embedded in core protocol R&D with sustained presence in governance venues (ACD, breakouts)
+  - Spec work must be implemented agnostic and unopinionated
 
-| **Group** | **Weight** | **Contributions** |
+#### Governance
+
+| **Team** | **Weight** | **Contributions** |
+|:---|:---|:---|
+| **Execution Coordination** (3 contributors) | **3** | |
+| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
+| [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
+| [Josh Davis](https://github.com/JoshDavisLight) | 1 | |
+| **Consensus Coordination** (2 contributors) | **2** | |
+| [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
+| [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |****
+
+#### Upgrade Delivery
+
+| **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
 | **Consensus Specifications** (4 contributors) | **4** | |
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
@@ -277,9 +274,7 @@ Individuals from active working groups produce the membership by opting into Pro
 
 *Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
 
-![ethereum - process, actors, artifacts v1](https://github.com/user-attachments/assets/b01d2634-fd91-414d-bec1-11be008e5261)
-
-## Alumni Members
+## 1.2 Alumni Members
 
 We're grateful to our former members who have helped us bootstrap Protocol Guild while building Ethereum for the world. ❤️
 
@@ -392,9 +387,9 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Zahary Karadjov](https://github.com/zah)
 - [zhenfei zhang](https://github.com/zhenfeizhang)
 
-## 1.2 Eligibility Requirements
+## 1.3 Eligibility Requirements
 
-To satisfy our requirements, working groups and members must:
+To satisfy our requirements, teams and members must:
 
 - Champion Ethereum's ethos of decentralization, credible neutrality, censorship resistance and permissionlessness
 - Be fully open source under an Open Source Initiative (OSI) [approved License](https://opensource.org/licenses)
@@ -408,29 +403,29 @@ To satisfy our requirements, working groups and members must:
 The eligibility framework is a "best effort representation" of Ethereum Layer 1 R&D. It tries to be sufficiently accommodating to what is the core protocol, but not any broader.
 - One frame is "strictly necessary and existential software required to produce blocks and advance the chain" (eg. MEV boost and light clients are omitted here as they are not required for local block production and are not implicated in consensus activities). The vast majority of PG funded work meets this definition, though there are some exceptions.
 - This framework has been modified previously and will likely continue to be: more restrictive in some places and more permissive in others.
-- Contributing to the working groups above above does not guarantee Protocol Guild membership.
+- Contributing to the teams above above does not guarantee Protocol Guild membership.
 - While this list tries to be explicit when possible linking to specific repositories, there are some research areas which can't be linked to a single source and may still be considered eligible.
 - Formal organizational affiliations are not necessary for membership. It may be the case that some members of an organization will be eligible but others will not be.
-- Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams/projects.
+- Independent or unaffiliated contributors are considered by the same guidelines as any contributors "officially" part of teams.
 
-## 1.3 Self-Curation
+## 1.4 Self-Curation
 
-### Adding and Removing Working Groups
+### Adding and Removing Teams
 
-Changing the eligibility framework can be made through a PR to the [documentation repo](https://github.com/protocolguild/documentation). This PR should add the project in the appropriate category, along with the following info:
+Changing the eligibility framework can be made through a PR to the [documentation repo](https://github.com/protocolguild/documentation). This PR should add the team in the appropriate category, along with the following info:
 
-- Name of project
-- Eligibility start date for the project (if being added)
-- Summary of why this project should be considered eligible/ineligible
+- Name of team
+- Eligibility start date for the team (if being added)
+- Summary of why this team should be considered eligible/ineligible
 
-The eligibility start date for the project is the date at which the project met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the project.
+The eligibility start date for the team is the date at which the team met the Eligibility criteria above (eg. after open sourcing). This is the earliest date that future Protocol Guild members can use to count contributions towards the team.
 
 ### Adding and removing members
 
 An existing member should make a PR at [this repo](https://github.com/protocolguild/documentation) which proposes an addition to the member list above, along with the accompanying info:
 
 - Name / Identifier
-- Affiliated eligible project
+- Affiliated eligible team
 - proposed weight
 - Links to relevant eligible work, eg. GitHub, research
 - 3-4 sentence summary of their contributions
@@ -451,7 +446,7 @@ Peer removals can occur when a member stops contributing to eligible work, and i
 
 There may also be situations when another member proposes the removal of an existing member, even if they are continuing with eligible work. This should only happen in special circumstances where the removed member's contributions are far below what would generally be expected, or in the case of other grave misconducts. The PR should include ample documentation and justification for the removal. To date, this method has never been used.
 
-## 1.4 Member Rights
+## 1.5 Member Rights
 
 ### Split Share
 
@@ -521,7 +516,7 @@ Typically this takes the shape of rough consensus discussions. In some special c
 
 Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds - more details about our narrow scope of concern [here](https://protocol-guild.readthedocs.io/en/latest/index.html).
 
-## 1.4 Obligations
+## 1.6 Obligations
 
 Members are expected to participate in curation. Consider these examples:
 
@@ -553,7 +548,7 @@ We use the term "self-curation" to describe how the membership selects its own b
     - The mechanism must accept all legitimate contributors
         - This prevents the set from ossifying or getting captured. Potential members which fit established guidelines need to be added to maintain credible neutrality to participants and sponsors. If donors think that the set is not curated well enough, they will not feel incentivized to contribute.
 
-## 1.5 Quotes
+## 1.7 Quotes
 
 We asked members why they think the Guild is important for Ethereum. Last updated May 21 2024.
 
