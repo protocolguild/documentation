@@ -39,13 +39,12 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
-| **Protocol Consensus** (4 contributors) | **4** | |
-| [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
+| **Finality (EF) - 4 Members** | **4** | |
+| [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
+| [Ben Edgington](https://github.com/benjaminion) | 1 | [benjaminion.xyz](https://benjaminion.xyz/) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
-| [Ben Edgington](https://github.com/benjaminion) | 1 | [benjaminion.xyz](https://benjaminion.xyz/) |
 | **Robust Incentive Group (RIG)** (4 contributors) | **4** | |
-| [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [QED](https://github.com/mariosioannou-create) | 1 | [rig.ethereum.org/all-works/marios](https://rig.ethereum.org/all-works/marios) |
 | **Stateless (EF) - 3 Members** | **2.5** | |
@@ -60,6 +59,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
 | **Independent / Uncategorized - 5 Members** | **5** | |
 | [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | | [arantxazapico/pg-contrib](https://github.com/arantxazapico/pg-contrib/blob/main/README.md) |
+| [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Milos Stankovic](https://github.com/morph-dev) | 1 | [morph-dev/pglanding-morph-dev](https://github.com/morph-dev/pglanding-morph-dev) |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
 | [Rahul](https://github.com/raxhvl) | 1 | [raxhvl/pglanding-raxhvl](https://github.com/raxhvl/pglanding-raxhvl) |
