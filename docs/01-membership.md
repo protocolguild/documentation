@@ -21,9 +21,8 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| **Cryptography Research** (7 contributors) | **7** | |
+| **Cryptography (EF) - 6 Members** | **6** | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
-| [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | | [arantxazapico/pg-contrib](https://github.com/arantxazapico/pg-contrib/blob/main/README.md)
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
@@ -63,6 +62,8 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Ignacio Hagopian](https://github.com/jsign/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs/pulls?q=author%3Ajsign) ([legacy repo](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3Ajsign)), [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=author%3Ajsign), [eth-act/zkevm-benchmark-workload](https://github.com/eth-act/zkevm-benchmark-workload/pulls?q=author%3Ajsign), [eth-act/ere](https://github.com/eth-act/ere/pulls?q=author%3Ajsign), [eth-act/zkboost](https://github.com/eth-act/zkboost/pulls?q=author%3Ajsign) |
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
+| **Independent / Uncategorized - 1 Member** | **1** | |
+| [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | | [arantxazapico/pg-contrib](https://github.com/arantxazapico/pg-contrib/blob/main/README.md) |
 
 ### Client Development
 - Overview: Implementations of the spec changes for each network upgrade, ongoing client maintenance and optimizations
