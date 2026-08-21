@@ -217,6 +217,8 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
+| **Ethereum Cat Herders - 1 Member** | **1** | |
+| [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | **Consensus Coordination** (2 contributors) | **2** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |****
