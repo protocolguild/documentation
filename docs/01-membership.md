@@ -21,6 +21,12 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
+|**Architecture (EF) - 5 Members** | **5.5** | |
+| [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
+| [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
+| [Justin Drake](https://github.com/justindrake/) | 1 | |
+| [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
+| [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
 | **Cryptography (EF) - 6 Members** | **6** | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
@@ -33,11 +39,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
-|**Protocol Architecture** (4 contributors) | **3.5** | |
-| [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
-| [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
-| [Justin Drake](https://github.com/justindrake/) | 1 | |
-| [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
 | **Protocol Consensus** (4 contributors) | **4** | |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
@@ -50,7 +51,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [QED](https://github.com/mariosioannou-create) | 1 | [rig.ethereum.org/all-works/marios](https://rig.ethereum.org/all-works/marios) |
-| [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
 | **Stateless** (3 contributors) | **2.5** | |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
