@@ -249,7 +249,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Rafael Matias](https://github.com/skylenet/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Sam Calder-Mason](https://github.com/samcm/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
 | [Stefan Starflinger](https://github.com/qu0b/) | 1 | [ethpandaops](https://github.com/ethpandaops) |
-| **PG Ops** (2 contributors) | **2** | |
+| **Protocol Guild Ops - 2 Members** | **2** | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Acheeky-gorilla), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Acheeky-gorilla), [Funding (+ maintaining dune dashboard itself)](https://dune.com/protocolguild/protocol-guild)|
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Atvanepps), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Atvanepps), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
 | **Security (EF) - 6 Members** | **6** | |
