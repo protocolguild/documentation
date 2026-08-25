@@ -32,7 +32,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
-| **EthLabs - 3 Members** | **2.5** | |
+| **Ethlabs - 3 Members** | **2.5** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
