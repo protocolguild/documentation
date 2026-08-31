@@ -25,13 +25,12 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Justin Drake](https://github.com/justindrake/) | 1 | |
 | [Thomas Thiery](https://github.com/soispoke/) | 1 | [rig.ethereum.org/all-works/thomas](https://rig.ethereum.org/all-works/thomas) |
 | [Toni Wahrstätter](https://github.com/nerolation) | 1 | [nerolation/pglanding-nerolation](https://github.com/nerolation/pglanding-nerolation) |
-| **Cryptography (EF) - 6 Members** | **6** | |
+| **Cryptography (EF) - 5 Members** | **5** | |
 | [Antonio Sanso](https://github.com/asanso/) | 1 | [asanso/pglanding-asanso](https://github.com/asanso/pglanding-asanso/blob/main/README.md) |
 | [Benedikt Wagner](https://github.com/b-wagn) | 1 | [b-wagn/pg-contrib](https://github.com/b-wagn/pg-contrib/blob/main/README.md) |
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
 | **Ethlabs - 3 Members** | **2.5** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
@@ -45,6 +44,8 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Ben Edgington](https://github.com/benjaminion) | 1 | [benjaminion.xyz](https://benjaminion.xyz/) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
+| **Post-Quantum (EF) - 1 Member** | **1** | |
+| [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
 | **Stateless (EF) - 3 Members** | **2.5** | |
 | [Carlos Perez](https://github.com/CPerezz/) | 1 | [BloatNet](https://bloanet.info), [zkevm-circuits](https://github.com/privacy-ethereum/zkevm-circuits), [execution-spec-tests](https://github.com/ethereum/execution-spec-tests/pulls?q=author%3A%22CPerezz%22) [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3ACPerezz) [Halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3ACPerezz), [gballet/go-ethereum](https://github.com/gballet/go-ethereum/pulls?q=author%3A%22CPerezz%22) |
 | [Maria Silva](https://github.com/misilva73) | 1 | [rig.ethereum.org/all-works/maria](https://rig.ethereum.org/all-works/maria) |
