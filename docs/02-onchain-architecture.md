@@ -139,6 +139,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PG Security Level 2 (Split, ENS + foundation treasury reserves): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://.global/balances?safe=eth:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://.global/balances?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=eth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Bridge 2/3 0x29b904695b511A5B749C759111eE57834bC72d8e](https://app.safe.global/balances?safe=eth:0x29b904695b511A5B749C759111eE57834bC72d8e)
   - [PG Director's 2/3 ACD Fund 0x1843116a25F380a0e1F1e7507Aa18Dc620706CCb](https://app.safe.global/home?safe=eth:0x1843116a25F380a0e1F1e7507Aa18Dc620706CCb)
   - Deprecated:
     - [Pilot Donations: 0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4](https://app.safe.global/balances?safe=eth:0xF6CBDd6Ea6EC3C4359e33de0Ac823701Cc56C6c4)
@@ -150,6 +151,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PG Security Level 2 (Split): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://app.safe.global/balances?safe=arb1:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=arb1:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=arb1:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Bridge 2/3 0x29b904695b511A5B749C759111eE57834bC72d8e](https://app.safe.global/balances?safe=arb1:0x29b904695b511A5B749C759111eE57834bC72d8e)
   - Deprecated:
     - [Pilot Donations: 0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2](https://app.safe.global/balances?safe=eth:0x29031805D0f40E5dcDE21A236FB4a69e6e0423B2)
     - [PGv2 Donations: 0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=eth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
@@ -158,6 +160,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PG Security Level 2 (Split): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://app.safe.global/balances?safe=base:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=base:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=base:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Bridge 2/3 0x29b904695b511A5B749C759111eE57834bC72d8e](https://app.safe.global/balances?safe=base:0x29b904695b511A5B749C759111eE57834bC72d8e)
   - Deprecated:
     - [Pilot Donations: 0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353](https://app.safe.global/balances?safe=base:0x92B97eC7FE03b4e75Ebd54e4cbe3cd6950591353)
     - [PGv2 Donations: 0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=base:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
@@ -166,6 +169,7 @@ Safe official documentation: [https://docs.safe.global/](https://docs.safe.globa
   - [PG Security Level 2 (Split): 0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E](https://app.safe.global/balances?safe=oeth:0xbbbbf78c3026E0F78dd69a131db8a144FfCc057E)
   - [PG Security Level 2 (Donation claimer): 0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=oeth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
   - [PG Director's 2/3 0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF](https://app.safe.global/balances?safe=oeth:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF)
+  - [PG Bridge 2/3 0x29b904695b511A5B749C759111eE57834bC72d8e](https://app.safe.global/balances?safe=oeth:0x29b904695b511A5B749C759111eE57834bC72d8e)
   - Deprecated:
     - [Pilot Donations: 0x728D29E9E06cE5d846242692dF05467076c19849](https://app.safe.global/balances?safe=oeth:0x728D29E9E06cE5d846242692dF05467076c19849)
     - [PGv2 Donations: 0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://app.safe.global/balances?safe=oeth:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
