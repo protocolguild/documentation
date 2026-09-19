@@ -173,7 +173,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind - 17 Members** | **14.5** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind - 16 Members** | **14** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
@@ -188,7 +188,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Marek Moraczyński](https://github.com/MarekM25/) | 0.5 | [NethermindEth/nethermind](https://github.com/MarekM25?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Maksim Menshikov](https://github.com/maximmenshikov/) | 1 | [NethermindEth/riscv-alpine-build](https://github.com/NethermindEth/riscv-alpine-build), [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64/tree/riscv64_zk), [NethermindEth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv) |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
-| [Oleksii Bespalov](https://github.com/alexb5dh/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aalexb5dh) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
 | [Stavros Vlachakis](https://github.com/svlachakis) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asvlachakis) |
 | **Nimbus Execution (IFT) - 4 Members** | **8** | |
@@ -349,6 +348,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [nghita](https://github.com/njgheorghita)
 - [Nishant Das](https://github.com/nisdas)
 - [Ognyan Genev](https://github.com/ogenev)
+- [Oleksii Bespalov](https://github.com/alexb5dh)
 - [paulhauner](https://github.com/paulhauner)
 - [pdobacz](https://github.com/pdobacz)
 - [Peter Szilagyi](https://github.com/karalabe)
