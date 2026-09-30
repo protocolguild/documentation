@@ -377,6 +377,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Tyler Holmes](https://github.com/0xTylerHolmes)
 - [Voith](https://github.com/voith)
 - [wdimitry](https://github.com/winsvega)
+- [Wei Han Ng](https://github.com/weiihann)
 - [Zahary Karadjov](https://github.com/zah)
 - [zhenfei zhang](https://github.com/zhenfeizhang)
 
