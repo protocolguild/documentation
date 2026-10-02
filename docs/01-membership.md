@@ -231,11 +231,10 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | **Protocol Guild Ops - 2 Members** | **2** | |
 | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Acheeky-gorilla), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Acheeky-gorilla), [Funding (+ maintaining dune dashboard itself)](https://dune.com/protocolguild/protocol-guild)|
 | [Trenton Van Epps](https://github.com/tvanepps/) | 1 | [protocolguild/documentation](https://github.com/protocolguild/documentation/pulls?q=is%3Apr+author%3Atvanepps), [protocolguild/protocol-guild-site](https://github.com/protocolguild/protocol-guild-site/pulls?q=is%3Apr+author%3Atvanepps), [Funding (Dune Dashboard)](https://dune.com/protocolguild/protocol-guild) |
-| **Security (EF) - 6 Members** | **6** | |
+| **Security (EF) - 5 Members** | **5** | |
 | [Antoine James](https://github.com/0xMushow) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Bhargava Shastry](https://github.com/bshastry/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Fredrik](https://github.com/fredrik0x/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
-| [Huaifeng](https://github.com/jzh18/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Nikos Baxevanis](https://github.com/moodmosaic/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | [Yassine Ferhane](https://github.com/gitToki/) | 1 | [ethereum/protocol-security](https://github.com/ethereum/protocol-security/) |
 | **Specs (EF) - 9 Members** | **9** | |
@@ -309,6 +308,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Henri Dubois-Ferriere](https://github.com/henridf)
 - [Holger Drewes](https://github.com/holgerd77)
 - [Hsiao-Wei Wang](https://github.com/hwwhww)
+- [Huaifeng](https://github.com/jzh18)
 - [Hugo De la cruz](https://github.com/hugo-dc)
 - [Jacek Glen](https://github.com/JacekGlen)
 - [jacobkaufmann](https://github.com/jacobkaufmann)
