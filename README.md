@@ -6,8 +6,6 @@ For members: the membership list now lives [here](./docs/01-membership.md).
 
 Please note that we do not accept pull requests for minor corrections, such as typos. Instead, we encourage you to open an issue to report these items, and we will compile them into a single update. Thank you!
 
-![image](https://github.com/user-attachments/assets/e4758b49-bfda-45f7-b1cc-7195b84ff8a4)
-
 ## Top 10 Funders
 
 Protocol Guild is only possible due to the support from ecosystem donors. Thank you to our top 10 funders, ranked below by value currently vesting:
@@ -26,3 +24,5 @@ Protocol Guild is only possible due to the support from ecosystem donors. Thank 
 *Last updated October 5, 2026*
 
 Updated quarterly. See the full leaderboard on our [Dune dashboard](https://dune.com/protocolguild/protocol-guild), or learn how to [donate](./docs/03-donate.md).
+
+![image](https://github.com/user-attachments/assets/e4758b49-bfda-45f7-b1cc-7195b84ff8a4)
