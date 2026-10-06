@@ -194,8 +194,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Andri Lim](https://github.com/jangko) | 1 | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?author=jangko) |
 | [Ben Hartnett](https://github.com/bhartnett/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | |
-| **Reth (Paradigm) - 9 Members** | **5.5** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
-| [Alexey Shekhirin](https://github.com/shekhirin/) | 0.5 | |
+| **Reth (Paradigm) - 8 Members** | **5** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [Dan Cline](https://github.com/rjected/) | 1 | |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
@@ -275,6 +274,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Afri](https://github.com/q9f)
 - [AgeManning](https://github.com/agemanning)
 - [Ahmad Bitar](https://github.com/smartprogrammer93)
+- [Alexey Shekhirin](https://github.com/shekhirin/)
 - [Andrei Maiboroda](https://github.com/gumb0)
 - [Andrew Day](https://github.com/acolytec3)
 - [Andrés Jiménez Láinez](https://github.com/nethoxa/)
