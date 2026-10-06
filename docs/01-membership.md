@@ -135,11 +135,10 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | Weight | Contributions |
 |:---|:---|:---|
-| **Erigon - 16 Members** | **15.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
+| **Erigon - 15 Members** | **14.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
-| [Giulio Rebuffo](https://github.com/Giulio2002/) | 1 | |
 | [Ilya Mikheev](https://github.com/JkLondon/) | 1 | |
 | [Kewei Chen](https://github.com/domiwei/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Adomiwei) |
 | [lupin012](https://github.com/lupin012/) | 0.5 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alupin012), [erigontech/rpc-tests](https://github.com/erigontech/rpc-tests/pulls?q=author%3Alupin012), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Alupin012) |
