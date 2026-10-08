@@ -254,7 +254,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
 | **Independent / Uncategorized - 10 Members** | **8.5** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
-| [Carson](https://github.com/Carsons-Eels/) | 0.5 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
 | [Gabriel Rocheleau](https://github.com/gabrocheleau/) | 0.5 | [ethereum/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/issues?q=author%3Agabrocheleau) |
 | [Josh Davis](https://github.com/JoshDavisLight) | 1 | |
@@ -286,6 +285,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [battlmonstr](https://github.com/battlmonstr)
 - [Bharath Vedartham](https://github.com/bharath-123/)
 - [Carl Beekhuizen](https://github.com/CarlBeek/)
+- [Carson](https://github.com/Carsons-Eels/)
 - [Courtney Hunter](https://github.com/courtneyeh)
 - [czhang-fm](https://github.com/czhang-fm)
 - [Dadepo Aderemi](https://github.com/dadepo)
