@@ -35,9 +35,10 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
 | [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
-| **Networking (EF) - 3 Members** | **3** | |
+| **Networking (EF) - 4 Members** | **4** | |
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
 | [Csaba Kiraly](https://github.com/cskiraly/) | 1 | [ethresear.ch/u/cskiraly](https://ethresear.ch/u/cskiraly/), [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Acskiraly) |
+| [Kamil Salakhiev](https://github.com/kamilsa/) | 1 | [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Akamilsa), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Akamilsa) |
 | [Sukun Tarachandani](https://github.com/sukunrt/) | 1 | |
 | **Finality (EF) - 4 Members** | **4** | |
 | [Anders](https://github.com/anderselowsson/) | 1 | [rig.ethereum.org/all-works/anders](https://rig.ethereum.org/all-works/anders) |
