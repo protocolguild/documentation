@@ -245,7 +245,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
-| **Independent / Uncategorized - 10 Members** | **8.5** | |
+| **Independent / Uncategorized - 9 Members** | **7.5** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Carson](https://github.com/Carsons-Eels/) | 0.5 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
@@ -254,7 +254,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Leo Lara](https://github.com/leolara) | 1 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
 | [Peter Miller](https://github.com/petertdavies/) | 1 | |
-| [Sam Wilson](https://github.com/SamWilsn/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 
 *Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
@@ -362,6 +361,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Roman Krasiuk](https://github.com/rkrasiuk)
 - [RomanHodulak](https://github.com/RomanHodulak)
 - [Ryan Ghods](https://github.com/ryanio)
+- [Sam Wilson](https://github.com/SamWilsn)
 - [Sammy Rosso](https://github.com/saolyn)
 - [Sarah Liu](https://github.com/avalonche)
 - [scorbajio](https://github.com/scorbajio)
