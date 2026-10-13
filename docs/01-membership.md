@@ -129,7 +129,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | Weight | Contributions |
 |:---|:---|:---|
-| **Erigon - 14 Members** | **13.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
+| **Erigon - 13 Members** | **12.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
