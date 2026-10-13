@@ -163,7 +163,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 0.5 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind - 16 Members** | **14** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind - 16 Members** | **13** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
@@ -180,7 +180,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
 | [Ruben Buniatyan](https://github.com/rubo/) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Arubo) |
 | [Stavros Vlachakis](https://github.com/svlachakis) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Asvlachakis) |
-| **Nimbus Execution (IFT) - 4 Members** | **8** | |
+| **Nimbus Execution (IFT) - 4 Members** | **4** | |
 | [Advaita Saha](https://github.com/advaita-saha) | 1 | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Aadvaita-saha) |
 | [Andri Lim](https://github.com/jangko) | 1 | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?author=jangko) |
 | [Ben Hartnett](https://github.com/bhartnett/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett) |
