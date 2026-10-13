@@ -252,7 +252,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
-| **Independent / Uncategorized - 10 Members** | **8.5** | |
+| **Independent / Uncategorized - 9 Members** | **7.5** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Carson](https://github.com/Carsons-Eels/) | 0.5 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Felix Hoffmann](https://github.com/felix314159/) | 1 | [ethereum/execution-specs](https://github.com/ethereum/execution-specs), [ethereum/execution-spec-tests](https://github.com/ethereum/execution-spec-tests) |
