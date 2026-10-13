@@ -304,6 +304,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Federico Gimenez](https://github.com/fgimenez)
 - [Felix Lange](https://github.com/fjl)
 - [g11tech](https://github.com/g11tech)
+- [Giulio Rebuffo](https://github.com/Giulio2002/)
 - [Harikrishnan Mulackal](https://github.com/hrkrshnn)
 - [Henri Dubois-Ferriere](https://github.com/henridf)
 - [Holger Drewes](https://github.com/holgerd77)
