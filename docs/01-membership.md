@@ -189,13 +189,12 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Andri Lim](https://github.com/jangko) | 1 | [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/commits?author=jangko) |
 | [Ben Hartnett](https://github.com/bhartnett/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Abhartnett), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Abhartnett) |
 | [Jordan Hrycaj](https://github.com/mjfh/) | 1 | |
-| **Reth (Paradigm) - 6 Members** | **3.5** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
+| **Reth (Paradigm) - 5 Members** | **3** | [paradigmxyz/reth](https://github.com/paradigmxyz/reth) |
 | [Arsenii Kulikov](https://github.com/klkvr) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aklkvr) |
 | [DaniPopes](https://github.com/DaniPopes) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Adanipopes+), [paradigmxyz/revmc](https://github.com/paradigmxyz/revmc) |
 | [Dragan Rakita](https://github.com/rakita/) | 1 | [bluealloy/revm](https://github.com/bluealloy/revm/commits/main/?author=rakita) |
 | [Emma Jamieson-Hoare](https://github.com/emmajam/) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Aemmajam+) |
 | [joshieDo](http://github.com/joshieDo) | 0.5 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/commits?author=joshieDo) |
-| [Sergei Shulepov](https://github.com/pepyakin) | 0.5| [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Apepyakin+) |
 
 ### Upgrade + Maintenance Support
 - Overview:
@@ -365,6 +364,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Sammy Rosso](https://github.com/saolyn)
 - [Sarah Liu](https://github.com/avalonche)
 - [scorbajio](https://github.com/scorbajio)
+- [Sergei Shulepov](https://github.com/pepyakin)
 - [Shoham Chakraborty](https://github.com/shohamc1)
 - [Sina Mahmoodi](https://github.com/s1na/)
 - [Somu Bhargava](https://github.com/bhargavasomu)
