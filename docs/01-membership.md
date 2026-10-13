@@ -315,6 +315,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Jared Wasinger](https://github.com/jwasinger/)
 - [Jason Carver](https://github.com/carver)
 - [Jim McDonald](https://github.com/mcdee)
+- [Jimmy Chen](https://github.com/jimmygchen)
 - [Jiri Peinlich](https://github.com/gezero)
 - [Johnson Ugwuru](https://github.com/ogwurujohnson)
 - [Jorge Mederos](https://github.com/jmederosalvarado)
