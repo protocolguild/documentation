@@ -109,12 +109,11 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Kim De Mey](https://github.com/kdeme/) | 1 | [ethereum/portal-network-specs](https://github.com/ethereum/portal-network-specs/pulls?q=author%3Akdeme), [status-im/nimbus-eth1](https://github.com/status-im/nimbus-eth1/pulls?q=author%3Akdeme), [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Akdeme) |
 | [Jacek Sieka](https://github.com/arnetheduck/) | 1 | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aarnetheduck) |
 | [Sam Shum](https://github.com/ahshum) | 1 | [status-im/nimbus-eth2](https://github.com/status-im/nimbus-eth2/pulls?q=author%3Aahshum) |
-| **Prysm (Offchain Labs) - 10 Members** | **9.5** | |
+| **Prysm (Offchain Labs) - 9 Members** | **8.5** | |
 | [Aarsh Shah](https://github.com/aarshkshah1992) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/aarshkshah1992) |
 | [Bastin](https://github.com/Inspector-Butters) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls/Inspector-Butters) |
 | [Chris Karabats](https://github.com/ckarabats) | 0.5 | |
 | [James He](https://github.com/james-prysm/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Ajames-prysm) |
-| [Kasey Kirkham](https://github.com/kasey/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Akasey) |
 | [Manu Nalepa](https://github.com/nalepae) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Analepae) |
 | [potuz](https://github.com/potuz/) | 1 | [ethresear.ch/u/potuz](https://ethresear.ch/u/potuz), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=author%3Apotuz), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/issues?q=author%3Apotuz%20), [OffchainLabs/gohashtree](https://github.com/OffchainLabs/gohashtree/pulls?q=author%3Apotuz), [OffchainLabs/hashtree](https://github.com/OffchainLabs/hashtree), [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Apotuz), [hackmd.io/@potuz](https://hackmd.io/@potuz) |
 | [Preston Van Loon](https://github.com/prestonvanloon/) | 1 | [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm/pulls?q=author%3Aprestonvanloon) |
@@ -324,6 +323,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Kaan Uzdogan](https://github.com/kuzdogan)
 - [Kamil Sliwak](https://github.com/cameel)
 - [Karim Taam](https://github.com/matkt)
+- [Kasey Kirkham](https://github.com/kasey)
 - [Keri Clowes](https://github.com/kclowes)
 - [Kolby Moroz Liebl](https://github.com/KolbyML)
 - [Konrad Staniec](https://github.com/konradstaniec)
