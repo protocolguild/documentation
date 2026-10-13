@@ -56,7 +56,6 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Kevaundray Wedderburn](https://github.com/kevaundray/) | 1 | [zkEVM on L1](https://hackmd.io/@kevaundray/Bypupr9Yge) |
 | [TingHan Jian](https://github.com/han0110) | 1 | [eth-act/ere](https://github.com/eth-act/ere/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [crate-crypto/rust-eth-kzg](https://github.com/crate-crypto/rust-eth-kzg/pulls?q=is%3Apr+author%3Ahan0110+is%3Aclosed), [privacy-ethereum/halo2](https://github.com/privacy-ethereum/halo2/pulls?q=is%3Apr+author%3Ahan0110)|
 | **Independent / Uncategorized - 6 Members** | **6** | |
-| [Arantxa Zapico](https://sites.google.com/view/arantxazapico/research) | 1 | | [arantxazapico/pg-contrib](https://github.com/arantxazapico/pg-contrib/blob/main/README.md) |
 | [Luca Zanolini](https://github.com/luca-zanolini) | 1 | [luca-zanolini/research](https://github.com/luca-zanolini/research) |
 | [QED](https://github.com/mariosioannou-create) | 1 | [rig.ethereum.org/all-works/marios](https://rig.ethereum.org/all-works/marios) |
 | [Raúl Kripalani](https://github.com/raulk/) | 1 | |
@@ -273,6 +272,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Andrei Maiboroda](https://github.com/gumb0)
 - [Andrew Day](https://github.com/acolytec3)
 - [Andrés Jiménez Láinez](https://github.com/nethoxa/)
+- [Arantxa Zapico](https://github.com/arantxazapico)
 - [Artem Vorotnikov](https://github.com/vorot93)
 - [axic](https://github.com/axic)
 - [Ayman Bouchareb](https://github.com/Demuirgos)
