@@ -357,6 +357,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [racytech](https://github.com/racytech)
 - [Radosław Kapka](https://github.com/rkapka)
 - [Raul Jordan](https://github.com/rauljordan)
+- [Raúl Kripalani](https://github.com/raulk/)
 - [rodiazet](https://github.com/rodiazet)
 - [Roman Krasiuk](https://github.com/rkrasiuk)
 - [RomanHodulak](https://github.com/RomanHodulak)
