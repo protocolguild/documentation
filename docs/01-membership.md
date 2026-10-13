@@ -341,6 +341,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Micah](https://github.com/micahzoltu)
 - [Michael Ferris](https://github.com/mrferris)
 - [mikeneuder](https://github.com/michaelneuder)
+- [Milos Stankovic](https://github.com/morph-dev)
 - [mmaller](https://github.com/mmaller)
 - [Mohamed Zahoor](https://github.com/jmozah)
 - [nghita](https://github.com/njgheorghita)
