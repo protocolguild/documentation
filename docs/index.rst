@@ -28,6 +28,8 @@ Donate
 +----------------------+----------------------------------------------------------------------+
 | **Polygon**          | `matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF`_                  |
 +----------------------+----------------------------------------------------------------------+
+| **Robinhood Chain**  | `robinhood:0x2Dc2234a0C2E8a5e378130567B50d160637f946A`_              |
++----------------------+----------------------------------------------------------------------+
 | **Scroll**           | `scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF`_                    |
 +----------------------+----------------------------------------------------------------------+
 | **Shape**            | `shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8`_                  |
@@ -42,6 +44,7 @@ Donate
 .. _base:0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20: https://explorer.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453
 .. _oeth:0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2: https://explorer.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10
 .. _matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=matic:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
+.. _robinhood:0x2Dc2234a0C2E8a5e378130567B50d160637f946A: https://robinhoodchain.blockscout.com/address/0x2Dc2234a0C2E8a5e378130567B50d160637f946A
 .. _scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF: https://app.safe.global/balances?safe=scr:0xccccEbdBdA2D68bABA6da99449b9CA41Dba9d4FF
 .. _shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8: https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8
 .. _zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8: https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8
