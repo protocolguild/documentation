@@ -38,6 +38,9 @@ Important: The vesting contracts only support ETH and ERC20 tokens, and cannot c
 ### Polygon
 - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=matic:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
+### Robinhood Chain
+- Donation address: [0x2Dc2234a0C2E8a5e378130567B50d160637f946A](https://robinhoodchain.blockscout.com/address/0x2Dc2234a0C2E8a5e378130567B50d160637f946A)
+
 ### Scroll
 - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=scr:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
