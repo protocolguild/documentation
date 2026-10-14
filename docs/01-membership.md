@@ -205,6 +205,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | **EthCoordinate - 2 Members** | **2** | |
 | [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |
 | [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
+| [Butta](https://github.com/Buttaa) | 0.5 | [ethcoordinate](https://github.com/ethcoordinate/client-diversity-data) |
 | **Ethereum Cat Herders - 1 Member** | **1** | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | **Devops (EF) - 7 Members** | **7** | |
