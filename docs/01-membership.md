@@ -131,7 +131,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | Weight | Contributions |
 |:---|:---|:---|
-| **Erigon - 13 Members** | **12.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
+| **Erigon - 14 Members** | **13.5** | [erigontech/erigon](https://github.com/erigontech/erigon), [erigontech/zilkworm](https://github.com/erigontech/zilkworm) |
 | [Alexey Sharov](https://github.com/AskAlexSharov/) | 1 | |
 | [Andrey Ashikhmin](https://github.com/yperbasis/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ayperbasis), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Ayperbasis) |
 | [Artem Tsebrovskii](https://github.com/awskii/) | 1 | |
@@ -142,6 +142,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Michelangelo Riccobene](https://github.com/mriccobene/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Amriccobene), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Amriccobene) |
 | [Milen Filatov](https://github.com/taratorio/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Ataratorio) |
 | [M Sudeep Kumar](https://github.com/sudeepdino008/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Asudeepdino008) |
+| [Oleksandr Lystopad](https://github.com/lystopad/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Alystopad) |
 | [Paweł Bylica](https://github.com/chfast/) | 1 | [ethereum/evmone](https://github.com/ethereum/evmone/commits?author=chfast) |
 | [Somnath Banerjee](https://github.com/somnathb1/) | 1 | |
 | [Tullio Canepa](https://github.com/canepat/) | 1 | [erigontech/erigon](https://github.com/erigontech/erigon/pulls?q=author%3Acanepat), [erigontech/silkworm](https://github.com/erigontech/silkworm/pulls?q=author%3Acanepat) |
