@@ -87,6 +87,7 @@ Or, see all media from over the years below:
 
 | Funding Announcements (Audio) | Event | Date |
 |:----|:----|----:|
+| [Armada x Protocol Guild Space](https://x.com/ship_armada/status/2110799170798047654) | X Space | Oct 15 2026 |
 | [Aligned x Protocol Guild Space](https://x.com/i/spaces/1mxPaZwgdwyKN/peek?s=20) | X Space | Aug 28 2026 |
 | [PWN Dao Takes the Protocol Guild Pledge](https://x.com/i/spaces/1ZkKzRYwYMNKv/peek) | X Space | Jan 29 2025 |
 | [How INTMAX supports Protocol Guild](https://x.com/i/spaces/1DXGyddVjdPKM/peek) | X Space | Jan 27 2025 |
