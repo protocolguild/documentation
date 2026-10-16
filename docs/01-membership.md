@@ -449,7 +449,7 @@ There may also be situations when another member proposes the removal of an exis
 
 Each member's share of the [split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) is calculated using member-specific inputs. There are two parts to the calculation:
 
-1. Calculate each member's `time_weight`: `time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`)
+1. Calculate each member's `time_weight`: `time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`) * `funder_recognition`
 
 2. Normalize `time_weight` as a percentage: `split_share` = (`time_weight` / `total_time_weights`) * 100
 
@@ -461,7 +461,7 @@ Each member's time-weight is updated onchain every quarter along with an Ethereu
 
 `time_weight` is a floating point number representing the square root of the time a member has been contributing to Ethereum (measured in months). It has the following components:
 
-`time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`)
+`time_weight` = `SQRT`((`start_date` - `months_inactive`) * `full_or_part_time`) * `funder_recognition`
 
 1. `start_date`
 
@@ -484,7 +484,16 @@ These multipliers roughly track the effort per week given by contributors. Full-
 
 4. `SQRT`
 
-The final step of the formula uses a Square Root to compress the weight range. This is done to not overly privilege long-term members over newer contributors.
+The formula uses a Square Root to compress the weight range. This is done to not overly privilege long-term members over newer contributors.
+
+5. `funder_recognition`
+
+- funder table on GitHub profile README: 2.0x
+- no funder table: 1.0x
+
+Members who add the Protocol Guild funder table to their GitHub profile README (`github.com/<username>`) receive a 2x multiplier on their time weight. The table recognizes the donors who make Protocol Guild possible, in a place Ethereum builders regularly see. See [github.com/protocolguild](https://github.com/protocolguild) for the current table.
+
+The PG Ops team maintains the table and sends participating members a PR with updated figures each quarter. Whether the table is live is checked during each quarterly membership update; if it has been removed, the multiplier drops off the following quarter. Participation is optional, and members without the table keep their base time weight.
 
 #### Time Weight Example
 
