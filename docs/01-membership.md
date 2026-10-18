@@ -31,9 +31,9 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| **Ethlabs - 3 Members** | **2.5** | |
+| **Ethlabs - 3 Members** | **2** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
-| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
+| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 0.5 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | **Networking (EF) - 4 Members** | **4** | |
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
