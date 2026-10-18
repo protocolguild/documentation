@@ -31,9 +31,9 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| **Ethlabs - 3 Members** | **2.5** | |
+| **Ethlabs - 3 Members** | **2** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
-| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
+| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 0.5 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | **Networking (EF) - 4 Members** | **4** | |
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
@@ -166,7 +166,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 0.5 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind - 16 Members** | **13** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind - 16 Members** | **13.5** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
@@ -177,7 +177,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | [NethermindEth/nethermind](https://github.com/LukaszRozmej?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
 | [Marc Harvey-Hill](https://github.com/Marchhill) | 1 | [NethermindEth/nethermind](https://github.com/Marchhill?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarchhill) |
 | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | [NethermindEth/nethermind](https://github.com/marcindsobczak?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
-| [Marcos Maceo](https://github.com/stdevMac/) | 0.5 | [NethermindEth/nethermind](https://github.com/stdevMac?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/commits/master/?author=stdevMac), [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks/commits/main/?author=stdevMac) |
+| [Marcos Maceo](https://github.com/stdevMac/) | 1 | [NethermindEth/nethermind](https://github.com/stdevMac?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/commits/master/?author=stdevMac), [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks/commits/main/?author=stdevMac) |
 | [Marek Moraczyński](https://github.com/MarekM25/) | 0.5 | [NethermindEth/nethermind](https://github.com/MarekM25?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Maksim Menshikov](https://github.com/maximmenshikov/) | 1 | [NethermindEth/riscv-alpine-build](https://github.com/NethermindEth/riscv-alpine-build), [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64/tree/riscv64_zk), [NethermindEth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv) |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
