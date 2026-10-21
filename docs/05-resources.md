@@ -63,6 +63,7 @@ Or, see all media from over the years below:
 
 | Podcasts & Discussions (Audio) | Host | Date |
 |:----|:----|----:|
+| [Who builds Ethereum, who pays for it, and why does that matter?](https://x.com/ethereumfndn/status/2112892053537579363) | Ethereum Foundation Livestream | Oct 21 2026 |
 | [Episode 3: Commons - Yancey Strickler & Trent Van Epps](https://youtube.com/watch?v=4xZSeujEmig) | Bridge Atlas (Summer of Protocols) | Nov 4 2025 |
 | [Episode 29: Securing the Future of Ethereum Core Development](https://www.youtube.com/watch?v=HiS1wgyWDs8) | Deeply Intents | Oct 25 2025 |
 | [New Institutions Roundtable: mechanisms, publics, and the state of the protocol institution](https://otherinternet.substack.com/p/new-institutions-roundtable) | Other Internet | Aug 11 2025 |
