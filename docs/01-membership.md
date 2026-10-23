@@ -202,7 +202,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| **EthCoordinate - 2 Members** | **2** | |
+| **EthCoordinate - 3 Members** | **2.5** | |
 | [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |
 | [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
 | [Butta](https://github.com/Buttaa) | 0.5 | [ethcoordinate](https://github.com/ethcoordinate/client-diversity-data) |
