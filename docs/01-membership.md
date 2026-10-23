@@ -31,9 +31,9 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Dmitry Khovratovich](https://github.com/khovratovich/) | 1 | [khovratovich/ef-summary](https://github.com/khovratovich/ef-summary/blob/main/main.md) |
 | [George Kadianakis](https://github.com/asn-d6/) | 1 | |
 | [Gottfried Herold](https://github.com/GottfriedHerold) | 1 | |
-| **Ethlabs - 3 Members** | **2.5** | |
+| **Ethlabs - 3 Members** | **2** | |
 | [Ansgar Dietrichs](https://github.com/adietrichs/) | 0.5 | |
-| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 1 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
+| [Caspar Schwarz-Schilling](https://github.com/casparschwa/) | 0.5 | [rig.ethereum.org/all-works/caspar](https://rig.ethereum.org/all-works/caspar) |
 | [Francesco D’Amato](https://notes.ethereum.org/@fradamt/) | 1 | |
 | **Networking (EF) - 4 Members** | **4** | |
 | [Bosul Mun](https://github.com/healthykim) | 1 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/pulls?q=is%3Apr+author%3Ahealthykim+) |
@@ -45,8 +45,9 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Ben Edgington](https://github.com/benjaminion) | 1 | [benjaminion.xyz](https://benjaminion.xyz/) |
 | [Roberto Saltini](https://github.com/saltiniroberto/) | 1 | [saltiniroberto/ethereum-research](https://github.com/saltiniroberto/ethereum-research/blob/main/README.md) |
 | [Yann Vonlanthen](https://github.com/yannvon) | 1 | [yannvonlanthen.com/publications](https://yannvonlanthen.com/publications/) |
-| **Formal Verification (EF) - 1 Member** | **1** | |
+| **Formal Verification (EF) - 2 Members** | **2** | |
 | [Alexander Hicks](https://github.com/alexanderlhicks) | 1 | [verified-zkevm.org](https://verified-zkevm.org/), [Verified-zkEVM/ArkLib](https://github.com/Verified-zkEVM/ArkLib/pulls?q=is%3Apr+author%3Aalexanderlhicks), [Verified-zkEVM/VCVio](https://github.com/Verified-zkEVM/VCVio/pulls?q=is%3Apr+author%3Aalexanderlhicks), [Verified-zkEVM/CompPoly](https://github.com/Verified-zkEVM/CompPoly/pulls?q=is%3Apr+author%3Aalexanderlhicks) |
+| [Derek Sorensen](https://github.com/dhsorens) | 1 | [Verified-zkEVM/CompPoly](https://github.com/Verified-zkEVM/CompPoly/pulls?q=is%3Apr+author%3Adhsorens), [Verified-zkEVM/riscv-zkvm](https://github.com/Verified-zkEVM/riscv-zkvm/pulls?q=is%3Apr+author%3Adhsorens), [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm/pulls?q=is%3Apr+author%3Adhsorens) |
 | **Post-Quantum (EF) - 1 Member** | **1** | |
 | [Thomas Coratger](https://github.com/tcoratger/) | 1 | [paradigmxyz/reth](https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Atcoratger) [Plonky3/Plonky3](https://github.com/Plonky3/Plonky3/pulls?q=is%3Apr+author%3Atcoratger) [https://github.com/tcoratger/hashcaster-exploration](https://github.com/tcoratger/hashcaster-exploration) [zkevm book](eth-act.github.io/zkevm-book/) |
 | **Stateless (EF) - 2 Members** | **2** | |
@@ -167,7 +168,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [pinges](https://github.com/pinges/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Apinges) |
 | [Sally Macfarlane](https://github.com/macfarla/) | 1 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Amacfarla) |
 | [Simon Dudley](https://github.com/siladu/) | 0.5 | [hyperledger/besu](https://github.com/hyperledger/besu/pulls?q=author%3Asiladu) |
-| **Nethermind - 16 Members** | **13** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
+| **Nethermind - 16 Members** | **13.5** | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind) |
 | [Alexey Osipov](https://github.com/flcl42) | 1 | [NethermindEth/nethermind](https://github.com/flcl42?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls/flcl42) |
 | [Anders Kristiansen](https://github.com/ak88) | 0.5 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aak88) |
 | [Ben Adams](https://github.com/benaadams) | 1 | [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Abenaadams) |
@@ -178,7 +179,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Łukasz Rozmej](https://github.com/LukaszRozmej/) | 1 | [NethermindEth/nethermind](https://github.com/LukaszRozmej?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3ALukaszRozmej) |
 | [Marc Harvey-Hill](https://github.com/Marchhill) | 1 | [NethermindEth/nethermind](https://github.com/Marchhill?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarchhill) |
 | [Marcin Sobczak](https://github.com/marcindsobczak/) | 1 | [NethermindEth/nethermind](https://github.com/marcindsobczak?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Amarcindsobczak) |
-| [Marcos Maceo](https://github.com/stdevMac/) | 0.5 | [NethermindEth/nethermind](https://github.com/stdevMac?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/commits/master/?author=stdevMac), [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks/commits/main/?author=stdevMac) |
+| [Marcos Maceo](https://github.com/stdevMac/) | 1 | [NethermindEth/nethermind](https://github.com/stdevMac?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/commits/master/?author=stdevMac), [NethermindEth/gas-benchmarks](https://github.com/NethermindEth/gas-benchmarks/commits/main/?author=stdevMac) |
 | [Marek Moraczyński](https://github.com/MarekM25/) | 0.5 | [NethermindEth/nethermind](https://github.com/MarekM25?org=NethermindEth), [NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3AMarekM25) |
 | [Maksim Menshikov](https://github.com/maximmenshikov/) | 1 | [NethermindEth/riscv-alpine-build](https://github.com/NethermindEth/riscv-alpine-build), [NethermindEth/bflat-riscv64](https://github.com/NethermindEth/bflat-riscv64/tree/riscv64_zk), [NethermindEth/dotnet-riscv](https://github.com/nethermindeth/dotnet-riscv) |
 | [Muhammad Amirul Ashraf](https://github.com/asdacap) | 1 |[NethermindEth/nethermind](https://github.com/NethermindEth/nethermind/pulls?q=author%3Aasdacap) |
@@ -206,9 +207,10 @@ Eligible individuals from active teams produce the membership by opting into Pro
 
 | **Team** | **Weight** | **Contributions** |
 |:---|:---|:---|
-| **EthCoordinate - 2 Members** | **2** | |
+| **EthCoordinate - 3 Members** | **2.5** | |
 | [Marc Garreau](https://github.com/wolovim/) | 1 | [ethereum/pm](https://github.com/ethereum/pm/commits/master/?author=wolovim) |
 | [Nixo](https://github.com/nixorokish/) | 1 | [ethereum/pm](https://github.com/ethereum/pm) |
+| [Butta](https://github.com/Buttaa) | 0.5 | [ethcoordinate](https://github.com/ethcoordinate/client-diversity-data) |
 | **Ethereum Cat Herders - 1 Member** | **1** | |
 | [Pooja Ranjan](https://github.com/poojaranjan/) | 1 | [Ethereum Protocol Videos](https://www.youtube.com/@EthereumProtocol), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+is%3Aclosed+poojaranjan), [ethereum/pm](https://github.com/ethereum/pm/pulls?q=is%3Apr+is%3Aclosed+poojaranjan) |
 | **Devops (EF) - 7 Members** | **7** | |
@@ -242,12 +244,11 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Alex Vlasov](https://github.com/ericsson49/) | 1 | TXRX, [ethresear.ch/u/ericsson49](https://ethresear.ch/u/ericsson49), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [hackmd.io/@ericsson49](https://hackmd.io/@ericsson49) |
 | [Anton Nashatyrev](https://github.com/Nashatyrev/) | 1 | TXRX, [Consensys/teku](https://github.com/Consensys/teku/pulls?q=is%3Apr+author%3ANashatyrev), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3ANashatyrev+), [libp2p/jvm-libp2p](https://github.com/libp2p/jvm-libp2p/pulls?q=is%3Apr+author%3ANashatyrev) |
 | [Mikhail Kalinin](https://github.com/mkalinin/) | 1 | TXRX, [ethresear.ch/u/mkalinin](https://ethresear.ch/u/mkalinin), [ethereum/EIPs](https://github.com/ethereum/EIPs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs/pulls?q=is%3Apr+author%3Amkalinin), [ethereum/execution-apis](https://github.com/ethereum/execution-apis/pulls?q=is%3Apr+author%3Amkalinin), [hackmd.io/@n0ble](https://hackmd.io/@n0ble) |
-| **Independent / Uncategorized - 6 Members** | **5** | |
+| **Independent / Uncategorized - 5 Members** | **4** | |
 | [Alex Stokes](https://github.com/ralexstokes/) | 1 | |
 | [Gabriel Rocheleau](https://github.com/gabrocheleau/) | 0.5 | [ethereum/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/issues?q=author%3Agabrocheleau) |
 | [Leo Lara](https://github.com/leolara) | 1 | [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs), [ethereum/execution-specs](https://github.com/ethereum/execution-specs) |
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
-| [Peter Miller](https://github.com/petertdavies/) | 1 | |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 
 *Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
@@ -349,6 +350,7 @@ We're grateful to our former members who have helped us bootstrap Protocol Guild
 - [Oleksii Bespalov](https://github.com/alexb5dh)
 - [paulhauner](https://github.com/paulhauner)
 - [pdobacz](https://github.com/pdobacz)
+- [Peter Miller](https://github.com/petertdavies/)
 - [Peter Szilagyi](https://github.com/karalabe)
 - [Peter Vecchiarelli](https://github.com/pvecchiarelli)
 - [Piper Merriam](https://github.com/pipermerriam)
