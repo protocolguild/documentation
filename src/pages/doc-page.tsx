@@ -41,7 +41,7 @@ const DocPage: FC = () => {
 
         {/* Main content */}
         <div className="flex-1 min-w-0">
-          <article className="prose prose-neutral prose-lg max-w-none break-words prose-a:break-words prose-code:break-words prose-pre:overflow-x-auto prose-h1:mb-4 prose-h1:mt-0 prose-h2:mt-8 prose-h2:mb-4 prose-headings:scroll-mt-8 prose-img:inline-block">
+          <article className="prose prose-neutral prose-sm md:prose-base max-w-3xl leading-[1.6] prose-p:leading-[1.6] prose-li:leading-[1.6] break-words prose-a:break-words prose-code:break-words prose-pre:overflow-x-auto prose-headings:scroll-mt-8 prose-h1:text-3xl prose-h1:mt-0 prose-h1:mb-4 prose-h2:text-2xl prose-h2:mt-10 prose-h2:mb-3 prose-h3:text-lg prose-h3:mt-8 prose-h3:mb-2 prose-h4:text-base prose-h4:mt-6 prose-h4:mb-2 prose-p:my-3 prose-ul:my-3 prose-ol:my-3 prose-li:my-1 prose-table:text-sm prose-img:inline-block">
             <ReactMarkdown
               remarkPlugins={[remarkGfm]}
               rehypePlugins={[rehypeRaw, rehypeHeadingIds]}
