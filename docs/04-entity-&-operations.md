@@ -32,7 +32,7 @@ The entity swaps its share of vested tokens on a monthly basis to maintain a sta
 - Compensation for independent operations contributors
     - $12.5k/month to support cheeky-gorilla's contributions
 
-The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [governance](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#id1) subsection of the docs.
+The entity aims to receive sufficient funding to cover the above, but not accumulate beyond that. These amounts are set by the membership, as noted in the [governance](/docs/membership#governance) subsection of the docs.
 
 ## 4.3 Annual Reports
 

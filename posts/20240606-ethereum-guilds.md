@@ -14,7 +14,7 @@ Over the last 2.5 years, I helped to launch the initial version of Protocol Guil
 
 Whether you're already familiar with Protocol Guild or not, please read these two links first. The rest of the post will not be as useful without their information.
 
--   [the docs](https://protocol-guild.readthedocs.io/en/latest/01-eligibility.html)
+-   [the docs](/docs/membership#eligibility-requirements)
 
 -   [So - you want to start a Guild?](https://trent.mirror.xyz/DLYnuoCN-Hwuu0s4G_XZVdI-c2OD2KP3UAg_UFB9MpY) (April 2023)
 

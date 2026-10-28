@@ -250,7 +250,7 @@ Eligible individuals from active teams produce the membership by opting into Pro
 | [Mário Havel](https://github.com/taxmeifyoucan) | 1 | |
 | [Scotty Poi](https://github.com/ScottyPoi/) | 0.5 | [ethereumjs/ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo/pulls?q=is%3Apr+author%3Ascottypoi+), [ethereumjs/ultralight](https://github.com/ethereumjs/ultralight/pulls?q=is%3Apr+author%3Ascottypoi+) |
 
-*Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](https://protocol-guild.readthedocs.io/en/latest/04-entity-%26-operations.html#finances).
+*Note: Protocol Guild's [Split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) contains all the above members plus one additional address used for entity expenses, as you can read about [here](/docs/entity-operations#finances).
 
 ## 1.2 Alumni Members
 
@@ -395,7 +395,7 @@ To satisfy our requirements, teams and members must:
 - Have a regular presence in Ethereum R&D or governance venues like [ethresear.ch](https://ethresear.ch), [Ethereum Magicians](https://ethereum-magicians.org/), [protocol calls](https://forkcast.org/calls) (e.g. AllCoreDevs, breakouts, testing/interop, etc.)
 - Be engaged in feature prototyping (e.g. [EIPs](https://github.com/ethereum/eips), devnets, etc.)
 - Have been contributing continuously for **at least 6 months** ahead of inclusion. This work must be ongoing (e.g. not a short-term or one-off project). To avoid removal from the current membership, any breaks in contribution must be shorter than 1 quarter (3 months). Beyond this length, the member should be moved to "Inactive" status until contribution resumes.
-- Be contributing in a roughly full-time capacity. Anything less receives a [partial weighting](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#time-weight).
+- Be contributing in a roughly full-time capacity. Anything less receives a [partial weighting](/docs/membership#time-weight).
 
 ### Additional Context
 
@@ -511,9 +511,9 @@ Protocol Guild members govern the evolution of the mechanism, which may include:
 - how and where to fundraise
 - the percentage of Split flows that the Foundation entity receives to account for various org expenses, including some compensation for select operational roles
 
-Typically this takes the shape of rough consensus discussions. In some special cases, decisions need to be voted on or ratified - [learn more here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html#dao).
+Typically this takes the shape of rough consensus discussions. In some special cases, decisions need to be voted on or ratified - [learn more here](/docs/onchain-architecture#dao).
 
-Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds - more details about our narrow scope of concern [here](https://protocol-guild.readthedocs.io/en/latest/index.html).
+Governance **does not** include any control over any vesting funds. e.g. members can't vote to cancel or change the timeline of vesting funds - more details about our narrow scope of concern [here](/docs).
 
 ## 1.6 Obligations
 

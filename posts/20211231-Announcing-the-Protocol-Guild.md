@@ -6,7 +6,7 @@ date: '2021-12-31'
 ---
 *Reposted with permission by Trent Van Epps, original [here](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)*
 
-*Rough outline for an experimental new funding tool which provides recruitment, retention, and reward mechanisms of core protocol contributors - read the full proposal [here](https://protocol-guild.readthedocs.io/en/latest/index.html).*
+*Rough outline for an experimental new funding tool which provides recruitment, retention, and reward mechanisms of core protocol contributors - read the full proposal [here](/docs).*
 
 Over the past year, Stateful Works has pushed the boundary on how to simultaneously accrue cultural and financial capital to protocol maintainers:
 
@@ -26,7 +26,7 @@ While these were both successful in their own rights, we think there's more to d
 >This proposal describes a new public goods funding mechanism: a split contract which distributes donated application tokens over a vesting period to a self-curated list of Ethereum protocol contributors.
 The primary goals: to provide autonomous tools for recruitment, retention, and reward to the protocol and its maintainers. If desired, individuals can forward their allocation to a charity.
 
-The [full proposal](https://protocol-guild.readthedocs.io/en/latest/index.html) contains extensive discussion on existing funding mechanisms, motivations, roles and obligations, design requirements, anticipated concerns, and a few case studies. We'd love to heard your feedback in the Stateful Works [discord](https://discord.com/invite/t8zSZCvf3y).
+The [full proposal](/docs) contains extensive discussion on existing funding mechanisms, motivations, roles and obligations, design requirements, anticipated concerns, and a few case studies. We'd love to heard your feedback in the Stateful Works [discord](https://discord.com/invite/t8zSZCvf3y).
 In direct contrast to the previous projects mentioned above, this mechanism should have:
 
 Present and future orientations: 

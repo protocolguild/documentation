@@ -13,7 +13,7 @@ Note that there are different donation addresses depending on if you're donating
 
 [![Donate](https://raw.githubusercontent.com/protocolguild/documentation/refs/heads/main/assets/donate.png)](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399)
 
-The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://explorer.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/02-onchain-architecture.html).
+The Guild’s mainnet donation address is an immutable vesting contract which trustlessly vests donated funds over 1 year. Vested funds get pushed into a [pass-through wallet](https://explorer.splits.org/accounts/0x2E1A2823B6e65e6AC46BaD6e0Cc4096976Fc265E/?chainId=1), which in turn sends funds to a [split contract](https://explorer.splits.org/accounts/0xd982477216dadd4c258094b071b49d17b6271d66/?chainId=1) for distribution to the membership. You can read more about this smart contract architecture [here](/docs/onchain-architecture).
 
 Important: The vesting contract only supports ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 

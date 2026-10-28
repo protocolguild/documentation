@@ -11,7 +11,7 @@ date: '2024-01-30'
 
 * * * * *
 
-A rough, quantitative framing of Protocol Guild's mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. With our [pilot concluded](https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html#) and[ PGv2 launching soon](https://github.com/HausDAO/protocol-guild-contracts?tab=readme-ov-file#protocol-guilds-v2-architecture-wip), now feels like a good time to articulate how and why we can and should get there. Let's call this the Protocol Guild Pledge!
+A rough, quantitative framing of Protocol Guild's mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. With our [pilot concluded](/docs/resources#pilot) and[ PGv2 launching soon](https://github.com/HausDAO/protocol-guild-contracts?tab=readme-ov-file#protocol-guilds-v2-architecture-wip), now feels like a good time to articulate how and why we can and should get there. Let's call this the Protocol Guild Pledge!
 
 In the first part of this post, I'll unpack what I mean by "Ethereum L1 R&D", "economically rational", "risk adjusted basis" and "avoiding capture". Then, I'll expand on the Protocol Guild Pledge (PGP, for short), arguing that a norm of projects with native tokens donating 1% of them to Protocol Guild is sufficient to provide sustainable funding for Ethereum L1 R&D long-term.
 
@@ -94,7 +94,7 @@ All of this considered, 1% feels like the right number for the Protocol Guild Pl
 
 ### Why now?
 
-Protocol Guild is roughly two orders of magnitude away from the numbers hypothesized above. The pilot has been an amazing spark of initial validation and has allowed the guild to lay the technical, legal, and governance groundwork for a longer lasting collective. In other words, [it works](https://protocol-guild.readthedocs.io/en/latest/5-initial-pilot.html#mid-pilot-update-dec-7-2022), but it's now time to scale up!
+Protocol Guild is roughly two orders of magnitude away from the numbers hypothesized above. The pilot has been an amazing spark of initial validation and has allowed the guild to lay the technical, legal, and governance groundwork for a longer lasting collective. In other words, [it works](/docs/resources#pilot), but it's now time to scale up!
 
 To get through the [Surge, Scourge, Verge, Purge, and Splurge](https://twitter.com/VitalikButerin/status/1741190491578810445/photo/1), it's paramount that Ethereum retains its best contributors and continues attracting new talented ones. To broaden both the number and the kinds of people who are able to participate as core developers, we need to rely on economic incentives over passion or status.
 

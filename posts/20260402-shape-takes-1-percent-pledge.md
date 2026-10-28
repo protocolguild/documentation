@@ -23,4 +23,4 @@ About Protocol Guild Protocol Guild is a peer-managed collective of Ethereum pro
 
 Funding streams from the 1% Pledge vest over four years and are distributed to Protocol Guild's 187 current members according to transparent weighting and membership processes.
 
-Learn more: [PG Website](https://www.protocolguild.org/) - [Docs](https://protocol-guild.readthedocs.io/en/latest/index.html) - [Dune Dashboard](https://dune.com/protocolguild/protocol-guild)
+Learn more: [PG Website](https://www.protocolguild.org/) - [Docs](/docs) - [Dune Dashboard](https://dune.com/protocolguild/protocol-guild)

@@ -145,9 +145,7 @@ const About: FC = () => {
                 />
                 <h2 className="!text-lg !font-normal !leading-[24px] !text-[var(--gray-dark)] flex items-center">
                   <a
-                    href="https://protocol-guild.readthedocs.io/en/latest/01-membership.html"
-                    target="_blank"
-                    rel="noopener noreferrer"
+                    href="/docs/membership"
                     className="flex items-center"
                   >
                     {aboutContent.organization.link}
@@ -195,9 +193,7 @@ const About: FC = () => {
               />
               <h2 className="!text-lg !font-normal !leading-[24px] !text-[var(--gray-dark)] flex items-center">
                 <a
-                  href="https://protocol-guild.readthedocs.io/en/latest/01-membership.html#eligibility-requirements"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/docs/membership#eligibility-requirements"
                   className="flex items-center"
                 >
                   {aboutContent.impactAreas.link}
@@ -336,8 +332,7 @@ const About: FC = () => {
                 {aboutContent.docs.description}
               </h2>
               <a
-                href="https://protocol-guild.readthedocs.io/en/latest/"
-                rel="noopener noreferrer"
+                href="/docs"
                 className="!bg-[var(--brand-primary)] !border-none text-[var(--gray-dark)] hover:text-[var(--gray-dark)] !hover:text-[var(--gray-dark)] px-8 py-3 rounded-lg hover:!opacity-80 transition-colors w-fit inline-block no-underline"
               >
                 {aboutContent.docs.link}

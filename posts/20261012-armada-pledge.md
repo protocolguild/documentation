@@ -41,4 +41,4 @@ Learn more: [Website](https://armada.blue/) - [Docs](https://docs.armada.blue/) 
 
 Protocol Guild is a peer-managed collective of Ethereum protocol contributors and the leading independent organization dedicated to sustainable funding for core development. Since 2022, Protocol Guild has distributed more than $39MM directly to the individuals stewarding Ethereum protocol upgrades and maintenance.
 
-Learn more: [Website](https://www.protocolguild.org/) - [Docs](https://protocol-guild.readthedocs.io/en/latest/index.html) - [Dune](https://dune.com/protocolguild/protocol-guild) - [X](https://x.com/ProtocolGuild)
+Learn more: [Website](https://www.protocolguild.org/) - [Docs](/docs) - [Dune](https://dune.com/protocolguild/protocol-guild) - [X](https://x.com/ProtocolGuild)

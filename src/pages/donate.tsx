@@ -310,8 +310,6 @@ const Donate: FC = () => {
               </h2>
               <a
                 href={donateContent.donate.buttonLink}
-                target="_blank"
-                rel="noopener noreferrer"
                 className="!bg-[var(--brand-primary)] !border-none text-[var(--gray-dark)] px-8 py-3 rounded-lg hover:!opacity-80 transition-colors w-fit inline-block"
               >
                 {donateContent.donate.buttonText}

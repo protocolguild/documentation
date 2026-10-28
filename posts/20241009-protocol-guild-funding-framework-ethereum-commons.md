@@ -65,7 +65,7 @@ Protocol Guild is one such candidate funding protocol. There are a few things wh
 
     1.  just focused on funding - does not direct work - not involved in Ethereum governance, upgrades cycles
 
-    2.  Read more [here](https://protocol-guild.readthedocs.io/en/latest/index.html)
+    2.  Read more [here](/docs)
 
 2.  broad self-curation
 
@@ -73,19 +73,19 @@ Protocol Guild is one such candidate funding protocol. There are a few things wh
 
     2.  The watershed, not one of the rivers
 
-    3.  See the eligibility frameworks and eligible projects [here](https://protocol-guild.readthedocs.io/en/latest/01-eligibility.html)
+    3.  See the eligibility frameworks and eligible projects [here](/docs/membership#eligibility-requirements)
 
 3.  members are individuals
 
     1.  funding doesn't flow to teams, companies, or projects - we wanted members to represent themselves and retain their agency
 
-    2.  See the [member list here](https://protocol-guild.readthedocs.io/en/latest/02-membership.html)
+    2.  See the [member list here](/docs/membership)
 
 4.  4yr onchain vesting contract
 
     1.  this list of members is published onchain: immutable vesting contract means transparent, legible assurances for funders and members
 
-    2.  Smart contract architecture [here](https://protocol-guild.readthedocs.io/en/latest/03-onchain-architecture.html)
+    2.  Smart contract architecture [here](/docs/onchain-architecture)
 
     3.  Comprehensive funding Dune dashboard [here](https://dune.com/protocolguild/protocol-guild)
 
@@ -93,7 +93,7 @@ Protocol Guild is one such candidate funding protocol. There are a few things wh
 
     1.  Regular curation and vesting are crucial recognition that Ethereum is a resource commons being stewarded over time: in the same way, our funding streams should be allocated with that in mind. the Ethereum of 2015 is different from what we have today, just as it will look very different in 2035.
 
-    2.  per member allocations are time-weighted by months active - [read more](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#time-weight)
+    2.  per member allocations are time-weighted by months active - [read more](/docs/membership#time-weight)
 
 As a mirror to our resource production, the mechanism assembles a collective whole capable of providing benefits which would be inaccessible to maintainers seeking funding on their own. Vested funding and deterministic member allocations - both onchain - create legibility and certainty for both funders and beneficiaries alike.
 
