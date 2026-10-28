@@ -7,6 +7,7 @@ import scrollLogo from '../assets/images/scroll.svg'
 import shapeLogo from '../assets/images/shape.svg'
 import zksyncLogo from '../assets/images/zksync.svg'
 import zoraLogo from '../assets/images/zora.svg'
+import robinhoodLogo from '../assets/images/robinhood.svg'
 
 // Mirrors docs/03-donate.md: the 1-year vesting contract where one exists,
 // otherwise the chain's multisig / donation address.
@@ -83,6 +84,7 @@ export const donationChains: DonationChain[] = [
     name: 'Robinhood',
     chainId: 4663,
     nativeSymbol: 'ETH',
+    logo: robinhoodLogo,
     address: '0x2Dc2234a0C2E8a5e378130567B50d160637f946A',
     type: 'Donation address',
     explorerUrl: 'https://robinhoodchain.blockscout.com/address/0x2Dc2234a0C2E8a5e378130567B50d160637f946A',
