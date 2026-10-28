@@ -13,6 +13,7 @@ import chainsImage from '../assets/images/chains.png'
 import DuneStat from '../components/DuneStat'
 import authorImage from '../assets/images/EigenLayer.png'
 import InAppContributions from '../components/InAppContributions'
+import DonateWidget from '../components/DonateWidget'
 
 const Donate: FC = () => {
   const [currentQuote, setCurrentQuote] = useState(0)
@@ -39,12 +40,17 @@ const Donate: FC = () => {
         theme="light"
         paddingBottomClassName="pb-[70px] lg:pb-[217px]"
       >
-        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-[1.1] tracking-[-1.44px] text-[var(--gray-dark)] mb-4">
-          {donateContent.hero.title}
-        </h1>
-        <p className="text-lg leading-[23px] text-[var(--gray-mid)] mb-4">
-          {donateContent.hero.subtitle1}
-        </p>
+        <div className="w-full flex flex-col lg:flex-row lg:items-start gap-10">
+          <div className="flex-1">
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-[1.1] tracking-[-1.44px] text-[var(--gray-dark)] mb-4">
+              {donateContent.hero.title}
+            </h1>
+            <p className="text-lg leading-[23px] text-[var(--gray-mid)] mb-4">
+              {donateContent.hero.subtitle1}
+            </p>
+          </div>
+          <DonateWidget />
+        </div>
       </HeroHeader>
 
       <Section background="white" divider="var(--brand-primary)" line={true}>
