@@ -116,9 +116,7 @@ const Home: FC = () => {
               <MemberFaces />
               <h2 className="!text-lg !font-normal !leading-[24px] !text-[var(--gray-dark)] flex items-center">
                 <a
-                  href="https://protocol-guild.readthedocs.io/en/latest/01-membership.html"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="/docs/membership"
                   className="flex items-center"
                 >
                   {homeContent.section2.link}

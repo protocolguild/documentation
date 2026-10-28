@@ -28,5 +28,5 @@ Funding streams from the 1% Pledge vest over four years and are distributed dire
 Learn more:
 
 - [PG Website](https://www.protocolguild.org/)
-- [Docs](https://protocol-guild.readthedocs.io/en/latest/index.html)
+- [Docs](/docs)
 - [Dune Dashboard](https://dune.com/protocolguild/protocol-guild)

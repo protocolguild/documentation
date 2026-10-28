@@ -7,7 +7,7 @@ date: '2023-04-27'
 
 *Reposted with permission by Trent Van Epps, original [here](https://trent.mirror.xyz/DLYnuoCN-Hwuu0s4G_XZVdI-c2OD2KP3UAg_UFB9MpY)*
 
-Recently, more people have reached out expressing interest in creating a version of [Protocol Guild](https://protocol-guild.readthedocs.io/en/latest/) for their particular domain. This post is for anyone also considering a similar “commons infra guild.” It explores the primitives and characteristics central to the mechanism as well as their tradeoffs in other contexts.
+Recently, more people have reached out expressing interest in creating a version of [Protocol Guild](/docs) for their particular domain. This post is for anyone also considering a similar “commons infra guild.” It explores the primitives and characteristics central to the mechanism as well as their tradeoffs in other contexts.
 
 # Funding allocation primitives
 
@@ -15,7 +15,7 @@ While it’s still a project in development, the Guild was structured to facilit
 
 1. a curation process which produces a list of eligible recipients
 
-* Protocol Guild uses “[self-curation](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#self-curation)” by individual peers working on core development. This is somewhat contingent on a high-trust community of peer stewards, where the assumption is that high quality work will still be produced absent invasive oversight. This is also enabled through the perspective of a collective protocol emerging from the collaborative stewardship by many constituent parts, instead of something like a competitive RFP process.
+* Protocol Guild uses “[self-curation](/docs/membership#self-curation)” by individual peers working on core development. This is somewhat contingent on a high-trust community of peer stewards, where the assumption is that high quality work will still be produced absent invasive oversight. This is also enabled through the perspective of a collective protocol emerging from the collaborative stewardship by many constituent parts, instead of something like a competitive RFP process.
 
 * Communities using [Coordinape](https://coordinape.com/) also use self-curation
 
@@ -45,7 +45,7 @@ These may not map exactly to your situation, but are perhaps still useful for in
 
 1. **Member curation**
 
-* The Guild expects that the membership curates itself, not an external council/funder. Is the domain to evaluate easily observable? Is it roughly clear to see who is doing what work consistently? The Guild is concerned with a very narrow domain: core Ethereum protocol stewardship defined by this [eligibility framework](https://protocol-guild.readthedocs.io/en/latest/01-membership.html#eligibility-requirements).
+* The Guild expects that the membership curates itself, not an external council/funder. Is the domain to evaluate easily observable? Is it roughly clear to see who is doing what work consistently? The Guild is concerned with a very narrow domain: core Ethereum protocol stewardship defined by this [eligibility framework](/docs/membership#eligibility-requirements).
 
 * How easily could you make a list which covers the a sufficient number of contributors? Inarticulate eligibility frameworks may produce many edge cases, and potentially overwhelm your membership’s curation efforts.
 

@@ -44,7 +44,7 @@ Funding Round Tradeoffs
 
 Round-based funding mechanisms are a mainstay in the Ethereum ecosystem: Gitcoin, Optimism, Octant, CLRFund, DAODrops, Giveth, etc. Recurring rounds are good for building consistency norms, and allowing breaks where the operating team can iterate.
 
-But they come with tradeoffs, which I first wrote about [in 2021](https://protocol-guild.readthedocs.io/en/latest/07-resources.html#tradeoffs-of-existing-mechanisms) around the initial Protocol Guild Pilot:
+But they come with tradeoffs, which I first wrote about [in 2021](/docs/resources#tradeoffs-of-existing-mechanisms) around the initial Protocol Guild Pilot:
 
 1.  attention games
 
@@ -184,4 +184,4 @@ Explicitly weight the number of beneficiaries in the allocation formula
 
 -   Tradeoff: This assumes the method for counting project contributors is trustworthy, alongside significant penalties for misreporting.
 
-I acknowledge that these suggestions come with their own challenges. While they are deeply influenced by my experiences building and soliciting funding for [Protocol Guild](https://protocol-guild.readthedocs.io/), the ideas could simplify round operations for all participants. My observations of Optimism, Gitcoin, Octant are surfaced here only because they are in the arena, funding the good fight.Looking forward to feedback, thanks for reading 🙏
+I acknowledge that these suggestions come with their own challenges. While they are deeply influenced by my experiences building and soliciting funding for [Protocol Guild](/docs), the ideas could simplify round operations for all participants. My observations of Optimism, Gitcoin, Octant are surfaced here only because they are in the arena, funding the good fight.Looking forward to feedback, thanks for reading 🙏

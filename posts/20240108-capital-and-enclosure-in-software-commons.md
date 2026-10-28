@@ -424,6 +424,6 @@ Excerpt from Birkinbine
 
 By doing so, Red Hat was able to celebrate the work of the thousands of community members that made the IPO even possible in the first place. The company recognized the importance of completing the commons funding circuit.
 
-I believe the Protocol Guild is a promising experiment (among many others) to produce similar outcomes for Ethereum contributors, while being more efficient, impactful, and consistent. I plan to write more about the symbiotic relationship between Protocol Guild and the commons funding circuit. Until then, learn more about the project in the [docs](https://protocol-guild.readthedocs.io/en/latest/9-membership.html), [twitter](https://twitter.com/ProtocolGuild), and [Dune dashboard](https://dune.com/protocolguild/protocol-guild).
+I believe the Protocol Guild is a promising experiment (among many others) to produce similar outcomes for Ethereum contributors, while being more efficient, impactful, and consistent. I plan to write more about the symbiotic relationship between Protocol Guild and the commons funding circuit. Until then, learn more about the project in the [docs](/docs/membership), [twitter](https://twitter.com/ProtocolGuild), and [Dune dashboard](https://dune.com/protocolguild/protocol-guild).
 
 Thanks for reading - find me at [farcaster](https://warpcast.com/trent) or[ twitter](https://twitter.com/trent_vanepps).
