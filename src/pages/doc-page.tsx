@@ -7,6 +7,7 @@ import { Helmet } from 'react-helmet-async'
 import { getAllDocs, getDocBySlug, docPath, rehypeHeadingIds } from '../lib/docs'
 import DocSidebar, { DocHeading } from '../components/DocSidebar'
 import StandaloneNavbar from '../components/StandaloneNavbar'
+import HeadingAnchor from '../components/HeadingAnchor'
 
 const DocPage: FC = () => {
   const params = useParams()
@@ -51,6 +52,9 @@ const DocPage: FC = () => {
               remarkPlugins={[remarkGfm]}
               rehypePlugins={[rehypeRaw, rehypeHeadingIds]}
               components={{
+                h2: ({ id, children }) => <HeadingAnchor as="h2" id={id}>{children}</HeadingAnchor>,
+                h3: ({ id, children }) => <HeadingAnchor as="h3" id={id}>{children}</HeadingAnchor>,
+                h4: ({ id, children }) => <HeadingAnchor as="h4" id={id}>{children}</HeadingAnchor>,
                 a: ({ node, href, ...props }) =>
                   href && href.startsWith('/') ? (
                     <Link to={href} {...props} />
