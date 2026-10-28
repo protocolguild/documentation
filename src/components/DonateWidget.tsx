@@ -108,7 +108,7 @@ const DonateWidget: FC = () => {
       </div>
 
       {/* Destination */}
-      <div className="rounded-xl bg-[var(--gray-lightest)] p-4 flex flex-col gap-2">
+      <div className="rounded-xl bg-[var(--gray-lightest)] px-3 py-3 flex flex-col gap-2">
         <div className="flex items-center justify-between gap-2">
           <span className="flex items-center gap-2 text-sm font-semibold text-[var(--gray-dark)]">
             <ChainIcon chain={chain} size="h-5 w-5" />
@@ -119,23 +119,26 @@ const DonateWidget: FC = () => {
           </span>
         </div>
         {chain.ens && <p className="text-sm font-semibold text-[var(--gray-dark)]">{chain.ens}</p>}
-        <p className="font-mono text-[11.5px] tracking-tight leading-snug break-all text-[var(--gray-dark)]">{chain.address}</p>
-        <div className="flex gap-2 pt-1">
+        <div className="flex items-center gap-1">
+          <p className="font-mono text-[11.5px] tracking-tight leading-snug break-all text-[var(--gray-dark)]">{chain.address}</p>
           <button
             type="button"
             onClick={copyAddress}
-            className="flex-1 text-sm font-medium rounded-lg border border-[var(--gray-light)] bg-white py-2 hover:bg-[var(--gray-light)] transition-colors"
+            title={copied ? 'Copied' : 'Copy address'}
+            aria-label="Copy address"
+            className="shrink-0 p-1 rounded-md !bg-transparent text-[var(--gray-mid-dark)] hover:text-[var(--gray-dark)] hover:!bg-white transition-colors"
           >
-            {copied ? 'Copied ✓' : 'Copy address'}
+            {copied ? (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M20 6 9 17l-5-5" />
+              </svg>
+            ) : (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="9" y="9" width="13" height="13" rx="2" />
+                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+              </svg>
+            )}
           </button>
-          <a
-            href={chain.explorerUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex-1 text-center text-sm font-medium rounded-lg border border-[var(--gray-light)] bg-white py-2 no-underline text-[var(--gray-dark)] hover:bg-[var(--gray-light)] transition-colors"
-          >
-            View contract
-          </a>
         </div>
         <p className="text-xs text-[var(--gray-mid)] leading-snug">
           {chain.type === '1-year vesting contract'
