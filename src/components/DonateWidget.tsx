@@ -135,11 +135,6 @@ const DonateWidget: FC = () => {
             )}
           </button>
         </div>
-        <p className="text-xs text-[var(--gray-mid)] leading-snug">
-          {chain.type === '1-year vesting contract'
-            ? 'Vests to active contributors over 1 year. Accepts ETH and ERC20 tokens only.'
-            : 'Funds are periodically bridged into vesting contracts.'}
-        </p>
       </div>
 
       {/* Send from wallet */}
