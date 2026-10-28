@@ -7,6 +7,7 @@ import Donate from './pages/donate'
 import Blog from './pages/blog'
 import BlogPost from './pages/blog-post'
 import About from './pages/about'
+import DocPage from './pages/doc-page'
 import ScrollToTop from './components/ScrollToTop'
 
 const App: FC = () => {
@@ -20,6 +21,8 @@ const App: FC = () => {
           <Route path="/about" element={<About />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/docs" element={<DocPage />} />
+          <Route path="/docs/:slug" element={<DocPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
       </Layout>
