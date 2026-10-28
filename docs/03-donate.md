@@ -17,30 +17,59 @@ The Guild’s mainnet donation address is an immutable vesting contract which tr
 
 Important: The vesting contract only supports ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the following multisig instead: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
 
-## 3.2 Donation Addresses
+## 3.2 L2s / Other Chains
 
-Apart from Ethereum mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, multisigs have been deployed to receive donations. Multisig funds will be transferred or bridged into vesting contracts periodically. The 4-year vesting contracts are for [Protocol Guild Pledge](#protocol-guild-pledge) donations.
-
-| **Chain** | **1-Year Vesting Contract** | **4-Year Vesting Contract** | **Multisig** |
-|:---|:---|:---|:---|
-| **Ethereum Mainnet** | [0x4EA88fa76848a8BBAB72613d4171df1eBcf68399](https://explorer.splits.org/accounts/0x4EA88fa76848a8BBAB72613d4171df1eBcf68399/) | [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://explorer.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/) | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/settings/setup?safe=eth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Arbitrum** | [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://explorer.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161) | [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://explorer.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161) | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=arb1:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Base** | [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://explorer.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453) | [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://explorer.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453) | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=base:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Optimism** | [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://explorer.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10) | [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://explorer.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10) | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=oeth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Polygon** | - | - | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=matic:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Robinhood Chain** | - | - | [0x2Dc2234a0C2E8a5e378130567B50d160637f946A](https://robinhoodchain.blockscout.com/address/0x2Dc2234a0C2E8a5e378130567B50d160637f946A) |
-| **Scroll** | - | - | [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=scr:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79) |
-| **Shape** | - | - | [0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8](https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8) |
-| **zkSync** | - | - | [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8) |
-| **Zora** | - | - | [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC) |
+Apart from Ethereum mainnet, vesting contracts have been deployed on Arbitrum, Base and Optimism. For other L2s / chains, multisigs have been deployed to receive donations. Multisig funds will be transferred or bridged into vesting contracts periodically. 
 
 Important: The vesting contracts only support ETH and ERC20 tokens, and cannot claim funds. For other tokens, or if donations need to be claimed, please use the indicated multisigs instead.
+
+### Arbitrum
+- 1-Year Vesting Contract: [0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599](https://explorer.splits.org/accounts/0x8ee2AcfEbd311c1cF8d74448E207B4960EaCf599/?chainId=42161)
+  - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=arb1:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+
+### Base
+- 1-Year Vesting Contract: [0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20](https://explorer.splits.org/accounts/0xffaaCCFe120f3fC47f42102cF4F28e837cd49A20/?chainId=8453)
+  - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=base:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+
+### Optimism
+- 1-Year Vesting Contract: [0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2](https://explorer.splits.org/accounts/0x7a489D5Fedd52f561b73EC8B0a164c0BD36036A2/?chainId=10)
+  - Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=oeth:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+
+### Polygon
+- Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=matic:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+
+### Robinhood Chain
+- Donation address: [0x2Dc2234a0C2E8a5e378130567B50d160637f946A](https://robinhoodchain.blockscout.com/address/0x2Dc2234a0C2E8a5e378130567B50d160637f946A)
+
+### Scroll
+- Multisig: [0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79](https://app.safe.global/balances?safe=scr:0xdddd576bAF106bAAe54bDE40BCac602bB4a7cf79)
+
+### Shape
+- Multisig: [0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8](https://safe.shape.network/balances?safe=shape:0x700fccD433E878F1AF9B64A433Cb2E09f5226CE8)
+
+### zkSync
+- Multisig: [0x9fb5F754f5222449F98b904a34494cB21AADFdf8](https://app.safe.global/balances?safe=zksync:0x9fb5F754f5222449F98b904a34494cB21AADFdf8)
+
+### Zora
+- Multisig: [0x32e3C7fD24e175701A35c224f2238d18439C7dBC](https://safe.optimism.io/balances?safe=zora:0x32e3C7fD24e175701A35c224f2238d18439C7dBC)
 
 ## 3.3 Protocol Guild Pledge
 
 Protocol Guild's long-term mission is to make contributing to Ethereum L1 R&D economically rational on a risk-adjusted basis, while avoiding capture. To get there, we aim to normalize that projects built on Ethereum donate 1% of their native token to the Protocol Guild. You can read about the Protocol Guild Pledge [here](https://www.protocolguild.org/blog/20240130-protocol-guild-pledge).
 
-Projects taking the pledge can donate their tokens into the 4-year vesting contracts listed in the [table above](#donation-addresses). Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordinate a test transaction first.
+Projects taking the pledge can donate their tokens into the below 4-year vesting contracts. Please [reach out to us](https://calendly.com/vecchiarelli-peter/30min) before making a pledge donation, so that we can help coordinate a test transaction first.
+
+### Mainnet
+-  4-Year Vesting Contract: [0x25941dc771bb64514fc8abbce970307fb9d477e9](https://explorer.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/)
+
+### Arbitrum
+- 4-Year Vesting Contract: [0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b](https://explorer.splits.org/accounts/0x7F8DCFd764bA8e9B3BA577dC641D5c664B74c47b/?chainId=42161)
+
+### Base
+- 4-Year Vesting Contract: [0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD](https://explorer.splits.org/accounts/0xd16713A5D4Eb7E3aAc9D2228eB72f6f7328FADBD/?chainId=8453)
+
+### Optimism
+- 4-Year Vesting Contract: [0x58ae0925077527a87D3B785aDecA018F9977Ec34](https://explorer.splits.org/accounts/0x58ae0925077527a87D3B785aDecA018F9977Ec34/?chainId=10)
 
 ### How to take the Pledge?
 
