@@ -1,0 +1,110 @@
+.repos-container {
+  position: relative;
+  width: 100%;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.repos-header {
+  font-size: 15px;
+  line-height: 19px;
+  font-weight: 600;
+  color: var(--gray-dark);
+  margin-bottom: 16px;
+}
+
+.repos-divider {
+  width: 100%;
+  height: 1px;
+  background-color: var(--gray-dark);
+  margin-bottom: 16px;
+}
+
+.repos {
+  height: 200px;
+  position: relative;
+  overflow-y: auto;
+}
+
+.repos.expanded {
+  height: auto;
+  overflow: visible;
+}
+
+/* Remove the repos-scroll-container class and its styles */
+.repo-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  color: var(--white);
+  gap: 8px;
+  padding: 8px 0;
+  min-height: 40px;
+  overflow: hidden;
+}
+
+.repo-row > div {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.repo-row .github-icon {
+  width: 20px;
+  height: 20px;
+  color: var(--gray-dark);
+  flex-shrink: 0;
+}
+
+.repo-row a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.repo-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: fit-content;
+}
+
+.repo-name {
+  font-size: 15px;
+  line-height: 19px;
+  color: var(--gray-dark);
+  font-weight: 500;
+}
+
+.repo-description {
+  font-size: 15px;
+  line-height: 19px;
+  min-width: 0;
+  color: var(--gray-dark);
+  font-weight: 300;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.repositories-table {
+  font-size: 15px;
+  line-height: 19px;
+  color: var(--gray-dark);
+  min-width: fit-content;
+  font-weight: 500;
+  padding-right: 16px;
+}
+
+/* Remove the scroll animation */
+@keyframes scroll {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-50%);
+  }
+}
+
+/* Remove gradient overlays */
+.repos::before,
+.repos::after {
+  display: none; /* Hide the gradient overlays */
+}
