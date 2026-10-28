@@ -38,7 +38,8 @@ const Donate: FC = () => {
       <HeroHeader
         imageSrc={chainsImage}
         theme="light"
-        paddingBottomClassName="pb-[70px] lg:pb-[217px]"
+        paddingTopClassName="pt-[150px] lg:pt-[160px]"
+        paddingBottomClassName="pb-[60px] lg:pb-[80px]"
       >
         <div className="w-full flex flex-col lg:flex-row lg:items-start gap-10">
           <div className="flex-1">

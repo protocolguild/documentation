@@ -78,14 +78,14 @@ const DonateWidget: FC = () => {
   }
 
   return (
-    <div className="w-full max-w-[380px] rounded-2xl border border-[var(--gray-light)] bg-white shadow-lg p-5 flex flex-col gap-4">
+    <div className="w-full max-w-[380px] rounded-2xl border border-[var(--gray-light)] bg-white shadow-lg p-5 flex flex-col gap-3">
       <div className="flex items-center justify-between">
         <p className="text-xs font-semibold uppercase tracking-widest text-[var(--gray-mid)]">Donate</p>
         <span className="text-xs text-[var(--gray-mid)]">{donationChains.length} chains</span>
       </div>
 
       {/* Chain picker */}
-      <div className="grid grid-cols-5 gap-2">
+      <div className="flex justify-between gap-1">
         {donationChains.map((c) => {
           const active = c.id === chain.id
           return (
@@ -94,14 +94,14 @@ const DonateWidget: FC = () => {
               type="button"
               onClick={() => selectChain(c)}
               title={c.name}
-              className={`flex flex-col items-center gap-1 rounded-lg py-2 border transition-colors ${
+              aria-label={c.name}
+              className={`flex items-center justify-center rounded-full p-1 border-2 transition-colors ${
                 active
-                  ? 'border-[var(--brand-primary)] bg-[#e8f8fd]'
-                  : 'border-transparent hover:bg-[var(--gray-lightest)]'
+                  ? 'border-[var(--brand-primary)] !bg-white'
+                  : 'border-transparent !bg-transparent opacity-60 hover:opacity-100'
               }`}
             >
               <ChainIcon chain={c} />
-              <span className="text-[10px] leading-none text-[var(--gray-dark)]">{c.name}</span>
             </button>
           )
         })}
