@@ -42,10 +42,5 @@ export const aboutContent = {
     description4: "Quarterly curation",
     description5: "We maintain an up-to-date registry of Ethereum’s active core protocol contributors, updated quarterly, ensuring that funding only goes to the individuals who are actively building and maintaining Ethereum's core protocol.",
     statsHeader: "Distribution Stats"
-  },
-  docs: {
-    title: "Read our documentation.",
-    description: "See our full internal documentation for the latest updates and information on Protocol Guild.",
-    link: "View Documentation"
   }
 }
