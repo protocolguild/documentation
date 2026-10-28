@@ -79,11 +79,6 @@ const DonateWidget: FC = () => {
 
   return (
     <div className="w-full max-w-[380px] rounded-2xl border border-[var(--gray-light)] bg-white shadow-lg p-5 flex flex-col gap-3">
-      <div className="flex items-center justify-between">
-        <p className="text-xs font-semibold uppercase tracking-widest text-[var(--gray-mid)]">Donate</p>
-        <span className="text-xs text-[var(--gray-mid)]">{donationChains.length} chains</span>
-      </div>
-
       {/* Chain picker */}
       <div className="flex justify-between gap-1">
         {donationChains.map((c) => {
