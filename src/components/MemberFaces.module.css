@@ -1,0 +1,37 @@
+.scroll {
+  animation: scroll 300s linear infinite;
+  will-change: transform;
+  margin: 0 -100px;
+}
+
+.scroll-reverse {
+  animation: scroll-reverse 300s linear infinite;
+  will-change: transform;
+  margin: 0 -100px;
+}
+
+.scroll:hover, .scroll-reverse:hover {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-reverse {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.animate-pause {
+  animation-play-state: paused;
+}

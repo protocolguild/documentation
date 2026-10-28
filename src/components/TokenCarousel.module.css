@@ -1,0 +1,22 @@
+.scroll {
+  animation: scroll 30s linear infinite;
+  will-change: transform;
+  margin: 0 -100px;
+}
+
+.scroll:hover {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-pause {
+  animation-play-state: paused;
+} 
