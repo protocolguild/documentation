@@ -6,6 +6,7 @@ import Home from './pages/home'
 import Donate from './pages/donate'
 import Blog from './pages/blog'
 import BlogPost from './pages/blog-post'
+import BlogMinimal from './pages/blog-minimal'
 import About from './pages/about'
 import DocPage from './pages/doc-page'
 import ScrollToTop from './components/ScrollToTop'
@@ -20,6 +21,7 @@ const App: FC = () => {
           <Route path="/donate" element={<Donate />} />
           <Route path="/about" element={<About />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog-minimal" element={<BlogMinimal />} />
           <Route path="/blog/:slug" element={<BlogPost />} />
           <Route path="/docs" element={<DocPage />} />
           <Route path="/docs/:slug" element={<DocPage />} />
