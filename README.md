@@ -1,5 +1,9 @@
-# Protocol Guild
+This repo generates the Protocol Guild [documentation](https://www.protocolguild.org/docs).
 
-Source for [protocolguild.org](https://www.protocolguild.org) and the Protocol Guild [documentation](https://www.protocolguild.org/docs).
+It was heavily refactored in May 2024 to properly document the Pilot and the new components/processes of PGv2, and again in July 2025 to condense the number of pages - if you've linked here in external posts, there may be broken links!
 
-The membership list lives [here](./docs/01-membership.md).
+For members: the membership list now lives [here](./docs/01-membership.md).
+
+Please note that we do not accept pull requests for minor corrections, such as typos. Instead, we encourage you to open an issue to report these items, and we will compile them into a single update. Thank you!
+
+![image](https://github.com/user-attachments/assets/e4758b49-bfda-45f7-b1cc-7195b84ff8a4)
