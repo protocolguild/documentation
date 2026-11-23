@@ -24,7 +24,7 @@ export const donateContent = {
     title: "Take the 1% Pledge.",
     subtitle1: "Ethereum's future depends on inspired leadership. Imagine if every project building on Ethereum contributed 1% of their token supply to fund the core protocol work they depend on!",
     subtitle2: "Fortunately you don’t need to imagine—join some of the leading projects in the ecosystem that have already taken the pledge.",
-    link: "Protocol Guild Pledge announcement on Mirror",
+    link: "Protocol Guild Pledge announcement",
     quote: {
       text: "\"Ethereum thrives because of its incredible contributors — the developers, researchers, and coordinators working tirelessly behind the scenes.\"",
       author: "Eigenlayer, 1% Pledge Donor",
