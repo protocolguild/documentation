@@ -29,7 +29,7 @@ const BlogMinimal: FC = () => {
     <main className="bg-white min-h-screen">
       <StandaloneNavbar />
       <div className="mx-auto w-full max-w-[720px] px-4 pt-6 pb-24">
-        <div className="relative mb-3">
+        <div className="relative mb-6">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="18"
@@ -50,20 +50,14 @@ const BlogMinimal: FC = () => {
             type="search"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search posts"
-            aria-label="Search posts"
+            placeholder={`Search ${posts.length} posts`}
+            aria-label={`Search ${posts.length} posts`}
             className="w-full pl-10 pr-3 py-2.5 bg-white border border-gray-300 rounded-lg text-base text-[var(--gray-dark)] placeholder:text-[var(--gray-mid)] focus:outline-none focus:border-[var(--gray-dark)]"
           />
         </div>
-        <p className="text-sm text-[var(--gray-mid)] mb-6 h-5">
-          {query.trim()
-            ? `${filtered.length} of ${posts.length} posts`
-            : `${posts.length} posts`}
-        </p>
-
         <ul className="list-none p-0 m-0">
           {filtered.map((post) => (
-            <li key={post.slug} className="border-t border-gray-200 last:border-b">
+            <li key={post.slug} className="border-t border-gray-200 first:border-t-0 last:border-b">
               <Link
                 to={`/blog/${post.slug}`}
                 className="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1 sm:gap-6 py-4 no-underline group"
