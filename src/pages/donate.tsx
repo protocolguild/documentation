@@ -90,7 +90,7 @@ const Donate: FC = () => {
               </h2>
               <h2 className="!text-lg !font-normal !leading-[24px] !text-[var(--gray-dark)] flex items-center">
                 <a
-                  href="https://tim.mirror.xyz/srVdVopOFhD_ZoRDR50x8n5wmW3aRJIrNEAkpyQ4_ng"
+                  href="https://www.protocolguild.org/blog/20240130-protocol-guild-pledge"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center"
