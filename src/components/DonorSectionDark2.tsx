@@ -17,6 +17,8 @@ import shapeSvg from '../assets/images/donors/shape.svg'
 import shapeWhiteSvg from '../assets/images/donors/shape-white.svg'
 import aztecSvg from '../assets/images/donors/aztec.svg'
 import aztecWhiteSvg from '../assets/images/donors/aztec-white.svg'
+import alignedSvg from '../assets/images/donors/aligned.svg'
+import alignedWhiteSvg from '../assets/images/donors/aligned-white.svg'
 
 // Donors
 import layerzeroSvg from '../assets/images/donors/layerzero.svg'
@@ -75,7 +77,8 @@ const partners = [
   { name: 'Puffer', logo: pufferSvg, logoWhite: pufferWhiteSvg, url: 'https://puffer.fi' },
   { name: 'Shutter DAO', logo: shutterSvg, logoWhite: shutterWhiteSvg, url: 'https://shutter.network/' },
   { name: 'Shape', logo: shapeSvg, logoWhite: shapeWhiteSvg, url: 'https://shape.network' },
-  { name: 'Aztec Foundation', logo: aztecSvg, logoWhite: aztecWhiteSvg, url: 'https://aztec.foundation' }
+  { name: 'Aztec Foundation', logo: aztecSvg, logoWhite: aztecWhiteSvg, url: 'https://aztec.foundation' },
+  { name: 'Aligned Layer', logo: alignedSvg, logoWhite: alignedWhiteSvg, url: 'https://alignedlayer.com' }
 
 ]
 

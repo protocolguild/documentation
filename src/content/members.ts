@@ -37,6 +37,12 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/ericsson49"
 },
 {
+   name: "Alexander Hicks",
+   link: "https://github.com/alexanderlhicks",
+   username: "alexanderlhicks",
+   pfp: "https://avatars.githubusercontent.com/alexanderlhicks"
+},
+{
    name: "Alexey Osipov",
    link: "https://github.com/flcl42",
    username: "flcl42",
@@ -47,12 +53,6 @@ export const members: Member[] = [
    link: "https://github.com/AskAlexSharov",
    username: "AskAlexSharov",
    pfp: "https://avatars.githubusercontent.com/AskAlexSharov"
-},
-{
-   name: "Alexey Shekhirin",
-   link: "https://github.com/shekhirin",
-   username: "shekhirin",
-   pfp: "https://avatars.githubusercontent.com/shekhirin"
 },
 {
    name: "Ameziane",
@@ -113,12 +113,6 @@ export const members: Member[] = [
    link: "https://github.com/asanso",
    username: "asanso",
    pfp: "https://avatars.githubusercontent.com/asanso"
-},
-{
-   name: "Arantxa Zapico",
-   link: "https://github.com/arantxazapico",
-   username: "arantxazapico",
-   pfp: "https://avatars.githubusercontent.com/arantxazapico"
 },
 {
    name: "Arsenii Kulikov",
@@ -193,6 +187,12 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/healthykim"
 },
 {
+   name: "Butta",
+   link: "https://github.com/buttaa",
+   username: "buttaa",
+   pfp: "https://avatars.githubusercontent.com/buttaa"
+},
+{
    name: "Caleb Omoniyi",
    link: "https://github.com/Tomi-3-0",
    username: "Tomi-3-0",
@@ -209,12 +209,6 @@ export const members: Member[] = [
    link: "https://github.com/CPerezz",
    username: "CPerezz",
    pfp: "https://avatars.githubusercontent.com/CPerezz"
-},
-{
-   name: "Carson",
-   link: "https://github.com/Carsons-Eels",
-   username: "Carsons-Eels",
-   pfp: "https://avatars.githubusercontent.com/Carsons-Eels"
 },
 {
    name: "Caspar",
@@ -265,12 +259,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/damian-orzechowski"
 },
 {
-   name: "Dan Cline",
-   link: "https://github.com/rjected",
-   username: "rjected",
-   pfp: "https://avatars.githubusercontent.com/rjected"
-},
-{
    name: "danceratopz",
    link: "https://github.com/danceratopz",
    username: "danceratopz",
@@ -305,6 +293,12 @@ export const members: Member[] = [
    link: "https://github.com/dapplion",
    username: "dapplion",
    pfp: "https://avatars.githubusercontent.com/dapplion"
+},
+{
+   name: "Derek Sorensen",
+   link: "https://github.com/dhsorens",
+   username: "dhsorens",
+   pfp: "https://avatars.githubusercontent.com/dhsorens"
 },
 {
    name: "Dmitrii Shmatko",
@@ -373,12 +367,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/fselmo"
 },
 {
-   name: "Felix Hoffmann",
-   link: "https://github.com/felix314159",
-   username: "felix314159",
-   pfp: "https://avatars.githubusercontent.com/felix314159"
-},
-{
    name: "Francesco D’Amato",
    link: "https://github.com/fradamt",
    username: "fradamt",
@@ -433,12 +421,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/asn-d6"
 },
 {
-   name: "Giulio Rebuffo",
-   link: "https://github.com/Giulio2002",
-   username: "Giulio2002",
-   pfp: "https://avatars.githubusercontent.com/Giulio2002"
-},
-{
    name: "Gottfried Herold",
    link: "https://github.com/GottfriedHerold",
    username: "GottfriedHerold",
@@ -469,22 +451,10 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/hangleang"
 },
 {
-   name: "Huaifeng Zhang",
-   link: "https://github.com/jzh18",
-   username: "jzh18",
-   pfp: "https://avatars.githubusercontent.com/jzh18"
-},
-{
    name: "Ignacio Hagopian",
    link: "https://github.com/jsign",
    username: "jsign",
    pfp: "https://avatars.githubusercontent.com/jsign"
-},
-{
-   name: "Ilia Mikheev",
-   link: "https://github.com/JkLondon",
-   username: "JkLondon",
-   pfp: "https://avatars.githubusercontent.com/JkLondon"
 },
 {
    name: "Jacek Sieka",
@@ -511,12 +481,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/jihoonsong"
 },
 {
-   name: "Jimmy Chen",
-   link: "https://github.com/jimmygchen",
-   username: "jimmygchen",
-   pfp: "https://avatars.githubusercontent.com/jimmygchen"
-},
-{
    name: "João Oliveira",
    link: "https://github.com/jxs",
    username: "jxs",
@@ -541,22 +505,10 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/mjfh"
 },
 {
-   name: "Josh Davis",
-   link: "https://github.com/joshdavislight",
-   username: "joshdavislight",
-   pfp: "https://avatars.githubusercontent.com/joshdavislight"
-},
-{
    name: "Josh King",
    link: "https://github.com/jking-aus",
    username: "jking-aus",
    pfp: "https://avatars.githubusercontent.com/jking-aus"
-},
-{
-   name: "joshieDo",
-   link: "https://github.com/joshieDo",
-   username: "joshieDo",
-   pfp: "https://avatars.githubusercontent.com/joshieDo"
 },
 {
    name: "Justin Drake",
@@ -583,6 +535,12 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/kamilchodola"
 },
 {
+   name: "Kamil Salakhiev",
+   link: "https://github.com/kamilsa",
+   username: "kamilsa",
+   pfp: "https://avatars.githubusercontent.com/kamilsa"
+},
+{
    name: "Kanchan Kaur",
    link: "https://github.com/kkaur01",
    username: "kkaur01",
@@ -593,12 +551,6 @@ export const members: Member[] = [
    link: "https://github.com/matkt",
    username: "matkt",
    pfp: "https://avatars.githubusercontent.com/matkt"
-},
-{
-   name: "kasey",
-   link: "https://github.com/kasey",
-   username: "kasey",
-   pfp: "https://avatars.githubusercontent.com/kasey"
 },
 {
    name: "Kevaundray Wedderburn",
@@ -775,12 +727,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/matthewkeil"
 },
 {
-   name: "Matthias Seitz",
-   link: "https://github.com/mattsse",
-   username: "mattsse",
-   pfp: "https://avatars.githubusercontent.com/mattsse"
-},
-{
    name: "Mehdi Aouadi",
    link: "https://github.com/mehdi-aouadi",
    username: "mehdi-aouadi",
@@ -809,12 +755,6 @@ export const members: Member[] = [
    link: "https://github.com/taratorio",
    username: "taratorio",
    pfp: "https://avatars.githubusercontent.com/taratorio"
-},
-{
-   name: "Milos Stankovic",
-   link: "https://github.com/morph-dev",
-   username: "morph-dev",
-   pfp: "https://avatars.githubusercontent.com/morph-dev"
 },
 {
    name: "Muhammad Amirul Ashraf",
@@ -859,10 +799,10 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/nixorokish"
 },
 {
-   name: "Oleksii Bespalov",
-   link: "https://github.com/alexb5dh",
-   username: "alexb5dh",
-   pfp: "https://avatars.githubusercontent.com/alexb5dh"
+   name: "Oleksandr Lystopad",
+   link: "https://github.com/lystopad",
+   username: "lystopad",
+   pfp: "https://avatars.githubusercontent.com/lystopad"
 },
 {
    name: "Parithosh Jayanthi",
@@ -887,12 +827,6 @@ export const members: Member[] = [
    link: "https://github.com/chfast",
    username: "chfast",
    pfp: "https://avatars.githubusercontent.com/chfast"
-},
-{
-   name: "Peter Miller",
-   link: "https://github.com/petertdavies",
-   username: "petertdavies",
-   pfp: "https://avatars.githubusercontent.com/petertdavies"
 },
 {
    name: "pinges",
@@ -931,12 +865,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/prestonvanloon"
 },
 {
-   name: "QED",
-   link: "https://github.com/mariosioannou-create",
-   username: "mariosioannou-create",
-   pfp: "https://avatars.githubusercontent.com/mariosioannou-create"
-},
-{
    name: "Rafael Matias",
    link: "https://github.com/skylenet",
    username: "skylenet",
@@ -947,12 +875,6 @@ export const members: Member[] = [
    link: "https://github.com/raxhvl",
    username: "raxhvl",
    pfp: "https://avatars.githubusercontent.com/raxhvl"
-},
-{
-   name: "Raúl Kripalani",
-   link: "https://github.com/raulk",
-   username: "raulk",
-   pfp: "https://avatars.githubusercontent.com/raulk"
 },
 {
    name: "Roberto Saltini",
@@ -985,12 +907,6 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/ahshum"
 },
 {
-   name: "Sam Wilson",
-   link: "https://github.com/SamWilsn",
-   username: "SamWilsn",
-   pfp: "https://avatars.githubusercontent.com/SamWilsn"
-},
-{
    name: "Satyajit Das",
    link: "https://github.com/satushh",
    username: "satushh",
@@ -1003,22 +919,10 @@ export const members: Member[] = [
    pfp: "https://avatars.githubusercontent.com/sauliusgrigaitis"
 },
 {
-   name: "Scotty Poi",
-   link: "https://github.com/ScottyPoi",
-   username: "ScottyPoi",
-   pfp: "https://avatars.githubusercontent.com/ScottyPoi"
-},
-{
    name: "Sean Anderson",
    link: "https://github.com/realbigsean",
    username: "realbigsean",
    pfp: "https://avatars.githubusercontent.com/realbigsean"
-},
-{
-   name: "Sergei Shulepov",
-   link: "https://github.com/pepyakin",
-   username: "pepyakin",
-   pfp: "https://avatars.githubusercontent.com/pepyakin"
 },
 {
    name: "Simon Dudley",
@@ -1115,18 +1019,6 @@ export const members: Member[] = [
    link: "https://github.com/twoeths",
    username: "twoeths",
    pfp: "https://avatars.githubusercontent.com/twoeths"
-},
-{
-   name: "Wei Han Ng",
-   link: "https://github.com/weiihann",
-   username: "weiihann",
-   pfp: "https://avatars.githubusercontent.com/weiihann"
-},
-{
-   name: "Willian Mitsuda",
-   link: "https://github.com/wmitsuda",
-   username: "wmitsuda",
-   pfp: "https://avatars.githubusercontent.com/wmitsuda"
 },
 {
    name: "Yann Vonlanthen",

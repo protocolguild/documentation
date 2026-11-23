@@ -18,6 +18,8 @@ import shapeSvg from '../assets/images/donors/shape.svg'
 import shapeWhiteSvg from '../assets/images/donors/shape-white.svg'
 import aztecSvg from '../assets/images/donors/aztec.svg'
 import aztecWhiteSvg from '../assets/images/donors/aztec-white.svg'
+import alignedSvg from '../assets/images/donors/aligned.svg'
+import alignedWhiteSvg from '../assets/images/donors/aligned-white.svg'
 
 // Donors
 import layerzeroSvg from '../assets/images/donors/layerzero.svg'
@@ -70,23 +72,27 @@ const partners = [
 ]
 
 const donors = [
-  { name: 'EigenLayer', logo: eigenlayerSvg, logoWhite: eigenlayerWhiteSvg, url: 'https://eigenlayer.xyz' },
   { name: 'Ether.fi', logo: etherfiSvg, logoWhite: etherfiWhiteSvg, url: 'https://ether.fi' },
   { name: 'Taiko', logo: taikoSvg, logoWhite: taikoWhiteSvg, url: 'https://taiko.xyz' },
-  { name: 'LayerZero', logo: layerzeroSvg, logoWhite: layerzeroWhiteSvg, url: 'https://layerzero.network' },
+  { name: 'EigenLayer', logo: eigenlayerSvg, logoWhite: eigenlayerWhiteSvg, url: 'https://eigenlayer.xyz' },
+  { name: 'PWN Dao', logo: pwnSvg, logoWhite: pwnWhiteSvg, url: 'https://pwn.xyz/' },
   { name: 'Puffer', logo: pufferSvg, logoWhite: pufferWhiteSvg, url: 'https://puffer.fi' },
+  { name: 'Shutter DAO', logo: shutterSvg, logoWhite: shutterWhiteSvg, url: 'https://shutter.network/' },
+  { name: 'Shape', logo: shapeSvg, logoWhite: shapeWhiteSvg, url: 'https://shape.network' },
+  { name: 'Aztec Foundation', logo: aztecSvg, logoWhite: aztecWhiteSvg, url: 'https://aztec.foundation' },
+  { name: 'Aligned Layer', logo: alignedSvg, logoWhite: alignedWhiteSvg, url: 'https://alignedlayer.com' },
+  { name: 'LayerZero', logo: layerzeroSvg, logoWhite: layerzeroWhiteSvg, url: 'https://layerzero.network' },
   { name: 'Arbitrum', logo: arbitrumSvg, logoWhite: arbitrumWhiteSvg, url: 'https://arbitrum.io/community' },
   { name: 'Optimism', logo: optimismSvg, logoWhite: optimismWhiteSvg, url: 'https://optimism.io' },
   { name: 'Lido', logo: lidoSvg, logoWhite: lidoWhiteSvg, url: 'https://lido.fi' },
   { name: 'Uniswap', logo: uniswapSvg, logoWhite: uniswapWhiteSvg, url: 'https://uniswap.org' },
-  { name: 'Aztec Foundation', logo: aztecSvg, logoWhite: aztecWhiteSvg, url: 'https://aztec.foundation' },
   { name: 'ENS', logo: ensSvg, logoWhite: ensWhiteSvg, url: 'https://ens.domains' },
   { name: 'Starknet', logo: starknetSvg, logoWhite: starknetWhiteSvg, url: 'https://www.starknet.io/' },
   { name: 'ZKSync', logo: zksyncSvg, logoWhite: zksyncWhiteSvg, url: 'https://zksync.io' },
-  { name: 'MolochDAO', logo: molochSvg, logoWhite: molochWhiteSvg, url: 'https://molochdao.com' },
   { name: 'Octant', logo: octantSvg, logoWhite: octantWhiteSvg, url: 'https://octant.io' },
-  { name: 'NounsDAO', logo: nounsSvg, logoWhite: nounsWhiteSvg, url: 'https://nouns.wtf' },
+  { name: 'MolochDAO', logo: molochSvg, logoWhite: molochWhiteSvg, url: 'https://molochdao.com' },
   { name: 'SAFE DAO', logo: safeSvg, logoWhite: safeWhiteSvg, url: 'https://docs.safe.global/safenet/protocol/safe-dao' },
+  { name: 'NounsDAO', logo: nounsSvg, logoWhite: nounsWhiteSvg, url: 'https://nouns.wtf' },
   { name: 'Scroll', logo: scrollSvg, logoWhite: scrollWhiteSvg, url: 'https://scroll.io' },
   { name: 'Lambda Class', logo: lambdaClassSvg, logoWhite: lambdaClassWhiteSvg, url: 'https://lambdaclass.com' },
   { name: 'Tetranode', logo: tetranodeSvg, logoWhite: tetranodeWhiteSvg, url: 'https://x.com/Tetranode' },
@@ -95,12 +101,9 @@ const donors = [
   { name: 'Aave', logo: aaveSvg, logoWhite: aaveWhiteSvg, url: 'https://aave.com/' },
   { name: 'Bitwise', logo: bitwiseSvg, logoWhite: bitwiseWhiteSvg, url: 'https://bitwiseinvestments.com/' },
   { name: 'Gitcoin', logo: gitcoinSvg, logoWhite: gitcoinWhiteSvg, url: 'https://gitcoin.co' },
-  { name: 'Shutter DAO', logo: shutterSvg, logoWhite: shutterWhiteSvg, url: 'https://shutter.network/' },
   { name: 'Drips', logo: dripsSvg, logoWhite: dripsWhiteSvg, url: 'https://drips.network' },
   { name: 'VanEck', logo: vanEckSvg, logoWhite: vanEckWhiteSvg, url: 'https://www.vaneck.com/us/en/insights/digital-assets/' },
-  { name: 'Shape', logo: shapeSvg, logoWhite: shapeWhiteSvg, url: 'https://shape.network' },
-  { name: 'Megapot', logo: megapotSvg, logoWhite: megapotSvg, url: 'https://megapot.io' },
-
+  { name: 'Megapot', logo: megapotSvg, logoWhite: megapotSvg, url: 'https://megapot.io' }
 ]
 
 interface DonorSectionProps {

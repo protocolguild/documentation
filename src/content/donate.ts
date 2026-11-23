@@ -12,7 +12,7 @@ export const donateContent = {
       },
       {
         title: "Align your project",
-        description: "Protocol Guild is the easiest and highest-signal way to support 190 core contributors across 47 core Ethereum repositories, from research to client implementations."
+        description: "Protocol Guild is the easiest and highest-signal way to support 172 core contributors across 47 core Ethereum repositories, from research to client implementations."
       },
       {
         title: "Trustless vesting",
@@ -24,7 +24,7 @@ export const donateContent = {
     title: "Take the 1% Pledge.",
     subtitle1: "Ethereum's future depends on inspired leadership. Imagine if every project building on Ethereum contributed 1% of their token supply to fund the core protocol work they depend on!",
     subtitle2: "Fortunately you don’t need to imagine—join some of the leading projects in the ecosystem that have already taken the pledge.",
-    link: "Protocol Guild Pledge announcement on Mirror",
+    link: "Protocol Guild Pledge announcement",
     quote: {
       text: "\"Ethereum thrives because of its incredible contributors — the developers, researchers, and coordinators working tirelessly behind the scenes.\"",
       author: "Eigenlayer, 1% Pledge Donor",
@@ -55,7 +55,7 @@ export const donateContent = {
     },
     {
       text: "\"We wouldn’t be here without Ethereum and its core developers. Ethereum is the world computer and one of the most important innovations of our time.\"",
-      author: "Lambda Class, 1% Pledge Taker"
+      author: "Aligned Layer, 1% Pledge Donor"
     },
     {
       text: "\"Our 1% allocation isn’t charity. It funds core developers - the people Shutter and the broader ecosystem depend on to build and maintain Ethereum.\"",
