@@ -28,19 +28,33 @@ const BlogMinimal: FC = () => {
   return (
     <main className="bg-white min-h-screen">
       <StandaloneNavbar />
-      <div className="mx-auto w-full max-w-[720px] px-4 pb-24">
-        <h1 className="text-3xl font-bold leading-[1.1] text-[var(--gray-dark)] mb-6">
-          Blog
-        </h1>
-
-        <input
-          type="search"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search posts"
-          aria-label="Search posts"
-          className="w-full mb-2 px-0 py-2 bg-transparent border-0 border-b border-[var(--gray-dark)] text-base text-[var(--gray-dark)] placeholder:text-[var(--gray-mid)] focus:outline-none rounded-none"
-        />
+      <div className="mx-auto w-full max-w-[720px] px-4 pt-6 pb-24">
+        <div className="relative mb-3">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            className="absolute left-3 top-1/2 -translate-y-1/2 text-[var(--gray-mid)] pointer-events-none"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="7" />
+            <line x1="21" y1="21" x2="16.65" y2="16.65" />
+          </svg>
+          <input
+            type="search"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Search posts"
+            aria-label="Search posts"
+            className="w-full pl-10 pr-3 py-2.5 bg-white border border-gray-300 rounded-lg text-base text-[var(--gray-dark)] placeholder:text-[var(--gray-mid)] focus:outline-none focus:border-[var(--gray-dark)]"
+          />
+        </div>
         <p className="text-sm text-[var(--gray-mid)] mb-6 h-5">
           {query.trim()
             ? `${filtered.length} of ${posts.length} posts`
