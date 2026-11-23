@@ -17,7 +17,7 @@ export const homeContent = {
     subtitle1: "There's still a lot of work to safely scale Ethereum to be globally accessible infrastructure.",
     subtitle2: "To ensure the work continues smoothly, we maintain an onchain registry of active core protocol contributors.",
     subtitle3: "This up-to-date list can then receive funding from projects building on Ethereum. Any funds go directly to these individuals after a linear 4 year vest.",
-    subtitle4: "190 contributors, 47 core repositories, 1 Ethereum protocol.",
+    subtitle4: "172 contributors, 47 core repositories, 1 Ethereum protocol.",
     link: "See all individuals"
   },
   section3: {
